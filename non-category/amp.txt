@@ -1,0 +1,6 @@
+domain:amp.dev
+domain:ampproject.com
+domain:ampproject.net
+domain:ampproject.org
+full:cdn.ampproject.org:@cn
+full:amp.akamaized.net

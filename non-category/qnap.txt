@@ -1,0 +1,6 @@
+domain:myqnapcloud.com
+domain:qlink.to
+domain:qnap.com
+domain:myqnapcloud.cn:@cn
+domain:qlinkto.cn:@cn
+domain:qnap.com.cn:@cn

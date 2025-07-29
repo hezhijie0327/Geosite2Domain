@@ -1,0 +1,3 @@
+domain:perplexity.ai
+domain:pplx.ai
+full:pplx-res.cloudinary.com
