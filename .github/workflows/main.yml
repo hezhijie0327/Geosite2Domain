@@ -1,4 +1,4 @@
-# Current Version: 1.0.2
+# Current Version: 1.0.3
 
 name: Build & Release hezhijie0327/Geosite2Domain
 
@@ -17,13 +17,16 @@ jobs:
               uses: actions/setup-go@v5
             - name: Step 3 - Build Geosite2Domain
               run: |
+                  rm -rf *.txt
                   git clone https://github.com/v2fly/domain-list-community.git
                   cd domain-list-community
                   go mod download
                   export EXPORT_LISTS=$(ls -1 data | grep 'category-' | tr '\n' ',' | sed 's/,$//')
-                  go run ./ --datapath=./data --outputdir=../ --exportlists=${EXPORT_LISTS}
+                  go run ./ --datapath=./data --outputdir=../category --exportlists=${EXPORT_LISTS}
+                  export EXPORT_LISTS=$(ls -1 data | grep -v 'category-' | tr '\n' ',' | sed 's/,$//')
+                  go run ./ --datapath=./data --outputdir=../non-category --exportlists=${EXPORT_LISTS}
                   cd ..
-                  rm -rf domain-list-community *.dat
+                  rm -rf domain-list-community ./category/*.dat ./non-category/*.dat
             - name: Step 4 - Release Geosite2Domain
               run: |
                   curl -s "https://raw.githubusercontent.com/hezhijie0327/Toolkit/main/Git.sh" > "/tmp/Git.sh"
