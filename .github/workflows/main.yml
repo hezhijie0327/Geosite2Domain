@@ -1,4 +1,4 @@
-# Current Version: 1.0.4
+# Current Version: 1.0.5
 
 name: Build & Release hezhijie0327/Geosite2Domain
 
@@ -17,6 +17,7 @@ jobs:
               uses: actions/setup-go@v5
             - name: Step 3 - Build Geosite2Domain
               run: |
+                  rm -rf *category*
                   git clone https://github.com/v2fly/domain-list-community.git
                   cd domain-list-community
                   go mod download
