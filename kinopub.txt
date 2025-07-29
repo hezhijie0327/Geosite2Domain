@@ -1,0 +1,5 @@
+domain:kino.pub
+domain:kinopub.online
+domain:gfw.ovh
+domain:mos-gorsud.co
+regexp:(\w+)-static-[0-9]+\.cdntogo\.net$

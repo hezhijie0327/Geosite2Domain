@@ -1,0 +1,7 @@
+domain:cam.ac.uk
+domain:cambridge.org
+domain:cambridgeschoolshakespeare.com
+domain:cambridgedigital.net
+domain:cambridgemaths.org
+domain:ccdc.cam.ac.uk
+domain:dlib.eastview.com

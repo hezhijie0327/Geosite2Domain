@@ -1,0 +1,3 @@
+domain:ymtc.com
+domain:ymtc.com.cn
+domain:ymtc.cn

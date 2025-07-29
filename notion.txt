@@ -1,0 +1,8 @@
+domain:api.notion.com
+domain:img.notionusercontent.com
+domain:notion-static.com
+domain:notion.com
+domain:notion.new
+domain:notion.site
+domain:notion.so
+domain:notionusercontent.com

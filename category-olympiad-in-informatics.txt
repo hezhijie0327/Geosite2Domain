@@ -1,0 +1,16 @@
+domain:leetcode.cn
+domain:leetcode-cn.com
+domain:lingkou.xyz
+domain:lingkou.com
+domain:lingkou.cn
+domain:51nod.com
+domain:acwing.com
+domain:hihocoder.com
+domain:jisuanke.com
+domain:kidsccshow.com
+domain:luogu.com.cn
+domain:oi-wiki.com
+domain:openjudge.cn
+domain:rqnoj.cn
+domain:uoj.ac
+domain:vijos.org

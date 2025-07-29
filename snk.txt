@@ -1,0 +1,2 @@
+domain:snk-corp.co.jp
+domain:snkplaymore.info
