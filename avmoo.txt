@@ -1,3 +1,0 @@
-domain:avmoo.click
-domain:avmoo.com
-domain:tellme.pw

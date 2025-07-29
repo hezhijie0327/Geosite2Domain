@@ -1,2 +1,0 @@
-domain:gotokeep.com
-domain:keepcdn.com

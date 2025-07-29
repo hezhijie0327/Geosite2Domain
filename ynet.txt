@@ -1,3 +1,0 @@
-domain:ynet.cn
-domain:ynet.com
-domain:ynet.com.cn

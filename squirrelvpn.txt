@@ -1,2 +1,0 @@
-domain:squirrelvpn.com
-domain:squirrelgroup.net

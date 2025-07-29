@@ -1,2 +1,0 @@
-domain:spacemail.com
-domain:spaceship.com

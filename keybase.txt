@@ -1,2 +1,0 @@
-domain:keybase.io
-domain:keybaseapi.com

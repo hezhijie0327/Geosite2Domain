@@ -1,2 +1,0 @@
-domain:udemy.com
-domain:udemycdn.com

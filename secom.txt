@@ -1,5 +1,0 @@
-domain:secom.co.jp
-domain:secomtrust.net
-domain:cybertrust.co.jp
-domain:cybertrust.ne.jp
-domain:managedpki.ne.jp

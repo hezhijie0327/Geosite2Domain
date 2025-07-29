@@ -1,2 +1,0 @@
-domain:scala-lang.org
-domain:scala-sbt.org

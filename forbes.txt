@@ -1,2 +1,0 @@
-domain:forbes.com
-domain:forbesimg.com

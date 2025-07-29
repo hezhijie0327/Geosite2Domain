@@ -1,2 +1,0 @@
-domain:dtstatic.com
-domain:duitang.com

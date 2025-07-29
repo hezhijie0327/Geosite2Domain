@@ -1,4 +1,0 @@
-domain:copy-manga.com
-domain:mangacopy.com
-domain:mangafuna.xyz
-domain:mangafunb.fun

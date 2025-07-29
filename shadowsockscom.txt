@@ -1,2 +1,0 @@
-domain:shadowsocks.com
-domain:shadowsocks.nl

@@ -1,2 +1,0 @@
-domain:grok.com
-domain:x.ai

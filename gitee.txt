@@ -1,2 +1,0 @@
-domain:gitee.com
-domain:gitee.io

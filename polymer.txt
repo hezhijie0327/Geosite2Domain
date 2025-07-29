@@ -1,2 +1,0 @@
-domain:polymer-project.org
-domain:polymerproject.org

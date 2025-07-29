@@ -1,3 +1,0 @@
-domain:inshot.cc
-domain:inshot.com
-domain:inshotapp.com

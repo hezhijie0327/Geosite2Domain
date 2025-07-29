@@ -1,2 +1,0 @@
-domain:liberapay.com
-domain:liberapay.org

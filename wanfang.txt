@@ -1,2 +1,0 @@
-domain:wanfangdata.com.cn
-domain:wf.pub

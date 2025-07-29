@@ -1,2 +1,0 @@
-domain:zhihu.com
-domain:zhimg.com

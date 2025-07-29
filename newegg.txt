@@ -1,2 +1,0 @@
-domain:newegg.com
-domain:neweggimages.com

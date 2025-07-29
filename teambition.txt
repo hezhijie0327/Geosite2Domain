@@ -1,3 +1,0 @@
-domain:teambition.com
-domain:teambition.net
-domain:teambitionapis.com

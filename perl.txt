@@ -1,5 +1,0 @@
-domain:perl.apache.org
-domain:perl.org
-domain:cpan.org
-domain:metacpan.org
-domain:modperl.pl

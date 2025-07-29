@@ -1,3 +1,0 @@
-domain:csdl.ac.cn
-domain:iscas.ac.cn
-domain:las.ac.cn

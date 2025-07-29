@@ -1,2 +1,0 @@
-domain:mubi.com
-domain:mubicdn.net

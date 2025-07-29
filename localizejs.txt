@@ -1,3 +1,0 @@
-domain:localizecdn.com
-domain:localizejs.com
-domain:localizestatus.com

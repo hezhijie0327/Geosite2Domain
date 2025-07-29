@@ -1,2 +1,0 @@
-domain:caiyunai.com
-domain:caiyunapp.com

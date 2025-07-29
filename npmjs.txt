@@ -1,3 +1,0 @@
-domain:npm.community
-domain:npmjs.com
-domain:npmjs.org

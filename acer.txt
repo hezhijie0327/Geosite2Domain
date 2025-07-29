@@ -1,3 +1,0 @@
-domain:acer-group.com
-domain:acer.com
-domain:acer.com.cn:@cn

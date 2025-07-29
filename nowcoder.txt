@@ -1,4 +1,0 @@
-domain:newcoder.com
-domain:nowcoder.com
-domain:nowcoder.net
-domain:nowcoder.org

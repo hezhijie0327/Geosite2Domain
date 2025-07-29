@@ -1,2 +1,0 @@
-domain:gitv.cn
-domain:gitv.tv

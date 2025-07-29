@@ -1,3 +1,0 @@
-domain:godaddy.com
-domain:x.co
-domain:godaddy

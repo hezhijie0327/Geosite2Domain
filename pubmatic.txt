@@ -1,3 +1,0 @@
-domain:pubmatic.com
-domain:pubmatic.co.jp
-domain:ads.pubmatic.com:@ads

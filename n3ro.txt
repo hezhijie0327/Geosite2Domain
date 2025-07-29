@@ -1,3 +1,0 @@
-domain:n3ro.lol
-domain:n3ro.net
-domain:n3ro.wtf

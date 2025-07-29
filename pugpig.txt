@@ -1,3 +1,0 @@
-domain:pugpig-dev.com
-domain:pugpig-stage.com
-domain:pugpig.com

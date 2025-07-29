@@ -1,6 +1,0 @@
-domain:beth.games
-domain:bethesda.net
-domain:bethesdagamestudios.com
-domain:bethsoft.com
-domain:doom.com
-domain:elderscrolls.com

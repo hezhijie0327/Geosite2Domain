@@ -1,5 +1,0 @@
-domain:chinanews.com
-domain:chinanews.com.cn
-domain:cns.com.cn
-domain:ecns.cn
-domain:inewsweek.cn

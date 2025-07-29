@@ -1,3 +1,0 @@
-domain:netflav.com
-domain:netflav1.com
-domain:netflav5.com

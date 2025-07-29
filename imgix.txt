@@ -1,2 +1,0 @@
-domain:imgix.com
-domain:imgix.net

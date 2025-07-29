@@ -1,3 +1,0 @@
-domain:youzan.com
-domain:yzcdn.cn
-domain:youzanyun.com

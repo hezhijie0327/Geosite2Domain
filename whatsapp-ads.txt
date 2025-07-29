@@ -1,2 +1,0 @@
-domain:graph.whatsapp.com:@ads
-domain:graph.whatsapp.net:@ads

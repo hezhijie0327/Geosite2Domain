@@ -1,3 +1,0 @@
-domain:botstop.com
-domain:hcaptcha.com
-domain:hcaptchastatus.com

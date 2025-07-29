@@ -1,3 +1,0 @@
-domain:cnki.com.cn
-domain:cnki.net
-domain:chndoi.org

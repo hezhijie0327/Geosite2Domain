@@ -1,6 +1,0 @@
-domain:cnsuning.com
-domain:suning.cn
-domain:suning.com
-domain:suningcloud.com
-domain:suningestate.com
-domain:suningholdings.com

@@ -1,4 +1,0 @@
-domain:smzdm.com
-domain:smzdmimg.com
-domain:zdmimg.com
-domain:zhidemai.com

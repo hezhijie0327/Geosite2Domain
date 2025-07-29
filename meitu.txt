@@ -1,3 +1,0 @@
-domain:meitu.com
-domain:meitudata.com
-domain:meitustat.com

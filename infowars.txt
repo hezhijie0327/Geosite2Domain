@@ -1,3 +1,0 @@
-domain:banned.video
-domain:infowars.com
-domain:infowarsmedia.com

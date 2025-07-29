@@ -1,3 +1,0 @@
-domain:content-ause1-ur-discovery1.uplynk.com
-domain:disco-api.com
-domain:discoveryplus.com

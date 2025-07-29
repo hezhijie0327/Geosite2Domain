@@ -1,3 +1,0 @@
-domain:imgur.com
-domain:imgur.io
-domain:imgurinc.com

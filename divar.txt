@@ -1,3 +1,0 @@
-domain:divar.cloud
-domain:divar.ir
-domain:divarcdn.com

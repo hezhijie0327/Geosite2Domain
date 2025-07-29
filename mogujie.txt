@@ -1,3 +1,0 @@
-domain:mogu.com
-domain:mogucdn.com
-domain:mogujie.com

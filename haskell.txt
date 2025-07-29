@@ -1,3 +1,0 @@
-domain:haskell.org
-domain:haskellstack.org
-domain:stackage.org

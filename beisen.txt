@@ -1,8 +1,0 @@
-domain:beisen.com
-domain:beisen.cn
-domain:beisenapp.com
-domain:beisencloud.com
-domain:beisenpaas.com
-domain:bsurl.cc
-domain:bsurl.cn
-domain:zhiye.com

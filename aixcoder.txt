@@ -1,2 +1,0 @@
-domain:aixcoder.com
-domain:nnthink.com

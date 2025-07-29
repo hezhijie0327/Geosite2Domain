@@ -1,2 +1,0 @@
-domain:cf-ipfs.com
-domain:cloudflare-ipfs.com

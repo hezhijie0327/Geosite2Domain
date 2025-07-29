@@ -1,3 +1,0 @@
-domain:identrust.com
-domain:identrust.co.uk
-domain:identrust.net

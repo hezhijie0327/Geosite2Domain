@@ -1,2 +1,0 @@
-domain:ruby-china.org
-domain:rubyconfchina.org

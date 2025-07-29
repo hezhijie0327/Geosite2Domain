@@ -1,2 +1,0 @@
-domain:entermediadb.net
-domain:entermediadb.org

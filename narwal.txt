@@ -1,2 +1,0 @@
-domain:narwal.com
-domain:narwaltech.com

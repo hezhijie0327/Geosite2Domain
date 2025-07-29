@@ -1,5 +1,0 @@
-domain:newisiknowledge.com
-domain:isiknowledge.com
-domain:clarivate.com
-domain:webofknowledge.com
-domain:webofscience.com

@@ -1,2 +1,0 @@
-domain:techpowerup.com
-domain:tpucdn.com

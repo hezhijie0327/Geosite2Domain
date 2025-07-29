@@ -1,2 +1,0 @@
-domain:startpage.com
-domain:ixquick.com

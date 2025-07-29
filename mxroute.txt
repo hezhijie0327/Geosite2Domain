@@ -1,5 +1,0 @@
-domain:mxlogin.com
-domain:mxroute.com
-domain:mxroutedocs.com
-domain:mxroutehelp.com
-domain:mxrouting.net

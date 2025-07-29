@@ -1,6 +1,0 @@
-domain:sto-express.cn
-domain:sto-express.com
-domain:sto-express.com.cn
-domain:sto.cn
-domain:stointl.com
-domain:stosolution.com

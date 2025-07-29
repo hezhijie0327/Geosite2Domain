@@ -1,5 +1,0 @@
-domain:hupun.com
-domain:hupun.com.cn
-domain:kata.com.cn
-domain:newniu.com
-domain:wanliniu.com

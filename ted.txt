@@ -1,2 +1,0 @@
-domain:ted.com
-domain:tedcdn.com

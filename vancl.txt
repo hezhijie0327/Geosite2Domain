@@ -1,3 +1,0 @@
-domain:vancl.com
-domain:vanclimg.com
-domain:vcimg.com

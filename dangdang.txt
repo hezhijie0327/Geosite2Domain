@@ -1,2 +1,0 @@
-domain:dangdang.com
-domain:ddimg.cn

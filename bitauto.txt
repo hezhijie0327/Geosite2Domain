@@ -1,5 +1,0 @@
-domain:bitauto.com
-domain:bitautoimg.com
-domain:cheyisou.com
-domain:yiche.com
-domain:yccdn.com

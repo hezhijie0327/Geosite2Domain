@@ -1,5 +1,0 @@
-domain:cainiao-inc.com
-domain:cainiao.com
-domain:cainiao.com.cn
-domain:cainiaoyizhan.com
-domain:guoguo-app.com

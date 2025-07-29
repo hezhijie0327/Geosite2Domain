@@ -1,6 +1,0 @@
-domain:nikke-de.com
-domain:nikke-en.com
-domain:nikke-fr.com
-domain:nikke-jp.com
-domain:nikke-kr.com
-domain:nikke-sea.com

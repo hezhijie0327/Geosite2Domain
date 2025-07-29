@@ -1,2 +1,0 @@
-domain:spiceworks.com
-domain:spiceworksstatic.com

@@ -1,2 +1,0 @@
-domain:artstation.com
-domain:artstationmedia.com

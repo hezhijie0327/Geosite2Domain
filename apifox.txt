@@ -1,2 +1,0 @@
-domain:apifox.cn
-domain:apifox.com

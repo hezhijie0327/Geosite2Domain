@@ -1,2 +1,0 @@
-domain:kucoin.com
-domain:kucoin.plus

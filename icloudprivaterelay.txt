@@ -1,3 +1,0 @@
-domain:mask-api.icloud.com
-domain:mask-h2.icloud.com
-domain:mask.icloud.com

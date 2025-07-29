@@ -1,2 +1,0 @@
-domain:threads.com
-domain:threads.net

@@ -1,2 +1,0 @@
-domain:bitflyer.com
-domain:bitflyer.jp

@@ -1,3 +1,0 @@
-domain:mysxl.cn
-domain:sxl.cn
-domain:sxlcdn.cn

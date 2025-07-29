@@ -1,2 +1,0 @@
-domain:msi.cn
-domain:msi.com

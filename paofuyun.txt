@@ -1,2 +1,0 @@
-domain:paofu.cloud
-domain:paofuyun.me

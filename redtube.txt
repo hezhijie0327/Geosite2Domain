@@ -1,5 +1,0 @@
-domain:livehdcams.com
-domain:redtube.com
-domain:redtube.com.br
-domain:redtubepremium.com
-domain:rdtcdn.com

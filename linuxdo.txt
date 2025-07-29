@@ -1,2 +1,0 @@
-domain:linux.do
-domain:ldstatic.com

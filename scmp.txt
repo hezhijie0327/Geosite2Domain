@@ -1,2 +1,0 @@
-domain:scmp.com
-domain:i-scmp.com

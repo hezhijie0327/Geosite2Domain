@@ -1,2 +1,0 @@
-domain:segmentfault.com
-domain:sifou.com

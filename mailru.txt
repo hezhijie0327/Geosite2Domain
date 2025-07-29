@@ -1,3 +1,0 @@
-domain:imgsmail.ru
-domain:mail.ru
-domain:mycdn.me

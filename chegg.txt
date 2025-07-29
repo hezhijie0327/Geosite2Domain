@@ -1,2 +1,0 @@
-domain:chegg.com
-domain:cheggcdn.com

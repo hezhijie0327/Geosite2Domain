@@ -1,3 +1,0 @@
-domain:bangumi.tv
-domain:bgm.tv
-domain:chii.in

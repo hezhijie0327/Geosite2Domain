@@ -1,4 +1,0 @@
-domain:x18r.co
-domain:x18r.com
-domain:z18r.co
-domain:z18r.com

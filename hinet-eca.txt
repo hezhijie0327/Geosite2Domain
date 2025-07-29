@@ -1,5 +1,0 @@
-domain:eca.hinet.net
-domain:gtlsca.nat.gov.tw
-domain:pki.hinet.net
-domain:publicca.hinet.net
-domain:tls.hinet.net

@@ -1,2 +1,0 @@
-domain:flibusta.is
-domain:flisland.net

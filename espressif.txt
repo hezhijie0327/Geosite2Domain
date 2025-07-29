@@ -1,3 +1,0 @@
-domain:espressif.com
-domain:esp32.com
-domain:esp8266.com

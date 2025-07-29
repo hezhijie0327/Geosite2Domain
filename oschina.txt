@@ -1,3 +1,0 @@
-domain:gitee.com
-domain:gitee.io
-domain:oschina.net

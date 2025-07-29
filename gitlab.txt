@@ -1,5 +1,0 @@
-domain:gitlab.com
-domain:gitlab.io
-domain:gitlab.net
-domain:gitlab-static.net
-full:gitlab-assets.oss-cn-hongkong.aliyuncs.com

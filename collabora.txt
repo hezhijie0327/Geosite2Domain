@@ -1,4 +1,0 @@
-domain:collabora.co.uk
-domain:collabora.com
-domain:collabora.org
-domain:collaboraoffice.com

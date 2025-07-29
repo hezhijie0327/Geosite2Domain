@@ -1,2 +1,0 @@
-domain:startupschool.org
-domain:ycombinator.com

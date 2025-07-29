@@ -1,2 +1,0 @@
-domain:hubblephone.com
-domain:tsi.ai

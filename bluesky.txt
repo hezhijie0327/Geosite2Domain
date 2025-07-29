@@ -1,3 +1,0 @@
-domain:bsky.app
-domain:bsky.network
-domain:bsky.social

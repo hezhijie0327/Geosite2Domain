@@ -1,4 +1,0 @@
-domain:jsdelivr.com
-domain:jsdelivr.net
-domain:esm.run
-full:cdn.jsdelivr.net

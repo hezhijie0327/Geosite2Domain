@@ -1,3 +1,0 @@
-domain:dailymotion.com
-domain:dm-event.net
-domain:dmcdn.net

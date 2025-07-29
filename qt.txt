@@ -1,2 +1,0 @@
-domain:qt.io
-domain:qt-project.org

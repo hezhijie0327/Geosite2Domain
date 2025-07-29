@@ -1,7 +1,0 @@
-domain:gucci
-domain:chimeforchange.org
-domain:gucci.cn:@cn
-domain:gucci.com
-domain:guccimuseo.com
-domain:guccitimeless.com
-domain:regiongold.com

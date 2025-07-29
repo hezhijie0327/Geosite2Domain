@@ -1,3 +1,0 @@
-domain:quip-cdn.com
-domain:quip.com
-domain:quipelements.com

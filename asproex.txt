@@ -1,2 +1,0 @@
-domain:asproex.com
-domain:asproexapi.com

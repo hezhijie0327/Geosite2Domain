@@ -1,3 +1,0 @@
-domain:pplive.cn
-domain:pplive.com
-domain:pptv.com

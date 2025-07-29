@@ -1,3 +1,0 @@
-domain:ozon.ru
-domain:ozone.ru
-domain:ozonusercontent.com

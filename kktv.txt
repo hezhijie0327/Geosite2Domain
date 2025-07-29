@@ -1,3 +1,0 @@
-domain:kktv.com.tw
-domain:kktv.me
-domain:theater-kktv.cdn.hinet.net

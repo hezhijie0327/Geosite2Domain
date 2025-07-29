@@ -1,2 +1,0 @@
-domain:stackpath.com
-domain:stackpath.dev

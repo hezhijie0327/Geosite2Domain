@@ -1,2 +1,0 @@
-domain:localbitcoins.com
-domain:localbitcoinschain.com

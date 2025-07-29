@@ -1,2 +1,0 @@
-domain:omaps.app
-domain:organicmaps.app

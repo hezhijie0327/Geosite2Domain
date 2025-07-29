@@ -1,4 +1,0 @@
-domain:ckd.im
-domain:kd100.com
-domain:kuaidi100.com
-domain:kuaidilab.com

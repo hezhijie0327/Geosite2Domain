@@ -1,2 +1,0 @@
-domain:medium.com
-domain:medium.systems

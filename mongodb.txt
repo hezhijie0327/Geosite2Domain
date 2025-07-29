@@ -1,2 +1,0 @@
-domain:mongodb.com
-domain:mongodb.org

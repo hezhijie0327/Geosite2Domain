@@ -1,2 +1,0 @@
-domain:nginx.com
-domain:nginx.org

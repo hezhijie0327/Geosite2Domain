@@ -1,2 +1,0 @@
-domain:nexo.com
-domain:nexo.io

@@ -1,5 +1,0 @@
-domain:launchpad.net
-domain:launchpadcontent.net
-domain:launchpadlibrarian.com
-domain:launchpadlibrarian.net
-domain:launchpadlibrarian.org

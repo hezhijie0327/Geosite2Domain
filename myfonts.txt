@@ -1,2 +1,0 @@
-domain:myfonts.com
-domain:myfonts.net

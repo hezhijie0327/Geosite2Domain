@@ -1,2 +1,0 @@
-domain:litv.tv
-domain:litvfreepc.akamaized.net

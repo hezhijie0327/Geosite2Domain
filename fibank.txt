@@ -1,3 +1,0 @@
-domain:fibank.bg
-domain:meawallet.app
-domain:myfin.bg

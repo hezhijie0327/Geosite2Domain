@@ -1,4 +1,0 @@
-domain:udn.com
-domain:udn.com.tw
-domain:udndata.com
-domain:udnfunlife.com

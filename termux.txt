@@ -1,3 +1,0 @@
-domain:termux.com
-domain:termux.dev
-domain:termux.org

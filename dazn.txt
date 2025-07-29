@@ -1,5 +1,0 @@
-domain:dazn-api.com
-domain:dazn.com
-domain:dazndn.com
-domain:indazn.com
-domain:indaznlab.com

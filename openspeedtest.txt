@@ -1,2 +1,0 @@
-domain:open.cachefly.net
-domain:openspeedtest.com

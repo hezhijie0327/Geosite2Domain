@@ -1,3 +1,0 @@
-domain:ibb.co
-domain:imgbb.com
-domain:simgbb.com

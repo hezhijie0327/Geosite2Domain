@@ -1,3 +1,0 @@
-domain:addthis.com
-domain:addthiscdn.com
-domain:addthisedge.com

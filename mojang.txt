@@ -1,6 +1,0 @@
-domain:callersbane.com
-domain:minecraft-services.net
-domain:minecraft.net
-domain:minecraftservices.com
-domain:minecraftshop.com
-domain:mojang.com

@@ -1,2 +1,0 @@
-domain:ximalaya.com
-domain:xmcdn.com

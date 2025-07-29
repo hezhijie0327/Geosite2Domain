@@ -1,5 +1,0 @@
-domain:getfedora.org
-domain:fedoraforum.org
-domain:fedorapeople.org
-domain:fedoraproject.org
-domain:fedoramagazine.org

@@ -1,3 +1,0 @@
-domain:zaobao.com
-domain:zaobao.com.sg
-domain:zaobao.sg

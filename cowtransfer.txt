@@ -1,2 +1,0 @@
-domain:c-t.work
-domain:cowtransfer.com

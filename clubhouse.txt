@@ -1,3 +1,0 @@
-domain:clubhouse.com
-domain:clubhouseapi.com
-domain:joinclubhouse.com

@@ -1,3 +1,0 @@
-domain:thetrackernetwork.com
-domain:tracker.gg
-domain:tracker.network

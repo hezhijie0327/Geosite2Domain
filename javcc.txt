@@ -1,2 +1,0 @@
-domain:javcc.cc
-domain:javcc.com

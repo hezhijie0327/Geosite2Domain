@@ -1,2 +1,0 @@
-domain:coding.me
-domain:coding.net

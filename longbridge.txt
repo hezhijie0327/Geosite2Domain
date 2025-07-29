@@ -1,8 +1,0 @@
-domain:longbridge.cloud
-domain:longbridge.global
-domain:longbridge.hk
-domain:longbridge.sg
-domain:longbridgeapp.com
-domain:longportapp.com
-domain:lbkrs.com
-domain:wbrks.com

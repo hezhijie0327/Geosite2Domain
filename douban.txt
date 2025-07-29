@@ -1,3 +1,0 @@
-domain:douban.com
-domain:douban.fm
-domain:doubanio.com

@@ -1,3 +1,0 @@
-domain:feng.com
-domain:fengimg.com
-domain:wfdata.club

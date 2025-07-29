@@ -1,7 +1,0 @@
-domain:snapads.com:@ads
-domain:sc-cdn.net
-domain:snap-dev.net
-domain:snap.com
-domain:snapchat.com
-domain:snapkit.co
-full:impala-media-production.s3.amazonaws.com

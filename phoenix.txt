@@ -1,6 +1,0 @@
-domain:fengcx.com
-domain:ifeng.com
-domain:ifengimg.com
-domain:phoenixcenter.cn
-domain:fengedu.com
-domain:ifengweekly.com

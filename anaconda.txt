@@ -1,4 +1,0 @@
-domain:anaconda.cloud
-domain:anaconda.com
-domain:anaconda.org
-domain:conda.io

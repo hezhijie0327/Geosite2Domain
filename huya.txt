@@ -1,2 +1,0 @@
-domain:huya.com
-domain:msstatic.com

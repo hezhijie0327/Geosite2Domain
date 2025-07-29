@@ -1,3 +1,0 @@
-domain:target
-domain:target.com
-domain:targetimg1.com

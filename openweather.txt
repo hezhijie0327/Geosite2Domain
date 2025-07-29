@@ -1,2 +1,0 @@
-domain:openweather.co.uk
-domain:openweathermap.org

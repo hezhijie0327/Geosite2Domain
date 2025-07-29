@@ -1,3 +1,0 @@
-domain:comsenz.com
-domain:discuz.net
-domain:discuz.org

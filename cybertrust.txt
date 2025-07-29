@@ -1,2 +1,0 @@
-domain:cybertrust.co.jp
-domain:cybertrust.ne.jp

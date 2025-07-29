@@ -1,3 +1,0 @@
-domain:embedwistia-a.akamaihd.net
-domain:wistia.com
-domain:wistia.net

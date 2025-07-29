@@ -1,2 +1,0 @@
-domain:gendai.net
-domain:nikkan-gendai.com

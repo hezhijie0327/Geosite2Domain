@@ -1,3 +1,0 @@
-domain:lastpass.com
-domain:lastpass.eu
-domain:lputil.com

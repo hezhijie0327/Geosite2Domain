@@ -1,5 +1,0 @@
-domain:jike.city
-domain:jikecdn.com
-domain:okjike.com
-domain:okjk.co
-domain:ruguoapp.com

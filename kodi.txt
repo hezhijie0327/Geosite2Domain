@@ -1,2 +1,0 @@
-domain:kodi.tv
-domain:kodi.wiki

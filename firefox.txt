@@ -1,2 +1,0 @@
-domain:firefox.com
-domain:firefoxusercontent.com

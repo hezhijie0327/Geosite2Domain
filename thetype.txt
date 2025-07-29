@@ -1,3 +1,0 @@
-domain:thetype.cloud:@cn
-domain:thetype.com
-domain:typeisbeautiful.com

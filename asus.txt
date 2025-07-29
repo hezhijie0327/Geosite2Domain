@@ -1,4 +1,0 @@
-domain:asus.com
-domain:asus.com.cn:@cn
-domain:asuscloud.com
-domain:asuswebstorage.com

@@ -1,8 +1,0 @@
-domain:hihonor.cn
-domain:hihonor.com
-domain:hihonorcdn.com
-domain:hihonorcloud.com
-domain:honor.cn
-domain:honor.com
-domain:honor.com.cn
-domain:honorfile.com

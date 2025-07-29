@@ -1,2 +1,0 @@
-domain:nutaku.com
-domain:nutaku.net

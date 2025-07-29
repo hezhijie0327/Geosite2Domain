@@ -1,3 +1,0 @@
-domain:tailscale.com
-domain:tailscale.io
-domain:ts.net

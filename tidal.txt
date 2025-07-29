@@ -1,3 +1,0 @@
-domain:tidal.com
-domain:tidalhifi.com
-domain:wimpmusic.com

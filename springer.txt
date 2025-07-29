@@ -1,5 +1,0 @@
-domain:apress.com
-domain:springer.com
-domain:springerlink.com
-domain:springernature.com
-domain:wkap.nl

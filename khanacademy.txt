@@ -1,2 +1,0 @@
-domain:khanacademy.org
-domain:kastatic.org

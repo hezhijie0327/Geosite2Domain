@@ -1,3 +1,0 @@
-domain:scp-wiki.net
-domain:scpdb.org
-domain:scpwiki.com

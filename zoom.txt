@@ -1,3 +1,0 @@
-domain:zoom.com
-domain:zoom.com.cn
-domain:zoom.us

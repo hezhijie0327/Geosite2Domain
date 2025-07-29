@@ -1,3 +1,0 @@
-domain:fflogs.com
-domain:rpglogs.com
-domain:rpglogs.cn:@cn

@@ -1,2 +1,0 @@
-domain:duowan.com
-domain:dwstatic.com

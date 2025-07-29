@@ -1,4 +1,0 @@
-domain:onekey-asset.com
-domain:onekey.so
-domain:onekeycn.com
-full:onekey.zendesk.com

@@ -1,3 +1,0 @@
-domain:hugecore.net
-domain:shareintelli.com
-domain:mojidict.com

@@ -1,2 +1,0 @@
-domain:hf.co
-domain:huggingface.co
