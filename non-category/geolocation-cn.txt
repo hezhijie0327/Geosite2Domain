@@ -411,6 +411,7 @@ domain:howbuy.com
 domain:lufunds.com
 domain:zlfund.cn
 domain:citic
+domain:xn--fiq64b
 domain:chinaamc.com
 domain:citic-prudential.com.cn
 domain:citicbank.com
@@ -1890,6 +1891,7 @@ domain:uranus.sogou.com:@ads
 domain:v2.reachmax.cn:@ads
 full:e8aeb8bbdbbd7.cdn.sohucs.com:@ads
 full:643108e7617ef.cdn.sohucs.com:@ads
+domain:sohu
 domain:focus-img.cn
 domain:focus.cn
 domain:itc.cn
@@ -5223,7 +5225,6 @@ domain:miui.com
 domain:miwifi.com
 domain:xiaomi.cn
 domain:xiaomi.com
-domain:xiaomi.eu
 domain:xiaomi.net
 domain:xiaomicp.com
 domain:xiaomidns.cn
@@ -5331,6 +5332,8 @@ domain:chinatelecom.com.cn
 domain:chinatelecomglobal.com:@!cn
 domain:chntel.com
 domain:chinatelecomhk.com:@!cn
+domain:unicom
+domain:xn--8y0a063a
 domain:10010.com
 domain:10010.com.cn
 domain:114menhu.com

@@ -22,7 +22,6 @@ domain:miui.com
 domain:miwifi.com
 domain:xiaomi.cn
 domain:xiaomi.com
-domain:xiaomi.eu
 domain:xiaomi.net
 domain:xiaomicp.com
 domain:xiaomidns.cn

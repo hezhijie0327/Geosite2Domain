@@ -1,4 +1,5 @@
 domain:citic
+domain:xn--fiq64b
 domain:chinaamc.com
 domain:citic-prudential.com.cn
 domain:citicbank.com

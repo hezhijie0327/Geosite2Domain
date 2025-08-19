@@ -128,6 +128,7 @@ domain:uranus.sogou.com:@ads
 domain:v2.reachmax.cn:@ads
 full:e8aeb8bbdbbd7.cdn.sohucs.com:@ads
 full:643108e7617ef.cdn.sohucs.com:@ads
+domain:sohu
 domain:focus-img.cn
 domain:focus.cn
 domain:itc.cn

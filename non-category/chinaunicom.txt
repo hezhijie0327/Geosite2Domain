@@ -1,3 +1,5 @@
+domain:unicom
+domain:xn--8y0a063a
 domain:10010.com
 domain:10010.com.cn
 domain:114menhu.com

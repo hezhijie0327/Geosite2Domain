@@ -35,6 +35,7 @@ domain:ccbseoul.com:@!cn
 domain:ccbtrust.com.cn
 domain:ccbxt.com
 domain:citic
+domain:xn--fiq64b
 domain:chinaamc.com
 domain:citic-prudential.com.cn
 domain:citicbank.com
