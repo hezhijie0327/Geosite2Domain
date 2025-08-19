@@ -13687,6 +13687,7 @@ domain:justav.net
 domain:twporn.net
 domain:cooer.su
 domain:coomer.party
+domain:kemono.cr
 domain:kemono.party
 domain:kemono.su
 domain:konachan.com
