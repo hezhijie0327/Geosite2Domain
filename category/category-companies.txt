@@ -5896,6 +5896,7 @@ domain:npmjs.com
 domain:npmjs.org
 domain:atom.io
 domain:dependabot.com
+domain:gh.io
 domain:ghcr.io
 domain:git.io
 domain:github.blog
