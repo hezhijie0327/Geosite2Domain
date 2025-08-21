@@ -2,6 +2,10 @@ domain:anthropic.com
 domain:claude.ai
 domain:claudeusercontent.com
 full:servd-anthropic-website.b-cdn.net
+domain:cursor-cdn.com
+domain:cursor.com
+domain:cursor.sh
+domain:cursorapi.com
 domain:deepmind.com
 domain:deepmind.google
 domain:geller-pa.googleapis.com
@@ -49,15 +53,12 @@ domain:poe.com
 domain:poecdn.net
 domain:grok.com
 domain:x.ai
-domain:cursor-cdn.com
-domain:cursor.com
-domain:cursor.sh
-domain:cursorapi.com
 domain:coderabbit.ai
 domain:coderabbit.gallery.vsassets.io
 domain:clipdrop.co
 domain:jasper.ai
 domain:chutes.ai
+domain:copilot.microsoft.com
 domain:dify.ai
 domain:gateway.ai.cloudflare.com
 domain:meta.ai
