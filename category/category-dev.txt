@@ -181,6 +181,7 @@ domain:dependabot.com
 domain:gh.io
 domain:ghcr.io
 domain:git.io
+domain:github.ai
 domain:github.blog
 domain:github.com
 domain:github.community
