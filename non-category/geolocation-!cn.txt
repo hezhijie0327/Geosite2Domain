@@ -27240,6 +27240,7 @@ full:cdn.js7k.com
 domain:yandex
 domain:xn--d1acpjx3f.xn--p1ai
 domain:dzen.ru
+domain:naydex.net
 domain:rostaxi.org
 domain:ya.ru
 domain:yandex-bank.net
@@ -27247,6 +27248,7 @@ domain:yandex-images.clstorage.net
 domain:yandex.aero
 domain:yandex.az
 domain:yandex.by
+domain:yandex.cloud
 domain:yandex.co.il
 domain:yandex.com
 domain:yandex.com.am
