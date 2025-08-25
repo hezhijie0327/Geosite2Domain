@@ -10495,6 +10495,7 @@ full:gamedownloads-rockstargames-com.akamaized.net
 full:media-rockstargames-com.akamaized.net
 full:videos-rockstargames-com.akamaized.net
 domain:snk-corp.co.jp
+domain:snk-corp.info
 domain:snkplaymore.info
 domain:playartifact.com
 domain:s.team
@@ -12452,6 +12453,8 @@ domain:forbes.com
 domain:forbesimg.com
 domain:fox
 domain:tubi.io
+domain:tubi.tv
+domain:tubi.video
 domain:tubitv.com
 domain:fox-corporation.com
 domain:fox-news.com

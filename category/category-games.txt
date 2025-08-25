@@ -694,6 +694,7 @@ full:gamedownloads-rockstargames-com.akamaized.net
 full:media-rockstargames-com.akamaized.net
 full:videos-rockstargames-com.akamaized.net
 domain:snk-corp.co.jp
+domain:snk-corp.info
 domain:snkplaymore.info
 domain:playartifact.com
 domain:s.team
