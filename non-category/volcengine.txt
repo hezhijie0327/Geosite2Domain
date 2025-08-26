@@ -101,6 +101,7 @@ domain:volcfake.com
 domain:volcfcdnbyte.com
 domain:volcfcdn.com
 domain:volcfcdndvs.com
+domain:volcfcdndvs1.com
 domain:volcfcdnplus.com
 domain:volcfcdnrd.com
 domain:volcfcdnsc.com

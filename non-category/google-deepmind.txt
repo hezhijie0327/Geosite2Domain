@@ -17,3 +17,5 @@ domain:notebooklm.google
 domain:notebooklm.google.com
 domain:jules.google
 domain:jules.google.com
+domain:labs.google
+domain:aisandbox-pa.googleapis.com

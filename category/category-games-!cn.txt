@@ -517,6 +517,7 @@ domain:steamusercontent.com
 domain:underlords.com
 domain:valvesoftware.com
 domain:edge.steam-dns.top.comcast.net
+full:steamcommunity-a.akamaihd.net.edgesuite.net
 domain:steam.apac.qtlglb.com
 domain:steam.eca.qtlglb.com
 domain:steam.naeu.qtlglb.com

@@ -348,6 +348,11 @@ domain:m9.run
 domain:ma.run
 domain:um.run
 domain:ym.run
+domain:aegis.qq.com
+domain:tamaegis.com
+domain:rumt-zh.com
+domain:rumt-sg.com:@!cn
+domain:rumt-us.com:@!cn
 domain:ad.qq.com:@ads
 domain:ad.qun.qq.com:@ads
 domain:adfilter.imtt.qq.com:@ads
@@ -384,6 +389,9 @@ domain:tcss.qq.com:@ads
 domain:trace.qq.com:@ads
 domain:ugdtimg.com:@ads
 domain:wit.qq.com:@ads
+domain:cnb.cool
+domain:coding.me
+domain:coding.net
 domain:openmidas.com
 domain:qq.design
 domain:qqgamedesign.com

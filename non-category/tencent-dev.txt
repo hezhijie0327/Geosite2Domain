@@ -1,3 +1,6 @@
+domain:cnb.cool
+domain:coding.me
+domain:coding.net
 domain:openmidas.com
 domain:qq.design
 domain:qqgamedesign.com

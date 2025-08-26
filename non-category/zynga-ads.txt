@@ -1,2 +1,1 @@
-domain:zynga.com:@ads
 domain:zyngaplayersupport.com:@ads

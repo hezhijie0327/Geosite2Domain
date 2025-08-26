@@ -517,6 +517,7 @@ domain:steamusercontent.com
 domain:underlords.com
 domain:valvesoftware.com
 domain:edge.steam-dns.top.comcast.net
+full:steamcommunity-a.akamaihd.net.edgesuite.net
 domain:steam.apac.qtlglb.com
 domain:steam.eca.qtlglb.com
 domain:steam.naeu.qtlglb.com
@@ -729,6 +730,13 @@ domain:boomerang.com
 domain:wbdnbo.net
 domain:catchplay.com
 domain:tra-ww000-cp.akamaized.net
+domain:2025copy.com
+domain:copy-manga.com
+domain:copy20.com
+domain:copy2000.online
+domain:mangacopy.com
+domain:mangafuna.xyz
+domain:mangafunb.fun
 domain:dailymotion.com
 domain:dm-event.net
 domain:dmcdn.net
@@ -1009,7 +1017,7 @@ domain:imdb.com
 domain:imdb.to
 domain:media-imdb.com
 domain:iyf.tv
-domain:dnvodcdn.me
+domain:yfsp.tv
 domain:kingkong.com.tw
 domain:kingkongapp.com
 domain:kfs.io
@@ -1093,6 +1101,12 @@ domain:nicoseiga.jp
 domain:nicovideo.jp
 domain:nimg.jp
 domain:simg.jp
+domain:now.com
+domain:now.com.hk
+domain:nowe.com
+domain:nowe.hk
+domain:now-tv.com
+domain:now-ashare.com
 domain:haiwaikan.com
 domain:iole.tv
 domain:olehd.com
@@ -1157,8 +1171,9 @@ domain:sonypicturestelevisiongames.com
 domain:wheelpop.com
 domain:wwtbam.com
 domain:yourfantasybeginsnow.com
-domain:soundcloud.com
 domain:sndcdn.com
+domain:soundcloud.cloud
+domain:soundcloud.com
 domain:byspotify.com
 domain:pscdn.co
 domain:scdn.co

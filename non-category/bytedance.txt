@@ -285,6 +285,7 @@ domain:volcfake.com
 domain:volcfcdnbyte.com
 domain:volcfcdn.com
 domain:volcfcdndvs.com
+domain:volcfcdndvs1.com
 domain:volcfcdnplus.com
 domain:volcfcdnrd.com
 domain:volcfcdnsc.com
@@ -440,6 +441,7 @@ domain:bytegqpo.net
 domain:bytegrowth.com
 domain:byte-gslb.com
 domain:bytegslb.com
+domain:byteglb.com:@!cn
 domain:bytehwm.com
 domain:byteics.com
 domain:byteics.net
@@ -456,6 +458,7 @@ domain:bytenewst.com
 domain:byteorg.com
 domain:byteorge.com
 domain:byteoversea.com:@!cn
+domain:byteoversea.net:@!cn
 domain:byteq5k.com
 domain:byteq8u.net
 domain:bytescm.com
@@ -646,6 +649,7 @@ domain:zjbyte.net
 domain:zjcdn.com
 domain:zjfcdn.com
 domain:zjgslb.com
+full:bytedance.map.fastly.net:@!cn
 domain:toutiao.com
 domain:toutiaoapi.com
 domain:toutiaocdn.com

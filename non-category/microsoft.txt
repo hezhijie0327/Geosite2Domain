@@ -435,7 +435,6 @@ domain:dcg.microsoft.com:@cn
 domain:docs.com
 domain:dynamics.cn:@cn
 domain:dynamics.com
-domain:edgesuite.net
 domain:efproject.net
 domain:engkoo.com:@cn
 domain:fasttrackreadysupport.com

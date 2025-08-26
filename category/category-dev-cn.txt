@@ -15,8 +15,6 @@ domain:cnweblog.com
 domain:cppblog.com
 domain:phpweblog.net
 domain:teachblog.net
-domain:coding.me
-domain:coding.net
 domain:codechina.net
 domain:csdn.com
 domain:csdn.net
@@ -99,6 +97,9 @@ domain:sifou.com
 domain:mysxl.cn
 domain:sxl.cn
 domain:sxlcdn.cn
+domain:cnb.cool
+domain:coding.me
+domain:coding.net
 domain:openmidas.com
 domain:qq.design
 domain:qqgamedesign.com

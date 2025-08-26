@@ -348,3 +348,8 @@ domain:m9.run
 domain:ma.run
 domain:um.run
 domain:ym.run
+domain:aegis.qq.com
+domain:tamaegis.com
+domain:rumt-zh.com
+domain:rumt-sg.com:@!cn
+domain:rumt-us.com:@!cn

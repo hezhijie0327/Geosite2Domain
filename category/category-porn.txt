@@ -57,6 +57,9 @@ domain:chatwhores.tv
 domain:c4slive.com
 domain:clips4sale.com
 domain:videos4sale.com
+domain:coomer.party
+domain:coomer.st
+domain:coomer.su
 domain:cuinc.oen.tw
 domain:cuinc.tw
 domain:chobit.cc
@@ -163,6 +166,10 @@ domain:zzycdz.com
 domain:cdnlab.live
 domain:jable.tv
 domain:mushroomtrack.com
+domain:x18r.co
+domain:x18r.com
+domain:z18r.co
+domain:z18r.com
 domain:javbus.com
 domain:javbus22.com
 domain:javcdn.cc
@@ -171,10 +178,6 @@ domain:javcc.com
 domain:javdb.com
 domain:jdbimgs.com
 domain:jdbstatic.com
-domain:x18r.co
-domain:x18r.com
-domain:z18r.co
-domain:z18r.com
 domain:javwide.com
 domain:javwide.tv
 domain:jkf.net
@@ -187,8 +190,6 @@ domain:johren.net
 domain:hkporn.net
 domain:justav.net
 domain:twporn.net
-domain:cooer.su
-domain:coomer.party
 domain:kemono.cr
 domain:kemono.party
 domain:kemono.su

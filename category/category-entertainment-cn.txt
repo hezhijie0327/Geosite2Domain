@@ -259,10 +259,6 @@ full:upos-hz-mirrorakam.akamaized.net:@!cn
 domain:ciweimao.com
 domain:hbooker.com
 domain:kuangxiangit.com
-domain:copy-manga.com
-domain:mangacopy.com
-domain:mangafuna.xyz
-domain:mangafunb.fun
 domain:biji.com
 domain:ddmogo.com
 domain:igetget.cn
