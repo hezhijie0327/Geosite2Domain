@@ -171,6 +171,12 @@ domain:oss-eu-west-1.aliyuncs.com:@!cn
 domain:oss-me-east-1.aliyuncs.com:@!cn
 domain:oss-us-east-1.aliyuncs.com:@!cn
 domain:oss-us-west-1.aliyuncs.com:@!cn
+domain:alicloudccp.com
+domain:alipan.com
+domain:aliyundrive.cloud
+domain:aliyundrive.com
+domain:aliyundrive.net
+domain:yunpan.aliyun.com
 domain:cainiao-inc.com
 domain:cainiao.com
 domain:cainiao.com.cn
@@ -311,10 +317,6 @@ domain:aliexpress.ru:@!cn
 domain:alipayplus.com
 domain:alipay.hk:@!cn
 domain:alipaymo.com:@!cn
-domain:alicloudccp.com
-domain:alipan.com
-domain:aliyundrive.com
-domain:aliyundrive.net
 domain:freshhema.com
 domain:freshippo.com
 domain:hemamax.com

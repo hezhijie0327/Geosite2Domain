@@ -331,12 +331,15 @@ domain:amazonaws.info
 domain:amazonaws.net
 domain:amazonaws.org
 domain:amazonaws.tv
+domain:amazoncognito.com
 domain:amazonses.com
 domain:amazonworkdocs.com
 domain:amplifyapp.com
 domain:amplifyframework.com
 domain:aws-iot-hackathon.com
 domain:aws.com
+domain:awsapprunner.com
+domain:awsapps.com
 domain:awsautopilot.com
 domain:awsautoscaling.com
 domain:awsbraket.com
@@ -6921,7 +6924,7 @@ domain:now-tv.com
 domain:now-ashare.com
 domain:viu.tv
 full:api.viu.now.com
-regexp:^ewcdn[0-9]{2}\.nowe\.com$
+regexp:^ewcdn[0-9]+\.nowe\.com$
 domain:viu.com
 full:dfp6rglgjqszk.cloudfront.net
 full:d1k2us671qcoau.cloudfront.net

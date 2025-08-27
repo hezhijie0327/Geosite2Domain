@@ -42,12 +42,15 @@ domain:amazonaws.info
 domain:amazonaws.net
 domain:amazonaws.org
 domain:amazonaws.tv
+domain:amazoncognito.com
 domain:amazonses.com
 domain:amazonworkdocs.com
 domain:amplifyapp.com
 domain:amplifyframework.com
 domain:aws-iot-hackathon.com
 domain:aws.com
+domain:awsapprunner.com
+domain:awsapps.com
 domain:awsautopilot.com
 domain:awsautoscaling.com
 domain:awsbraket.com
