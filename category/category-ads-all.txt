@@ -709,7 +709,6 @@ domain:val.api.youku.com:@ads
 domain:wan.youku.com:@ads
 domain:ykatr.youku.com:@ads
 domain:ykrec.youku.com:@ads
-domain:zyngaplayersupport.com:@ads
 domain:51y5.net
 domain:a.adtng.com
 domain:aaxads.com
