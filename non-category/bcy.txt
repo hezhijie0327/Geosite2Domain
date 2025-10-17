@@ -1,3 +1,0 @@
-domain:bcy.net
-domain:bcyimg.com
-domain:lf-rc1.yhgfb-cn-static.com

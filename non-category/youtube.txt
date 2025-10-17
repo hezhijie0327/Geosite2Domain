@@ -174,3 +174,4 @@ domain:youtubekids.com
 domain:youtubemobilesupport.com
 domain:yt.be
 domain:ytimg.com
+full:yt3.googleusercontent.com

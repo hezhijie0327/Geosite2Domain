@@ -373,3 +373,5 @@ domain:koubei.com
 domain:zhisheng.com
 domain:npmmirror.com
 domain:goofish.com
+domain:kaola.com
+domain:kaolacdn.com

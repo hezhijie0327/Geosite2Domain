@@ -9,4 +9,7 @@ domain:tritoninfo.net
 domain:xiumi.us
 domain:xiumius.com
 domain:shimo.im
+domain:shimonote.com
+domain:smgv.cn
+domain:nlark.com
 domain:yuque.com

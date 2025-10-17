@@ -1,7 +1,6 @@
 domain:fgo.wiki
 domain:jikipedia.com
 domain:mbalib.com
-domain:qiuwen.wiki
 domain:sec-wiki.com
 domain:shidianbaike.com
 domain:huijistatic.com
@@ -9,3 +8,5 @@ domain:huijiwiki.com
 domain:moegirl.org
 domain:moegirl.org.cn
 domain:mcmod.cn
+domain:qiuwenbaike.cn
+domain:qiuwen.wiki

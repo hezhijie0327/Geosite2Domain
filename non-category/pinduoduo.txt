@@ -1,3 +1,4 @@
+domain:pddcdn.com
 domain:pddpic.com
 domain:pinduoduo.com
 domain:pinduoduo.net

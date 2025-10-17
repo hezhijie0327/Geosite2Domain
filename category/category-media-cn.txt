@@ -195,6 +195,15 @@ domain:thecover.cn
 domain:cankaoxiaoxi.com
 domain:ckxx.net
 domain:takungpao.com
+domain:kankanews.com
+domain:kankannews.com
+domain:kksmg.com
+domain:statickksmg.com
+domain:bianews.com
+domain:donews.com
+domain:qingdaonews.com
+domain:nanyuenews.com
+domain:jztvnews.com
 domain:expreview.com
 domain:huxiu.com
 domain:huxiucdn.com

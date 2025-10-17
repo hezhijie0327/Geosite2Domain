@@ -1485,6 +1485,7 @@ domain:youtubekids.com
 domain:youtubemobilesupport.com
 domain:yt.be
 domain:ytimg.com
+full:yt3.googleusercontent.com
 domain:z5.app
 domain:z5.com
 domain:zee5.com

@@ -19,6 +19,8 @@ domain:acctdns.com
 domain:acctdns.net
 domain:aitransfy.com
 domain:apaas-zone-test.com
+domain:apdcdn.com
+domain:apdcdn.net
 domain:apigwtencent.com
 domain:bkapigw.com
 domain:bkapps.com
@@ -187,6 +189,7 @@ domain:tidaas.com
 domain:timatrix.com.cn
 domain:timmerse.com
 domain:tlivecdn.com
+domain:tlivemcdn.com
 domain:tlivepush.com
 domain:tlivesource.com
 domain:tourismshow.cn
