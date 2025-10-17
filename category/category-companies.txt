@@ -516,7 +516,9 @@ domain:radeon.com
 full:www.amd.com:@cn
 domain:anthropic.com
 domain:claude.ai
+domain:claude.com
 domain:claudeusercontent.com
+domain:claudemcpclient.com
 full:servd-anthropic-website.b-cdn.net
 domain:api-adservices.apple.com:@ads
 domain:iadsdk.apple.com:@ads
@@ -6150,10 +6152,12 @@ domain:githubstatus.com
 domain:githubuniverse.com
 domain:githubusercontent.com
 domain:myoctocat.com
+domain:octocaptcha.com
 domain:opensource.guide
 domain:repo.new
 domain:thegithubshop.com
 domain:blob.core.windows.net
+full:github-api.arkoselabs.com
 full:github-cloud.s3.amazonaws.com
 regexp:^github-production-release-asset-[0-9a-za-z]{6}\.s3\.amazonaws\.com$
 domain:adaptivecards.io

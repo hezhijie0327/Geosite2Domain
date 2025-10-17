@@ -29,6 +29,8 @@ domain:binancezh.sh
 domain:binancezh.top
 domain:binanceapi.com
 domain:bnbstatic.com
+domain:bntrace.com
+domain:nftstatic.com
 domain:appsflayer.com
 domain:saasexch.cc
 domain:saasexch.co

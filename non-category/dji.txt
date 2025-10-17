@@ -1,4 +1,5 @@
 domain:dji.com
+domain:dji.ink
 domain:dji.net
 domain:djicdn.com
 domain:djiits.com

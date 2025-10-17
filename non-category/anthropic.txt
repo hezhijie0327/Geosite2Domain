@@ -1,4 +1,6 @@
 domain:anthropic.com
 domain:claude.ai
+domain:claude.com
 domain:claudeusercontent.com
+domain:claudemcpclient.com
 full:servd-anthropic-website.b-cdn.net

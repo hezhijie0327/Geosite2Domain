@@ -36,6 +36,7 @@ full:steamstore-a.akamaihd.net
 full:steamusercontent-a.akamaihd.net
 full:steamuserimages-a.akamaihd.net
 full:steamvideo-a.akamaihd.net
+full:steamcloudsweden.blob.core.windows.net
 domain:csgo.wmsj.cn:@cn
 domain:dota2.wmsj.cn:@cn
 domain:wmsjsteam.com:@cn

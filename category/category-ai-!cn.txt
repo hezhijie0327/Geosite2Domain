@@ -1,7 +1,10 @@
 domain:anthropic.com
 domain:claude.ai
+domain:claude.com
 domain:claudeusercontent.com
+domain:claudemcpclient.com
 full:servd-anthropic-website.b-cdn.net
+domain:cerebras.ai
 domain:cursor-cdn.com
 domain:cursor.com
 domain:cursor.sh

@@ -175,9 +175,11 @@ domain:javbus22.com
 domain:javcdn.cc
 domain:javcc.cc
 domain:javcc.com
+domain:jav.app
 domain:javdb.com
 domain:jdbimgs.com
 domain:jdbstatic.com
+regexp:javdb\d+\.com$
 domain:javwide.com
 domain:javwide.tv
 domain:jkf.net
