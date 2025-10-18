@@ -66,6 +66,7 @@ domain:clipdrop.co
 domain:jasper.ai
 domain:chutes.ai
 domain:copilot.microsoft.com
+domain:diabrowser.com
 domain:dify.ai
 domain:gateway.ai.cloudflare.com
 domain:meta.ai

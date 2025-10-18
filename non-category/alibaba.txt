@@ -118,8 +118,11 @@ domain:aliyun-inc.com
 domain:aliyun-iot-share.com
 domain:aliyun.com
 domain:aliyuncdn.com
+domain:aliyuncdn.net
 domain:aliyunfile.com
+domain:aliyunpds.com
 domain:cdngslb.com
+domain:fcapp.run
 domain:hichina.com
 domain:ica-alliance.org
 domain:kunlunaq.com
@@ -188,8 +191,10 @@ domain:dingtalk.cn
 domain:dingtalk.com
 domain:dingtalk.net
 domain:dingtalkapps.com
+domain:dingtalkcloud.com
 domain:laiwang.com
 domain:lwurl.to
+domain:ztna-dingtalk.com
 domain:doservice.com
 domain:ele.me
 domain:ele.to
@@ -375,3 +380,10 @@ domain:npmmirror.com
 domain:goofish.com
 domain:kaola.com
 domain:kaolacdn.com
+domain:lydaas.cn
+domain:lydaas.com
+domain:lydaas.com.cn
+domain:lydaas.net
+domain:lydass.cn
+domain:lydass.com.cn
+domain:lydass.net

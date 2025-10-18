@@ -126,9 +126,13 @@ domain:chukotka.ru
 domain:jamal.ru
 domain:surgut.ru
 domain:yamal.ru
+domain:boosty.to
+domain:donationalerts.com
 domain:imgsmail.ru
 domain:mail.ru
+domain:memealerts.com
 domain:mycdn.me
+domain:okcdn.ru
 domain:ok.ru
 domain:ozon.ru
 domain:ozone.ru

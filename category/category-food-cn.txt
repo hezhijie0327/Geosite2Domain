@@ -7,3 +7,7 @@ domain:luckincoffeecdn.com
 domain:yyds.co
 domain:3songshu.com
 domain:haidilao.com
+domain:anlaiye.com
+domain:anlaiye.com.cn
+domain:imcoming.com
+domain:imcome.net

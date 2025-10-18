@@ -8,8 +8,13 @@ domain:samsung.com
 domain:samsungads.com:@ads
 domain:samsungapps.com
 domain:samsungcloud.com
+domain:samsungconsent.com
 domain:samsungdm.com
 domain:samsungeshop.com.cn:@cn
 domain:samsunggalaxyfriends.com
+domain:samsunghealth.com
+domain:samsungiotcloud.com
 domain:samsungknox.com
+domain:samsungosp.com
 domain:samsungqbe.com
+domain:samsungrs.com

@@ -8,8 +8,11 @@ domain:aliyun-inc.com
 domain:aliyun-iot-share.com
 domain:aliyun.com
 domain:aliyuncdn.com
+domain:aliyuncdn.net
 domain:aliyunfile.com
+domain:aliyunpds.com
 domain:cdngslb.com
+domain:fcapp.run
 domain:hichina.com
 domain:ica-alliance.org
 domain:kunlunaq.com

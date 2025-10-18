@@ -1,3 +1,7 @@
+domain:boosty.to
+domain:donationalerts.com
 domain:imgsmail.ru
 domain:mail.ru
+domain:memealerts.com
 domain:mycdn.me
+domain:okcdn.ru

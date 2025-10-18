@@ -146,6 +146,7 @@ domain:dogecoin.com
 domain:dydx.exchange
 domain:fundingrates.xyz
 domain:gemini.com
+domain:guardarian.com
 domain:hashflow.com
 domain:infura.io
 domain:invity.io
@@ -160,6 +161,7 @@ domain:paxful.com
 domain:polymarket.com
 domain:ripple.com
 domain:satoshilabs.com
+domain:stealthex.io
 domain:theblock.co
 domain:trezor.io
 domain:truefi.io

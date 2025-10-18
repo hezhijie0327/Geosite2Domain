@@ -60,6 +60,17 @@ domain:wss.zone
 domain:wss1.cn
 domain:123pan.cn
 domain:123pan.com
+domain:123panpay.com
+domain:123957.com
+domain:123912.com
+domain:123860.com
+domain:123842.com
+domain:123641.com
+domain:123624.com
+domain:123294.com
+domain:123254.com
+domain:123245.com
+domain:123952.com
 domain:cloud.189.cn
 domain:ctfile.com
 domain:feimaoyun.com
