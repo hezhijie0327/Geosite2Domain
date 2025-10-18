@@ -1,3 +1,4 @@
+domain:cdn-vk.ru
 domain:mradx.net
 domain:mvk.com
 domain:userapi.com
@@ -6,6 +7,7 @@ domain:vk-apps.com
 domain:vk-apps.ru
 domain:vk-cdn.me
 domain:vk-cdn.net
+domain:vkcloud-static.ru
 domain:vk-portal.net
 domain:vk.cc
 domain:vk.com

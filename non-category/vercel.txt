@@ -10,6 +10,7 @@ domain:vercel-status.com
 domain:vercel.app
 domain:vercel.blog
 domain:vercel.com
+domain:vercel.dev
 domain:vercel.events
 domain:vercel.live
 domain:vercel.pub
