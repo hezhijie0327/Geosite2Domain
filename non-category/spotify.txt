@@ -12,6 +12,7 @@ domain:spotifycodes.com
 domain:spotifyforbrands.com
 domain:spotifyjobs.com
 domain:spotify.link
+domain:tospotify.com
 full:audio-ak-spotify-com.akamaized.net
 full:audio4-ak-spotify-com.akamaized.net
 full:cdn-spotify-experiments.conductrics.com
