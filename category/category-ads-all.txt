@@ -302,6 +302,9 @@ domain:i.snssdk.com:@ads
 domain:mcs.snssdk.com:@ads
 domain:pangolin-dsp-toutiao-b.com:@ads
 domain:pangolin-dsp-toutiao.com:@ads
+domain:pangolin-hl.snssdk.com:@ads
+domain:pangolin-lf.snssdk.com:@ads
+domain:pangolin-lq.snssdk.com:@ads
 domain:pangolin-sdk-toutiao-b.com:@ads
 domain:pangolin-sdk-toutiao.com:@ads
 domain:pangolin-sdk-toutiao1.com:@ads
@@ -599,6 +602,7 @@ domain:testads.api.my7v.com:@ads
 domain:ad.qq.com:@ads
 domain:ad.qun.qq.com:@ads
 domain:adfilter.imtt.qq.com:@ads
+domain:adnet.qq.com:@ads
 domain:adping.qq.com:@ads
 domain:adpm.app.qq.com:@ads
 domain:adsclick.qq.com:@ads

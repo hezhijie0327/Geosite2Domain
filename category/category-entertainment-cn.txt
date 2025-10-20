@@ -195,7 +195,6 @@ domain:ledu.com
 domain:longtugame.com
 domain:morefreegame.com
 domain:heavenlywind.cc
-domain:steampp.net
 domain:tgpro.top
 domain:tgprocs.net
 domain:winegame.net
@@ -623,6 +622,8 @@ domain:cibntv.net
 domain:zhanqi.tv
 domain:lsplayer.com
 domain:yeshen.com
+domain:51zmt.top
 domain:bsbsb.top
 domain:dongqiudi.com
+domain:goka.top
 domain:pearvideo.com

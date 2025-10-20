@@ -7,6 +7,9 @@ domain:i.snssdk.com:@ads
 domain:mcs.snssdk.com:@ads
 domain:pangolin-dsp-toutiao-b.com:@ads
 domain:pangolin-dsp-toutiao.com:@ads
+domain:pangolin-hl.snssdk.com:@ads
+domain:pangolin-lf.snssdk.com:@ads
+domain:pangolin-lq.snssdk.com:@ads
 domain:pangolin-sdk-toutiao-b.com:@ads
 domain:pangolin-sdk-toutiao.com:@ads
 domain:pangolin-sdk-toutiao1.com:@ads

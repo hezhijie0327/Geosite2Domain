@@ -11,7 +11,6 @@ domain:58cdn.com.cn
 domain:58che.com
 domain:58control.cn
 domain:58corp.com
-domain:58corp.com
 domain:58dns.org
 domain:58lovepet.com
 domain:58uxd.com

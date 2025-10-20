@@ -115,7 +115,6 @@ domain:spcloudhw.com
 domain:spcloudhw.net
 domain:srmkp.cn
 domain:starlakelab.com
-domain:tamaegis.com
 domain:tapd.cn
 domain:tcdlive.com
 domain:tcdnhw.com

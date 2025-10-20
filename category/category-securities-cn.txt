@@ -2,6 +2,9 @@ domain:sse.com.cn
 domain:sseinfo.com
 domain:szse.cn
 domain:cninfo.com.cn
+domain:hsbc.com.cn
+domain:hsbcqh.com.cn
+domain:hsbcinsurance.com.cn
 domain:ajzq.com
 domain:avicsec.com
 domain:ccnew.com
@@ -43,7 +46,6 @@ domain:grzq.com
 domain:gsgh.cn
 domain:gszq.com
 domain:gtja.com
-domain:gtja.com
 domain:guodu.com
 domain:guosen.com.cn
 domain:gyzq.com.cn
@@ -53,7 +55,6 @@ domain:hfzq.com.cn
 domain:hlzqgs.com
 domain:hongtastock.com
 domain:hrsec.com.cn
-domain:hsbcqh.com.cn
 domain:htsc.com.cn
 domain:htsec.com
 domain:huajingsec.com

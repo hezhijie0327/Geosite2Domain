@@ -1,3 +1,0 @@
-domain:bootcss.com
-domain:bootcdn.cn
-domain:phpcomposer.com

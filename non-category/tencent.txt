@@ -115,7 +115,6 @@ domain:spcloudhw.com
 domain:spcloudhw.net
 domain:srmkp.cn
 domain:starlakelab.com
-domain:tamaegis.com
 domain:tapd.cn
 domain:tcdlive.com
 domain:tcdnhw.com
@@ -359,6 +358,7 @@ domain:rumt-us.com:@!cn
 domain:ad.qq.com:@ads
 domain:ad.qun.qq.com:@ads
 domain:adfilter.imtt.qq.com:@ads
+domain:adnet.qq.com:@ads
 domain:adping.qq.com:@ads
 domain:adpm.app.qq.com:@ads
 domain:adsclick.qq.com:@ads

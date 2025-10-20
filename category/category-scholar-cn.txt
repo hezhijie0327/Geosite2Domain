@@ -79,7 +79,6 @@ domain:pkulaw.com
 domain:rdfybk.com
 domain:resset.com
 domain:sciencechina.cn
-domain:sslibrary.com
 domain:tokyotrial.cn
 domain:tongxianghuicn.com
 domain:twscholar.com

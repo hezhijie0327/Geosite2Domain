@@ -63,7 +63,6 @@ domain:360webcache.com
 domain:360zqaq.com
 domain:anquanke.com
 domain:appjiagu.com
-domain:baomitu.com
 domain:dhsvc.cn
 domain:haoso.com
 domain:haosou.com
@@ -92,8 +91,6 @@ domain:qihoo.com
 domain:qihoo.net
 domain:qihuapi.cn
 domain:qihucdn.com
-domain:qiku.com
-domain:qikucdn.com
 domain:so.com
 domain:sou.cn
 domain:sou.com

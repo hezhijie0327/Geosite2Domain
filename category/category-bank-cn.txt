@@ -150,7 +150,6 @@ domain:bankcomm.com
 domain:bankofbeijing.com.cn
 domain:bosc.cn
 domain:bsb.com.cn
-domain:ccb.com
 domain:cebbank.com
 domain:cgbchina.com.cn
 domain:cib.com.cn

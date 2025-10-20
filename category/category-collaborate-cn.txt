@@ -4,6 +4,8 @@ domain:orayer.com
 domain:orayimg.com
 domain:sunlogin.net
 domain:todesk.com
+domain:asklink.com
+domain:privateapi.xyz
 domain:tower.im
 domain:tritoninfo.net
 domain:xiumi.us
