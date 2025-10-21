@@ -5337,6 +5337,8 @@ domain:fashionbykakao.com
 domain:kakaostyle.com
 domain:posty.kr
 domain:zigzag.kr
+domain:kaspersky-labs.com
+domain:kaspersky.com
 domain:lg.com
 domain:lgappstv.com
 domain:lge.co.kr
