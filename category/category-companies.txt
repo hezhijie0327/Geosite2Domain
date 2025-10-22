@@ -7533,6 +7533,7 @@ domain:yandexcloud.net
 domain:yandexcom.net
 domain:yandexwebcache.org
 domain:yastatic.net
+domain:kinopoisk.ru
 domain:grok.com
 domain:x.ai
 domain:teamviewer.cn:@cn

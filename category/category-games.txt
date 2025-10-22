@@ -787,6 +787,12 @@ full:ubisoft-uplay-savegames.s3.amazonaws.com
 full:ubisoft-orbit-savegames.s3.amazonaws.com
 full:ubistatic3-a.akamaihd.net
 full:uplaypc-s-ubisoft.cdn.ubi.com:@cn
+full:datarouter.apps.netherrealm.com
+full:wb-agora-hydra-file-storage-k1.s3.amazonaws.com
+domain:warnerbrosgames.com
+domain:wbagora.com
+domain:wbgames.com
+domain:wbinsights.com
 domain:asobostudio.com
 domain:flightsimulator.com
 full:flightsimulator.azureedge.net

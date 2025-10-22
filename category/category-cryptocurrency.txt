@@ -104,6 +104,9 @@ domain:redotpay.zendesk.com
 domain:pod-15-sunco-ws.zendesk.com
 domain:xhpjc6-cdn-settings.appsflyersdk.com
 domain:rp-static-apne1.s3.ap-northeast-1.amazonaws.com
+domain:straitsx.com
+full:d3r7nsslvs6aaf.cloudfront.net
+full:straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 domain:trustwallet.com
 domain:wisecoin.com
 domain:wiseid.com

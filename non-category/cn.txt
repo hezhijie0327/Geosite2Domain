@@ -1069,6 +1069,7 @@ domain:shizhuang-inc.net
 domain:theduapp.cn
 domain:theduapp.com
 domain:theduapp.com.cn
+domain:thepoizon.ru:@!cn
 domain:wodehaodewu.cn
 domain:womendedw.cn
 domain:womendedw.com

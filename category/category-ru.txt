@@ -218,3 +218,4 @@ domain:yandexcloud.net
 domain:yandexcom.net
 domain:yandexwebcache.org
 domain:yastatic.net
+domain:kinopoisk.ru

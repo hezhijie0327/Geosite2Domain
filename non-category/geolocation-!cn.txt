@@ -66,6 +66,7 @@ domain:clipdrop.co
 domain:jasper.ai
 domain:chutes.ai
 domain:copilot.microsoft.com
+domain:devin.ai
 domain:diabrowser.com
 domain:dify.ai
 domain:gateway.ai.cloudflare.com
@@ -2866,6 +2867,9 @@ domain:redotpay.zendesk.com
 domain:pod-15-sunco-ws.zendesk.com
 domain:xhpjc6-cdn-settings.appsflyersdk.com
 domain:rp-static-apne1.s3.ap-northeast-1.amazonaws.com
+domain:straitsx.com
+full:d3r7nsslvs6aaf.cloudfront.net
+full:straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 domain:trustwallet.com
 domain:wyndlabs.ai
 domain:wynd.network
@@ -10603,6 +10607,12 @@ full:ubisoft-uplay-savegames.s3.amazonaws.com
 full:ubisoft-orbit-savegames.s3.amazonaws.com
 full:ubistatic3-a.akamaihd.net
 full:uplaypc-s-ubisoft.cdn.ubi.com:@cn
+full:datarouter.apps.netherrealm.com
+full:wb-agora-hydra-file-storage-k1.s3.amazonaws.com
+domain:warnerbrosgames.com
+domain:wbagora.com
+domain:wbgames.com
+domain:wbinsights.com
 domain:asobostudio.com
 domain:flightsimulator.com
 full:flightsimulator.azureedge.net
@@ -27563,6 +27573,7 @@ domain:yandexcloud.net
 domain:yandexcom.net
 domain:yandexwebcache.org
 domain:yastatic.net
+domain:kinopoisk.ru
 domain:teamviewer.cn:@cn
 domain:teamviewer.com
 domain:teamviewer.us
