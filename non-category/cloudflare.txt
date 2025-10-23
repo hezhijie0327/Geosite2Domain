@@ -1,3 +1,4 @@
+domain:cf-china.info:@cn
 domain:cf-ns.com:@cn
 domain:cf-ns.net:@cn
 domain:cf-ns.site:@cn
@@ -38,6 +39,7 @@ domain:cloudflareok.com
 domain:cloudflarepartners.com
 domain:cloudflareportal.com
 domain:cloudflarepreview.com
+domain:cloudflareregistrar.com
 domain:cloudflareresolve.com
 domain:cloudflaressl.com
 domain:cloudflarestatus.com

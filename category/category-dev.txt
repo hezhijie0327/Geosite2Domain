@@ -165,6 +165,11 @@ domain:flutterapp.com
 domain:pub.dev
 domain:fontawesome.com
 domain:fortawesome.com
+domain:framer.com
+domain:framer.website
+domain:framercanvas.com
+domain:framerstatic.com
+domain:framerusercontent.com
 domain:fury.blog
 domain:fury.co
 domain:fury.dev
@@ -238,8 +243,14 @@ domain:hyperscan.io
 domain:intellinuxgraphics.com
 domain:intellinuxgraphics.net
 domain:oneapi.com
+domain:oneapi.io
+domain:opencas.io
+domain:opendroneid.org
+domain:openvino.ai
 domain:openvinotoolkit.org
+domain:renderingtoolkit.org
 domain:snap-telemetry.io
+domain:universalscalablefirmware.org
 domain:acpica.com
 domain:clearlinux.org
 domain:ospray.net

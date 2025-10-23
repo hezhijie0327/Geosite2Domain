@@ -1,3 +1,4 @@
+domain:cf-china.info:@cn
 domain:cf-ns.com:@cn
 domain:cf-ns.net:@cn
 domain:cf-ns.site:@cn

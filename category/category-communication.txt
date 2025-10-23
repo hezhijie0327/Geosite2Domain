@@ -56,6 +56,10 @@ domain:linemyshop.com
 domain:lineshoppingseller.com
 domain:linetv.tw
 domain:nhncorp.jp
+domain:mail.com
+domain:ui-portal.de
+domain:uicdn.com
+domain:uimserv.net
 domain:arewereadyyet.com
 domain:cinny.in
 domain:element.io
@@ -69,6 +73,15 @@ domain:fbmessenger.com
 domain:m.me
 domain:messenger.com
 domain:nbabot.net
+domain:pm.me
+domain:proton.me
+domain:protonmail.ch
+domain:protonmail.com
+domain:protonstatus.com
+domain:protontech.ch
+domain:protonvpn.ch
+domain:protonvpn.com
+domain:protonweb.com
 domain:signal.art
 domain:signal.group
 domain:signal.link

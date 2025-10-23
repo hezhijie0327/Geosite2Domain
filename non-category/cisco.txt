@@ -90,6 +90,7 @@ domain:parstream.com
 domain:parstream.net
 domain:parstream.org
 domain:services-exchange.com
+domain:splunk.com
 domain:static-cisco.com
 domain:tandberg-china.com
 domain:tandberg.com
