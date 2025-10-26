@@ -118,6 +118,12 @@ domain:myhtebooks.com
 domain:myhtlmebook.com
 domain:newhtbook.com
 domain:urhtbooks.com
+domain:h-chan.me
+domain:hentai-chan.com
+domain:hentai-chan.live
+domain:hentaichan.live
+domain:hentaichan.me
+domain:imgschan.xyz
 domain:hentaivn.de
 domain:hentaivn.la
 domain:hentaivn.net
