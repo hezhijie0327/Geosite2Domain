@@ -11634,6 +11634,8 @@ domain:linux.do
 domain:ldstatic.com
 domain:5i01.com
 domain:mobile01.com
+domain:deepflood.com
+domain:nodeseek.com
 domain:pimg.tw
 domain:pixanalytics.com
 domain:pixfs.net
@@ -19620,6 +19622,7 @@ domain:xsela.cc
 domain:xshaker.net
 domain:xshr.online
 domain:xsijishe.com
+domain:xsijishe.net
 domain:xslist.org
 domain:xstas.biz
 domain:xsvod.xyz

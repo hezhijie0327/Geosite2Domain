@@ -6050,6 +6050,7 @@ domain:xsela.cc
 domain:xshaker.net
 domain:xshr.online
 domain:xsijishe.com
+domain:xsijishe.net
 domain:xslist.org
 domain:xstas.biz
 domain:xsvod.xyz
