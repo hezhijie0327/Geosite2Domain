@@ -18,7 +18,6 @@ domain:mi-idc.com
 domain:mi-img.com
 domain:mi.com
 domain:mifile.cn
-domain:migames.com
 domain:mijia.tech
 domain:mitvos.com
 domain:miui.com
@@ -45,6 +44,8 @@ domain:xiaomisa.net
 domain:xiaomisa.org
 domain:xiaomiwear.com
 domain:xiaomixiaoai.com
+domain:migames.com
+domain:wali.com
 domain:airstarfinance.net
 domain:mipay.com
 domain:duokan.com

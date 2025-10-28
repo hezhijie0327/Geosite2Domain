@@ -131,3 +131,5 @@ domain:tieba.baidu.com
 domain:tieba.com
 domain:dandan818.com
 domain:dandanvoice.com
+domain:maimai.cn
+domain:taou.com

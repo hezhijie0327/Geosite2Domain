@@ -877,6 +877,7 @@ domain:51cdn.com
 domain:8686c.com
 domain:cdn20.com
 domain:cdn30.org
+domain:cdnmg.com
 domain:chinanetcenter.com
 domain:lxdns.cn
 domain:lxdns.com
@@ -895,6 +896,7 @@ domain:wangsu.com
 domain:wscdns.com
 domain:wscdns.info
 domain:wscdns.org
+domain:wsdvs.com
 domain:wsglb.com
 domain:wsglb.net
 domain:wswebcdn.com
@@ -1041,6 +1043,14 @@ domain:anmo.com
 domain:djdjapp.com
 domain:dongjiao.cc
 domain:dongjiaoapp.com
+domain:ads.union.jd.com:@ads
+domain:ads-union.jd.com:@ads
+domain:c-nfa.jd.com:@ads
+domain:cps.360buy.com:@ads
+domain:gia.jd.com:@ads
+domain:img-x.jd.com:@ads
+domain:jzt.jd.com:@ads
+domain:stat.m.jd.com:@ads
 domain:1huizhan.com
 domain:3.cn
 domain:300hu.com
@@ -1271,15 +1281,8 @@ domain:yihaodian.com
 domain:yihaodianimg.com
 domain:yiyaojd.com
 domain:yizhitou.com
+domain:imdada.cn
 domain:duolabao.com
-domain:ads.union.jd.com:@ads
-domain:ads-union.jd.com:@ads
-domain:c-nfa.jd.com:@ads
-domain:cps.360buy.com:@ads
-domain:gia.jd.com:@ads
-domain:img-x.jd.com:@ads
-domain:jzt.jd.com:@ads
-domain:stat.m.jd.com:@ads
 domain:lianjia.com
 domain:ljcdn.com
 domain:beckyroom.com
@@ -1933,9 +1936,7 @@ domain:ngabbs.com
 domain:ngacn.cc
 domain:saraba1st.com
 domain:52pojie.cn
-domain:acwifi.net
 domain:chongbuluo.com
-domain:chongdiantou.com
 domain:itsk.com
 domain:kafan.cn
 domain:kanxue.com
@@ -1948,7 +1949,11 @@ domain:right.com.cn
 domain:uiwow.com
 domain:wuyou.net
 domain:423down.com
+domain:acwifi.net
+domain:chongdiantou.com
 domain:ghxi.com
+domain:iplaysoft.com
+domain:itellyou.cn
 domain:moyubuluo.com
 domain:upe.net
 domain:winos.me
@@ -2516,6 +2521,7 @@ domain:shimonote.com
 domain:smgv.cn
 domain:nlark.com
 domain:yuque.com
+domain:woodo.cn
 domain:doc88.com
 domain:docin.com
 domain:douding.cn
@@ -2826,6 +2832,8 @@ domain:tieba.baidu.com
 domain:tieba.com
 domain:dandan818.com
 domain:dandanvoice.com
+domain:maimai.cn
+domain:taou.com
 domain:aixcoder.com
 domain:nnthink.com
 domain:apifox.cn
@@ -4911,6 +4919,14 @@ domain:cloudsite.vip
 domain:cncqcloud.com
 domain:computeinit.com
 domain:coolsite.vip
+domain:dcloudlive.com
+domain:dcloudlive.net
+domain:dcloudsp.com
+domain:dcloudsp.net
+domain:dcloudstc.com
+domain:dcloudstc.net
+domain:dcloudvod.com
+domain:dcloudvod.net
 domain:dnsv1.com
 domain:dnsv1.com.cn
 domain:dothework.cn
@@ -5028,6 +5044,7 @@ domain:tencentcloudses.com
 domain:tencentcos.cn
 domain:tencentcos.com
 domain:tencentcos.com.cn
+domain:tencentcs.cn
 domain:tencentcs.com
 domain:tencentdayu.com
 domain:tencentdb.com
@@ -5449,7 +5466,6 @@ domain:mi-idc.com
 domain:mi-img.com
 domain:mi.com
 domain:mifile.cn
-domain:migames.com
 domain:mijia.tech
 domain:mitvos.com
 domain:miui.com
@@ -5476,6 +5492,8 @@ domain:xiaomisa.net
 domain:xiaomisa.org
 domain:xiaomiwear.com
 domain:xiaomixiaoai.com
+domain:migames.com
+domain:wali.com
 domain:airstarfinance.net
 domain:mipay.com
 domain:duokan.com
@@ -5626,6 +5644,8 @@ domain:myip.la:@!cn
 domain:ip138.com
 domain:ipshudi.com
 domain:chaziyu.com
+domain:icplishi.com
+domain:ipchaxun.com
 domain:ipchaxun.net
 domain:rdnsdb.com
 domain:ipplus360.com
@@ -6508,6 +6528,7 @@ domain:topthink.com
 domain:touqikan.com
 domain:touzid.com
 domain:travelsky.com
+domain:trjcn.com
 domain:trunktech.com
 domain:trustexporter.com
 domain:trustutn.org
@@ -6552,6 +6573,7 @@ domain:warmheart.top
 domain:wdjimg.com
 domain:wdzj.com
 domain:weand.com
+domain:weavatar.com
 domain:weicaifu.com
 domain:weidian.com
 domain:weilaicaijing.com

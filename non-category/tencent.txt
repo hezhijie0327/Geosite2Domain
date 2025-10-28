@@ -45,6 +45,14 @@ domain:cloudsite.vip
 domain:cncqcloud.com
 domain:computeinit.com
 domain:coolsite.vip
+domain:dcloudlive.com
+domain:dcloudlive.net
+domain:dcloudsp.com
+domain:dcloudsp.net
+domain:dcloudstc.com
+domain:dcloudstc.net
+domain:dcloudvod.com
+domain:dcloudvod.net
 domain:dnsv1.com
 domain:dnsv1.com.cn
 domain:dothework.cn
@@ -162,6 +170,7 @@ domain:tencentcloudses.com
 domain:tencentcos.cn
 domain:tencentcos.com
 domain:tencentcos.com.cn
+domain:tencentcs.cn
 domain:tencentcs.com
 domain:tencentdayu.com
 domain:tencentdb.com
