@@ -10682,10 +10682,13 @@ domain:fanatical.com
 domain:fitgirl-repacks.site
 domain:game-repack.site
 domain:humblebundle.com
+domain:joinsquad.com
 domain:loverslab.com
 domain:minecraft.wiki
 domain:modrinth.com
 domain:nexusmods.com
+domain:offworldindustries.com
+domain:offworldindustries.net
 domain:papermc.io
 domain:planetminecraft.com
 domain:prismlauncher.org

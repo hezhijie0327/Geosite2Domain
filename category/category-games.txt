@@ -62,6 +62,11 @@ domain:biligame.net:@cn
 domain:sl916.com:@cn
 domain:cowlevel.net
 domain:cdncl.net
+domain:hero.com
+domain:herogame.com
+domain:heroesports.com
+domain:shyxhy.com
+domain:yingxiong.com
 domain:kurogames.com:@cn
 domain:aki-game.com:@cn
 domain:mhystatic.com:@cn
@@ -846,10 +851,13 @@ domain:fanatical.com
 domain:fitgirl-repacks.site
 domain:game-repack.site
 domain:humblebundle.com
+domain:joinsquad.com
 domain:loverslab.com
 domain:minecraft.wiki
 domain:modrinth.com
 domain:nexusmods.com
+domain:offworldindustries.com
+domain:offworldindustries.net
 domain:papermc.io
 domain:planetminecraft.com
 domain:prismlauncher.org
