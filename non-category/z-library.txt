@@ -26,6 +26,7 @@ domain:bookshome.info
 domain:bookshome.net
 domain:bookshome.world
 domain:de1lib.org
+domain:dln1.ncdn.ec
 domain:hk1lib.org
 domain:libsolutions.app
 domain:libsolutions.domains

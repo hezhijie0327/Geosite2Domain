@@ -3,3 +3,4 @@ domain:vivo.cn
 domain:vivo.com
 domain:vivo.com.cn
 domain:vivoglobal.com:@!cn
+domain:vvstc.com

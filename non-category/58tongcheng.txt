@@ -32,5 +32,8 @@ domain:jxksw.net
 domain:roomeet.cn
 domain:xinchong.com
 domain:zhuancorp.com
+domain:zhuaninc.com
+domain:zhuanspirit.cn
 domain:zhuanspirit.com
+domain:zhuanstatic.com
 domain:zhuanzhuan.com

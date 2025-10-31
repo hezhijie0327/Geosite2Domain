@@ -8,4 +8,5 @@ domain:chinatelecom-h.com
 domain:chinatelecom.com.cn
 domain:chinatelecomglobal.com:@!cn
 domain:chntel.com
+domain:vnet.cn
 domain:chinatelecomhk.com:@!cn

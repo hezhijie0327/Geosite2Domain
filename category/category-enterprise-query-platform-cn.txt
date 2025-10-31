@@ -1,4 +1,6 @@
 domain:aiqicha.baidu.com
+domain:aiqicha.cn
+domain:aiqicha.com
 domain:hongdunwang.com.cn
 domain:qcc.com
 domain:qichacha.com

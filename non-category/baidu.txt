@@ -183,6 +183,7 @@ domain:bce-cdn.cn
 domain:bce-cdn.com
 domain:bce-cdn.net
 domain:bcebos.com
+domain:bcelive.com
 domain:bdcloudapi.com
 domain:bdimg.com
 domain:bdstatic.com
@@ -218,6 +219,7 @@ domain:tieba.com
 domain:tiebaimg.com
 domain:xianfae.com
 domain:xiaodutv.com
+domain:yoojia.com
 domain:duxiaoman-int.com
 domain:duxiaoman.com
 domain:duxiaomanfintech.com

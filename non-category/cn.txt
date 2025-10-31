@@ -983,7 +983,10 @@ domain:jxksw.net
 domain:roomeet.cn
 domain:xinchong.com
 domain:zhuancorp.com
+domain:zhuaninc.com
+domain:zhuanspirit.cn
 domain:zhuanspirit.com
+domain:zhuanstatic.com
 domain:zhuanzhuan.com
 domain:c-ctrip.com
 domain:colinker.com
@@ -2071,6 +2074,7 @@ domain:ruanmei.com
 domain:saayaa.com
 domain:win7china.com
 domain:win8china.com
+domain:zuihuimai.com
 domain:binglianhuajianzhan.com
 domain:ggoplay.com
 domain:ggowan.com
@@ -3567,6 +3571,7 @@ domain:bce-cdn.cn
 domain:bce-cdn.com
 domain:bce-cdn.net
 domain:bcebos.com
+domain:bcelive.com
 domain:bdcloudapi.com
 domain:bdimg.com
 domain:bdstatic.com
@@ -3602,6 +3607,7 @@ domain:tieba.com
 domain:tiebaimg.com
 domain:xianfae.com
 domain:xiaodutv.com
+domain:yoojia.com
 domain:duxiaoman-int.com
 domain:duxiaoman.com
 domain:duxiaomanfintech.com
@@ -5483,6 +5489,7 @@ domain:vivo.cn
 domain:vivo.com
 domain:vivo.com.cn
 domain:vivoglobal.com:@!cn
+domain:vvstc.com
 domain:a.market.xiaomi.com:@ads
 domain:ad.intl.xiaomi.com:@ads
 domain:ad.mi.com:@ads
@@ -5579,6 +5586,7 @@ full:bbs.ztedevices.com
 full:www.ztedevices.com
 full:ztedevices.com:@!cn
 domain:huorong.cn
+domain:quickapp.cn
 domain:socpk.com
 domain:udesk.cn
 domain:fdcyun.com
@@ -5632,6 +5640,7 @@ domain:chinatelecom-h.com
 domain:chinatelecom.com.cn
 domain:chinatelecomglobal.com:@!cn
 domain:chntel.com
+domain:vnet.cn
 domain:chinatelecomhk.com:@!cn
 domain:unicom
 domain:xn--8y0a063a
@@ -5712,6 +5721,8 @@ domain:sinopecgroup.com
 domain:sinopecnews.com.cn
 domain:sinopecsales.com
 domain:aiqicha.baidu.com
+domain:aiqicha.cn
+domain:aiqicha.com
 domain:hongdunwang.com.cn
 domain:qcc.com
 domain:qichacha.com

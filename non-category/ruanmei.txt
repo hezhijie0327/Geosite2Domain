@@ -6,3 +6,4 @@ domain:ruanmei.com
 domain:saayaa.com
 domain:win7china.com
 domain:win8china.com
+domain:zuihuimai.com
