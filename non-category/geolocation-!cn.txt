@@ -28491,3 +28491,4 @@ domain:tsquare.tv
 domain:windy.com
 domain:xdty.org
 domain:xingrz.me
+domain:immersivetranslate.com

@@ -45,4 +45,5 @@ domain:httpdns.kwd.inkuai.com:@ads
 domain:httpdns.pro:@ads
 domain:httpdns.volcengineapi.com:@ads
 domain:httpdns.yunxindns.com:@ads
+domain:httpdns.zhihu.com:@ads
 domain:httpdns.zybang.com:@ads

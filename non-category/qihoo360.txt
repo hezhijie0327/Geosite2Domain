@@ -74,6 +74,7 @@ domain:n.cn
 domain:namiso.com
 domain:nicaifu.com
 domain:nzwgs.com
+domain:qh-cdn.com
 domain:qhcdn.com
 domain:qhimg.com
 domain:qhimgs0.com

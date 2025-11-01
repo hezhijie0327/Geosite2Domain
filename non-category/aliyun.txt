@@ -4,6 +4,7 @@ domain:alicloudapi.com
 domain:alidayu.com
 domain:alidns.com
 domain:alikunlun.com
+domain:alikunlun.net
 domain:aliyun-inc.com
 domain:aliyun-iot-share.com
 domain:aliyun.com

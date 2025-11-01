@@ -114,6 +114,7 @@ domain:alicloudapi.com
 domain:alidayu.com
 domain:alidns.com
 domain:alikunlun.com
+domain:alikunlun.net
 domain:aliyun-inc.com
 domain:aliyun-iot-share.com
 domain:aliyun.com
@@ -228,6 +229,7 @@ domain:25pp.com
 domain:56che.com
 domain:95095.com
 domain:9game.cn
+domain:ali-health.com
 domain:aliapp.org
 domain:alibaba-inc.com
 domain:alibaba.com

@@ -18,6 +18,9 @@ domain:aliyundrive.cloud
 domain:aliyundrive.com
 domain:aliyundrive.net
 domain:yunpan.aliyun.com
+domain:c-t.work
+domain:cowcs.com
+domain:cowtransfer.com
 domain:baidupan.com
 domain:ilanzou.com
 domain:lanosso.com
