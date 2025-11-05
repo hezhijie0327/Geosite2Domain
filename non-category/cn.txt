@@ -5449,7 +5449,6 @@ domain:qdmm.com
 domain:qidian.com
 domain:readnovel.com
 domain:tingbook.com
-domain:webnovel.com
 domain:xs8.cn
 domain:xxsy.net
 domain:qq.xn--fiqs8s

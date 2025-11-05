@@ -3447,6 +3447,8 @@ domain:farfetch.com.cn:@cn
 domain:farfetch.net
 domain:farfetch.net.cn:@cn
 domain:fflnk.net
+domain:ggsel.com
+domain:ggsel.net
 domain:gucci
 domain:chimeforchange.org
 domain:gucci.cn:@cn
@@ -10964,6 +10966,7 @@ domain:thestationbymaker.com
 domain:thisispolaris.com
 domain:watchdisneyfe.com
 full:disney.my.sentry.io:@ads
+domain:ficbook.net
 domain:gimy.cc
 domain:gimy.co
 domain:gimy.to

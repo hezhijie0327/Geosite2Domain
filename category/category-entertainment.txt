@@ -934,6 +934,7 @@ domain:dlsite.jp
 domain:dlsitestudio.com
 domain:nijiyome.jp
 domain:triokini.com
+domain:ficbook.net
 domain:gimy.cc
 domain:gimy.co
 domain:gimy.to
