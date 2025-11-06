@@ -9,6 +9,12 @@ domain:cursor-cdn.com
 domain:cursor.com
 domain:cursor.sh
 domain:cursorapi.com
+domain:cici.com
+domain:ciciai.com
+domain:ciciaicdn.com
+domain:dola.com
+domain:elevenlabs.com
+domain:elevenlabs.io
 domain:deepmind.com
 domain:deepmind.google
 domain:geller-pa.googleapis.com
