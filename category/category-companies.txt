@@ -3858,6 +3858,7 @@ domain:jules.google
 domain:jules.google.com
 domain:labs.google
 domain:aisandbox-pa.googleapis.com
+domain:aida.googleapis.com
 domain:googleplay.com
 domain:play-fe.googleapis.com
 domain:play-games.googleusercontent.com

@@ -20,3 +20,4 @@ domain:jules.google
 domain:jules.google.com
 domain:labs.google
 domain:aisandbox-pa.googleapis.com
+domain:aida.googleapis.com
