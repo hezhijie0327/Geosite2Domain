@@ -25,6 +25,7 @@ full:download3.epicgames.com
 full:download4.epicgames.com
 full:epicgames-download1.akamaized.net
 full:fastly-download.epicgames.com
+domain:egdownload.fastly-edge.com
 full:cloudflare.epicgamescdn.com
 full:epicgames-download1-1251447533.file.myqcloud.com:@cn
 full:blizzard.gcdn.cloudn.co.kr
