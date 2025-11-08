@@ -1,5 +1,7 @@
 domain:analog.com
 domain:arrow.cn
+domain:boe.com
+domain:boe.com.cn
 domain:bouffalolab.com
 domain:esp8266.cn
 domain:esp8266.com
@@ -12,7 +14,7 @@ domain:elecfans.com
 domain:hqchip.com
 domain:hqdoc.com
 domain:hqpcb.com
-domain:infineon.com
+domain:infineon.cn
 domain:fa-part.com
 domain:forface3d.com
 domain:jlc-3dp.cn
@@ -66,7 +68,6 @@ domain:seeed.com.cn
 domain:seeedstudio.com.cn
 domain:sipeed.com
 domain:maixhub.com
-domain:ti.com
 domain:ti.com.cn
 domain:wch.cn
 domain:wch-ic.com

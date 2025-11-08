@@ -23,6 +23,7 @@ domain:wpsmail.net
 domain:papocket.com
 domain:wpspdf.cn
 domain:kimg.cn
+domain:kingsoft-office-service.com
 domain:kingsoft.com
 domain:ks-live.com
 domain:ksmobile.com
