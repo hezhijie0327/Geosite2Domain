@@ -69,6 +69,8 @@ domain:grok.com
 domain:x.ai
 domain:coderabbit.ai
 domain:coderabbit.gallery.vsassets.io
+domain:cohere.ai
+domain:cohere.com
 domain:clipdrop.co
 domain:jasper.ai
 domain:chutes.ai
@@ -11641,6 +11643,8 @@ domain:rmbl.ws
 domain:rumble.com
 domain:embed-cdn.com
 domain:streamable.com
+domain:terabox.com
+domain:teraboxcdn.com
 domain:4cdn.org
 domain:4chan.org
 domain:4channel.org
