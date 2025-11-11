@@ -2,5 +2,5 @@ domain:tapimg.com
 domain:tapimg.net
 domain:taptap.cn
 domain:taptap.com
-domain:taptap.io
+domain:taptap.io:@!cn
 domain:taptapdada.com

@@ -1,2 +1,2 @@
-domain:sl916.com:@cn
-domain:bluepoch.com:@cn
+domain:sl916.com
+domain:bluepoch.com

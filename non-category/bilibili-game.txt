@@ -1,6 +1,6 @@
-domain:bilibiligame.cn:@cn
-domain:bilibiligame.co:@cn
-domain:bilibiligame.net:@cn
-domain:biligame.co:@cn
-domain:biligame.com:@cn
-domain:biligame.net:@cn
+domain:bilibiligame.cn
+domain:bilibiligame.co
+domain:bilibiligame.net
+domain:biligame.co
+domain:biligame.com
+domain:biligame.net
