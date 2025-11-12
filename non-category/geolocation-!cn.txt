@@ -107,7 +107,9 @@ domain:freebrowser.org
 domain:freewechat.com
 domain:freeweibo.com
 domain:freezhihu.org
+domain:googlecensorship.org
 domain:greatfire.org
+domain:greatfirevpn.com
 domain:pao-pao.net
 domain:wikiunblocked.org
 domain:haveibeenpwned.com
@@ -20486,6 +20488,7 @@ domain:pulsebrowser.app
 domain:qutebrowser.org
 domain:vivaldi.com
 domain:waterfox.net
+domain:zen-browser.app
 domain:fflogs.com
 domain:rpglogs.com
 domain:rpglogs.cn:@cn
@@ -20493,6 +20496,7 @@ domain:thetrackernetwork.com
 domain:tracker.gg
 domain:tracker.network
 domain:bluestacks.com
+domain:ldmnq.com:@cn
 domain:lsplayer.com:@cn
 domain:yeshen.com:@cn
 domain:maa.plus
@@ -21517,6 +21521,7 @@ domain:mariadb.org
 domain:mingw.org
 domain:mobatek.net
 domain:mysql.com
+domain:neovim.io
 domain:nixos.org
 domain:nodesource.com
 domain:notepad-plus-plus.org
@@ -24725,6 +24730,11 @@ domain:canon.ua
 domain:canon.uz
 domain:canonfoundation.org
 domain:canonproprinters.com
+domain:affinity.api.serifservices.com
+domain:affinity.studio
+domain:affinity-beta.s3.amazonaws.com
+domain:affinity-lessons.s3.amazonaws.com
+domain:canva.com
 domain:chegg.com
 domain:cheggcdn.com
 domain:webex.ca

@@ -42,7 +42,6 @@ domain:fenbike.cn
 domain:fenbike.com
 domain:fenbilantian.cn
 domain:fenbilantian.com
-domain:zhihuishu.com
 domain:cedf.cn
 domain:cedf.org.cn
 domain:chdi.com.cn
@@ -69,6 +68,10 @@ domain:qgzb.gov.cn
 domain:qgzb.net
 domain:zbbm.gov.cn
 domain:zbbm.net
+domain:cugbonline.cn
+domain:zhihuishu.com
+domain:j-test.com
+domain:nattest-china.com
 domain:rainclassroom.com
 domain:yuketang.cn
 domain:yudou.cn

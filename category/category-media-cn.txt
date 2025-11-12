@@ -44,8 +44,6 @@ domain:chinanews.com.cn
 domain:cns.com.cn
 domain:ecns.cn
 domain:inewsweek.cn
-domain:dgtle.com
-domain:geekpark.net
 domain:coolbuy.com
 domain:ifanr.cn
 domain:ifanr.com
@@ -135,8 +133,6 @@ domain:focus.cn
 domain:itc.cn
 domain:sohu.com
 domain:sohucs.com
-domain:solidot.org
-domain:sspai.com
 domain:tmtpost.com
 domain:chaindd.com
 domain:72whys.com
@@ -156,6 +152,17 @@ domain:xueqiu.com
 domain:ynet.cn
 domain:ynet.com
 domain:ynet.com.cn
+domain:jsbc.com
+domain:jstv.com
+domain:cztv.com
+domain:cztvcdn.com
+domain:cztvcloud.com
+domain:zjstv.com
+domain:dgtle.com
+domain:gcores.com
+domain:geekpark
+domain:solidot.org
+domain:sspai.com
 domain:stcn.com
 domain:caijing.com.cn
 domain:hexun.com
@@ -218,3 +225,4 @@ domain:anzhuo.cn
 domain:idcquan.com
 domain:admin5.com
 domain:jxpp.com
+domain:woshipm.com

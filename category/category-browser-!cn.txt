@@ -26,3 +26,4 @@ domain:pulsebrowser.app
 domain:qutebrowser.org
 domain:vivaldi.com
 domain:waterfox.net
+domain:zen-browser.app

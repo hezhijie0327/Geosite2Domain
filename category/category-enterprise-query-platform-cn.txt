@@ -1,12 +1,11 @@
 domain:aiqicha.baidu.com
 domain:aiqicha.cn
 domain:aiqicha.com
-domain:hongdunwang.com.cn
 domain:qcc.com
 domain:qichacha.com
-domain:qichamao.com
 domain:qixin.com
-domain:qyyjt.cn
 domain:jindidata.com
 domain:tianyancha.com
+domain:qichamao.com
+domain:qyyjt.cn
 domain:x315.com

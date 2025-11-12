@@ -3254,6 +3254,11 @@ domain:canon.ua
 domain:canon.uz
 domain:canonfoundation.org
 domain:canonproprinters.com
+domain:affinity.api.serifservices.com
+domain:affinity.studio
+domain:affinity-beta.s3.amazonaws.com
+domain:affinity-lessons.s3.amazonaws.com
+domain:canva.com
 domain:chegg.com
 domain:cheggcdn.com
 domain:webex.ca

@@ -204,7 +204,6 @@ domain:tgprocs.net
 domain:winegame.net
 domain:wo1wan.com
 domain:ycgame.com
-domain:3dmgame.com
 domain:ac.fun
 domain:acfun.cn
 domain:acfun.net
@@ -215,7 +214,6 @@ domain:aixifan.com
 full:apilog-web.acfun.cn:@ads
 domain:acplay.net
 domain:dandanplay.com
-domain:ali213.net
 domain:bbtv.cn
 domain:bestv.com.cn
 domain:bestvcdn.cn
@@ -278,7 +276,6 @@ domain:luojilab.com
 domain:mogoo.com
 domain:sao.cn
 domain:saolife.com
-domain:dmzj.com
 domain:activity-wbsj.com
 domain:aihst8.com
 domain:amemv.cn
@@ -404,7 +401,6 @@ domain:ja.gamersky.com:@ads
 domain:ja1.gamersky.com:@ads
 domain:ja2.gamersky.com:@ads
 domain:wmbd.gamersky.com:@ads
-domain:gcores.com
 domain:gitv.cn
 domain:gitv.tv
 domain:click.hunantv.com:@ads
@@ -449,7 +445,6 @@ domain:msg.video.qiyi.com:@ads
 domain:msg2.video.qiyi.com:@ads
 domain:policy.video.iqiyi.com:@ads
 domain:yuedu.iqiyi.com:@ads
-domain:jjwxc.net
 domain:ku6.com
 domain:ku6cdn.com
 domain:ku6img.com
@@ -522,9 +517,6 @@ domain:letvcdn.com
 domain:letvimg.com
 domain:lizhi.fm
 domain:lizhifm.com
-domain:mfuns.cn
-domain:miaopai.com
-domain:muwai.com
 domain:pplive.cn
 domain:pplive.com
 domain:pptv.com
@@ -595,7 +587,6 @@ domain:frp-put.com
 domain:frp-rib.com
 domain:frp-sea.com
 domain:frp-six.com
-domain:sfacg.com
 domain:61.com
 domain:taomee.com
 domain:u17.com
@@ -623,11 +614,20 @@ domain:ykimg.com
 domain:mmstat.com
 domain:soku.com
 domain:cibntv.net
-domain:zhanqi.tv
+domain:ldmnq.com
 domain:lsplayer.com
 domain:yeshen.com
 domain:51zmt.top
 domain:bsbsb.top
+domain:3dmgame.com
+domain:ali213.net
+domain:dmzj.com
 domain:dongqiudi.com
 domain:goka.top
+domain:jjwxc.net
+domain:mfuns.cn
+domain:miaopai.com
+domain:muwai.com
 domain:pearvideo.com
+domain:sfacg.com
+domain:zhanqi.tv

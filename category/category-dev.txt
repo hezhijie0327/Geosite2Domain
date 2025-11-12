@@ -501,6 +501,7 @@ domain:mariadb.org
 domain:mingw.org
 domain:mobatek.net
 domain:mysql.com
+domain:neovim.io
 domain:nixos.org
 domain:nodesource.com
 domain:notepad-plus-plus.org
