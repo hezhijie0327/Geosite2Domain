@@ -34,6 +34,8 @@ domain:bobovip.cc
 domain:sesez.com
 domain:bcicdn.com
 domain:bcrncdn.com
+domain:bcvcdn.com
+domain:bgicdn.com
 domain:bongacams.com
 domain:boylove.cc
 domain:boylove.live

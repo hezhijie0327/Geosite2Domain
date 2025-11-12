@@ -10,5 +10,3 @@ domain:trae.cn
 domain:trae.com.cn
 domain:trae.guru
 domain:yoma.cn
-domain:marscode.com:@!cn
-domain:trae.ai:@!cn

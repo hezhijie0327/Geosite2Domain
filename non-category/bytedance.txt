@@ -35,7 +35,6 @@ domain:maoxiangai.com
 domain:myparallelstory.com
 domain:picpic-ai.cn
 domain:pixeldance.com
-domain:coze.com:@!cn
 domain:activity-wbsj.com
 domain:aihst8.com
 domain:amemv.cn
@@ -274,8 +273,6 @@ domain:trae.cn
 domain:trae.com.cn
 domain:trae.guru
 domain:yoma.cn
-domain:marscode.com:@!cn
-domain:trae.ai:@!cn
 domain:aigc-cloud.com
 domain:bdegnine.com
 domain:bplslb.com

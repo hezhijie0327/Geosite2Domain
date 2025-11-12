@@ -12,4 +12,3 @@ domain:maoxiangai.com
 domain:myparallelstory.com
 domain:picpic-ai.cn
 domain:pixeldance.com
-domain:coze.com:@!cn
