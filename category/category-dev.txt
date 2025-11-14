@@ -488,6 +488,7 @@ domain:gnu.org
 domain:greenend.org.uk
 domain:hex.pm
 domain:hexdocs.pm
+domain:imageglass.org
 domain:ius.io
 domain:jenkins.io
 domain:js.org
@@ -500,6 +501,7 @@ domain:macports.org
 domain:mariadb.org
 domain:mingw.org
 domain:mobatek.net
+domain:mpv.io
 domain:mysql.com
 domain:neovim.io
 domain:nixos.org

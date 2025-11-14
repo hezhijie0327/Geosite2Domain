@@ -1,1 +1,2 @@
 domain:accuweather.com
+domain:awxcdn.com

@@ -1186,11 +1186,6 @@ domain:tvbeventpower.com.hk
 domain:tvbusa.com
 domain:tvbweekly.com
 domain:tvmedia.net.au
-domain:dogatch.jp
-domain:gorin.jp
-domain:screens-lab.jp
-domain:tver.co.jp
-domain:tver.jp
 domain:udn.com
 domain:udn.com.tw
 domain:udndata.com
