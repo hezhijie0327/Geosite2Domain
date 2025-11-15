@@ -52,3 +52,4 @@ domain:n.cn
 domain:namiso.com
 full:ai.zhaomi.cn
 domain:miaoyanai.com
+domain:faxingbao.com

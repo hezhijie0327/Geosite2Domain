@@ -73,7 +73,6 @@ domain:xda-cdn.com
 domain:xda-developers.com
 domain:xdaforums.com
 domain:xdaimages.com
-domain:yamibo.com
 full:bbs.boingboing.net
 domain:18p2p.com
 domain:8chan.moe

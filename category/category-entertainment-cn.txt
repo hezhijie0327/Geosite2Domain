@@ -630,4 +630,6 @@ domain:miaopai.com
 domain:muwai.com
 domain:pearvideo.com
 domain:sfacg.com
+domain:yamibo.com
+domain:yiyouliao.com
 domain:zhanqi.tv

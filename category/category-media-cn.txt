@@ -226,3 +226,4 @@ domain:idcquan.com
 domain:admin5.com
 domain:jxpp.com
 domain:woshipm.com
+domain:zhichanli.com

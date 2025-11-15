@@ -127,6 +127,7 @@ domain:n.cn
 domain:namiso.com
 full:ai.zhaomi.cn
 domain:miaoyanai.com
+domain:faxingbao.com
 domain:airchina.com.cn
 domain:airchinacargo.com
 domain:hainanairlines.com
@@ -1987,6 +1988,8 @@ domain:miaopai.com
 domain:muwai.com
 domain:pearvideo.com
 domain:sfacg.com
+domain:yamibo.com
+domain:yiyouliao.com
 domain:zhanqi.tv
 domain:leigod.com
 domain:tmjiasuqi.com
@@ -2036,9 +2039,12 @@ domain:ngacn.cc
 domain:saraba1st.com
 domain:stage1st.com
 domain:52pojie.cn
+domain:anywlan.com
+domain:chinadsl.net
 domain:chiphell.com
 domain:chongbuluo.com
 domain:erji.net
+domain:itpub.net
 domain:itsk.com
 domain:kafan.cn
 domain:kanxue.com
@@ -2048,6 +2054,7 @@ domain:klpbbs.com
 domain:mcbbs.net
 domain:pcbeta.com
 domain:right.com.cn
+domain:txrjy.com
 domain:uiwow.com
 domain:wuyou.net
 domain:423down.com
@@ -2287,6 +2294,7 @@ domain:idcquan.com
 domain:admin5.com
 domain:jxpp.com
 domain:woshipm.com
+domain:zhichanli.com
 domain:115.com
 domain:115cdn.com
 domain:115cdn.net
@@ -3609,6 +3617,7 @@ domain:bdydns.net
 domain:chuanke.com
 domain:dlnel.com
 domain:dlnel.org
+domain:duapp.com
 domain:duapp.net
 domain:duapps.com
 domain:duurl.cn
@@ -3622,6 +3631,7 @@ domain:jomocdn.net
 domain:jomodns.cn
 domain:jomodns.com
 domain:jomodns.net
+domain:jomoxc.com
 domain:mipcdn.com
 domain:nuomi.com
 domain:quyaoya.com
@@ -6618,7 +6628,6 @@ domain:tuwan.com
 domain:tuwanjun.com
 domain:tvmao.com
 domain:tvzhe.com
-domain:txrjy.com
 domain:u.tools
 domain:ucbug.com
 domain:uggame.com

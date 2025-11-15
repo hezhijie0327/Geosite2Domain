@@ -197,6 +197,7 @@ domain:bdydns.net
 domain:chuanke.com
 domain:dlnel.com
 domain:dlnel.org
+domain:duapp.com
 domain:duapp.net
 domain:duapps.com
 domain:duurl.cn
@@ -210,6 +211,7 @@ domain:jomocdn.net
 domain:jomodns.cn
 domain:jomodns.com
 domain:jomodns.net
+domain:jomoxc.com
 domain:mipcdn.com
 domain:nuomi.com
 domain:quyaoya.com

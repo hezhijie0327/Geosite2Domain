@@ -548,6 +548,9 @@ domain:18hmanga.com
 domain:18insta.com
 domain:18j.tv
 domain:18jms.com
+domain:18mh.co
+domain:18mh.me
+domain:18mh.net
 domain:18novel.xyz
 domain:18porncomic.com
 domain:18porno.tv
@@ -649,6 +652,7 @@ domain:500caocao.com
 domain:50dh.app
 domain:51cg1.com
 domain:51dh.site
+domain:51lieqi.com
 domain:51luoli.info
 domain:51mh.app
 domain:51pincha.cc
@@ -732,6 +736,9 @@ domain:88gals.com
 domain:88kkn.com
 domain:88manhua.top
 domain:88square.com
+domain:88xkk.com
+domain:88xm.tv
+domain:88xqq.com
 domain:89.com
 domain:8kcosplay.com
 domain:8kpornvids.com
@@ -753,9 +760,12 @@ domain:91gay.me
 domain:91jinman.com
 domain:91md.me
 domain:91moxiong.com
+domain:91nt.com
 domain:91oo.xyz
 domain:91porn.best
+domain:91pornforum.com
 domain:91pornplus.com
+domain:91pornvideo.com
 domain:91porny.com
 domain:91porny.store
 domain:91qk41rf.com
@@ -1368,6 +1378,7 @@ domain:biguz.net
 domain:bijukujo.club
 domain:bimbim.com
 domain:bimbolive.com
+domain:bingoporno.com
 domain:bioporno.com
 domain:biqle.org
 domain:biqle.ru
@@ -1788,6 +1799,7 @@ domain:diamantewebcam.com
 domain:diamondgirls.co.uk
 domain:diamondgirlstudio.com
 domain:dianapost.com
+domain:diaoda.co
 domain:diarrheafan.livedoor.blog
 domain:dickeomas.com
 domain:dickhardon.com
@@ -2151,6 +2163,7 @@ domain:fetishpapa.com
 domain:fetishpornonly.com
 domain:fetishshrine.com
 domain:fetlife.com
+domain:ffddff.com
 domain:fffucked.com
 domain:fgirl.ch
 domain:fi11.com
@@ -3509,6 +3522,7 @@ domain:llcaoxm-avi.sbs
 domain:llwht88.xyz
 domain:lmm167.shop
 domain:lmmbtc.com
+domain:lms01.com
 domain:lobstertube.com
 domain:localxlist.org
 domain:loholidayhk.com
@@ -4612,6 +4626,7 @@ domain:pp6.info
 domain:ppb-mod.buzz
 domain:ppe.lawyer
 domain:pplah.com
+domain:ppnnpp.com
 domain:ppp91.cc
 domain:prastitutki.ru
 domain:premium-beauty.com
@@ -4692,6 +4707,7 @@ domain:qombol.com
 domain:qooqlevideo.com
 domain:qorno.com
 domain:qporno.xxx
+domain:qq33qq.com
 domain:qqbs.asia
 domain:qqbs.work
 domain:quickiepage.com
@@ -5469,6 +5485,7 @@ domain:tittykings.com
 domain:tkb008.xyz
 domain:tkb2233.life
 domain:tkbqf2.life
+domain:tksex.com
 domain:tktube.com
 domain:tmei-taoyuan.com
 domain:tnaflix.com
@@ -6069,8 +6086,11 @@ domain:xvds.tv
 domain:xvedo.net
 domain:xvideo-jp.com
 domain:xvideo.com
+domain:xvideo.org
 domain:xvideo.run
 domain:xvideo.vlog.br
+domain:xvideo1.org
+domain:xvideo2.org
 domain:xvideoporno.tv
 domain:xvideos.com
 domain:xvideos-dl.top
@@ -6342,6 +6362,7 @@ domain:yy55.tv
 domain:yy7y.com
 domain:yy8y.com
 domain:yyfb.cyou
+domain:yyvhhbmw.cc
 domain:yzld188.top
 domain:z00.world
 domain:z676869.com
@@ -6447,11 +6468,13 @@ regexp:(^|\.)7mm0([0-1][0-9]?)?\.com$
 regexp:(^|\.)8dgo[1-57-9]\.com$
 regexp:(^|\.)91cg([1-9]|[0-9][1-9])?.com$
 regexp:(^|\.)91p[0-9][0-9]?\.com$
-regexp:(^|\.)91porn\.(best|com|cool|group|party|plus|site|tw|work)$
+regexp:(^|\.)91porn\.(best|com|cool|fun|group|party|plus|site|tw|work)$
 regexp:(^|\.)91porn[0-9]{3}\.me$
 regexp:(^|\.)91porn[0-9]?\.store$
+regexp:(^|\.)91porna[1-7]?\.com$
 regexp:(^|\.)91porn[fvxy]\.com$
 regexp:(^|\.)91sew1[1-6]\.buzz$
+regexp:(^|\.)91wang[1-9]\.com$
 regexp:(^|\.)989[a-z]?\.tv$
 regexp:(^|\.)99pp[1-9][0-9]\.com$
 regexp:(^|\.)9cha[0-9]{2}\.cc$
