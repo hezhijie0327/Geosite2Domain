@@ -35,6 +35,7 @@ domain:xn--fiq53l90et9fpncc7joo6apn8a.cn
 domain:xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s
 domain:xn--kprv4ewxfr9cpxcc7joo6apn8a.cn
 domain:xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s
+domain:yangshipin.cn
 domain:zggbdszt.cn
 domain:zggbdszt.com.cn
 domain:zggbdszt.net.cn
