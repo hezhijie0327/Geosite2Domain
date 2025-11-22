@@ -1,3 +1,4 @@
+domain:moscow
 domain:ru
 domain:su
 domain:xn--80adxhks
@@ -7,6 +8,8 @@ domain:xn--c1avg
 domain:xn--d1acj3b
 domain:xn--p1acf
 domain:xn--p1ai
+domain:ru.com
+domain:ru.net
 domain:government.ru
 domain:gov.ru
 domain:gosuslugi.ru
@@ -205,12 +208,18 @@ domain:x5static.net
 domain:x5w.ru
 domain:yandex
 domain:xn--d1acpjx3f.xn--p1ai
+domain:adfox.ru
+domain:admetrica.ru
 domain:dzen.ru
 domain:naydex.net
 domain:rostaxi.org
+domain:webvisor.com
+domain:webvisor.org
 domain:ya.ru
+domain:yads.tech
 domain:yandex-bank.net
 domain:yandex-images.clstorage.net
+domain:yandex-team.ru
 domain:yandex.aero
 domain:yandex.az
 domain:yandex.by
@@ -246,6 +255,9 @@ domain:yandex.uz
 domain:yandexadexchange.net
 domain:yandexcloud.net
 domain:yandexcom.net
+domain:yandexmetrica.com
 domain:yandexwebcache.org
+domain:yastat.net
 domain:yastatic.net
 domain:kinopoisk.ru
+domain:kinopoisk-ru.clstorage.net
