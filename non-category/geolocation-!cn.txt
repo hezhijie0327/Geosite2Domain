@@ -15515,6 +15515,7 @@ domain:zoom.com
 domain:zoom.com.cn
 domain:zoom.us
 domain:biliplus.com
+domain:originlab.com
 domain:cloudlatex.io
 domain:overleaf.com
 domain:auroraoss.com

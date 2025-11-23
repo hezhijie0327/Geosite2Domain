@@ -1854,12 +1854,9 @@ domain:natfrp.com
 domain:frp-air.com
 domain:frp-all.com
 domain:frp-arm.com
-domain:frp-art.com
 domain:frp-bag.com
 domain:frp-bid.com
-domain:frp-car.com
 domain:frp-dog.com
-domain:frp-dry.com
 domain:frp-egg.com
 domain:frp-era.com
 domain:frp-fan.com
@@ -1873,6 +1870,7 @@ domain:frp-hen.com
 domain:frp-hip.com
 domain:frp-hub.com
 domain:frp-ice.com
+domain:frp-jar.com
 domain:frp-key.com
 domain:frp-kit.com
 domain:frp-lab.com
@@ -1881,7 +1879,6 @@ domain:frp-mad.com
 domain:frp-mix.com
 domain:frp-mom.com
 domain:frp-nut.com
-domain:frp-oak.com
 domain:frp-one.com
 domain:frp-own.com
 domain:frp-pen.com
@@ -1889,6 +1886,8 @@ domain:frp-rug.com
 domain:frp-run.com
 domain:frp-say.com
 domain:frp-shy.com
+domain:frp-sun.com
+domain:frp-tag.com
 domain:frp-act.com
 domain:frp-any.com
 domain:frp-bar.com
@@ -1899,7 +1898,6 @@ domain:frp-dad.com
 domain:frp-end.com
 domain:frp-fun.com
 domain:frp-gap.com
-domain:frp-man.com
 domain:frp-net.com
 domain:frp-now.com
 domain:frp-off.com
@@ -1908,6 +1906,7 @@ domain:frp-put.com
 domain:frp-rib.com
 domain:frp-sea.com
 domain:frp-six.com
+domain:frp-ski.com
 domain:61.com
 domain:taomee.com
 domain:u17.com
