@@ -15446,6 +15446,7 @@ domain:tuta.io
 domain:tutamail.com
 domain:tutanota.com
 domain:tutanota.de
+domain:ai-sdk.dev
 domain:err.sh
 domain:hyper.is
 domain:nextjs.org

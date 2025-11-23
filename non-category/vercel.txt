@@ -1,3 +1,4 @@
+domain:ai-sdk.dev
 domain:err.sh
 domain:hyper.is
 domain:nextjs.org
