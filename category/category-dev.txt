@@ -2,6 +2,7 @@ domain:anaconda.cloud
 domain:anaconda.com
 domain:anaconda.org
 domain:conda.io
+domain:android
 domain:android.com
 domain:androidify.com
 full:android.googlesource.com

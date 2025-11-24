@@ -68,6 +68,8 @@ domain:qgzb.gov.cn
 domain:qgzb.net
 domain:zbbm.gov.cn
 domain:zbbm.net
+domain:cbern.com.cn
+domain:smartedu.cn
 domain:cugbonline.cn
 domain:zhihuishu.com
 domain:j-test.com

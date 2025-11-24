@@ -159,9 +159,11 @@ domain:cztv.com
 domain:cztvcdn.com
 domain:cztvcloud.com
 domain:zjstv.com
+domain:cqcb.com
+domain:hntv.tv
 domain:dgtle.com
 domain:gcores.com
-domain:geekpark
+domain:geekpark.net
 domain:solidot.org
 domain:sspai.com
 domain:stcn.com
@@ -228,3 +230,9 @@ domain:admin5.com
 domain:jxpp.com
 domain:woshipm.com
 domain:zhichanli.com
+domain:chinaaet.com
+domain:freebuf.com
+domain:iresearch.cn
+domain:qianzhan.com
+domain:secrss.com
+domain:shangyexinzhi.com

@@ -1,5 +1,3 @@
-domain:cbs
-domain:showtime
 domain:cbs.com
 domain:cbscorporation.com
 domain:cbsi.com

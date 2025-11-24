@@ -187,8 +187,6 @@ domain:boxun.com
 domain:bowenpress.com
 domain:c-span.org
 domain:c-spanvideo.org
-domain:cbs
-domain:showtime
 domain:cbs.com
 domain:cbscorporation.com
 domain:cbsi.com
@@ -1126,7 +1124,6 @@ domain:skysports.ie
 domain:skysportsonline.com
 domain:skysportsracing.com
 domain:cn-cdn1.skymansion.net:@cn
-domain:theguardian
 domain:dev-guardianapis.com
 domain:dev-theguardian.com
 domain:gu-web.net

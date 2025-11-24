@@ -2226,9 +2226,11 @@ domain:cztv.com
 domain:cztvcdn.com
 domain:cztvcloud.com
 domain:zjstv.com
+domain:cqcb.com
+domain:hntv.tv
 domain:dgtle.com
 domain:gcores.com
-domain:geekpark
+domain:geekpark.net
 domain:solidot.org
 domain:sspai.com
 domain:stcn.com
@@ -2295,6 +2297,12 @@ domain:admin5.com
 domain:jxpp.com
 domain:woshipm.com
 domain:zhichanli.com
+domain:chinaaet.com
+domain:freebuf.com
+domain:iresearch.cn
+domain:qianzhan.com
+domain:secrss.com
+domain:shangyexinzhi.com
 domain:115.com
 domain:115cdn.com
 domain:115cdn.net
@@ -2464,6 +2472,8 @@ domain:qgzb.gov.cn
 domain:qgzb.net
 domain:zbbm.gov.cn
 domain:zbbm.net
+domain:cbern.com.cn
+domain:smartedu.cn
 domain:cugbonline.cn
 domain:zhihuishu.com
 domain:j-test.com
@@ -6175,7 +6185,6 @@ domain:fimmu.com
 domain:finchina.com
 domain:fixdown.com
 domain:fqjob.net
-domain:freebuf.com
 domain:fugetech.com
 domain:fuwj.com
 domain:fxxz.com
@@ -6246,7 +6255,6 @@ domain:hiyd.com
 domain:hktheone.com
 domain:hn-cbec.com
 domain:hnrcsc.com
-domain:hntv.tv
 domain:hnyuyuhui.com
 domain:hollycrm.com
 domain:homeinns.com
@@ -6503,7 +6511,6 @@ domain:qh24.com
 domain:qiangbus.com
 domain:qianjia.com
 domain:qianlima.com
-domain:qianzhan.com
 domain:qiaobutang.com
 domain:qie.tv
 domain:qifeiye.com

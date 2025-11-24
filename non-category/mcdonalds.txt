@@ -1,5 +1,3 @@
-domain:mcd
-domain:mcdonalds
 domain:happymeal.com.au
 domain:mcdelivery.com.au
 domain:mcdonalds.com.au

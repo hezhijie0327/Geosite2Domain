@@ -3675,6 +3675,7 @@ full:sni1dcb6gl.wpc.edgecastcdn.net
 domain:godaddy.com
 domain:x.co
 domain:godaddy
+domain:android
 domain:android.com
 domain:androidify.com
 full:android.googlesource.com
@@ -4167,7 +4168,6 @@ domain:youtubemobilesupport.com
 domain:yt.be
 domain:ytimg.com
 full:yt3.googleusercontent.com
-domain:and
 domain:chrome
 domain:dclk
 domain:gbiz

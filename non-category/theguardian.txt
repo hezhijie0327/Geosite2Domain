@@ -1,4 +1,3 @@
-domain:theguardian
 domain:dev-guardianapis.com
 domain:dev-theguardian.com
 domain:gu-web.net
