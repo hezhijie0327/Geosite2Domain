@@ -1,10 +1,11 @@
 domain:deepseek.com
 domain:rwkv.cn
 domain:rwkv.com
-domain:tongyi.aliyun.com
 domain:qianwen.aliyun.com
+domain:qianwen.com
 domain:qwen.ai
 domain:qwenlm.ai
+domain:tongyi.aliyun.com
 domain:tongyi.com
 domain:yiyan.baidu.com
 domain:tiangong.cn
