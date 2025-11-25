@@ -125,6 +125,8 @@ domain:advertiserscommunity.com:@ads
 domain:adwords-community.com:@ads
 domain:adwords.com:@ads
 domain:adwordsexpress.com:@ads
+domain:app-analytics-services.com:@ads
+domain:app-analytics-services-att.com:@ads
 domain:app-measurement-cn.com:@ads
 domain:app-measurement.com:@ads
 domain:doubleclick-cn.net:@ads
@@ -134,6 +136,7 @@ domain:doubleclick.net:@ads
 domain:google-analytics-cn.com:@ads
 domain:google-analytics.com:@ads
 domain:googleadapis.com:@ads
+domain:googleadapis.l.google.com:@ads
 domain:googleads-cn.com:@ads
 domain:googleads.com:@ads
 domain:googleadservices-cn.com:@ads
@@ -152,9 +155,13 @@ domain:googletraveladservices-cn.com:@ads
 domain:googletraveladservices.com:@ads
 domain:googlevads-cn.com:@ads
 domain:mail-ads.google.com:@ads
+domain:mobileads.google.com:@ads
 domain:marketingplatform.google.com:@ads
+domain:pagead.l.google.com:@ads
+domain:partnerad.l.google.com:@ads
 domain:urchin.com:@ads
 full:analytics.google.com:@ads
+full:fundingchoicesmessages.google.com:@ads
 regexp:^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$:@ads
 domain:deepmind.com
 domain:deepmind.google

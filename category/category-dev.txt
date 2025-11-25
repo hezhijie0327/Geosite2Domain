@@ -397,6 +397,7 @@ domain:redhat.org
 domain:scala-lang.org
 domain:scala-sbt.org
 domain:sentry.io
+domain:sentry-cdn.com
 domain:sourcehut.org
 domain:sr.ht
 domain:askubuntu.com

@@ -3,7 +3,7 @@ domain:bing.com
 domain:bing.com.cn:@cn
 domain:bing.net
 domain:bing123.com
-domain:bingads.com
+domain:bingads.com:@ads
 domain:bingagencyawards.com
 domain:bingapis.com
 domain:bingapistatistics.com

@@ -6294,7 +6294,6 @@ domain:facebook30.com
 domain:facebook30.net
 domain:facebook30.org
 domain:facebook4business.com
-domain:facebookads.com
 domain:facebookadvertisingsecrets.com
 domain:facebookatschool.com
 domain:facebookawards.com
@@ -6699,7 +6698,7 @@ domain:sushi.ski
 domain:trpger.us
 domain:threads.com
 domain:threads.net
-domain:ads-twitter.com
+domain:ads-twitter.com:@ads
 domain:cms-twdigitalassets.com
 domain:periscope.tv
 domain:pscp.tv
@@ -15918,6 +15917,7 @@ domain:redhat.org
 domain:scala-lang.org
 domain:scala-sbt.org
 domain:sentry.io
+domain:sentry-cdn.com
 domain:sourcehut.org
 domain:sr.ht
 domain:askubuntu.com
@@ -19719,6 +19719,8 @@ domain:advertiserscommunity.com:@ads
 domain:adwords-community.com:@ads
 domain:adwords.com:@ads
 domain:adwordsexpress.com:@ads
+domain:app-analytics-services.com:@ads
+domain:app-analytics-services-att.com:@ads
 domain:app-measurement-cn.com:@ads
 domain:app-measurement.com:@ads
 domain:doubleclick-cn.net:@ads
@@ -19728,6 +19730,7 @@ domain:doubleclick.net:@ads
 domain:google-analytics-cn.com:@ads
 domain:google-analytics.com:@ads
 domain:googleadapis.com:@ads
+domain:googleadapis.l.google.com:@ads
 domain:googleads-cn.com:@ads
 domain:googleads.com:@ads
 domain:googleadservices-cn.com:@ads
@@ -19746,9 +19749,13 @@ domain:googletraveladservices-cn.com:@ads
 domain:googletraveladservices.com:@ads
 domain:googlevads-cn.com:@ads
 domain:mail-ads.google.com:@ads
+domain:mobileads.google.com:@ads
 domain:marketingplatform.google.com:@ads
+domain:pagead.l.google.com:@ads
+domain:partnerad.l.google.com:@ads
 domain:urchin.com:@ads
 full:analytics.google.com:@ads
+full:fundingchoicesmessages.google.com:@ads
 regexp:^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$:@ads
 domain:googleplay.com
 domain:play-fe.googleapis.com
@@ -21199,7 +21206,7 @@ domain:bing.com
 domain:bing.com.cn:@cn
 domain:bing.net
 domain:bing123.com
-domain:bingads.com
+domain:bingads.com:@ads
 domain:bingagencyawards.com
 domain:bingapis.com
 domain:bingapistatistics.com
@@ -21388,7 +21395,7 @@ domain:microsoft-sbs-domains.com
 domain:microsoft-smb.cn:@cn
 domain:microsoft365.com
 domain:microsoftaccountguard.com
-domain:microsoftads.com
+domain:microsoftads.com:@ads
 domain:microsoftadvertising.com
 domain:microsoftadvertisingregionalawards.com
 domain:microsoftaffiliates.com
@@ -21430,7 +21437,7 @@ domain:morphcharts.com
 domain:mpnevolution.com
 domain:ms-studiosmedia.com
 domain:ms365surfaceoffer.com
-domain:msads.net
+domain:msads.net:@ads
 domain:msauth.cn:@cn
 domain:msauth.net
 domain:msauthimages.cn:@cn

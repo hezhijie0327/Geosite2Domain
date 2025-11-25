@@ -110,7 +110,6 @@ domain:facebook30.com
 domain:facebook30.net
 domain:facebook30.org
 domain:facebook4business.com
-domain:facebookads.com
 domain:facebookadvertisingsecrets.com
 domain:facebookatschool.com
 domain:facebookawards.com

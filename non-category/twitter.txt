@@ -1,4 +1,4 @@
-domain:ads-twitter.com
+domain:ads-twitter.com:@ads
 domain:cms-twdigitalassets.com
 domain:periscope.tv
 domain:pscp.tv

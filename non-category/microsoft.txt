@@ -147,7 +147,7 @@ domain:bing.com
 domain:bing.com.cn:@cn
 domain:bing.net
 domain:bing123.com
-domain:bingads.com
+domain:bingads.com:@ads
 domain:bingagencyawards.com
 domain:bingapis.com
 domain:bingapistatistics.com
@@ -489,7 +489,7 @@ domain:microsoft-sbs-domains.com
 domain:microsoft-smb.cn:@cn
 domain:microsoft365.com
 domain:microsoftaccountguard.com
-domain:microsoftads.com
+domain:microsoftads.com:@ads
 domain:microsoftadvertising.com
 domain:microsoftadvertisingregionalawards.com
 domain:microsoftaffiliates.com
@@ -531,7 +531,7 @@ domain:morphcharts.com
 domain:mpnevolution.com
 domain:ms-studiosmedia.com
 domain:ms365surfaceoffer.com
-domain:msads.net
+domain:msads.net:@ads
 domain:msauth.cn:@cn
 domain:msauth.net
 domain:msauthimages.cn:@cn
