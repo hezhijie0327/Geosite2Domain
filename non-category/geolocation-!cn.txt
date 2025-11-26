@@ -2301,6 +2301,7 @@ domain:akastream.com
 domain:akastream.net
 domain:akatns.net
 domain:akcdn.com.cn:@cn
+domain:akstat.io
 domain:aptdn.net:@cn
 domain:edgekey.net
 domain:edgekey88.net:@cn
@@ -22326,6 +22327,7 @@ domain:yandex.st
 domain:yandex.sx
 domain:yandex.tj
 domain:yandex.tm
+domain:yandex.tr
 domain:yandex.ua
 domain:yandex.uz
 domain:yandexadexchange.net

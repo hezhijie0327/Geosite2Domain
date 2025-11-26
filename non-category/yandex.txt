@@ -42,6 +42,7 @@ domain:yandex.st
 domain:yandex.sx
 domain:yandex.tj
 domain:yandex.tm
+domain:yandex.tr
 domain:yandex.ua
 domain:yandex.uz
 domain:yandexadexchange.net

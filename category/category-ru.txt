@@ -1,4 +1,5 @@
 domain:moscow
+domain:tatar
 domain:ru
 domain:su
 domain:xn--80adxhks
@@ -250,6 +251,7 @@ domain:yandex.st
 domain:yandex.sx
 domain:yandex.tj
 domain:yandex.tm
+domain:yandex.tr
 domain:yandex.ua
 domain:yandex.uz
 domain:yandexadexchange.net
