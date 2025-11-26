@@ -71,3 +71,6 @@ domain:maixhub.com
 domain:ti.com.cn
 domain:wch.cn
 domain:wch-ic.com
+domain:ymtc.com
+domain:ymtc.com.cn
+domain:ymtc.cn

@@ -28,6 +28,8 @@ domain:188.com
 domain:321fenx.com
 domain:haowu.link
 domain:icourse163.org
+domain:lf126.net
+domain:lf127.net
 domain:lofter.com
 domain:nease.net
 domain:netease-inc.com

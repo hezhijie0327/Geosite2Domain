@@ -189,6 +189,13 @@ domain:xd.cn
 domain:xd.com
 domain:xdcdn.net
 domain:xindong.com
+domain:dobest.com
+domain:langrenclub.com
+domain:sanguosha.com
+domain:xhlsgs.com
+domain:xinwuji.com
+domain:yokaverse.com
+domain:zhuoyou.com
 domain:9xgame.com
 domain:astral-vector.com
 domain:forevernine.com
@@ -201,6 +208,9 @@ domain:morefreegame.com
 domain:heavenlywind.cc
 domain:tgpro.top
 domain:tgprocs.net
+domain:tuyoo.com
+domain:wanmei.com
+domain:wmsj.cn
 domain:winegame.net
 domain:wo1wan.com
 domain:ycgame.com

@@ -219,6 +219,7 @@ domain:alihealth.com.cn
 domain:alihealth.hk:@!cn
 domain:aliimg.com
 domain:alikmd.com
+domain:alimama.cn
 domain:alimama.com
 domain:alimebot.com
 domain:alimei.com
@@ -262,6 +263,7 @@ domain:gongyi.xin
 domain:ialicdn.com
 domain:iconfont.cn
 domain:ics.design
+domain:imgcook.com
 domain:jhgtgb.com
 domain:kanbox.com
 domain:lazada.com
@@ -284,6 +286,7 @@ domain:shuqi.com
 domain:shuqireader.com
 domain:sparenode.com
 domain:supet.com
+domain:tanx.com
 domain:ttpod.com
 domain:wandoujia.com
 domain:xin.xin
@@ -317,6 +320,7 @@ domain:lingshoujia.com
 domain:mashort.cn
 domain:pailitao.com
 domain:taobao.com
+domain:taobao.net
 domain:taobao.org
 domain:taobaocdn.com
 domain:taobizhong.com
@@ -330,6 +334,7 @@ domain:tmall.ru:@!cn
 domain:tmalltv.com
 domain:tmjl.ai
 domain:cueme.cn
+domain:myquark.cn
 domain:quark.cn
 domain:alitrip.com
 domain:feizhu.cn

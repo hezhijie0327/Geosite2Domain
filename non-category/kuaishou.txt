@@ -7,9 +7,11 @@ full:log-sdk.gifshow.com:@ads
 full:wlog.kuaishou.com:@ads
 domain:ecukwai.com
 domain:gifshow.com
+domain:inkuai.com
 domain:inkwai.com
 domain:ksapisrv.com
 domain:kskwai.com
+domain:kuaishou.cn
 domain:kuaishou.com
 domain:kuaishouapps.com
 domain:kuaishoupay.com

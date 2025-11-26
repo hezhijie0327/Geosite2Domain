@@ -163,7 +163,13 @@ domain:cztvcdn.com
 domain:cztvcloud.com
 domain:zjstv.com
 domain:cqcb.com
+domain:cqhlw.cn
+domain:cqliving.com
+domain:cqnews.net
+domain:cqsjb.com
 domain:hntv.tv
+domain:hndt.com
+domain:dianzhenkeji.com
 domain:dgtle.com
 domain:gcores.com
 domain:geekpark.net
@@ -199,6 +205,7 @@ domain:yundzh.com
 domain:caixin.com
 domain:news.cn
 domain:xinhuanet.com
+domain:xinhuaxmt.com
 domain:people.cn
 domain:people.com.cn
 domain:huanqiu.com
