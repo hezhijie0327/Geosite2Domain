@@ -710,6 +710,16 @@ domain:playvalorant.com
 domain:riotforgegames.com
 domain:ruinedking.com
 domain:convrgencegame.com
+domain:rblx.org
+domain:rbx.com
+domain:rbxcdn.com
+domain:roblox-api.arkoselabs.co
+domain:roblox.com
+domain:robloxlabs.com
+full:d1unuk07s6td74.cloudfront.net
+full:roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
+full:roblox-poc.global.ssl.fastly.net
+full:robloxcorp.s.llnwi.net
 domain:rockstargames.com
 domain:rsg.sc
 full:gamedownloads-rockstargames-com.akamaized.net

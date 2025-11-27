@@ -12,6 +12,10 @@ domain:coze.com
 domain:marscode.com
 domain:trae.ai
 domain:cerebras.ai
+domain:oystermercury.top
+domain:comfy.org
+domain:comfyci.org
+domain:comfyregistry.org
 domain:cursor-cdn.com
 domain:cursor.com
 domain:cursor.sh

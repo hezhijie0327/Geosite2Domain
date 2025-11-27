@@ -296,8 +296,11 @@ domain:yunos-inc.com
 domain:yunos.com
 domain:yushanfang.com
 domain:zuodao.com
+domain:ae-rus.net:@!cn
+domain:aestatic.net:@!cn
 domain:aliexpress.com
 domain:aliexpress.ru:@!cn
+domain:aliexpress-media.com
 domain:alipayplus.com
 domain:alipay.hk:@!cn
 domain:alipaymo.com:@!cn

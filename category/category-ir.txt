@@ -229,6 +229,7 @@ domain:tehrantimes.com
 domain:asanpardakht.com
 domain:asanpardakht.net
 domain:behpardakht.com
+domain:bitbarg.me
 domain:iranicard.ir
 domain:mydigipay.com
 domain:pay.ir
@@ -238,6 +239,8 @@ domain:pep.co.ir
 domain:sadadpsp.ir
 domain:sep.ir
 domain:shaparak.ir
+domain:vandar.app
+domain:vandar.io
 domain:weswap.digital
 domain:zarinpal.com
 domain:ac.ir
@@ -322,6 +325,9 @@ domain:zoomit.ir
 domain:alibaba.ir
 domain:flightio.com
 domain:mrbilit.com
+domain:tap30.services
+domain:tap33.me
+domain:tapsi.cab
 domain:tapsi.ir
 domain:cdnsnapptrip.com
 domain:snapp-box.com
@@ -367,3 +373,9 @@ domain:jobinjacdn.com
 domain:beytoote.com
 domain:setare.com
 domain:tebyan.net
+domain:dekapost.com
+domain:mahex.com
+domain:miare.ir
+domain:podro.com
+domain:tipax.ir
+domain:tipaxco.com
