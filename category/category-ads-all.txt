@@ -163,7 +163,9 @@ domain:najva.com
 domain:sabavision.com
 domain:tapsell.ir
 domain:yektanet.com
-domain:x.clearbitjs.com:@ads
+domain:clearbit.com:@ads
+domain:clearbitjs.com:@ads
+domain:clearbitscripts.com:@ads
 domain:ad.games.dmm.com:@ads
 domain:bluekai.com:@ads
 domain:fout.jp:@ads
@@ -271,7 +273,6 @@ full:wlog.kuaishou.com:@ads
 domain:ads.service.kugou.com:@ads
 domain:adserviceretry.kglink.cn:@ads
 domain:adserviceretry.kugou.com:@ads
-domain:leanplum.com:@ads
 domain:apple.www.letv.com:@ads
 domain:ark.letv.com:@ads
 domain:dc.letv.com:@ads
@@ -283,7 +284,6 @@ domain:graph.instagram.com:@ads
 domain:graph-fallback.instagram.com:@ads
 domain:graph.whatsapp.com:@ads
 domain:graph.whatsapp.net:@ads
-domain:decide.mixpanel.com:@ads
 domain:mopub.com:@ads
 domain:evt.mxplay.com:@ads
 domain:a.youdao.com:@ads
@@ -302,7 +302,6 @@ domain:js-agent.newrelic.com:@ads
 domain:ogury.com:@ads
 domain:presage.io:@ads
 domain:ogury.co:@ads
-domain:onesignal.com:@ads
 regexp:^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$:@ads
 domain:openx.net:@ads
 domain:openxadexchange.com:@ads
@@ -320,7 +319,10 @@ domain:qhupdate.com:@ads
 domain:s.360.cn:@ads
 domain:s.so.360.cn:@ads
 domain:s.union.360.cn:@ads
-domain:cdn.segment.com:@ads
+domain:segment.com:@ads
+domain:segment.io:@ads
+domain:segmenthub.com:@ads
+domain:segmentify.com:@ads
 domain:static.sensorsdata.cn:@ads
 domain:ad.sina.com.cn:@ads
 domain:ad.us.sinaimg.cn:@ads
@@ -449,7 +451,6 @@ domain:splash-ads.unitychina.cn:@ads
 domain:unityads.unity.cn:@ads
 domain:unityads.unity3d.com:@ads
 domain:unityads.unitychina.cn:@ads
-domain:ads.wteam.xyz:@ads
 domain:collector.xhamster.com:@ads
 domain:a.market.xiaomi.com:@ads
 domain:ad.intl.xiaomi.com:@ads
@@ -503,6 +504,7 @@ domain:ad.wang502.com
 domain:adbutter.net
 domain:addthisedge.com
 domain:ads.trafficjunky.net
+domain:ads.wteam.xyz
 domain:adtechus.com
 domain:adtrue.com
 domain:adxprtz.com
@@ -511,6 +513,7 @@ domain:cdn.banclip.com
 domain:cfts1tifqr.com
 domain:contentabc.com
 domain:cretgate.com
+domain:decide.mixpanel.com
 domain:ero-advertising.com
 domain:eroadvertising.com
 domain:exoclick.com
@@ -527,10 +530,12 @@ domain:jads.co
 domain:jl3.yjaxa.top
 domain:juicyads.com
 domain:kepler-37b.com
+domain:leanplum.com
 domain:lqc006.com
 domain:moat.com
 domain:moatads.com
 domain:mobwithad.com
+domain:onesignal.com
 domain:realsrv.com
 domain:s4yxaqyq95.com
 domain:shhs-ydd8x2.yjrmss.cn

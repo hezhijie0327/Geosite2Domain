@@ -1,1 +1,4 @@
-domain:cdn.segment.com:@ads
+domain:segment.com:@ads
+domain:segment.io:@ads
+domain:segmenthub.com:@ads
+domain:segmentify.com:@ads

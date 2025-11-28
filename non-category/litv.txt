@@ -1,2 +1,5 @@
 domain:litv.tv
 domain:litvfreepc.akamaized.net
+domain:ofiii.com
+full:ntdofifreepc-tgc.cdn.hinet.net
+full:ntdofifreevcpc-tgc.cdn.hinet.net
