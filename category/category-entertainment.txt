@@ -1243,7 +1243,6 @@ full:p16-tiktokcdn-com.akamaized.net:@!cn
 domain:themoviedb.org
 domain:tmdb.org
 full:tmdb-image-prod.b-cdn.net
-domain:thetvdb.com
 domain:dogatch.jp
 domain:gorin.jp
 domain:screens-lab.jp
@@ -1521,7 +1520,6 @@ domain:fireside.fm
 domain:internationalsaimoe.com
 domain:joox.com
 domain:linetv.tw
-domain:litv.tv
 domain:megaphone.fm
 domain:mikanani.me
 domain:moov.hk
