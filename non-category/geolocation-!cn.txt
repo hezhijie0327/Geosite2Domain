@@ -5632,6 +5632,9 @@ domain:nowe.com
 domain:nowe.hk
 domain:now-tv.com
 domain:now-ashare.com
+domain:playfamily.ru
+domain:okko.sport
+domain:okko.tv
 domain:haiwaikan.com
 domain:iole.tv
 domain:olehd.com
@@ -5762,6 +5765,7 @@ full:p16-tiktokcdn-com.akamaized.net:@!cn
 domain:themoviedb.org
 domain:tmdb.org
 full:tmdb-image-prod.b-cdn.net
+domain:thetvdb.com
 domain:dogatch.jp
 domain:gorin.jp
 domain:screens-lab.jp
@@ -6047,7 +6051,6 @@ domain:omobi.cc
 domain:oranum.com
 domain:overcast.fm
 domain:syosetu.com
-domain:thetvdb.com
 domain:weverse.io
 domain:yande.re
 domain:amp-api.podcast.apple.com

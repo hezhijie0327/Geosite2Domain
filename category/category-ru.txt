@@ -138,6 +138,9 @@ domain:memealerts.com
 domain:mycdn.me
 domain:okcdn.ru
 domain:ok.ru
+domain:playfamily.ru
+domain:okko.sport
+domain:okko.tv
 domain:ozon.ru
 domain:ozone.ru
 domain:ozonusercontent.com
