@@ -74,6 +74,7 @@ full:pplx-res.cloudinary.com
 domain:poe.com
 domain:poecdn.net
 domain:grok.com
+domain:grok.x.com
 domain:x.ai
 domain:coderabbit.ai
 domain:coderabbit.gallery.vsassets.io
@@ -21074,6 +21075,7 @@ domain:oculusforbusiness.com
 domain:oculusrift.com
 domain:oculusvr.com
 domain:powersunitedvr.com
+domain:llama.com
 domain:meta.ai
 domain:meta.com
 domain:azure
@@ -22308,6 +22310,7 @@ domain:admetrica.ru
 domain:dzen.ru
 domain:naydex.net
 domain:rostaxi.org
+domain:turbopages.org
 domain:webvisor.com
 domain:webvisor.org
 domain:ya.ru

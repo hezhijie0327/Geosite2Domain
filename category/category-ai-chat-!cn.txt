@@ -74,6 +74,7 @@ full:pplx-res.cloudinary.com
 domain:poe.com
 domain:poecdn.net
 domain:grok.com
+domain:grok.x.com
 domain:x.ai
 domain:coderabbit.ai
 domain:coderabbit.gallery.vsassets.io

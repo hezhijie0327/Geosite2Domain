@@ -546,5 +546,6 @@ domain:whatsapp.net
 domain:whatsapp.org
 domain:whatsapp.tv
 domain:whatsappbrand.com
+domain:llama.com
 domain:meta.ai
 domain:meta.com

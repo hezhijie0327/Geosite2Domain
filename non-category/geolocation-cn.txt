@@ -92,6 +92,9 @@ domain:namiso.com
 full:ai.zhaomi.cn
 domain:miaoyanai.com
 domain:faxingbao.com
+domain:meta.law
+domain:metaso.cn
+domain:xiezuocat.com
 domain:airchina.com.cn
 domain:airchinacargo.com
 domain:hainanairlines.com

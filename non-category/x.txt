@@ -23,4 +23,5 @@ domain:twvid.com
 domain:vine.co
 domain:x.com
 domain:grok.com
+domain:grok.x.com
 domain:x.ai
