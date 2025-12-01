@@ -672,6 +672,8 @@ domain:steamdb.info
 domain:ptzwx.com
 domain:quanben-xiaoshuo.com
 domain:quanben.io
+domain:7tv.app
+domain:7tv.io
 domain:abema.io
 domain:abema.tv
 domain:abema-tv.com
@@ -1060,6 +1062,7 @@ domain:ofiii.com
 full:ntdofifreepc-tgc.cdn.hinet.net
 full:ntdofifreevcpc-tgc.cdn.hinet.net
 domain:manhuagui.com
+domain:metacritic.com
 domain:mubi.com
 domain:mubicdn.net
 domain:biggggg.com
@@ -1173,6 +1176,9 @@ domain:mgo-images.com
 domain:ravm.tv
 domain:roku.com
 domain:rokutime.com
+domain:rutube.ru
+domain:rutubelist.ru
+domain:rtbcdn.ru
 domain:showtimeanytime.com
 domain:showtime.com
 domain:dishworld.com

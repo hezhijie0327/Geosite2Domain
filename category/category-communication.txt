@@ -120,6 +120,13 @@ domain:telesco.pe
 domain:tg.dev
 domain:tx.me
 domain:usercontent.dev
+domain:temp-mail.org
+domain:viber.com
+domain:viber.co
+domain:viber.me
+domain:s-bid.rmp.rakuten.com
+domain:vbcdn.com
+domain:vbcdn.net
 domain:graph.whatsapp.com:@ads
 domain:graph.whatsapp.net:@ads
 domain:wa.me

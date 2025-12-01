@@ -130,6 +130,8 @@ domain:chukotka.ru
 domain:jamal.ru
 domain:surgut.ru
 domain:yamal.ru
+domain:habr.com
+domain:habrastorage.org
 domain:boosty.to
 domain:donationalerts.com
 domain:imgsmail.ru
@@ -144,6 +146,9 @@ domain:okko.tv
 domain:ozon.ru
 domain:ozone.ru
 domain:ozonusercontent.com
+domain:rutube.ru
+domain:rutubelist.ru
+domain:rtbcdn.ru
 domain:cdn-vk.ru
 domain:mradx.net
 domain:mvk.com

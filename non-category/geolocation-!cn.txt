@@ -2806,6 +2806,13 @@ domain:telesco.pe
 domain:tg.dev
 domain:tx.me
 domain:usercontent.dev
+domain:temp-mail.org
+domain:viber.com
+domain:viber.co
+domain:viber.me
+domain:s-bid.rmp.rakuten.com
+domain:vbcdn.com
+domain:vbcdn.net
 domain:graph.whatsapp.com:@ads
 domain:graph.whatsapp.net:@ads
 domain:wa.me
@@ -5198,6 +5205,8 @@ domain:steamdb.info
 domain:ptzwx.com
 domain:quanben-xiaoshuo.com
 domain:quanben.io
+domain:7tv.app
+domain:7tv.io
 domain:abema.io
 domain:abema.tv
 domain:abema-tv.com
@@ -5577,6 +5586,7 @@ domain:ofiii.com
 full:ntdofifreepc-tgc.cdn.hinet.net
 full:ntdofifreevcpc-tgc.cdn.hinet.net
 domain:manhuagui.com
+domain:metacritic.com
 domain:mubi.com
 domain:mubicdn.net
 domain:biggggg.com
@@ -5690,6 +5700,9 @@ domain:mgo-images.com
 domain:ravm.tv
 domain:roku.com
 domain:rokutime.com
+domain:rutube.ru
+domain:rutubelist.ru
+domain:rtbcdn.ru
 domain:showtimeanytime.com
 domain:showtime.com
 domain:dishworld.com
@@ -6130,6 +6143,8 @@ domain:dcard.tw
 domain:broadbandreports.com
 domain:dslr.net
 domain:dslreports.com
+domain:habr.com
+domain:habrastorage.org
 domain:hkgolden.com
 domain:hkgolden.media
 domain:lih.kg
