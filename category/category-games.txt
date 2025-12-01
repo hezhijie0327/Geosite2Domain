@@ -498,6 +498,7 @@ domain:illusion.jp
 domain:itch.io
 domain:itch.zone
 domain:lowiro.com
+domain:modrinth.com
 domain:nexon.co.jp
 domain:nexon.com
 domain:nexon.io
@@ -874,7 +875,6 @@ domain:humblebundle.com
 domain:joinsquad.com
 domain:loverslab.com
 domain:minecraft.wiki
-domain:modrinth.com
 domain:nexusmods.com
 domain:offworldindustries.com
 domain:offworldindustries.net
