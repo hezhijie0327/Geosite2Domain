@@ -6,6 +6,10 @@ domain:sunlogin.net
 domain:todesk.com
 domain:asklink.com
 domain:privateapi.xyz
+domain:xedge.cc
+domain:glxcc.net
+domain:xn0.cc
+domain:ganjiangvpn.com
 domain:tower.im
 domain:tritoninfo.net
 domain:xiumi.us
