@@ -124,6 +124,7 @@ domain:duxiaomanfintech.com
 domain:duxiaomantech.com
 domain:dxm-cdn.com
 domain:dxm-int.com
+domain:dxmjinr.com
 domain:dxmlcf.com
 domain:dxmlcfintech.com
 domain:dxmpay.com

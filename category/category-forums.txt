@@ -20,6 +20,8 @@ domain:dcard.tw
 domain:broadbandreports.com
 domain:dslr.net
 domain:dslreports.com
+domain:dzen.ru
+domain:dzeninfra.ru
 domain:habr.com
 domain:habrastorage.org
 domain:hkgolden.com

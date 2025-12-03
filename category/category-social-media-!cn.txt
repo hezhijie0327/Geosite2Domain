@@ -481,6 +481,8 @@ domain:linkedin.cn:@cn
 full:e122475.dscg.akamaiedge.net
 full:licdn.cn.cdn20.com
 full:linkedin.sc.omtrdc.net
+domain:imgsmail.ru
+domain:mail.ru
 domain:misskey.io
 domain:misskeyusercontent.jp
 domain:9ineverse.com
@@ -515,6 +517,9 @@ domain:oekakiskey.com
 domain:submarin.online
 domain:sushi.ski
 domain:trpger.us
+domain:ok.ru
+domain:okcdn.ru
+domain:mycdn.me
 domain:threads.com
 domain:threads.net
 domain:ads-twitter.com:@ads

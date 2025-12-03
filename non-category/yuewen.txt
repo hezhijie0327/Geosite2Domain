@@ -4,6 +4,8 @@ domain:lrts.me
 domain:qdmm.com
 domain:qidian.com
 domain:readnovel.com
+domain:rongshuxia.com
 domain:tingbook.com
+domain:xs.cn
 domain:xs8.cn
 domain:xxsy.net
