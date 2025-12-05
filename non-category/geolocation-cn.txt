@@ -3704,6 +3704,7 @@ domain:byteoversea.com:@!cn
 domain:muscdn.com:@!cn
 domain:musical.ly:@!cn
 domain:tik-tokapi.com:@!cn
+domain:tiktok-row.net:@!cn
 domain:tiktok.com:@!cn
 domain:tiktokcdn-eu.com:@!cn
 domain:tiktokcdn-us.com:@!cn
@@ -3711,6 +3712,8 @@ domain:tiktokcdn.com:@!cn
 domain:tiktokd.net:@!cn
 domain:tiktokd.org:@!cn
 domain:tiktokeu-cdn.com:@!cn
+domain:tiktokglobalshopv.com:@!cn
+domain:tiktokminis.us:@!cn
 domain:tiktokrow-cdn.com:@!cn
 domain:tiktokv.com:@!cn
 domain:tiktokv.eu:@!cn
