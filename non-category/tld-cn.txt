@@ -1,8 +1,13 @@
-domain:cn
-domain:citic
+domain:alibaba
+domain:alipay
 domain:baidu
-domain:unicom
+domain:citic
+domain:cn
+domain:icbc
 domain:sohu
+domain:taobao
+domain:tmall
+domain:unicom
 domain:xn--fiqs8s
 domain:xn--fiqz9s
 domain:xn--zfr164b

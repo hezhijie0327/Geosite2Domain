@@ -1729,7 +1729,6 @@ domain:onedinesfree.com
 domain:paypass.net
 domain:pieceofplastic.com
 domain:predictivetechnologies.com
-domain:priceless.com
 domain:pricelessmarketingengine.com
 domain:sbitravelcard.com
 domain:shoppercentre.com
@@ -2227,7 +2226,6 @@ domain:visafulfillment.com
 domain:visagiftcard.us
 domain:visaglobalfinance.com
 domain:visaicsdirect.com
-domain:visainfinite.ca
 domain:visainfinite.cn:@cn
 domain:visanet.net
 domain:visapay.cn:@cn
@@ -4742,6 +4740,10 @@ domain:uoherald.com
 domain:xdsummit.com
 full:ea.tt.omtrdc.net
 full:eaassets-a.akamaihd.net
+domain:arcraiders.com
+domain:embark-studios.com
+domain:embark.games
+domain:reachthefinals.com
 domain:3lateral.com
 domain:artstation.com
 domain:capturingreality.com
@@ -4776,6 +4778,8 @@ regexp:^epicgames-download\d-\d+\.file\.myqcloud\.com$:@cn
 domain:tarkov.com
 domain:eft-store.com
 domain:escapefromtarkov.com
+domain:faceit.com
+domain:faceit-cdn.net
 full:avatargarenanow-a.akamaihd.net
 full:cdngarenanow-a.akamaihd.net
 full:dlgarenanow-a.akamaihd.net
@@ -8365,15 +8369,6 @@ domain:mydirtyhobby.com
 domain:mdhcdn.com
 domain:nutaku.com
 domain:nutaku.net
-domain:gaytube.com
-domain:phncdn.com
-domain:phprcdn.com
-domain:porngub.com
-domain:pornhub-deutsch.net
-domain:pornhubapparel.com
-domain:pornhub.com
-domain:pornhub.org
-domain:pornhubpremium.com
 domain:realitykings.com
 domain:rk.com
 domain:livehdcams.com
@@ -8426,6 +8421,15 @@ domain:picacomic.xyz
 domain:wikawika.xyz
 domain:playboy.com
 domain:playboy.com.uk
+domain:gaytube.com
+domain:phncdn.com
+domain:phprcdn.com
+domain:porngub.com
+domain:pornhub-deutsch.net
+domain:pornhubapparel.com
+domain:pornhub.com
+domain:pornhub.org
+domain:pornhubpremium.com
 domain:pornpros.com
 domain:pornprosnetwork.com
 domain:sehuatang.net
@@ -8499,7 +8503,6 @@ domain:ibonedyourmom.com
 domain:ifuckedtheboss.com
 domain:jessicaturner.com
 domain:joanabliss.com
-domain:juliamiles.com
 domain:juliamiles.com
 domain:karinahart.com
 domain:karlajames.com
@@ -10550,7 +10553,6 @@ domain:gaystarnews.com
 domain:gaystream.pw
 domain:gaythebest.com
 domain:gaytopcams.com
-domain:gaytube.com
 domain:gayvl.net
 domain:gazounabi.com
 domain:gbluebooks.blogspot.com
@@ -11968,8 +11970,8 @@ domain:mrloli.com
 domain:mrpinks.com
 domain:mrporngeek.com
 domain:mrpornlive.com
-domain:mrssiren.com
 domain:mrskin.com
+domain:mrssiren.com
 domain:mrvideosdesexo.xxx
 domain:mt0011.site
 domain:mtao.fun
@@ -13904,7 +13906,6 @@ domain:vivaxnxx.com
 domain:vixen.com
 domain:vixvids.to
 domain:vjav.com
-domain:vtrahe.page
 domain:vl4x.net
 domain:vmwxw.com
 domain:vnanchoi.ca
@@ -13931,6 +13932,7 @@ domain:vrsexgames.biz
 domain:vrsmash.com
 domain:vrsumo.com
 domain:vsezoo.com
+domain:vtrahe.page
 domain:vulgarx.com
 domain:w0512.com
 domain:w6un.com
@@ -14160,12 +14162,12 @@ domain:xnalgas.com
 domain:xnertv.shop
 domain:xnostars.com
 domain:xnxvideos.org
-domain:xnxx.com
 domain:xnxx-sex-tube.com
 domain:xnxx-sex-videos.com
 domain:xnxx-teens.com
 domain:xnxx-tv.net
 domain:xnxx-xxx.win
+domain:xnxx.com
 domain:xnxx.health
 domain:xnxx18.pro
 domain:xnxx2.info
@@ -14230,7 +14232,6 @@ domain:xvideo.vlog.br
 domain:xvideo1.org
 domain:xvideo2.org
 domain:xvideoporno.tv
-domain:xvideos.com
 domain:xvideos-dl.top
 domain:xvideos-porn-video.com
 domain:xvideos-xxxx.com
@@ -14458,8 +14459,8 @@ domain:youngsex.sexy
 domain:youngsex.video
 domain:youngteenhomeporn.com
 domain:youngtube.me
-domain:youporn.com
 domain:youporn-germany.com
+domain:youporn.com
 domain:youporner.eu
 domain:youpornlist.com
 domain:youpornxvideos.net

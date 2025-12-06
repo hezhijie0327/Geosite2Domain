@@ -148,7 +148,6 @@ domain:visafulfillment.com
 domain:visagiftcard.us
 domain:visaglobalfinance.com
 domain:visaicsdirect.com
-domain:visainfinite.ca
 domain:visainfinite.cn:@cn
 domain:visanet.net
 domain:visapay.cn:@cn
