@@ -3,6 +3,7 @@ domain:leigod.com
 domain:tmjiasuqi.com
 domain:uu.163.com
 domain:xunyou.com
+domain:xunyou.mobi
 domain:bohejiasuqi.com
 domain:jiasu.bohe.com
 domain:golink.com

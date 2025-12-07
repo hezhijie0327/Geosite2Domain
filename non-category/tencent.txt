@@ -431,6 +431,7 @@ domain:gcloudcstest.com
 domain:gcloudcstestonly.com
 domain:gclouddolphin.com
 domain:gcloudsdk.com
+domain:gcloudsvcs.com
 domain:gdtimg.com
 domain:goto-game.com
 domain:goto-game.mobi

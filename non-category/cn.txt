@@ -1263,11 +1263,13 @@ domain:kankanews.com
 domain:kankannews.com
 domain:kksmg.com
 domain:statickksmg.com
+domain:latepost.com
 domain:nanyuenews.com
 domain:nbd.com.cn
 domain:news.cn
 domain:xinhuanet.com
 domain:xinhuaxmt.com
+domain:ofweek.com
 domain:3conline.com
 domain:pconline.com.cn
 domain:people.cn
@@ -2896,6 +2898,7 @@ domain:leigod.com
 domain:tmjiasuqi.com
 domain:uu.163.com
 domain:xunyou.com
+domain:xunyou.mobi
 domain:bohejiasuqi.com
 domain:jiasu.bohe.com
 domain:golink.com
@@ -5420,6 +5423,7 @@ domain:gcloudcstest.com
 domain:gcloudcstestonly.com
 domain:gclouddolphin.com
 domain:gcloudsdk.com
+domain:gcloudsvcs.com
 domain:gdtimg.com
 domain:goto-game.com
 domain:goto-game.mobi

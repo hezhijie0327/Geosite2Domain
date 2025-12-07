@@ -2373,6 +2373,7 @@ domain:cloudflarestream.com
 domain:cloudflaretest.com
 domain:cloudflarewarp.com
 domain:every1dns.net
+domain:imagedelivery.net
 domain:isbgpsafeyet.com
 domain:one.one.one
 domain:pacloudflare.com

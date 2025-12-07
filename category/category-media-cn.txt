@@ -214,11 +214,13 @@ domain:kankanews.com
 domain:kankannews.com
 domain:kksmg.com
 domain:statickksmg.com
+domain:latepost.com
 domain:nanyuenews.com
 domain:nbd.com.cn
 domain:news.cn
 domain:xinhuanet.com
 domain:xinhuaxmt.com
+domain:ofweek.com
 domain:3conline.com
 domain:pconline.com.cn
 domain:people.cn
