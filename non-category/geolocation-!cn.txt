@@ -2378,6 +2378,7 @@ domain:isbgpsafeyet.com
 domain:one.one.one
 domain:pacloudflare.com
 domain:pages.dev
+domain:r2.dev
 domain:trycloudflare.com
 domain:videodelivery.net
 domain:warp.plus
