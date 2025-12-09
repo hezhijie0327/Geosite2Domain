@@ -36,6 +36,7 @@ domain:pglstatp-snssdk-toutiao.com:@ads
 domain:pglstatp-toutiao-b.com:@ads
 domain:pglstatp-toutiao.com:@ads
 domain:sf3-ttcdn-tos.pstatp.com:@ads
+domain:shoppingads.cn:@ads
 domain:butterfly-static.cn
 domain:butterflyai.cn
 domain:coze.cn
@@ -744,6 +745,10 @@ domain:ppximg.com
 domain:ppxstatic.com
 domain:ppxvod.com
 domain:xiaoxiaapi.com
+domain:douyinec.com
+domain:ecombdapi.com
+domain:ecombdstatic.com
+domain:jinritemai.com
 domain:faceu.com
 domain:ulikecam.com
 domain:rsproxy.cn

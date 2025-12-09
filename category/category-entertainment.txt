@@ -1587,6 +1587,7 @@ domain:odysee.com
 domain:omobi.cc
 domain:oranum.com
 domain:overcast.fm
+domain:qobuz.com
 domain:syosetu.com
 domain:weverse.io
 domain:yande.re

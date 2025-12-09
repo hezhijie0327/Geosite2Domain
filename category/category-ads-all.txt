@@ -171,6 +171,7 @@ domain:pglstatp-snssdk-toutiao.com:@ads
 domain:pglstatp-toutiao-b.com:@ads
 domain:pglstatp-toutiao.com:@ads
 domain:sf3-ttcdn-tos.pstatp.com:@ads
+domain:shoppingads.cn:@ads
 domain:adivery.com
 domain:adivery.ir
 domain:kaprila.com
