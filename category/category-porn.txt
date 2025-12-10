@@ -290,6 +290,10 @@ domain:pornhub.org
 domain:pornhubpremium.com
 domain:pornpros.com
 domain:pornprosnetwork.com
+domain:poi.icu
+domain:poi6.net
+domain:poihub.com
+domain:project-poi.com
 domain:sehuatang.net
 domain:sehuatang.org
 domain:shireyishunjian.com

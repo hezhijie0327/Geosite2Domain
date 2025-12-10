@@ -2,6 +2,7 @@ domain:wps.cn
 domain:wps.com
 domain:wpscdn.cn
 domain:wpscdn.com
+domain:qwps.cn
 domain:kscord.com
 domain:51dzt.com
 domain:iciba.com
