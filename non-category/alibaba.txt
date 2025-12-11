@@ -78,6 +78,7 @@ domain:alicdn.com
 domain:alicloudapi.com
 domain:alidayu.com
 domain:alidns.com
+domain:aligfwaf.com
 domain:alikunlun.com
 domain:alikunlun.net
 domain:aliyun-inc.com

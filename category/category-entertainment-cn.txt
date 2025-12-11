@@ -640,12 +640,14 @@ domain:xxsy.net
 domain:ldmnq.com
 domain:lsplayer.com
 domain:yeshen.com
-domain:51zmt.top
-domain:bsbsb.top
 domain:17k.com
 domain:3dmgame.com
+domain:51zmt.top
 domain:ali213.net
+domain:baofeng.com
+domain:baofeng.net
 domain:bgwxc.com
+domain:bsbsb.top
 domain:dmzj.com
 domain:muwai.com
 domain:dongqiudi.com

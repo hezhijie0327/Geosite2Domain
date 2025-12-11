@@ -78,3 +78,4 @@ domain:janrainservices.com:@cn
 domain:skycdn.com.cn:@cn
 domain:soasta-dswb.com
 domain:srtcdn.net
+domain:tl88.net:@cn

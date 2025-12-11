@@ -177,6 +177,7 @@ domain:cqliving.com
 domain:cqnews.net
 domain:cqsjb.com
 domain:cs.com.cn
+domain:cyzone.cn
 domain:cztv.com
 domain:cztvcdn.com
 domain:cztvcloud.com
@@ -186,6 +187,8 @@ domain:gw.com.cn
 domain:yundzh.com
 domain:dgtle.com
 domain:donews.com
+domain:dzng.com
+domain:dzwww.com
 domain:expreview.com
 domain:freebuf.com
 domain:gcores.com
@@ -204,6 +207,7 @@ domain:iresearch.cn
 domain:jianyuweb.com
 domain:wallstcn.com
 domain:wallstreetcn.com
+domain:jiqizhixin.com
 domain:jrj.com.cn
 domain:jrjimg.cn
 domain:jsbc.com
@@ -227,8 +231,11 @@ domain:people.cn
 domain:people.com.cn
 domain:pingwest.com
 domain:qbitai.com
+domain:qiluyidian.net
+domain:ql1d.com
 domain:qingdaonews.com
 domain:qianzhan.com
+domain:scsjb.cn
 domain:secrss.com
 domain:sfccn.com
 domain:shangyexinzhi.com

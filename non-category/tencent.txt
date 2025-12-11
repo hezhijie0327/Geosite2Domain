@@ -145,6 +145,7 @@ domain:tcloudhw.com
 domain:tcloudhw.net
 domain:tcloudscdn.com
 domain:tcloudscdn.net
+domain:tdnsstic1.cn
 domain:tdnsx1.com
 domain:techo.chat
 domain:tefscloud.com
