@@ -180,6 +180,8 @@ domain:r.bing.com:@cn
 domain:th.bing.com:@cn
 full:bj1.api.bing.com:@cn
 full:emoi-cncdn.bing.com:@cn
+domain:collector.github.com:@ads
+domain:copilot-telemetry.githubusercontent.com:@ads
 domain:npm.community
 domain:npmjs.com
 domain:npmjs.org

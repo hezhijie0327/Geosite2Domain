@@ -1,3 +1,4 @@
+domain:fenxi.360.cn:@ads
 domain:fenxi.com:@ads
 domain:lianmeng.360.cn:@ads
 domain:mediav.com:@ads

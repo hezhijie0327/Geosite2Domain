@@ -43,4 +43,5 @@ domain:static163.net
 domain:ydstatic.com
 domain:yeah.net
 domain:youdao.com
+domain:yunxinfw.com
 domain:zhuanzfx.com

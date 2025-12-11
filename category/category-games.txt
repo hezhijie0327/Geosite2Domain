@@ -920,6 +920,7 @@ domain:humblebundle.com
 domain:joinsquad.com
 domain:loverslab.com
 domain:minecraft.wiki
+domain:nexus-cdn.com
 domain:nexusmods.com
 domain:offworldindustries.com
 domain:offworldindustries.net

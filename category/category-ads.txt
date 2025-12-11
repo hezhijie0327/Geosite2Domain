@@ -176,6 +176,8 @@ domain:metrics.duolingo.com:@ads
 domain:analytics.vpc.duolingo.com:@ads
 domain:emogi.com:@ads
 domain:data.flurry.com:@ads
+domain:collector.github.com:@ads
+domain:copilot-telemetry.githubusercontent.com:@ads
 domain:2mdn-cn.net:@ads
 domain:2mdn.net:@ads
 domain:admob-cn.com:@ads
@@ -305,6 +307,7 @@ domain:openxmarket.asia:@ads
 domain:cdn.pocoiq.cn:@ads
 domain:oct.pocoiq.cn:@ads
 domain:ads.pubmatic.com:@ads
+domain:fenxi.360.cn:@ads
 domain:fenxi.com:@ads
 domain:lianmeng.360.cn:@ads
 domain:mediav.com:@ads

@@ -179,6 +179,8 @@ domain:fury.io
 domain:gemfury.com
 domain:gitbook.com
 domain:gitbook.io
+domain:collector.github.com:@ads
+domain:copilot-telemetry.githubusercontent.com:@ads
 domain:npm.community
 domain:npmjs.com
 domain:npmjs.org
