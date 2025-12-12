@@ -87,6 +87,7 @@ domain:copilot.microsoft.com
 domain:devin.ai
 domain:diabrowser.com
 domain:dify.ai
+domain:duck.ai
 domain:gateway.ai.cloudflare.com
 domain:meta.ai
 domain:mistral.ai

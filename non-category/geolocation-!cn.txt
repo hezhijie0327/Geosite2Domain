@@ -87,6 +87,7 @@ domain:copilot.microsoft.com
 domain:devin.ai
 domain:diabrowser.com
 domain:dify.ai
+domain:duck.ai
 domain:gateway.ai.cloudflare.com
 domain:meta.ai
 domain:mistral.ai
@@ -15322,6 +15323,7 @@ domain:ddh.gg
 domain:dgg.gg
 domain:dontbubble.us
 domain:donttrack.us
+domain:duck.ai
 domain:duck.co
 domain:duck.com
 domain:duckduckco.com

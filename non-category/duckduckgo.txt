@@ -7,6 +7,7 @@ domain:ddh.gg
 domain:dgg.gg
 domain:dontbubble.us
 domain:donttrack.us
+domain:duck.ai
 domain:duck.co
 domain:duck.com
 domain:duckduckco.com

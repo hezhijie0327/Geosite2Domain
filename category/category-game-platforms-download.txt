@@ -1,6 +1,6 @@
 full:download.cdp.bethesda.net
 full:content.cdp.bethesda.net
-full:gamedownloads-rockstargames-com.akamaized.net
+full:lion.secure.dyn.riotcdn.net
 full:lol.secure.dyn.riotcdn.net
 full:ks-foundation.secure.dyn.riotcdn.net
 full:riot-client.secure.dyn.riotcdn.net
@@ -41,6 +41,7 @@ full:blzdist-wow.necdn.leihuo.netease.com:@cn
 full:blzdist-hs.necdn.leihuo.netease.com:@cn
 full:blzdist-di.necdn.leihuo.netease.com:@cn
 full:blzdist-ow.necdn.leihuo.netease.com:@cn
+full:blzdist-d3.necdn.leihuo.netease.com:@cn
 full:gog-cdn.akamaized.net
 full:gog-cdn-fastly-cp77.gog.com
 full:gog-cdn-fastly.gog.com
@@ -59,8 +60,11 @@ full:assets2.xboxlive.com
 full:uplaypc-s-ubisoft.cdn.ubi.com
 full:uplaypc-s-ubisoft-ww.cdn.ubi.com
 full:ubisoftconnect.cdn.ubi.com
+full:ubisoftconnect.eo-edgefunctions7.com:@cn
+full:uplaypc-s-ubisoft.cdn.ubionline.com.cn:@cn
 full:uplaypc-s-ubisoft.cdn.ubionline.com.cn:@cn
 full:origin-a.akamaihd.net
+full:prod.cloudflare.cdn.ea.com
 full:dl.steam.clngaa.com:@cn
 full:st.dl.eccdnx.com:@cn
 full:st.dl.bscstorage.net:@cn

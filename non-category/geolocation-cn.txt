@@ -2526,13 +2526,15 @@ domain:dxy.cn
 domain:dxycdn.com
 domain:jsehealth.com
 domain:mingxuan.store
+domain:gov.cn
+domain:cma.cn
+domain:nmc.cn
 domain:airchina.com.cn
 domain:airchinacargo.com
 domain:hainanairlines.com
 domain:hnacargo.com
 domain:hnair.com
 domain:10044.cn
-domain:caac.gov.cn
 domain:ceair.com
 domain:chinaexpressair.com
 domain:csair.com
@@ -5819,9 +5821,6 @@ domain:sinopecnews.com.cn
 domain:sinopecsales.com
 domain:chugou360.com
 domain:ycrx360.com
-domain:cma.gov.cn
-domain:cma.cn
-domain:nmc.cn
 domain:0123456789.com
 domain:0379home.com
 domain:055110.com
