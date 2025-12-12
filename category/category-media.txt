@@ -1323,10 +1323,12 @@ domain:chinaeconomicreview.com
 domain:cmmedia.com.tw
 domain:cna.com.tw
 domain:cnyes.com
+domain:cool3c.com
 domain:coolloud.org.tw
 domain:cup.com.hk
 domain:cw.com.tw
 domain:d100.net
+domain:donga.com
 domain:ebc.net.tw
 domain:ettoday.net
 domain:eventsinfocus.org
@@ -1334,6 +1336,7 @@ domain:factwire.org
 domain:fortuneinsight.com
 domain:freebeacon.com
 domain:gbnews.uk
+domain:getnews.jp
 domain:hk01.com
 domain:hkcitizenmedia.com
 domain:hkcnews.com
@@ -1342,11 +1345,13 @@ domain:hkgpao.com
 domain:hongkongfp.com
 domain:inmediahk.net
 domain:inside.com.tw
+domain:itmedia.co.jp
 domain:jfengtime.com
 domain:landofhope.tv
 domain:limedia.tw
 domain:localpresshk.com
 domain:ltsports.com.tw
+domain:macaodaily.com
 domain:mdnkids.com
 domain:mirrormedia.com.tw
 domain:mirrormedia.mg
@@ -1390,6 +1395,7 @@ domain:upmedia.mg
 domain:vjmedia.com.hk
 domain:warroom.org
 domain:washingtonpost.com
+domain:watch.impress.co.jp
 domain:wealth.com.tw
 domain:weiyuksj.com
 domain:wenzhao.ca

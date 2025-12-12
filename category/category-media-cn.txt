@@ -191,7 +191,6 @@ domain:dzng.com
 domain:dzwww.com
 domain:expreview.com
 domain:freebuf.com
-domain:gcores.com
 domain:geekpark.net
 domain:gmw.com
 domain:hexun.com
@@ -202,6 +201,7 @@ domain:huanqiu.com
 domain:huanqiucdn.cn
 domain:huxiu.com
 domain:huxiucdn.com
+domain:icpcw.com
 domain:idcquan.com
 domain:iresearch.cn
 domain:jianyuweb.com
@@ -219,6 +219,7 @@ domain:kankannews.com
 domain:kksmg.com
 domain:statickksmg.com
 domain:latepost.com
+domain:mydrivers.com
 domain:nanyuenews.com
 domain:nbd.com.cn
 domain:news.cn
@@ -253,6 +254,7 @@ domain:10jqka.com.cn
 domain:thsi.cn
 domain:ths123.com
 domain:woshipm.com
+domain:xkb.com.cn
 domain:yicai.com
 domain:zealer.com
 domain:zhichanli.com

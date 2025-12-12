@@ -2,6 +2,7 @@ domain:alibaba
 domain:alipay
 domain:taobao
 domain:tmall
+domain:9game.cn
 domain:ad.api.3g.youku.com:@ads
 domain:ad.api.mobile.youku.com:@ads
 domain:ad.mobile.youku.com:@ads
@@ -200,7 +201,6 @@ domain:cibntv.net
 domain:25pp.com
 domain:56che.com
 domain:95095.com
-domain:9game.cn
 domain:ali-health.com
 domain:aliapp.org
 domain:alibaba-inc.com

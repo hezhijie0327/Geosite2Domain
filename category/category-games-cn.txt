@@ -53,6 +53,7 @@ domain:we4399.com
 domain:webgame163.com
 domain:youba.com
 domain:yxhhdl.com
+domain:9game.cn
 domain:bilibiligame.cn
 domain:bilibiligame.co
 domain:bilibiligame.net
@@ -171,10 +172,8 @@ domain:tcfmglobal.com
 domain:anticheatexpert.com
 domain:17roco.com
 domain:roco.qq.com
-domain:tgbus.com
 domain:tiancity.com
 domain:tiancitycdn.com
-domain:vgtime.com
 domain:vrzwk.cn
 domain:vrzwk.com
 domain:vrzwk.net
@@ -197,6 +196,7 @@ domain:xhlsgs.com
 domain:xinwuji.com
 domain:yokaverse.com
 domain:zhuoyou.com
+domain:7k7k.com
 domain:9xgame.com
 domain:astral-vector.com
 domain:forevernine.com
