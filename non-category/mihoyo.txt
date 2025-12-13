@@ -22,3 +22,5 @@ domain:themisweeps.com
 domain:yuanshen.com
 domain:juequling.com
 regexp:^.+-mihayo\.akamaized\.net$:@cn
+domain:log-upload-os.hoyoverse.com:@ads
+domain:log-upload.mihoyo.com:@ads

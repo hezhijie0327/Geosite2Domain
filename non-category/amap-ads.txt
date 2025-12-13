@@ -1,0 +1,5 @@
+domain:adashx.ut.amap.com:@ads
+domain:dualstack-logs.amap.com:@ads
+domain:logs.amap.com:@ads
+domain:optimus-ads.amap.com:@ads
+domain:v6-adashx.ut.amap.com:@ads

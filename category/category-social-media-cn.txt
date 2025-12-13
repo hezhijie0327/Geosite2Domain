@@ -78,6 +78,8 @@ domain:duowan.com
 domain:dwstatic.com
 domain:yy.com
 domain:yystatic.com
+domain:crash2.zhihu.com:@ads
+domain:zhihu-web-analytics.zhihu.com:@ads
 domain:zhihu.com
 domain:zhimg.com
 domain:tieba.baidu.com

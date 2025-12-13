@@ -1,3 +1,8 @@
+domain:adashx.ut.amap.com:@ads
+domain:dualstack-logs.amap.com:@ads
+domain:logs.amap.com:@ads
+domain:optimus-ads.amap.com:@ads
+domain:v6-adashx.ut.amap.com:@ads
 domain:ad.api.3g.youku.com:@ads
 domain:ad.api.mobile.youku.com:@ads
 domain:ad.mobile.youku.com:@ads
@@ -29,7 +34,6 @@ domain:adash.man.aliyuncs.com:@ads
 domain:adashbc.m.taobao.com:@ads
 domain:adashbc.ut.taobao.com:@ads
 domain:adashx.m.taobao.com:@ads
-domain:adashx.ut.amap.com:@ads
 domain:adashx.ut.ele.me:@ads
 domain:adashx4ae.ut.taobao.com:@ads
 domain:adashx4yt.m.taobao.com:@ads
@@ -57,7 +61,6 @@ domain:retcode.taobao.com:@ads
 domain:tce.alicdn.com:@ads
 domain:tns.simba.taobao.com:@ads
 domain:track.lc.quark.cn:@ads
-domain:v6-adashx.ut.amap.com:@ads
 domain:v6-adashx.ut.cainiao.com:@ads
 domain:v6-adashx.ut.ele.me:@ads
 domain:v6-adashx.ut.taobao.com:@ads

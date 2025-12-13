@@ -386,6 +386,7 @@ domain:adsview.qq.com:@ads
 domain:adsview2.qq.com:@ads
 domain:adv.app.qq.com:@ads
 domain:adver.qq.com:@ads
+domain:badjs.weixinbridge.com:@ads
 domain:beacon.cdn.qq.com:@ads
 domain:beacon.qq.com:@ads
 domain:beaconcdn.qq.com:@ads

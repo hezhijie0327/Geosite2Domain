@@ -1,4 +1,2 @@
 domain:crash2.zhihu.com:@ads
 domain:zhihu-web-analytics.zhihu.com:@ads
-domain:zhihu.com
-domain:zhimg.com

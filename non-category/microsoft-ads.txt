@@ -1,0 +1,6 @@
+domain:browser.events.data.msn.cn:@ads
+domain:browser.events.data.msn.com:@ads
+domain:clarity.ms:@ads
+domain:microsoftads.com:@ads
+domain:msads.net:@ads
+domain:nelreports.net:@ads

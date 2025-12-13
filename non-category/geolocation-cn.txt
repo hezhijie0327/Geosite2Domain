@@ -1367,6 +1367,8 @@ domain:duowan.com
 domain:dwstatic.com
 domain:yy.com
 domain:yystatic.com
+domain:crash2.zhihu.com:@ads
+domain:zhihu-web-analytics.zhihu.com:@ads
 domain:zhihu.com
 domain:zhimg.com
 domain:tieba.baidu.com
@@ -1399,8 +1401,10 @@ domain:kc9.cn
 domain:n0q.cn
 domain:pushcfg.com
 domain:s0n.cn
+domain:aaid.umeng.com:@ads
 domain:alog.umeng.com:@ads
 domain:alog.umengcloud.com:@ads
+domain:utoken.umeng.com:@ads
 domain:w.cnzz.com:@ads
 domain:z.gds.cnzz.com:@ads
 domain:cnzz.com
@@ -3247,6 +3251,11 @@ domain:alipay
 domain:taobao
 domain:tmall
 domain:9game.cn
+domain:adashx.ut.amap.com:@ads
+domain:dualstack-logs.amap.com:@ads
+domain:logs.amap.com:@ads
+domain:optimus-ads.amap.com:@ads
+domain:v6-adashx.ut.amap.com:@ads
 domain:ad.api.3g.youku.com:@ads
 domain:ad.api.mobile.youku.com:@ads
 domain:ad.mobile.youku.com:@ads
@@ -3278,7 +3287,6 @@ domain:adash.man.aliyuncs.com:@ads
 domain:adashbc.m.taobao.com:@ads
 domain:adashbc.ut.taobao.com:@ads
 domain:adashx.m.taobao.com:@ads
-domain:adashx.ut.amap.com:@ads
 domain:adashx.ut.ele.me:@ads
 domain:adashx4ae.ut.taobao.com:@ads
 domain:adashx4yt.m.taobao.com:@ads
@@ -3306,7 +3314,6 @@ domain:retcode.taobao.com:@ads
 domain:tce.alicdn.com:@ads
 domain:tns.simba.taobao.com:@ads
 domain:track.lc.quark.cn:@ads
-domain:v6-adashx.ut.amap.com:@ads
 domain:v6-adashx.ut.cainiao.com:@ads
 domain:v6-adashx.ut.ele.me:@ads
 domain:v6-adashx.ut.taobao.com:@ads
@@ -5451,6 +5458,7 @@ domain:adsview.qq.com:@ads
 domain:adsview2.qq.com:@ads
 domain:adv.app.qq.com:@ads
 domain:adver.qq.com:@ads
+domain:badjs.weixinbridge.com:@ads
 domain:beacon.cdn.qq.com:@ads
 domain:beacon.qq.com:@ads
 domain:beaconcdn.qq.com:@ads

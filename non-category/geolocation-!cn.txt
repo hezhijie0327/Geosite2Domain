@@ -21383,6 +21383,12 @@ domain:r.bing.com:@cn
 domain:th.bing.com:@cn
 full:bj1.api.bing.com:@cn
 full:emoi-cncdn.bing.com:@cn
+domain:browser.events.data.msn.cn:@ads
+domain:browser.events.data.msn.com:@ads
+domain:clarity.ms:@ads
+domain:microsoftads.com:@ads
+domain:msads.net:@ads
+domain:nelreports.net:@ads
 domain:microsoftnews.cc
 domain:microsoftnews.cn:@cn
 domain:microsoftnews.com
@@ -21475,7 +21481,6 @@ domain:c-msedge.net
 domain:centralvalidation.com
 domain:ch9.ms
 domain:charticulator.com
-domain:clarity.ms:@ads
 domain:cloudapp.net
 domain:cloudappsecurity.com
 domain:cortanaanalytics.com
@@ -21539,7 +21544,6 @@ domain:microsoft-sbs-domains.com
 domain:microsoft-smb.cn:@cn
 domain:microsoft365.com
 domain:microsoftaccountguard.com
-domain:microsoftads.com:@ads
 domain:microsoftadvertising.com
 domain:microsoftadvertisingregionalawards.com
 domain:microsoftaffiliates.com
@@ -21581,7 +21585,6 @@ domain:morphcharts.com
 domain:mpnevolution.com
 domain:ms-studiosmedia.com
 domain:ms365surfaceoffer.com
-domain:msads.net:@ads
 domain:msauth.cn:@cn
 domain:msauth.net
 domain:msauthimages.cn:@cn
@@ -21608,7 +21611,6 @@ domain:msra.cn:@cn
 domain:msturing.org
 domain:msudalosti.com
 domain:mymicrosoft.com
-domain:nelreports.net:@ads
 domain:nextechafrica.net
 domain:nxta.org
 domain:o365cn.com:@cn
