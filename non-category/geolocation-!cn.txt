@@ -89,6 +89,7 @@ domain:diabrowser.com
 domain:dify.ai
 domain:duck.ai
 domain:gateway.ai.cloudflare.com
+domain:kiro.dev
 domain:meta.ai
 domain:mistral.ai
 domain:openart.ai
