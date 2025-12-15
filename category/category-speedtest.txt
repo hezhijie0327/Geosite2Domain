@@ -11,6 +11,7 @@ domain:speedtestcustom.com
 domain:webtest.net
 full:www.speedtest.net.cdn.cloudflare.net
 regexp:^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$:@ads
+domain:ookla-speedtest-central.hgconair.hgc.com.hk
 domain:open.cachefly.net
 domain:openspeedtest.com
 domain:cnspeedtest.cn:@cn
