@@ -1,3 +1,5 @@
+full:ad-channel.diwodiwo.xyz:@ads
+full:ad-display.diwodiwo.xyz:@ads
 domain:bikaa.xyz
 domain:bikac.xyz
 domain:bikaios.xyz
@@ -8,6 +10,4 @@ domain:picacn.xyz
 domain:picacomic.com
 domain:picacomic.xyz
 domain:wikawika.xyz
-domain:ad-channel.diwodiwo.xyz:@ads
-domain:ad-display.diwodiwo.xyz:@ads
 domain:diwodiwo.xyz

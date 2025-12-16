@@ -161,7 +161,6 @@ domain:pagead.l.google.com:@ads
 domain:partnerad.l.google.com:@ads
 domain:urchin.com:@ads
 full:analytics.google.com:@ads
-full:fundingchoicesmessages.google.com:@ads
 regexp:^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$:@ads
 domain:deepmind.com
 domain:deepmind.google

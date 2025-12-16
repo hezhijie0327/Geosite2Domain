@@ -213,7 +213,7 @@ domain:thegithubshop.com
 domain:blob.core.windows.net
 full:github-api.arkoselabs.com
 full:github-cloud.s3.amazonaws.com
-regexp:^github-production-release-asset-[0-9a-za-z]{6}\.s3\.amazonaws\.com$
+regexp:^github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com$
 domain:browser.events.data.msn.cn:@ads
 domain:browser.events.data.msn.com:@ads
 domain:clarity.ms:@ads

@@ -187,6 +187,9 @@ domain:ozonusercontent.com
 domain:rutube.ru
 domain:rutubelist.ru
 domain:rtbcdn.ru
+domain:ngenix.net
+domain:restream-media.net
+domain:wink.ru
 domain:5ka.ru
 domain:5post.market
 domain:chizhik.club
