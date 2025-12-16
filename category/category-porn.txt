@@ -313,9 +313,9 @@ domain:picacn.xyz
 domain:picacomic.com
 domain:picacomic.xyz
 domain:wikawika.xyz
-regexp:^([a-z0-9-]+\.)*(?!ad-display\.|ad-channel\.)[a-z0-9-]+\.diwodiwo\.xyz$
 domain:ad-channel.diwodiwo.xyz:@ads
 domain:ad-display.diwodiwo.xyz:@ads
+domain:diwodiwo.xyz
 domain:playboy.com
 domain:playboy.com.uk
 domain:gaytube.com
