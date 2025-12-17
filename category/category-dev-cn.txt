@@ -122,4 +122,5 @@ domain:weui.io:@cn
 domain:openkylin.top
 domain:ubuntukylin.com
 domain:jinrishici.com
+domain:openvela.com
 domain:tipdm.org
