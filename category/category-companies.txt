@@ -324,6 +324,7 @@ domain:amplifyapp.com
 domain:amplifyframework.com
 domain:aws-iot-hackathon.com
 domain:aws.com
+domain:aws.dev
 domain:awsapprunner.com
 domain:awsapps.com
 domain:awsautopilot.com
@@ -3863,6 +3864,8 @@ domain:jules.google.com
 domain:labs.google
 domain:aisandbox-pa.googleapis.com
 domain:aida.googleapis.com
+domain:opal.google
+domain:opal.google.com
 domain:googleplay.com
 domain:play-fe.googleapis.com
 domain:play-games.googleusercontent.com

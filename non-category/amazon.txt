@@ -49,6 +49,7 @@ domain:amplifyapp.com
 domain:amplifyframework.com
 domain:aws-iot-hackathon.com
 domain:aws.com
+domain:aws.dev
 domain:awsapprunner.com
 domain:awsapps.com
 domain:awsautopilot.com
