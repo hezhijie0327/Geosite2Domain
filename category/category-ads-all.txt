@@ -105,6 +105,7 @@ domain:applvn.com:@ads
 domain:atom-data.io:@ads
 domain:analytics-data.io:@ads
 domain:ironbeast.io:@ads
+domain:syh.zybang.com:@ads
 domain:adscdn.baidu.com:@ads
 domain:adx.xiaodutv.com:@ads
 domain:afd.baidu.com:@ads

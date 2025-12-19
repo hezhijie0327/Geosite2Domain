@@ -1,3 +1,4 @@
+domain:syh.zybang.com:@ads
 domain:zuoyebang.cc
 domain:zuoyebang.com
 domain:zybang.com

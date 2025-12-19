@@ -1902,6 +1902,7 @@ domain:hsqh.net
 domain:lu.com
 domain:lufax.com
 domain:lufaxcdn.com
+domain:pospal.cn
 domain:a2z.org.cn:@cn
 domain:amazonaws.cn:@cn
 domain:amazonaws.com.cn:@cn
@@ -3723,6 +3724,7 @@ domain:lydaas.net
 domain:lydass.cn
 domain:lydass.com.cn
 domain:lydass.net
+domain:syh.zybang.com:@ads
 domain:adscdn.baidu.com:@ads
 domain:adx.xiaodutv.com:@ads
 domain:afd.baidu.com:@ads

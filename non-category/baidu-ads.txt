@@ -1,3 +1,4 @@
+domain:syh.zybang.com:@ads
 domain:adscdn.baidu.com:@ads
 domain:adx.xiaodutv.com:@ads
 domain:afd.baidu.com:@ads
