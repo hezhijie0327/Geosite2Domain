@@ -1,3 +1,6 @@
+domain:askdiandian.com
+domain:diandianlife.top
 domain:xhscdn.com
 domain:xhscdn.net
+domain:xhslink.com
 domain:xiaohongshu.com

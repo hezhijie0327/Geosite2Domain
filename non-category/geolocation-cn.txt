@@ -1363,6 +1363,7 @@ domain:weibocdn.com
 domain:xhaiwai.com
 domain:xhscdn.com
 domain:xhscdn.net
+domain:xhslink.com
 domain:xiaohongshu.com
 domain:duowan.com
 domain:dwstatic.com
@@ -2631,6 +2632,7 @@ full:hospital.pku.edu.cn
 full:ss.bjmu.edu.cn
 domain:yctdyy.com
 domain:smuszh.com
+domain:ahfda.com
 domain:biomart.cn
 domain:dxy.com
 domain:dxy.cn
@@ -2763,6 +2765,10 @@ domain:cugbonline.cn
 domain:dearedu.com
 domain:dgjy.net
 domain:eduei.com
+domain:ictbda.cn
+domain:ictbda.com
+domain:modex.com.cn
+domain:xir.cn
 domain:j-test.com
 domain:nattest-china.com
 domain:keboyunxiao.com
@@ -2850,6 +2856,7 @@ domain:ancientbooks.cn
 domain:apabi.com
 domain:bjinfobank.com
 domain:blyun.com
+domain:medalink.cn
 domain:chinabooktrading.com
 domain:cidp.com.cn
 domain:cnbksy.com
@@ -2919,6 +2926,8 @@ domain:guoxuedashi.com
 domain:guoxuemi.com
 domain:zyh365.com
 domain:wzlib.cn
+domain:askdiandian.com
+domain:diandianlife.top
 domain:deepseek.com
 domain:butterfly-static.cn
 domain:butterflyai.cn
@@ -3301,6 +3310,7 @@ domain:i8tq.com
 domain:tq121.com.cn
 domain:weather.com.cn
 domain:weatherdt.com
+domain:immersivetranslate.cn
 domain:ireader.com
 domain:zhangyue.com
 domain:zhangyue01.com
@@ -5748,8 +5758,12 @@ domain:ad1.xiaomi.com:@ads
 domain:admob.xiaomi.com:@ads
 domain:adv.sec.intl.miui.com:@ads
 domain:adv.sec.miui.com:@ads
+domain:data.mistat.india.xiaomi.com:@ads
+domain:data.mistat.intl.xiaomi.com:@ads
+domain:data.mistat.rus.xiaomi.com:@ads
+domain:data.mistat.xiaomi.com:@ads
+domain:logupdate.avlyun.sec.miui.com:@ads
 domain:misc.in.duokanbox.com:@ads
-domain:mistat.xiaomi.com:@ads
 domain:sentry.d.mi.com:@ads
 domain:sentry.d.xiaomi.net:@ads
 domain:tjqonline.cn:@ads

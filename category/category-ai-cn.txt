@@ -1,3 +1,5 @@
+domain:askdiandian.com
+domain:diandianlife.top
 domain:deepseek.com
 domain:butterfly-static.cn
 domain:butterflyai.cn

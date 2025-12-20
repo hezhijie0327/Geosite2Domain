@@ -45,6 +45,7 @@ domain:ancientbooks.cn
 domain:apabi.com
 domain:bjinfobank.com
 domain:blyun.com
+domain:medalink.cn
 domain:chinabooktrading.com
 domain:cidp.com.cn
 domain:cnbksy.com

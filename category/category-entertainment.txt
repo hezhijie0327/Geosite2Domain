@@ -815,6 +815,8 @@ domain:dazn.com
 domain:dazndn.com
 domain:indazn.com
 domain:indaznlab.com
+domain:deezer.com
+domain:dzcdn.net
 domain:deviantart.com
 domain:deviantart.net
 domain:da-files.com

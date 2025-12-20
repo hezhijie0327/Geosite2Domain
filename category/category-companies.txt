@@ -3630,6 +3630,8 @@ domain:digitalocean.com
 domain:digitaloceanspaces.com
 domain:do.co
 domain:nginxconfig.io
+domain:dmit.io
+domain:dmit.sh
 domain:drweb.by
 domain:drweb.cn
 domain:drweb.co.jp

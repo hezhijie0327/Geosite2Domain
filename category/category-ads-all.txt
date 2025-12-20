@@ -533,8 +533,12 @@ domain:ad1.xiaomi.com:@ads
 domain:admob.xiaomi.com:@ads
 domain:adv.sec.intl.miui.com:@ads
 domain:adv.sec.miui.com:@ads
+domain:data.mistat.india.xiaomi.com:@ads
+domain:data.mistat.intl.xiaomi.com:@ads
+domain:data.mistat.rus.xiaomi.com:@ads
+domain:data.mistat.xiaomi.com:@ads
+domain:logupdate.avlyun.sec.miui.com:@ads
 domain:misc.in.duokanbox.com:@ads
-domain:mistat.xiaomi.com:@ads
 domain:sentry.d.mi.com:@ads
 domain:sentry.d.xiaomi.net:@ads
 domain:tjqonline.cn:@ads

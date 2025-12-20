@@ -71,8 +71,11 @@ domain:weibo.com
 domain:weibo.com.cn
 domain:weibocdn.com
 domain:xhaiwai.com
+domain:askdiandian.com
+domain:diandianlife.top
 domain:xhscdn.com
 domain:xhscdn.net
+domain:xhslink.com
 domain:xiaohongshu.com
 domain:duowan.com
 domain:dwstatic.com

@@ -130,8 +130,6 @@ domain:chukotka.ru
 domain:jamal.ru
 domain:surgut.ru
 domain:yamal.ru
-domain:habr.com
-domain:habrastorage.org
 domain:dzen.ru
 domain:dzeninfra.ru
 domain:imgsmail.ru
