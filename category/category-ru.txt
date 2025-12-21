@@ -130,6 +130,8 @@ domain:chukotka.ru
 domain:jamal.ru
 domain:surgut.ru
 domain:yamal.ru
+domain:avito.ru
+domain:avito.st
 domain:dzen.ru
 domain:dzeninfra.ru
 domain:imgsmail.ru
