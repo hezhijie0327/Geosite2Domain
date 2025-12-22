@@ -2415,6 +2415,9 @@ domain:cloudimage.io
 domain:cloudimg.io
 domain:stackpath.com
 domain:stackpath.dev
+domain:vrcdn.cloud
+domain:vrcdn.live
+domain:vrcdn.video
 domain:embedwistia-a.akamaihd.net
 domain:wistia.com
 domain:wistia.net
@@ -5181,6 +5184,9 @@ full:ubisoft-uplay-savegames.s3.amazonaws.com
 full:ubisoft-orbit-savegames.s3.amazonaws.com
 full:ubistatic3-a.akamaihd.net
 full:uplaypc-s-ubisoft.cdn.ubi.com:@cn
+domain:vrchat.cloud
+domain:vrchat.com
+domain:vrchat.net
 full:datarouter.apps.netherrealm.com
 full:wb-agora-hydra-file-storage-k1.s3.amazonaws.com
 domain:warnerbrosgames.com
