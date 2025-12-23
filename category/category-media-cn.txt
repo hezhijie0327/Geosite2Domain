@@ -207,6 +207,8 @@ domain:iresearch.cn
 domain:jianyuweb.com
 domain:wallstcn.com
 domain:wallstreetcn.com
+domain:jfdaily.com
+domain:shobserver.com
 domain:jiqizhixin.com
 domain:jrj.com.cn
 domain:jrjimg.cn

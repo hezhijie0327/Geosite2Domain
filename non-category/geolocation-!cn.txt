@@ -5846,6 +5846,11 @@ domain:tiktokw.us:@!cn
 domain:ttlivecdn.com:@!cn
 domain:ttoverseaus.net:@!cn
 domain:ttwstatic.com:@!cn
+domain:tiktokcdn-us.com.edgesuite.net:@!cn
+domain:tiktokcdn.com.akamaized.net:@!cn
+domain:tiktokcdn.com.edgesuite.net:@!cn
+domain:tiktokv.com.edgekey.net:@!cn
+domain:tiktokv.com.edgesuite.net:@!cn
 full:p16-tiktokcdn-com.akamaized.net:@!cn
 full:roovza-launches.appsflyersdk.com:@!cn
 full:roovza.inapps.appsflyersdk.com:@!cn
@@ -15526,8 +15531,6 @@ domain:kodi.tv
 domain:kodi.wiki
 domain:liberapay.com
 domain:liberapay.org
-domain:linguee.com
-domain:deepl.com
 domain:localizecdn.com
 domain:localizejs.com
 domain:localizestatus.com
@@ -15692,7 +15695,6 @@ domain:zeit-world.org
 domain:zeit.co
 domain:zeit.sh
 domain:zeitworld.com
-domain:webflow.com
 domain:editorx.com
 domain:parastorage.com
 domain:wix-code.com
@@ -15738,6 +15740,11 @@ domain:biliplus.com
 domain:originlab.com
 domain:cloudlatex.io
 domain:overleaf.com
+domain:linguee.com
+domain:deepl.com
+domain:collinsdictionary.com
+domain:ldoceonline.com
+domain:immersivetranslate.com
 domain:auroraoss.com
 domain:cookiepro.com
 domain:cookielaw.org
@@ -16252,6 +16259,7 @@ domain:mobatek.net
 domain:mpv.io
 domain:mysql.com
 domain:neovim.io
+domain:newpipe.net
 domain:nixos.org
 domain:nodesource.com
 domain:notepad-plus-plus.org
@@ -16262,8 +16270,8 @@ domain:packagist.org
 domain:pcre.org
 domain:phantomjs.org
 domain:php.net
-domain:putty.org
 domain:postgresql.org
+domain:putty.org
 domain:r-project.org
 domain:raspberrypi.org
 domain:raspbian.org
@@ -16281,6 +16289,8 @@ domain:videojs.com
 domain:videolan.org
 domain:wapm.io
 domain:wasmer.io
+domain:webflow.com
+domain:weblate.org
 domain:wireshark.org
 domain:x.org
 domain:xposed.info
@@ -23359,4 +23369,3 @@ domain:tsquare.tv
 domain:windy.com
 domain:xdty.org
 domain:xingrz.me
-domain:immersivetranslate.com

@@ -508,6 +508,7 @@ domain:mobatek.net
 domain:mpv.io
 domain:mysql.com
 domain:neovim.io
+domain:newpipe.net
 domain:nixos.org
 domain:nodesource.com
 domain:notepad-plus-plus.org
@@ -518,8 +519,8 @@ domain:packagist.org
 domain:pcre.org
 domain:phantomjs.org
 domain:php.net
-domain:putty.org
 domain:postgresql.org
+domain:putty.org
 domain:r-project.org
 domain:raspberrypi.org
 domain:raspbian.org
@@ -537,6 +538,8 @@ domain:videojs.com
 domain:videolan.org
 domain:wapm.io
 domain:wasmer.io
+domain:webflow.com
+domain:weblate.org
 domain:wireshark.org
 domain:x.org
 domain:xposed.info
