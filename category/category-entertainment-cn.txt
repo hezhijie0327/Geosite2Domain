@@ -642,6 +642,7 @@ domain:lsplayer.com
 domain:yeshen.com
 domain:17k.com
 domain:51zmt.top
+domain:aisee.tv
 domain:baofeng.com
 domain:baofeng.net
 domain:bgwxc.com

@@ -4,9 +4,11 @@ domain:chinamobile.com
 domain:chinamobileltd.com
 domain:speedtest.hk.chinamobile.com:@!cn
 domain:speedtestbb.hk.chinamobile.com:@!cn
-domain:migucloud.com
-domain:migu.cn
+domain:cmread.com
 domain:cmvideo.cn
+domain:migu.cn
+domain:migucloud.com
+domain:migufun.com
 domain:miguvideo.com
 domain:andfx.cn
 domain:andfx.net

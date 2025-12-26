@@ -93,7 +93,14 @@ domain:cugbonline.cn
 domain:dearedu.com
 domain:dgjy.net
 domain:eduei.com
+domain:eoffcn.com
+domain:jinrongren.net
+domain:offcn.com
+domain:zggqzp.com
+domain:zgsydw.com
 domain:gk100.com
+domain:huatu.com
+domain:sydw8.com
 domain:ictbda.cn
 domain:ictbda.com
 domain:modex.com.cn
