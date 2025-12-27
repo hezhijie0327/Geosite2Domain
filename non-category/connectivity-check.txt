@@ -1,12 +1,13 @@
-domain:ping.archlinux.org
 domain:captive.apple.com
-domain:connectivitycheck.gstatic.com
+domain:ping.archlinux.org
 domain:cp.cloudflare.com
 domain:network-test.debian.org
 domain:detectportal.firefox.com
+domain:connectivitycheck.gstatic.com
 full:connectivitycheck.platform.hihonorcloud.com
 full:connectivitycheck.platform.hicloud.com
 domain:networkcheck.kde.org
 full:connect.rom.miui.com
+full:connectivity-check.ubuntu.com
 domain:msftconnecttest.com
 domain:msftncsi.com
