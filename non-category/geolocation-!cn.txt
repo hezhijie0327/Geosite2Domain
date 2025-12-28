@@ -15797,6 +15797,7 @@ full:appleworldwidedeveloper.sc.omtrdc.net
 full:p-events-delivery.akamaized.net
 domain:archlinux.org
 domain:archlinuxarm.org
+domain:archlinuxcn.org
 domain:bootstrapcdn.com
 domain:getbootstrap.com
 domain:braventures.com
@@ -16241,6 +16242,7 @@ domain:getcomposer.org
 domain:getzola.org
 domain:git-scm.com
 domain:gnu.org
+domain:godbolt.org
 domain:greenend.org.uk
 domain:hex.pm
 domain:hexdocs.pm
@@ -22624,6 +22626,7 @@ domain:rarbgunblock.com
 domain:rarbgunblock.org
 domain:rarbgunblocked.org
 domain:rarbgway.org
+domain:dmhy.org
 domain:greasyfork.org
 domain:928.plus
 domain:zind.cloud

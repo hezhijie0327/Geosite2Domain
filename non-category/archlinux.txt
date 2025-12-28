@@ -1,2 +1,3 @@
 domain:archlinux.org
 domain:archlinuxarm.org
+domain:archlinuxcn.org

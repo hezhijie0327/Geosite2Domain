@@ -1,5 +1,6 @@
 domain:captive.apple.com
-domain:ping.archlinux.org
+full:ping.archlinux.org
+full:redirect.archlinux.org
 domain:cp.cloudflare.com
 domain:network-test.debian.org
 domain:detectportal.firefox.com

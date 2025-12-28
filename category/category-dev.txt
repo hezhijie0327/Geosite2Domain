@@ -45,6 +45,7 @@ full:appleworldwidedeveloper.sc.omtrdc.net
 full:p-events-delivery.akamaized.net
 domain:archlinux.org
 domain:archlinuxarm.org
+domain:archlinuxcn.org
 domain:bootstrapcdn.com
 domain:getbootstrap.com
 domain:braventures.com
@@ -489,6 +490,7 @@ domain:getcomposer.org
 domain:getzola.org
 domain:git-scm.com
 domain:gnu.org
+domain:godbolt.org
 domain:greenend.org.uk
 domain:hex.pm
 domain:hexdocs.pm
