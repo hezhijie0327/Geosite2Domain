@@ -1,4 +1,5 @@
 domain:first-ns.de
+domain:hetzner-cloud.de
 domain:hetzner.cloud
 domain:hetzner.com
 domain:hetzner.company

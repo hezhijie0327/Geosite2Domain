@@ -20669,6 +20669,7 @@ full:xn--flw351e.com:@cn
 domain:gvt1-cn.com:@cn
 domain:gvt2-cn.com:@cn
 domain:first-ns.de
+domain:hetzner-cloud.de
 domain:hetzner.cloud
 domain:hetzner.com
 domain:hetzner.company
