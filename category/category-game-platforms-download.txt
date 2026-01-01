@@ -489,3 +489,4 @@ full:steam.eca.qtlglb.com
 full:steam.naeu.qtlglb.com
 full:steam.ru.qtlglb.com
 full:edge.steam-dns.top.comcast.net
+domain:dl.playstation.net
