@@ -582,3 +582,4 @@ domain:vkuservideo.com
 domain:vkuservideo.net
 domain:vkuservideo.ru
 domain:vkvideo.ru
+domain:truthsocial.com
