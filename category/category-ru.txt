@@ -187,6 +187,15 @@ domain:ozonusercontent.com
 domain:rutube.ru
 domain:rutubelist.ru
 domain:rtbcdn.ru
+domain:geobasket.ru
+domain:paywb.com
+domain:rwb.ru
+domain:wb-basket.ru
+domain:wb.ru
+domain:wbbasket.ru
+domain:wbpay.ru
+domain:wibes.ru
+domain:wildberries.ru
 domain:ngenix.net
 domain:restream-media.net
 domain:wink.ru
