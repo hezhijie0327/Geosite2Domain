@@ -36,6 +36,7 @@ domain:ccbtrust.com.cn
 domain:ccbxt.com
 domain:citic
 domain:xn--fiq64b
+domain:cfc108.com
 domain:chinaamc.com
 domain:citic-prudential.com.cn
 domain:citicbank.com
