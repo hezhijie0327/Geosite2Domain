@@ -70,9 +70,9 @@ domain:maintracker.org
 domain:rutracker.cc
 domain:rutracker.cr
 domain:rutracker.me
+domain:rutracker.net
 domain:rutracker.nl
 domain:rutracker.org
-domain:rutrecker.net
 domain:rutrk.org
 domain:soyjak.party
 domain:soyjak.st

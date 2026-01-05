@@ -34,6 +34,7 @@ full:alkalimakersuite-pa.clients6.google.com
 full:webchannel-alkalimakersuite-pa.clients6.google.com
 domain:generativeai.google
 domain:makersuite.google.com
+domain:ai.studio
 domain:aistudio.google.com
 domain:bard.google.com
 domain:gemini.google
@@ -6452,9 +6453,9 @@ domain:maintracker.org
 domain:rutracker.cc
 domain:rutracker.cr
 domain:rutracker.me
+domain:rutracker.net
 domain:rutracker.nl
 domain:rutracker.org
-domain:rutrecker.net
 domain:rutrk.org
 domain:soyjak.party
 domain:soyjak.st
@@ -22777,6 +22778,7 @@ domain:rarbgunblock.org
 domain:rarbgunblocked.org
 domain:rarbgway.org
 domain:dmhy.org
+domain:rutor.info
 domain:greasyfork.org
 domain:928.plus
 domain:zind.cloud

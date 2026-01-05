@@ -177,6 +177,7 @@ full:alkalimakersuite-pa.clients6.google.com
 full:webchannel-alkalimakersuite-pa.clients6.google.com
 domain:generativeai.google
 domain:makersuite.google.com
+domain:ai.studio
 domain:aistudio.google.com
 domain:bard.google.com
 domain:gemini.google
