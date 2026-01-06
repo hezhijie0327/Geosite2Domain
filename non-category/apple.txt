@@ -2,6 +2,10 @@ domain:api-adservices.apple.com:@ads
 domain:iadsdk.apple.com:@ads
 domain:iad.apple.com:@ads
 domain:qwapi.com:@ads
+domain:appleswift.com
+domain:swift.org
+domain:swiftui.cn:@cn
+domain:swiftui.com.cn:@cn
 domain:calendarserver.org
 domain:apple-cloudkit.com
 domain:cups.org
@@ -44,6 +48,7 @@ full:ocsp.apple.com:@cn
 full:ocsp2-lb.apple.com.akadns.net:@cn
 full:ocsp2.apple.com:@cn
 full:valid.apple.com:@cn
+full:valid.origin-apple.com.akadns.net:@cn
 full:apple-tv-plus-press.apple.com
 full:hls-amt.itunes.apple.com
 full:hls.itunes.apple.com
@@ -895,10 +900,6 @@ domain:itunesu.com
 domain:itunesu.net
 domain:iutunes.com
 domain:wwwitunes.com
-domain:appleswift.com
-domain:swift.org
-domain:swiftui.cn:@cn
-domain:swiftui.com.cn:@cn
 domain:apple
 domain:apple.ae
 domain:apple.at
@@ -1696,7 +1697,6 @@ full:cds-cdn.v.aaplimg.com:@cn
 full:cds.apple.com:@cn
 full:cds.apple.com.akadns.net:@cn
 full:cdsassets.apple.com:@cn
-full:certs.apple.com:@cn
 full:cl2-cn.apple.com:@cn
 full:cl4-cn.apple.com:@cn
 full:clientflow.apple.com:@cn
@@ -1704,7 +1704,6 @@ full:clientflow.apple.com.akadns.net:@cn
 full:cn-smp-paymentservices.apple.com:@cn
 full:configuration.apple.com:@cn
 full:configuration.apple.com.akadns.net:@cn
-full:crl.apple.com:@cn
 full:cstat.apple.com:@cn
 full:cstat.cdn-apple.com:@cn
 full:dd-cdn.origin-apple.com.akadns.net:@cn
@@ -1757,10 +1756,6 @@ full:mesu-china.apple.com.akadns.net:@cn
 full:mesu.apple.com:@cn
 full:ml.cdn-apple.com:@cn
 full:music.apple.com:@cn
-full:ocsp-lb.apple.com.akadns.net:@cn
-full:ocsp.apple.com:@cn
-full:ocsp2-lb.apple.com.akadns.net:@cn
-full:ocsp2.apple.com:@cn
 full:oscdn.apple.com:@cn
 full:oscdn.origin-apple.com.akadns.net:@cn
 full:osxapps.itunes.g.aaplimg.com:@cn
@@ -1803,8 +1798,6 @@ full:tj-pod1-smp-device.apple.com:@cn
 full:updates-http.cdn-apple.com:@cn
 full:updates-http.cdn-apple.com.akadns.net:@cn
 full:updates.cdn-apple.com:@cn
-full:valid.apple.com:@cn
-full:valid.origin-apple.com.akadns.net:@cn
 full:weather-data.apple.com:@cn
 full:weather-data.apple.com.akadns.net:@cn
 full:weather-map.apple.com:@cn

@@ -183,6 +183,20 @@ domain:xtls.github.io
 domain:trojan-gfw.github.io
 domain:zeronet.io
 domain:metacubex.one
+domain:ngrok-free.app
+domain:ngrok-free.dev
+domain:ngrok-free.pizza
+domain:ngrok.app
+domain:ngrok.com
+domain:ngrok.dev
+domain:ngrok.io
+domain:ngrok.pizza
+domain:ngrok.pro
+domain:pinggy.io
+domain:pinggy.link
+domain:tailscale.com
+domain:tailscale.io
+domain:ts.net
 domain:artstation.com
 domain:artstationmedia.com
 domain:drbl.in
@@ -2438,6 +2452,7 @@ full:ocsp.apple.com:@cn
 full:ocsp2-lb.apple.com.akadns.net:@cn
 full:ocsp2.apple.com:@cn
 full:valid.apple.com:@cn
+full:valid.origin-apple.com.akadns.net:@cn
 domain:buypass-ssl.com
 domain:buypass.com
 domain:buypass.no
@@ -18606,7 +18621,6 @@ full:cds-cdn.v.aaplimg.com:@cn
 full:cds.apple.com:@cn
 full:cds.apple.com.akadns.net:@cn
 full:cdsassets.apple.com:@cn
-full:certs.apple.com:@cn
 full:cl2-cn.apple.com:@cn
 full:cl4-cn.apple.com:@cn
 full:clientflow.apple.com:@cn
@@ -18614,7 +18628,6 @@ full:clientflow.apple.com.akadns.net:@cn
 full:cn-smp-paymentservices.apple.com:@cn
 full:configuration.apple.com:@cn
 full:configuration.apple.com.akadns.net:@cn
-full:crl.apple.com:@cn
 full:cstat.apple.com:@cn
 full:cstat.cdn-apple.com:@cn
 full:dd-cdn.origin-apple.com.akadns.net:@cn
@@ -18667,10 +18680,6 @@ full:mesu-china.apple.com.akadns.net:@cn
 full:mesu.apple.com:@cn
 full:ml.cdn-apple.com:@cn
 full:music.apple.com:@cn
-full:ocsp-lb.apple.com.akadns.net:@cn
-full:ocsp.apple.com:@cn
-full:ocsp2-lb.apple.com.akadns.net:@cn
-full:ocsp2.apple.com:@cn
 full:oscdn.apple.com:@cn
 full:oscdn.origin-apple.com.akadns.net:@cn
 full:osxapps.itunes.g.aaplimg.com:@cn
@@ -18713,8 +18722,6 @@ full:tj-pod1-smp-device.apple.com:@cn
 full:updates-http.cdn-apple.com:@cn
 full:updates-http.cdn-apple.com.akadns.net:@cn
 full:updates.cdn-apple.com:@cn
-full:valid.apple.com:@cn
-full:valid.origin-apple.com.akadns.net:@cn
 full:weather-data.apple.com:@cn
 full:weather-data.apple.com.akadns.net:@cn
 full:weather-map.apple.com:@cn
@@ -20674,8 +20681,9 @@ domain:xn--gogl-1nd42e.com
 domain:xplr.co
 domain:zukunftswerkstatt.de
 full:google-ohttp-relay-safebrowsing.fastly-edge.com
+domain:gvt1-cn.com:@cn
+domain:gvt2-cn.com:@cn
 full:www.recaptcha.net:@cn
-full:safebrowsing-cache.google.com:@cn
 full:265.com:@cn
 full:2mdn-cn.net:@cn
 full:2mdn.net:@cn
@@ -20704,7 +20712,6 @@ full:cnappinstall.googleadapis.com:@cn
 full:connectivitycheck.gstatic.com:@cn
 full:content.googleadapis.com:@cn
 full:crashlyticsreports-pa.googleapis.com:@cn
-full:crl.pki.goog:@cn
 full:csi.gstatic.com:@cn
 full:dartsearch-cn.net:@cn
 full:dg-meta.video.google.com:@cn
@@ -20716,7 +20723,6 @@ full:download.mlcc.google.com:@cn
 full:download.qatp1.net:@cn
 full:download.tensorflow.google.com:@cn
 full:emmapplecodevice.googleapis.com:@cn
-full:firebase-settings.crashlytics.com:@cn
 full:fontfiles.googleapis.com:@cn
 full:fonts.googleapis.com:@cn
 full:fonts.gstatic.com:@cn
@@ -20755,10 +20761,8 @@ full:logger-dev.corp.google.com:@cn
 full:logger.corp.google.com:@cn
 full:login.corp.google.com:@cn
 full:monitoring.qpdp1.net:@cn
-full:ocsp.pki.goog:@cn
 full:pagead-googlehosted.l.google.com:@cn
 full:performanceparameters.googleapis.com:@cn
-full:pki-goog.l.google.com:@cn
 full:prod-controlbe.floonet.goog:@cn
 full:prod-databe.floonet.goog:@cn
 full:prod.databe.floonet.goog:@cn
@@ -20777,7 +20781,6 @@ full:redirector.bdn.dev:@cn
 full:redirector.c.chat.google.com:@cn
 full:redirector.c.mail.google.com:@cn
 full:redirector.c.pack.google.com:@cn
-full:redirector.c.play.google.com:@cn
 full:redirector.c.youtubeeducation.com:@cn
 full:redirector.gcpcdn.gvt1.com:@cn
 full:redirector.gvt1.com:@cn
@@ -20816,8 +20819,6 @@ full:www.destinationurl.com:@cn
 full:www.gstatic.com:@cn
 full:www.pxcc.com:@cn
 full:xn--flw351e.com:@cn
-domain:gvt1-cn.com:@cn
-domain:gvt2-cn.com:@cn
 domain:first-ns.de
 domain:hetzner-cloud.de
 domain:hetzner.cloud
@@ -22424,9 +22425,6 @@ domain:familyds.org
 domain:i234.me
 domain:myds.me
 domain:synology.me
-domain:tailscale.com
-domain:tailscale.io
-domain:ts.net
 domain:boringcompany.com
 domain:internetdownloadmanager.com
 domain:registeridm.com

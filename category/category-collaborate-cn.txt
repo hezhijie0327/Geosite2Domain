@@ -3,6 +3,7 @@ domain:oray.net
 domain:orayer.com
 domain:orayimg.com
 domain:sunlogin.net
+domain:todesk.cn
 domain:todesk.com
 domain:asklink.com
 domain:privateapi.xyz
