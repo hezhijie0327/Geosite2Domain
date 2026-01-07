@@ -21428,6 +21428,7 @@ domain:worldsfastestgamer.net
 domain:boosty.to
 domain:donationalerts.com
 domain:memealerts.com
+domain:tamtam.chat
 domain:binoculus.com
 domain:buyoculus.com
 domain:ocul.us

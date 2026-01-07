@@ -44,3 +44,4 @@ domain:vkvideo.ru
 domain:boosty.to
 domain:donationalerts.com
 domain:memealerts.com
+domain:tamtam.chat

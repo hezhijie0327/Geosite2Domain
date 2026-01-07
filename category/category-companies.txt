@@ -5637,6 +5637,7 @@ domain:vkvideo.ru
 domain:boosty.to
 domain:donationalerts.com
 domain:memealerts.com
+domain:tamtam.chat
 domain:aboutfacebook.com
 domain:accessfacebookfromschool.com
 domain:acebooik.com
