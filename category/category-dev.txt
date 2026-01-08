@@ -510,7 +510,9 @@ domain:mobatek.net
 domain:mpv.io
 domain:mysql.com
 domain:neovim.io
+domain:netfilter.org
 domain:newpipe.net
+domain:nftables.org
 domain:nixos.org
 domain:nodesource.com
 domain:notepad-plus-plus.org

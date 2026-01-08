@@ -120,6 +120,7 @@ domain:zb.io
 domain:zb.live
 domain:1inch.io
 domain:aave.com
+domain:bingx.com
 domain:bitbank.cc
 domain:bitcoin.org
 domain:bitfinex.com

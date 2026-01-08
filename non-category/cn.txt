@@ -379,6 +379,7 @@ domain:vrzwk.cn
 domain:vrzwk.com
 domain:vrzwk.net
 domain:vrzwk.top
+domain:tapapks.com
 domain:tapimg.com
 domain:tapimg.net
 domain:taptap.cn
@@ -2610,6 +2611,7 @@ domain:youzanyun.com
 domain:ziroom.com
 domain:ziroomapartment.com
 domain:51selling.com
+domain:aihuishou.com
 domain:appsimg.com
 domain:appvipshop.com
 domain:vip.com
@@ -2670,6 +2672,7 @@ domain:x-station.cn
 domain:znds.com
 domain:423down.com
 domain:acwifi.net
+domain:appinn.com
 domain:chongdiantou.com
 domain:ghxi.com
 domain:iplaysoft.com
@@ -3354,10 +3357,13 @@ domain:zhubajie.com
 domain:7moor-fs1.com
 domain:7moor.com
 domain:antutu.com
+domain:antutu.net
 domain:bambulab.com
 domain:bblmw.com
 domain:bosszhipin.com
 domain:zhipin.com
+domain:chuimg.com
+domain:xiachufang.com
 domain:clink.cn
 domain:dangbei.com
 domain:dangbei.net
@@ -5932,6 +5938,9 @@ domain:socpk.com
 domain:suzuki-china.com
 domain:udesk.cn
 domain:ysjf.com
+domain:fnnas.com
+domain:fnnas.net
+domain:fnos.net
 domain:huaban.com
 domain:huabanimg.com
 domain:dancf.com
@@ -6193,7 +6202,6 @@ domain:apk3.com
 domain:apk8.com
 domain:aplaybox.com
 domain:appchina.com
-domain:appinn.com
 domain:arpun.com
 domain:asklib.com
 domain:babytree.com
@@ -6899,7 +6907,6 @@ domain:xdqtech.com
 domain:xdtool.com
 domain:xdwan.com
 domain:xfdown.com
-domain:xiachufang.com
 domain:xiaobaixitong.com
 domain:xiaoe-tech.com
 domain:xiaogouh5.com
