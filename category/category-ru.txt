@@ -151,6 +151,9 @@ domain:chukotka.ru
 domain:jamal.ru
 domain:surgut.ru
 domain:yamal.ru
+domain:fix-price.com
+domain:lenta.com
+domain:lenta.tech
 domain:mosmetro.ru
 domain:mosmetro.tech
 domain:avito.ru
@@ -288,3 +291,14 @@ domain:yastat.net
 domain:yastatic.net
 domain:kinopoisk.ru
 domain:kinopoisk-ru.clstorage.net
+domain:dodopizza.ru
+domain:dodopizza.com
+domain:dodostatic.net
+domain:dodois.com
+domain:dodois.io
+domain:rostics.ru
+domain:uni.rest
+domain:unirest.tech
+domain:trbcdn.net
+domain:tbank-online.com
+domain:taxsee.com

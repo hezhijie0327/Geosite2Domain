@@ -1,0 +1,3 @@
+domain:fix-price.com
+domain:lenta.com
+domain:lenta.tech
