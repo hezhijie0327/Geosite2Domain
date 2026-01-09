@@ -1441,6 +1441,7 @@ domain:42r.cn
 domain:5566ua.com
 domain:aurorapush.cn
 domain:e0n.cn
+domain:easytomessage.com
 domain:japps.cn
 domain:jchat.io
 domain:jiguang.cn
@@ -2752,6 +2753,8 @@ domain:yeshj.com
 domain:koocdn.com
 domain:koolearn.com
 domain:koopass.com
+domain:schoopia.com
+domain:tongxuepie.com
 domain:baydn.com
 domain:shanbay.com
 domain:speiyou.com

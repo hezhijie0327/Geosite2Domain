@@ -25,6 +25,8 @@ domain:yeshj.com
 domain:koocdn.com
 domain:koolearn.com
 domain:koopass.com
+domain:schoopia.com
+domain:tongxuepie.com
 domain:baydn.com
 domain:shanbay.com
 domain:speiyou.com
