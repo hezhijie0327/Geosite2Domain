@@ -93,6 +93,7 @@ domain:lemonhd.club
 domain:lemonhd.net
 domain:lemonhd.org
 domain:beitai.pt
+domain:nexushd.org
 domain:bitpt.cn
 domain:hdarea.club
 domain:hdchina.org

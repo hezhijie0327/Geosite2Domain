@@ -14,8 +14,10 @@ domain:logupdate.avlyun.sec.miui.com:@ads
 domain:misc.in.duokanbox.com:@ads
 domain:sentry.d.mi.com:@ads
 domain:sentry.d.xiaomi.net:@ads
+domain:stats.music.xiaomi.com:@ads
 domain:tjqonline.cn:@ads
 domain:tracker.ai.xiaomi.com:@ads
+domain:tracker.xiaomixiaoai.com:@ads
 domain:tracking.miui.com:@ads
 domain:miaibox.com
 domain:xiaoaiassist.com
