@@ -10,10 +10,15 @@ domain:migu.cn
 domain:migucloud.com
 domain:migufun.com
 domain:miguvideo.com
+domain:cmcc-cs.cn
+domain:online-cmcc.cn
 domain:andfx.cn
 domain:andfx.net
+domain:cmicapm.com
 domain:cmicrwx.cn
+domain:cmicvip.cn
 domain:cmpassport.com
+domain:cytxl.com.cn
 domain:fetion-portal.com
 domain:fetionpic.com
 domain:mmarket.com

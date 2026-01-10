@@ -19,3 +19,4 @@ domain:wo.com.cn
 domain:wo116114.com
 domain:wocloud.com.cn
 domain:woread.com.cn
+domain:wosms.cn

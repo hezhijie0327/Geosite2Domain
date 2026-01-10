@@ -161,6 +161,7 @@ domain:ynet.com
 domain:ynet.com.cn
 domain:21jingji.com
 domain:admin5.com
+domain:anhuinews.com
 domain:anzhuo.cn
 domain:bianews.com
 domain:caijing.com.cn
@@ -185,6 +186,7 @@ domain:cztv.com
 domain:cztvcdn.com
 domain:cztvcloud.com
 domain:zjstv.com
+domain:dutenews.com
 domain:dzh.com.cn
 domain:gw.com.cn
 domain:yundzh.com
@@ -253,6 +255,8 @@ domain:ssajax.cn
 domain:ssimg.cn
 domain:stockstar.com
 domain:stcn.com
+domain:sznews.com
+domain:szpgm.com
 domain:takungpao.com
 domain:techweb.com.cn
 domain:thecover.cn
