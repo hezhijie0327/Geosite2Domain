@@ -39,3 +39,4 @@ domain:zggbdszt.cn
 domain:zggbdszt.com.cn
 domain:zggbdszt.net.cn
 domain:zygbdszt.net.cn
+domain:ad.cctv.com:@ads

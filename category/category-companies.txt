@@ -545,6 +545,7 @@ domain:firstns.cc
 domain:fourthns.systems
 domain:secondns.at
 domain:thirdns.de
+domain:advertising.apple.com:@ads
 domain:api-adservices.apple.com:@ads
 domain:iadsdk.apple.com:@ads
 domain:iad.apple.com:@ads

@@ -8699,8 +8699,6 @@ domain:nudevista.com
 domain:nudevista.es
 domain:nudevista.net
 domain:nudevista.vip
-full:ad-channel.diwodiwo.xyz:@ads
-full:ad-display.diwodiwo.xyz:@ads
 domain:bikaa.xyz
 domain:bikac.xyz
 domain:bikaios.xyz
@@ -8712,6 +8710,8 @@ domain:picacomic.com
 domain:picacomic.xyz
 domain:wikawika.xyz
 domain:diwodiwo.xyz
+full:ad-channel.diwodiwo.xyz:@ads
+full:ad-display.diwodiwo.xyz:@ads
 domain:playboy.com
 domain:playboy.com.uk
 domain:gaytube.com
@@ -17002,6 +17002,7 @@ domain:firstns.cc
 domain:fourthns.systems
 domain:secondns.at
 domain:thirdns.de
+domain:advertising.apple.com:@ads
 domain:api-adservices.apple.com:@ads
 domain:iadsdk.apple.com:@ads
 domain:iad.apple.com:@ads

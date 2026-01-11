@@ -1,4 +1,5 @@
 domain:ad.hpplay.cn:@ads
+domain:adc.hpplay.cn:@ads
 domain:adeng.hpplay.cn:@ads
 domain:ads-uo.api.leiniao.com:@ads
 domain:ads-ut.api.leiniao.com:@ads

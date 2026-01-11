@@ -1109,6 +1109,7 @@ domain:zggbdszt.cn
 domain:zggbdszt.com.cn
 domain:zggbdszt.net.cn
 domain:zygbdszt.net.cn
+domain:ad.cctv.com:@ads
 domain:chinanews.com
 domain:chinanews.com.cn
 domain:cns.com.cn
@@ -1424,10 +1425,10 @@ domain:duowan.com
 domain:dwstatic.com
 domain:yy.com
 domain:yystatic.com
-domain:crash2.zhihu.com:@ads
-domain:zhihu-web-analytics.zhihu.com:@ads
 domain:zhihu.com
 domain:zhimg.com
+domain:crash2.zhihu.com:@ads
+domain:zhihu-web-analytics.zhihu.com:@ads
 domain:tieba.baidu.com
 domain:tieba.com
 domain:dandan818.com
@@ -3327,6 +3328,7 @@ domain:tendcloud.com
 domain:talkingdata.com
 domain:talkinggame.com
 domain:cpatrk.net
+domain:tdsdk.cpatrk.net:@ads
 domain:vaptcha.com
 domain:vaptcha.net
 domain:hf-aw.cn
@@ -3917,12 +3919,15 @@ domain:bsurl.cn
 domain:zhiye.com
 domain:sl916.com
 domain:bluepoch.com
+domain:ad.toutiao.com:@ads
+domain:analytics.tiktok.com:@ads
 domain:bds.snssdk.com:@ads
 domain:byteadverts.com:@ads
 domain:ctobsnssdk.com:@ads
 domain:dig.bdurl.net:@ads
 domain:extlog.snssdk.com:@ads
 domain:i.snssdk.com:@ads
+domain:log.zijieapi.com:@ads
 domain:mcs.snssdk.com:@ads
 domain:pangolin-dsp-toutiao-b.com:@ads
 domain:pangolin-dsp-toutiao.com:@ads
@@ -5674,6 +5679,7 @@ domain:pgdt.gtimg.cn:@ads
 domain:pingjs.qq.com:@ads
 domain:pmir.3g.qq.com:@ads
 domain:push.qq.com:@ads
+domain:qqdata.ab.qq.com:@ads
 domain:report.qqweb.qq.com:@ads
 domain:rmonitor.qq.com:@ads
 domain:sngmta.qq.com:@ads
@@ -5682,6 +5688,7 @@ domain:tajs.qq.com:@ads
 domain:tcss.qq.com:@ads
 domain:tmead.y.qq.com:@ads
 domain:tmeadcomm.y.qq.com:@ads
+domain:tpstelemetry.tencent.com:@ads
 domain:trace.qq.com:@ads
 domain:ugdtimg.com:@ads
 domain:wit.qq.com:@ads

@@ -1,3 +1,5 @@
+domain:collector.github.com:@ads
+domain:copilot-telemetry.githubusercontent.com:@ads
 domain:browser.events.data.msn.cn:@ads
 domain:browser.events.data.msn.com:@ads
 domain:clarity.ms:@ads

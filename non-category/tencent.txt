@@ -407,6 +407,7 @@ domain:pgdt.gtimg.cn:@ads
 domain:pingjs.qq.com:@ads
 domain:pmir.3g.qq.com:@ads
 domain:push.qq.com:@ads
+domain:qqdata.ab.qq.com:@ads
 domain:report.qqweb.qq.com:@ads
 domain:rmonitor.qq.com:@ads
 domain:sngmta.qq.com:@ads
@@ -415,6 +416,7 @@ domain:tajs.qq.com:@ads
 domain:tcss.qq.com:@ads
 domain:tmead.y.qq.com:@ads
 domain:tmeadcomm.y.qq.com:@ads
+domain:tpstelemetry.tencent.com:@ads
 domain:trace.qq.com:@ads
 domain:ugdtimg.com:@ads
 domain:wit.qq.com:@ads

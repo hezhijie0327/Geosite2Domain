@@ -43,6 +43,7 @@ domain:zggbdszt.cn
 domain:zggbdszt.com.cn
 domain:zggbdszt.net.cn
 domain:zygbdszt.net.cn
+domain:ad.cctv.com:@ads
 domain:chinanews.com
 domain:chinanews.com.cn
 domain:cns.com.cn
