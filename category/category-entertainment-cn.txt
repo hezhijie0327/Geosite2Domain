@@ -692,7 +692,9 @@ domain:gcores.com
 domain:ign.com.cn
 domain:nadianshi.com
 domain:news.yxrb.net
+domain:shoutanjjj.com
 domain:ucg.cn
 domain:youxichaguan.com
 domain:youxiputao.com
+domain:youxituoluo.com
 domain:yystv.cn

@@ -347,6 +347,7 @@ full:ad-display.diwodiwo.xyz:@ads
 domain:cdn.pocoiq.cn:@ads
 domain:oct.pocoiq.cn:@ads
 domain:ads.pubmatic.com:@ads
+domain:c.sayhi.360.cn:@ads
 domain:fenxi.360.cn:@ads
 domain:fenxi.com:@ads
 domain:lianmeng.360.cn:@ads
@@ -436,6 +437,7 @@ domain:testads.api.my7v.com:@ads
 domain:ad.browser.qq.com:@ads
 domain:ad.qq.com:@ads
 domain:ad.qun.qq.com:@ads
+domain:ad.tencentmusic.com:@ads
 domain:ad.weixin.qq.com:@ads
 domain:adfilter.imtt.qq.com:@ads
 domain:adnet.qq.com:@ads
@@ -477,6 +479,7 @@ domain:pmir.3g.qq.com:@ads
 domain:push.qq.com:@ads
 domain:qqdata.ab.qq.com:@ads
 domain:report.qqweb.qq.com:@ads
+domain:report.tencentmusic.com:@ads
 domain:rmonitor.qq.com:@ads
 domain:sngmta.qq.com:@ads
 domain:stat.y.qq.com:@ads
@@ -641,3 +644,5 @@ domain:zhugeapi.net
 domain:zhugeio.com
 domain:atrace.chelaile.net.cn
 domain:logs.chelaile.net.cn
+domain:analytics.umetrip.com
+domain:sensors.umetrip.com.cn

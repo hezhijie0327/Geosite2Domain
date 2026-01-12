@@ -368,6 +368,7 @@ domain:rumt-us.com:@!cn
 domain:ad.browser.qq.com:@ads
 domain:ad.qq.com:@ads
 domain:ad.qun.qq.com:@ads
+domain:ad.tencentmusic.com:@ads
 domain:ad.weixin.qq.com:@ads
 domain:adfilter.imtt.qq.com:@ads
 domain:adnet.qq.com:@ads
@@ -409,6 +410,7 @@ domain:pmir.3g.qq.com:@ads
 domain:push.qq.com:@ads
 domain:qqdata.ab.qq.com:@ads
 domain:report.qqweb.qq.com:@ads
+domain:report.tencentmusic.com:@ads
 domain:rmonitor.qq.com:@ads
 domain:sngmta.qq.com:@ads
 domain:stat.y.qq.com:@ads
@@ -598,3 +600,13 @@ domain:fymallqa3.com
 domain:fymallqa4.com
 domain:fymallqa7.com
 domain:fymallqa9.com
+domain:tdnsdl1.cn
+domain:tdnsdl1.com.cn
+domain:tdnsdl2.cn
+domain:tdnsdl2.com.cn
+domain:tdnsdl3.cn
+domain:tdnsdl3.com.cn
+domain:tdnsdl4.cn
+domain:tdnsdl4.com.cn
+domain:tdnsdl5.cn
+domain:tdnsdl5.com.cn

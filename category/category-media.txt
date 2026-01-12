@@ -1344,6 +1344,7 @@ domain:hkej.com
 domain:hkgpao.com
 domain:hongkongfp.com
 domain:inmediahk.net
+domain:inquirer.net
 domain:inside.com.tw
 domain:itmedia.co.jp
 domain:jfengtime.com
@@ -1352,6 +1353,7 @@ domain:limedia.tw
 domain:localpresshk.com
 domain:ltsports.com.tw
 domain:macaodaily.com
+domain:maidonanews.jp
 domain:mdnkids.com
 domain:mirrormedia.com.tw
 domain:mirrormedia.mg

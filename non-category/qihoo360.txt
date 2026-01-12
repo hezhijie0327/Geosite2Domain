@@ -1,3 +1,4 @@
+domain:c.sayhi.360.cn:@ads
 domain:fenxi.360.cn:@ads
 domain:fenxi.com:@ads
 domain:lianmeng.360.cn:@ads

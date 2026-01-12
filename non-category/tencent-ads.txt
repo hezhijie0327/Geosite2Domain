@@ -1,6 +1,7 @@
 domain:ad.browser.qq.com:@ads
 domain:ad.qq.com:@ads
 domain:ad.qun.qq.com:@ads
+domain:ad.tencentmusic.com:@ads
 domain:ad.weixin.qq.com:@ads
 domain:adfilter.imtt.qq.com:@ads
 domain:adnet.qq.com:@ads
@@ -42,6 +43,7 @@ domain:pmir.3g.qq.com:@ads
 domain:push.qq.com:@ads
 domain:qqdata.ab.qq.com:@ads
 domain:report.qqweb.qq.com:@ads
+domain:report.tencentmusic.com:@ads
 domain:rmonitor.qq.com:@ads
 domain:sngmta.qq.com:@ads
 domain:stat.y.qq.com:@ads
