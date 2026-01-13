@@ -39,6 +39,11 @@ domain:aistudio.google.com
 domain:bard.google.com
 domain:gemini.google
 domain:gemini.google.com
+full:cloudaicompanion.googleapis.com
+full:cloudcode-pa.googleapis.com
+full:daily-cloudcode-pa.googleapis.com
+full:notebooklm-pa.googleapis.com
+full:notebooklm.googleapis.com
 domain:notebooklm.google
 domain:notebooklm.google.com
 domain:jules.google
@@ -49,6 +54,10 @@ domain:aisandbox-pa.googleapis.com
 domain:aida.googleapis.com
 domain:opal.google
 domain:opal.google.com
+full:antigravity-pa.googleapis.com
+full:antigravity.googleapis.com
+domain:antigravity.google
+domain:antigravity-unleash.goog
 domain:groq.com
 domain:hf.co
 domain:hf.space
