@@ -5376,6 +5376,7 @@ domain:xboxservices.com
 domain:xboxstudios.com
 domain:xbx.lv
 domain:ynoproject.net
+domain:dinopoloclub.com
 domain:dodi-repacks.download
 domain:dodi-repacks.site
 domain:fabricmc.net
@@ -5386,8 +5387,10 @@ domain:humblebundle.com
 domain:joinsquad.com
 domain:loverslab.com
 domain:minecraft.wiki
+domain:mobimon.com.tw
 domain:nexus-cdn.com
 domain:nexusmods.com
+domain:noxygames.com
 domain:offworldindustries.com
 domain:offworldindustries.net
 domain:papermc.io
@@ -5395,6 +5398,8 @@ domain:planetminecraft.com
 domain:prismlauncher.org
 domain:protondb.com
 domain:quiltmc.org
+domain:rayark.download
+domain:rayark.net
 domain:speedrun.com
 domain:steamdb.info
 domain:ptzwx.com
