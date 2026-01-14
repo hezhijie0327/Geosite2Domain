@@ -675,6 +675,7 @@ domain:miaopai.com
 domain:motie.com
 domain:motieimg.com
 domain:pearvideo.com
+domain:pipi.cn
 domain:sfacg.com
 domain:shuhai.com
 domain:tadu.com

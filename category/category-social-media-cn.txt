@@ -91,3 +91,4 @@ domain:dandan818.com
 domain:dandanvoice.com
 domain:maimai.cn
 domain:taou.com
+domain:zsxq.com

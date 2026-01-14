@@ -838,6 +838,9 @@ full:lv.queniujq.cn:@cn
 full:xz.pphimalayanrt.com:@cn
 domain:steamchina.com:@cn
 domain:gstore.val.manlaxy.com:@cn
+domain:sih-db.com
+domain:sih.app
+domain:steaminventoryhelper.com
 domain:steamunlocked.net
 domain:boombeach.com
 domain:brawlstars.com

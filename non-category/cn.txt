@@ -876,6 +876,7 @@ domain:miaopai.com
 domain:motie.com
 domain:motieimg.com
 domain:pearvideo.com
+domain:pipi.cn
 domain:sfacg.com
 domain:shuhai.com
 domain:tadu.com
@@ -1446,6 +1447,7 @@ domain:dandan818.com
 domain:dandanvoice.com
 domain:maimai.cn
 domain:taou.com
+domain:zsxq.com
 domain:gepush.com
 domain:getui.cn
 domain:getui.com
@@ -3384,6 +3386,7 @@ domain:zbjimg.com
 domain:zhubajie.com
 domain:7moor-fs1.com
 domain:7moor.com
+domain:alookweb.com
 domain:antutu.com
 domain:antutu.net
 domain:bambulab.com
@@ -3395,11 +3398,21 @@ domain:xiachufang.com
 domain:clink.cn
 domain:dangbei.com
 domain:dangbei.net
+domain:dcloud.io
+domain:dcloud.net.cn
 domain:deepepg.com
 domain:kookong.com
 domain:dida365.com
+domain:dui88.com
+domain:duiba.com.cn
 domain:hapjs.org
 domain:quickapp.cn
+domain:hpplay.cn
+domain:lbtp.com
+domain:lebo.cn
+domain:lebo.com.cn
+domain:lebo.top
+domain:mirrorcast.cn
 domain:huolala.cn
 domain:huorong.cn
 domain:i8tq.com
@@ -3423,6 +3436,7 @@ domain:sobot.com
 domain:soboten.com
 domain:tacool.com
 domain:viayoo.com
+domain:xbext.com
 domain:yinxiang.com
 domain:zhaopin.cn
 domain:1tyy.cn
@@ -6019,6 +6033,7 @@ domain:migu.cn
 domain:migucloud.com
 domain:migufun.com
 domain:miguvideo.com
+domain:cmft.com.cn
 domain:cmcc-cs.cn
 domain:online-cmcc.cn
 domain:andfx.cn

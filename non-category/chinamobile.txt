@@ -10,6 +10,7 @@ domain:migu.cn
 domain:migucloud.com
 domain:migufun.com
 domain:miguvideo.com
+domain:cmft.com.cn
 domain:cmcc-cs.cn
 domain:online-cmcc.cn
 domain:andfx.cn
