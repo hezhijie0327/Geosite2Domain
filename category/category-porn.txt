@@ -524,7 +524,10 @@ domain:xnxx.com
 domain:xnxx.net
 domain:xnxx.tv
 domain:xnxx3.com
+domain:xv-ru.com
+domain:xvideos-ar.com
 domain:xvideos-cdn.com
+domain:xvideos-india.com
 domain:xvideos.com
 domain:yjcontentdelivery.com
 domain:youjizz.com
