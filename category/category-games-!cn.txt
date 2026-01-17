@@ -443,6 +443,10 @@ domain:playstation.com
 domain:playstation.net
 domain:sonyentertainmentnetwork.com
 domain:sekai.colorfulpalette.org
+domain:kraftonde.com
+domain:playbattlegrounds.com
+domain:pubg.com
+full:pubg1.battleye.com
 domain:priconne-redive.jp
 domain:api-priconne-redive.cygames.jp
 domain:omotenashi.cygames.jp
