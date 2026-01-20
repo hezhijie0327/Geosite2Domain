@@ -1,6 +1,6 @@
-domain:softbank
 domain:sb-mobile.jp
 domain:sb-telecom.net
+domain:softbank
 domain:softbank-ipo.com
 domain:softbank-jp.com
 domain:softbank-robotics.com

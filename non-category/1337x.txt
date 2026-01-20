@@ -1,7 +1,7 @@
-domain:1337x.to
 domain:1337x.gd
 domain:1337x.is
 domain:1337x.st
+domain:1337x.to
 domain:1337x.tw
 domain:1337xto.to
 domain:1337xx.to

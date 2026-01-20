@@ -1,7 +1,7 @@
-domain:icbc
 domain:95588.com
 domain:95588.com.cn
 domain:dccnet.com.cn
+domain:icbc
 domain:icbc-at.com:@!cn
 domain:icbc-cz.com:@!cn
 domain:icbc-ltd.com:@!cn

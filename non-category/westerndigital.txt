@@ -1,6 +1,5 @@
 domain:g-technology.com
 domain:sandisk.ae
-domain:sandisk.it
 domain:sandisk.cn:@cn
 domain:sandisk.co.jp
 domain:sandisk.co.kr
@@ -16,6 +15,7 @@ domain:sandisk.fr
 domain:sandisk.hk
 domain:sandisk.id
 domain:sandisk.in
+domain:sandisk.it
 domain:sandisk.nl
 domain:sandisk.sg
 domain:wd.com

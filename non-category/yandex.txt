@@ -1,14 +1,16 @@
-domain:yandex
-domain:xn--d1acpjx3f.xn--p1ai
 domain:adfox.ru
 domain:admetrica.ru
+domain:kinopoisk-ru.clstorage.net
+domain:kinopoisk.ru
 domain:naydex.net
 domain:rostaxi.org
 domain:turbopages.org
 domain:webvisor.com
 domain:webvisor.org
+domain:xn--d1acpjx3f.xn--p1ai
 domain:ya.ru
 domain:yads.tech
+domain:yandex
 domain:yandex-bank.net
 domain:yandex-images.clstorage.net
 domain:yandex-team.ru
@@ -52,5 +54,3 @@ domain:yandexmetrica.com
 domain:yandexwebcache.org
 domain:yastat.net
 domain:yastatic.net
-domain:kinopoisk.ru
-domain:kinopoisk-ru.clstorage.net

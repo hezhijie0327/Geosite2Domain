@@ -1,10 +1,10 @@
 domain:amplifi.com
 domain:amplifi.com.cn:@cn
-domain:frontrow.com.cn:@cn
 domain:frontrow.com
+domain:frontrow.com.cn:@cn
 domain:ubncloud.com
-domain:ubnt.com:@cn
 domain:ubnt.com.cn:@cn
+domain:ubnt.com:@cn
 domain:ui.com
 domain:ui.com.cn:@cn
 domain:uisp.com

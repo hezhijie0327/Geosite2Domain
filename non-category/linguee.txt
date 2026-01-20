@@ -1,2 +1,2 @@
-domain:linguee.com
 domain:deepl.com
+domain:linguee.com

@@ -1,5 +1,3 @@
-domain:graph.instagram.com:@ads
-domain:graph-fallback.instagram.com:@ads
 domain:achat-followers-instagram.com
 domain:acheter-followers-instagram.com
 domain:acheterdesfollowersinstagram.com
@@ -8,6 +6,8 @@ domain:bookstagram.com
 domain:carstagram.com
 domain:cdninstagram.com
 domain:chickstagram.com
+domain:graph-fallback.instagram.com:@ads
+domain:graph.instagram.com:@ads
 domain:ig.me
 domain:igcdn.com
 domain:igsonar.com
@@ -66,9 +66,9 @@ domain:intagrm.com
 domain:intgram.com
 domain:kingstagram.com
 domain:lnstagram-help.com
-domain:theinstagramhack.com
 domain:oninstagram.com
 domain:online-instagram.com
 domain:onlineinstagram.com
+domain:theinstagramhack.com
 domain:web-instagram.net
 domain:wwwinstagram.com

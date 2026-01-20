@@ -1,4 +1,3 @@
-domain:syh.zybang.com:@ads
 domain:adscdn.baidu.com:@ads
 domain:adx.xiaodutv.com:@ads
 domain:afd.baidu.com:@ads
@@ -33,9 +32,9 @@ domain:iwanad.baidu.com:@ads
 domain:miao.baidu.com:@ads
 domain:miaowu.baidu.com:@ads
 domain:mipcache.bdstatic.com:@ads
-domain:mobads.baidu.com:@ads
 domain:mobads-logs.baidu.com:@ads
 domain:mobads-pre-config.cdn.bcebos.com:@ads
+domain:mobads.baidu.com:@ads
 domain:mountain.zhidao.baidu.com:@ads
 domain:nsclick.baidu.com:@ads
 domain:nsclickvideo.baidu.com:@ads
@@ -43,6 +42,7 @@ domain:pimlog.baidu.com:@ads
 domain:pos.baidu.com:@ads
 domain:sclick.baidu.com:@ads
 domain:spcode.baidu.com:@ads
+domain:syh.zybang.com:@ads
 domain:tcbox.baidu.com:@ads
 domain:ubmcvideo.baidustatic.com:@ads
 domain:union.baidu.com:@ads

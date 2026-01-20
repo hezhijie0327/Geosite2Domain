@@ -10,10 +10,10 @@ domain:strepsils.co.kr
 domain:strepsils.co.nz
 domain:strepsils.co.za
 domain:strepsils.com.ar
+domain:strepsils.com.au
 domain:strepsils.com.br
 domain:strepsils.com.cn:@cn
 domain:strepsils.com.co
-domain:strepsils.com.au
 domain:strepsils.com.hk
 domain:strepsils.com.ph
 domain:strepsils.com.tw

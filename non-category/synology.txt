@@ -1,10 +1,3 @@
-domain:gofile.me
-domain:quickconnect.to
-domain:synology.com
-domain:synologydownload.com
-domain:synologyupdate.com
-domain:quickconnect.cn:@cn
-domain:synology.cn:@cn
 domain:diskstation.me
 domain:dscloud.biz
 domain:dscloud.me
@@ -15,6 +8,13 @@ domain:dsmynas.org
 domain:familyds.com
 domain:familyds.net
 domain:familyds.org
+domain:gofile.me
 domain:i234.me
 domain:myds.me
+domain:quickconnect.cn:@cn
+domain:quickconnect.to
+domain:synology.cn:@cn
+domain:synology.com
 domain:synology.me
+domain:synologydownload.com
+domain:synologyupdate.com

@@ -1,5 +1,5 @@
-domain:beisen.com
 domain:beisen.cn
+domain:beisen.com
 domain:beisenapp.com
 domain:beisencloud.com
 domain:beisenpaas.com

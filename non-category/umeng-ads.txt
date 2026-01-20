@@ -9,8 +9,8 @@ domain:audid.umeng.com:@ads
 domain:ccs.umeng.com:@ads
 domain:cnlogs.umeng.com:@ads
 domain:cnlogs.umengcloud.com:@ads
-domain:new-aaid.umeng.com:@ads
 domain:new-aaid.umeng.com.gds.alibabadns.com:@ads
+domain:new-aaid.umeng.com:@ads
 domain:oc.umeng.com:@ads
 domain:plbslog.umeng.com:@ads
 domain:resolve.umeng.com:@ads

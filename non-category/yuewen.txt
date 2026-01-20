@@ -1,4 +1,3 @@
-domain:yuewen.com
 domain:hongxiu.com
 domain:lrts.me
 domain:qdmm.com
@@ -9,3 +8,4 @@ domain:tingbook.com
 domain:xs.cn
 domain:xs8.cn
 domain:xxsy.net
+domain:yuewen.com

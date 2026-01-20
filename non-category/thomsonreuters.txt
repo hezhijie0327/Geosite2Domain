@@ -1,13 +1,13 @@
-domain:reut.rs
-domain:reuters.com
-domain:reuters.tv
-domain:reutersmedia.net
 domain:aranzadi.es
 domain:corepublishingsolutions.com
 domain:elite.com
 domain:legaltracker.com
 domain:livrariart.com.br
+domain:reut.rs
+domain:reuters.com
+domain:reuters.tv
 domain:reutersagency.cn
+domain:reutersmedia.net
 domain:sweetandmaxwell.co.uk
 domain:thomsonreuters.ca
 domain:thomsonreuters.cn

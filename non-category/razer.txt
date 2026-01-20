@@ -1,8 +1,8 @@
 domain:razer.com
 domain:razerapi.com:@cn
 domain:razerofficial.com
-domain:razersynapse.com:@cn
 domain:razersupport.com
+domain:razersynapse.com:@cn
 domain:razerzone.com:@cn
 domain:razerzone.jp
 domain:respawnbyrazer.com

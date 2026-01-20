@@ -1,5 +1,5 @@
-domain:flickr
 domain:flic.kr
+domain:flickr
 domain:flickr.com
 domain:flickr.net
 domain:staticflickr.com

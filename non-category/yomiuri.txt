@@ -7,7 +7,6 @@ domain:ync.ne.jp
 domain:yomikyo.or.jp
 domain:yomilogi.com
 domain:yomiuri-johkai.co.jp
-domain:yomiuri-johkai.co.jp
 domain:yomiuri-ryokou.co.jp
 domain:yomiuri-shimbun.pressreader.com
 domain:yomiuri-systec.co.jp

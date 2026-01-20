@@ -1,4 +1,3 @@
-domain:rferl.org
 domain:azadiradio.com
 domain:azadliq.org
 domain:azathabar.com
@@ -21,6 +20,7 @@ domain:radiofarda.com
 domain:radiomarsho.com
 domain:radiosvoboda.org
 domain:radiotavisupleba.ge
+domain:rferl.org
 domain:severreal.org
 domain:sibreal.org
 domain:slobodnaevropa.mk

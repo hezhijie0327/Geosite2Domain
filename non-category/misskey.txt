@@ -1,5 +1,3 @@
-domain:misskey.io
-domain:misskeyusercontent.jp
 domain:9ineverse.com
 domain:buicha.social
 domain:gyutte.site
@@ -18,10 +16,12 @@ domain:misskey.design
 domain:misskey.flowers
 domain:misskey.gamelore.fun
 domain:misskey.gg
+domain:misskey.io
 domain:misskey.noellabo.jp
 domain:misskey.ranranhome.info
 domain:misskey.stream
 domain:misskey.yukineko.me
+domain:misskeyusercontent.jp
 domain:mk.shrimpia.network
 domain:mk.yopo.work
 domain:mof.kemomi.me

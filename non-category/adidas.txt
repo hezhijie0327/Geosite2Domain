@@ -1,3 +1,6 @@
+domain:adidas-archive.org
+domain:adidas-group.ca
+domain:adidas-group.com
 domain:adidas.ae
 domain:adidas.at
 domain:adidas.be
@@ -54,12 +57,9 @@ domain:adidas.se
 domain:adidas.sk
 domain:adidasadmin.com
 domain:adidasarchive.org
-domain:adidas-archive.org
 domain:adidasbadminton.com
 domain:adidasboxing.com
 domain:adidascdn.com
-domain:adidas-group.ca
-domain:adidas-group.com
 domain:adidasgymnastics.com
 domain:adidashockey.com
 domain:adidasmotorsport.com

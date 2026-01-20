@@ -1,2 +1,2 @@
-domain:hkopentv.com
 domain:fantv.hk
+domain:hkopentv.com

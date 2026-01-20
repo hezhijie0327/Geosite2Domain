@@ -8,10 +8,10 @@ domain:erp321.com
 domain:erp321.net
 domain:jsterp.cn
 domain:jugongdan.com
+domain:jushuitan-inc.com
 domain:jushuitan.cn
 domain:jushuitan.com
 domain:jushuitan.net
-domain:jushuitan-inc.com
 domain:juxieyun.com
 domain:scm121.cn
 domain:scm121.com

@@ -7,7 +7,10 @@ domain:tiktok-minis.com:@!cn
 domain:tiktok-row.net:@!cn
 domain:tiktok.com:@!cn
 domain:tiktokcdn-eu.com:@!cn
+domain:tiktokcdn-us.com.edgesuite.net:@!cn
 domain:tiktokcdn-us.com:@!cn
+domain:tiktokcdn.com.akamaized.net:@!cn
+domain:tiktokcdn.com.edgesuite.net:@!cn
 domain:tiktokcdn.com:@!cn
 domain:tiktokd.net:@!cn
 domain:tiktokd.org:@!cn
@@ -15,6 +18,8 @@ domain:tiktokeu-cdn.com:@!cn
 domain:tiktokglobalshopv.com:@!cn
 domain:tiktokminis.us:@!cn
 domain:tiktokrow-cdn.com:@!cn
+domain:tiktokv.com.edgekey.net:@!cn
+domain:tiktokv.com.edgesuite.net:@!cn
 domain:tiktokv.com:@!cn
 domain:tiktokv.eu:@!cn
 domain:tiktokv.us:@!cn
@@ -23,11 +28,6 @@ domain:tiktokw.us:@!cn
 domain:ttlivecdn.com:@!cn
 domain:ttoverseaus.net:@!cn
 domain:ttwstatic.com:@!cn
-domain:tiktokcdn-us.com.edgesuite.net:@!cn
-domain:tiktokcdn.com.akamaized.net:@!cn
-domain:tiktokcdn.com.edgesuite.net:@!cn
-domain:tiktokv.com.edgekey.net:@!cn
-domain:tiktokv.com.edgesuite.net:@!cn
 full:p16-tiktokcdn-com.akamaized.net:@!cn
 full:roovza-launches.appsflyersdk.com:@!cn
 full:roovza.inapps.appsflyersdk.com:@!cn

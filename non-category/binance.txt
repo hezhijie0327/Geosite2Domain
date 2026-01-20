@@ -1,3 +1,4 @@
+domain:appsflayer.com
 domain:binance.cc
 domain:binance.charity
 domain:binance.cloud
@@ -9,6 +10,7 @@ domain:binance.net
 domain:binance.org
 domain:binance.us
 domain:binance.vision
+domain:binanceapi.com
 domain:binancecnt.com
 domain:binancezh.be
 domain:binancezh.biz
@@ -25,11 +27,9 @@ domain:binancezh.net
 domain:binancezh.pro
 domain:binancezh.sh
 domain:binancezh.top
-domain:binanceapi.com
 domain:bnbstatic.com
 domain:bntrace.com
 domain:nftstatic.com
-domain:appsflayer.com
 domain:saasexch.cc
 domain:saasexch.co
 domain:saasexch.com

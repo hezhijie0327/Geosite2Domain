@@ -1,9 +1,9 @@
-domain:huangyuhui.net
 domain:114blog.com
-domain:mryys.com
-domain:mryys.cn
-domain:4thworkshop.com
 domain:4thworkshop.cn
+domain:4thworkshop.com
 domain:aloys233.top
 domain:fanmingming.com
+domain:huangyuhui.net
+domain:mryys.cn
+domain:mryys.com
 domain:zway.top

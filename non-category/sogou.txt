@@ -9,6 +9,8 @@ domain:sgtmos.com
 domain:sgyeyou.com
 domain:sgyouxi.com
 domain:sogo.com
+domain:sogou-inc.com
+domain:sogou-op.org
 domain:sogou.cn
 domain:sogou.com
 domain:sogou.com.cn
@@ -16,8 +18,6 @@ domain:sogou.net
 domain:sogoucdn.com
 domain:sogoucdndl.com
 domain:sogouimecdn.com
-domain:sogou-inc.com
-domain:sogou-op.org
 domain:soso.com
 domain:soso.com.cn
 domain:sososnap.com

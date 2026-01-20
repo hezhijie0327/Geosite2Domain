@@ -1,7 +1,7 @@
-domain:intuit
 domain:creditkarma.com
 domain:gopayment.com
 domain:gopayments.com
+domain:intuit
 domain:intuit-gopayment.com
 domain:intuit.ca
 domain:intuit.co.uk

@@ -1,9 +1,8 @@
-domain:samsung
-domain:xn--cg4bki
 domain:galaxyappstore.com
 domain:galaxymobile.jp
 domain:game-platform.net
 domain:knoxemm.com
+domain:samsung
 domain:samsung.com
 domain:samsungads.com:@ads
 domain:samsungapps.com
@@ -18,3 +17,4 @@ domain:samsungknox.com
 domain:samsungosp.com
 domain:samsungqbe.com
 domain:samsungrs.com
+domain:xn--cg4bki

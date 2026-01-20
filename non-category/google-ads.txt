@@ -14,8 +14,8 @@ domain:adwords-community.com:@ads
 domain:adwords.com:@ads
 domain:adwordsexpress.com:@ads
 domain:analytics-alv.google.com:@ads
-domain:app-analytics-services.com:@ads
 domain:app-analytics-services-att.com:@ads
+domain:app-analytics-services.com:@ads
 domain:app-measurement-cn.com:@ads
 domain:app-measurement.com:@ads
 domain:doubleclick-cn.net:@ads
@@ -45,8 +45,8 @@ domain:googletraveladservices-cn.com:@ads
 domain:googletraveladservices.com:@ads
 domain:googlevads-cn.com:@ads
 domain:mail-ads.google.com:@ads
-domain:mobileads.google.com:@ads
 domain:marketingplatform.google.com:@ads
+domain:mobileads.google.com:@ads
 domain:pagead.l.google.com:@ads
 domain:partnerad.l.google.com:@ads
 domain:urchin.com:@ads

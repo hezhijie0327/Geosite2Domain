@@ -1,9 +1,9 @@
-domain:mini
 domain:4myminicard.com
 domain:aboutyourmini.com
 domain:atlantaminidealers.com
 domain:greatergothammini.com
 domain:midatlanticbmwmotorcycles.com
+domain:mini
 domain:mini-abudhabi.com
 domain:mini-antilles.fr
 domain:mini-bahrain.com
@@ -212,4 +212,3 @@ domain:shopminiusa.com
 domain:southfloridamini.com
 domain:trmini.com
 domain:troisrivieresmini.com
-domain:yours-customised.mini.com

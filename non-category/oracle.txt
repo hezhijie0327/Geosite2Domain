@@ -1,8 +1,14 @@
-domain:oracle
+domain:addthis.com
+domain:addthiscdn.com
+domain:addthisedge.com
 domain:ateam-oracle.com
 domain:bronto.com
 domain:covid19-rx.org
 domain:covid19rx.org
+domain:java
+domain:java.com
+domain:java.net
+domain:oracle
 domain:oracle.com
 domain:oraclecloud.com
 domain:oraclefoundation.org
@@ -10,9 +16,3 @@ domain:oracleimg.com
 domain:oracleinfinity.io
 domain:sun.com
 domain:virtualbox.org
-domain:addthis.com
-domain:addthiscdn.com
-domain:addthisedge.com
-domain:java
-domain:java.com
-domain:java.net

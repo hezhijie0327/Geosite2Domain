@@ -1,5 +1,6 @@
 domain:airgonetworks.com
 domain:berkanawireless.com
+domain:brewmp.com
 domain:cdmatech.com
 domain:dragoniscoming.com
 domain:gobianywhere.com
@@ -16,8 +17,8 @@ domain:qceventscenter.com.cn:@cn
 domain:qctconnect.com
 domain:qprize.com
 domain:qualcomm-email.com
-domain:qualcomm.cn:@cn
 domain:qualcomm.cn.cdn.cloudflare.net:@cn
+domain:qualcomm.cn:@cn
 domain:qualcomm.co.id
 domain:qualcomm.co.in
 domain:qualcomm.co.jp
@@ -43,5 +44,4 @@ domain:wipower.com
 domain:wirelessreach.com
 domain:xtracloud.cn:@cn
 domain:xtracloud.net
-domain:brewmp.com
 full:qualcomm.sc.omtrdc.net

@@ -1,5 +1,5 @@
-domain:cern
 domain:ams02.space
+domain:cern
 domain:cern.ch
 domain:cixp.net
 domain:dotcernpilot.info

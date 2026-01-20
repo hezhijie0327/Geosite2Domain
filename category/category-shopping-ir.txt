@@ -1,7 +1,11 @@
+domain:digi-kala.com
+domain:digikala.com
+domain:digikalabusiness.com
+domain:digikalajet.com
+domain:digistyle.com
 domain:divar.cloud
 domain:divar.ir
 domain:divarcdn.com
-domain:digi-kala.com
 domain:emalls.ir
 domain:esam.ir
 domain:janebi.com
@@ -9,7 +13,3 @@ domain:janebi.ir
 domain:sheypoor.com
 domain:torob.com
 domain:zanbil.ir
-domain:digikala.com
-domain:digikalabusiness.com
-domain:digikalajet.com
-domain:digistyle.com

@@ -1,3 +1,4 @@
+domain:livestream.com
 domain:vhx.tv
 domain:vhxqa1.com
 domain:vhxqa2.com
@@ -13,5 +14,4 @@ domain:vimeocdn.com
 domain:vimeogoods.com
 domain:vimeoondemand.com
 domain:vimeostatus.com
-domain:livestream.com
 regexp:^[0-9]+vod-adaptive\.akamaized\.net$

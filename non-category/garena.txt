@@ -1,7 +1,3 @@
-full:avatargarenanow-a.akamaihd.net
-full:cdngarenanow-a.akamaihd.net
-full:dlgarenanow-a.akamaihd.net
-full:dlmobilegarena-a.akamaihd.net
 domain:garena.co.id
 domain:garena.co.th
 domain:garena.com
@@ -14,3 +10,7 @@ domain:garena.tw
 domain:garena.vn
 domain:garenanow.com
 domain:seagroup.com
+full:avatargarenanow-a.akamaihd.net
+full:cdngarenanow-a.akamaihd.net
+full:dlgarenanow-a.akamaihd.net
+full:dlmobilegarena-a.akamaihd.net

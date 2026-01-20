@@ -4,8 +4,8 @@ domain:fsmone.com.my
 domain:fundsupermart.com
 domain:ifastcapital.com.my
 domain:ifastcorp.com
-domain:ifastfinancial.com.hk
 domain:ifastfinancial.co.in
+domain:ifastfinancial.com.hk
 domain:ifastgb.com
 domain:ifastgp.com
 domain:ifastgp.com.hk

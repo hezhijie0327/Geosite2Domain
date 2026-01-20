@@ -1,6 +1,6 @@
+domain:abema-tv.com
 domain:abema.io
 domain:abema.tv
-domain:abema-tv.com
 domain:abematv.co.jp
 domain:adx.promo
 domain:ameba.jp

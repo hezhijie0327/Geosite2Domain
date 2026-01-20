@@ -7,7 +7,6 @@ domain:vk-apps.com
 domain:vk-apps.ru
 domain:vk-cdn.me
 domain:vk-cdn.net
-domain:vkcloud-static.ru
 domain:vk-portal.net
 domain:vk.cc
 domain:vk.com
@@ -18,6 +17,7 @@ domain:vk.me
 domain:vk.ru
 domain:vk.team
 domain:vkcache.com
+domain:vkcloud-static.ru
 domain:vkgo.app
 domain:vklive.app
 domain:vkmessenger.app

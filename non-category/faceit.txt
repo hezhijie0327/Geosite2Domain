@@ -1,2 +1,2 @@
-domain:faceit.com
 domain:faceit-cdn.net
+domain:faceit.com

@@ -1,9 +1,9 @@
 domain:aparat.com
 domain:aparatkids.com
 domain:aparatsport.com
+domain:cinematicket.org
 domain:filimo.com
 domain:filimo.school
-domain:cinematicket.org
 domain:filmnet.ir
 domain:irib.ir
 domain:iribtv.ir

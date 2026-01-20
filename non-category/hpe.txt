@@ -2,9 +2,9 @@ domain:greenlakeaas.com
 domain:greenlakehybridcloud.com
 domain:hewlett-packard.asia
 domain:hewlett-packard.ch
+domain:hewlett-packard.co
 domain:hewlett-packard.co.il
 domain:hewlett-packard.co.uk
-domain:hewlett-packard.co
 domain:hewlett-packard.com.cn
 domain:hewlett-packard.com.mx
 domain:hewlett-packard.com.sg

@@ -10,5 +10,5 @@ domain:koubaibu.jp
 domain:litbus-anime.com
 domain:product.co.jp
 domain:rewrite-anime.tv
-domain:visualarts.gr.jp
 domain:visual-arts.jp
+domain:visualarts.gr.jp

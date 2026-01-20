@@ -1,11 +1,11 @@
-domain:boc.cn
 domain:bank-of-china.com
 domain:bankofchina.com
-domain:bocfullertonbank.com
+domain:boc.cn
 domain:bocamchina.com
 domain:bocaviation.com
 domain:boccfc.cc
 domain:boccfc.cn
+domain:bocfullertonbank.com
 domain:bocgi.com
 domain:bocgins.com
 domain:bochk.com:@!cn

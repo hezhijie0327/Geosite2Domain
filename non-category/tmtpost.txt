@@ -1,8 +1,8 @@
-domain:tmtpost.com
-domain:chaindd.com
 domain:72whys.com
+domain:chaindd.com
 domain:checkzeit.com
-domain:tivitv.com
 domain:tigeek.net.cn
+domain:tivitv.com
+domain:tmtpost.com
 domain:tmtsmartlife.com
 domain:tmtsmartrun.com

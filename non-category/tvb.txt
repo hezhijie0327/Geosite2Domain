@@ -1,8 +1,7 @@
-domain:mytvsuper.com
-domain:tvb.com
 domain:bigbigchannel.com.hk
 domain:bigbigshop.com
 domain:encoretvb.com
+domain:mytvsuper.com
 domain:tvb.com
 domain:tvb.com.au
 domain:tvbanywhere.com

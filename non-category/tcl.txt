@@ -1,5 +1,5 @@
-domain:tclai.top
+domain:leiniao.com
 domain:tcl.com
 domain:tcl.com.cn
+domain:tclai.top
 domain:tcltech.com
-domain:leiniao.com

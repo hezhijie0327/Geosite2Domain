@@ -5,13 +5,13 @@ domain:spoti.fi
 domain:spotify-everywhere.com
 domain:spotify.com
 domain:spotify.design
+domain:spotify.link
 domain:spotifycdn.com
 domain:spotifycdn.net
 domain:spotifycharts.com
 domain:spotifycodes.com
 domain:spotifyforbrands.com
 domain:spotifyjobs.com
-domain:spotify.link
 domain:tospotify.com
 full:audio-ak-spotify-com.akamaized.net
 full:audio4-ak-spotify-com.akamaized.net

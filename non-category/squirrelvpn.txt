@@ -1,2 +1,2 @@
-domain:squirrelvpn.com
 domain:squirrelgroup.net
+domain:squirrelvpn.com

@@ -1,2 +1,2 @@
-domain:wyndlabs.ai
 domain:wynd.network
+domain:wyndlabs.ai

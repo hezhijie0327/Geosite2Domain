@@ -1,10 +1,10 @@
-domain:youtube
 domain:ggpht.cn:@cn
 domain:ggpht.com
 domain:googlevideo.com
 domain:wide-youtube.l.google.com
 domain:withyoutube.com
 domain:youtu.be
+domain:youtube
 domain:youtube-nocookie.com
 domain:youtube-ui.l.google.com
 domain:youtube.ae

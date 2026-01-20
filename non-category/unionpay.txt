@@ -7,6 +7,6 @@ domain:cup.com.cn
 domain:cup62.cn
 domain:unionpay.com
 domain:unionpay.net
-domain:unionpaysecure.com
 domain:unionpayintl.cn
 domain:unionpayintl.com
+domain:unionpaysecure.com

@@ -1,7 +1,3 @@
-domain:58ganji.com
-domain:58ganji-corp.com
-domain:ganji.com
-domain:ganjistatic1.com
 domain:58.com
 domain:58.com.cn
 domain:5858.com
@@ -12,6 +8,8 @@ domain:58che.com
 domain:58control.cn
 domain:58corp.com
 domain:58dns.org
+domain:58ganji-corp.com
+domain:58ganji.com
 domain:58lovepet.com
 domain:58uxd.com
 domain:58v5.cn
@@ -25,11 +23,13 @@ domain:chrstatic.com
 domain:daojia.com
 domain:diandao.org
 domain:fang.com
-domain:sofun.com
-domain:soufunimg.com
+domain:ganji.com
+domain:ganjistatic1.com
 domain:jxedt.com
 domain:jxksw.net
 domain:roomeet.cn
+domain:sofun.com
+domain:soufunimg.com
 domain:xinchong.com
 domain:zhuancorp.com
 domain:zhuaninc.com

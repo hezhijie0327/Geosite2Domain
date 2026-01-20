@@ -1,7 +1,7 @@
+domain:geobasket.ru
 domain:ozon.ru
 domain:ozone.ru
 domain:ozonusercontent.com
-domain:geobasket.ru
 domain:paywb.com
 domain:rwb.ru
 domain:wb-basket.ru

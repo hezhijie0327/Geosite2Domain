@@ -7,14 +7,14 @@ domain:happysrv.de
 domain:hotsrv.de
 domain:luckysrv.de
 domain:megasrv.de
+domain:netcup-news.de
+domain:netcup-sonderangebote.de
+domain:netcup-wiki.de
 domain:netcup.cafe
 domain:netcup.com
 domain:netcup.de
 domain:netcup.eu
 domain:netcup.net
-domain:netcup-news.de
-domain:netcup-sonderangebote.de
-domain:netcup-wiki.de
 domain:nicesrv.de
 domain:powersrv.de
 domain:quicksrv.de

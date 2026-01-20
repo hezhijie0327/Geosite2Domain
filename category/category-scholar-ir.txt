@@ -1,6 +1,5 @@
 domain:ac.ir
 domain:edu.ir
-domain:iau.ac.ir
 domain:iranlms.ir
 domain:jtt.ir
 domain:sanjesh.org

@@ -1,7 +1,7 @@
-domain:walmart
 domain:w-mt.co
 domain:wal-mart.com
 domain:wal.co
+domain:walmart
 domain:walmart-content.com
 domain:walmart.cn:@cn
 domain:walmart.com

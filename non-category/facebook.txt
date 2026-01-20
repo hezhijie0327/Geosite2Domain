@@ -94,10 +94,9 @@ domain:facebook.ca
 domain:facebook.cc
 domain:facebook.com
 domain:facebook.design
-domain:facebook.net
 domain:facebook.hu
 domain:facebook.in
-domain:fecebook.net
+domain:facebook.net
 domain:facebook.nl
 domain:facebook.org
 domain:facebook.se
@@ -199,6 +198,7 @@ domain:facebooktv.net
 domain:facebooktv.org
 domain:facebookvacation.com
 domain:facebookw.com
+domain:facebookwork.com
 domain:facebookworld.com
 domain:facebool.com
 domain:facebool.info
@@ -304,6 +304,7 @@ domain:fecbbok.com
 domain:fecbooc.com
 domain:fecbook.com
 domain:feceboock.com
+domain:fecebook.net
 domain:feceboox.com
 domain:fececbook.com
 domain:feook.com
@@ -368,6 +369,7 @@ domain:nextstop.com
 domain:online-deals.net
 domain:opencreate.org
 domain:reachtheworldonfacebook.com
+domain:redkix.com
 domain:rocksdb.org
 domain:shopfacebook.com
 domain:sportsfacebook.com
@@ -380,6 +382,8 @@ domain:thefind.com
 domain:toplayerserver.com
 domain:viewpointsfromfacebook.com
 domain:whyfacebook.com
+domain:workplace.com
+domain:workplaceusecases.com
 domain:worldhack.com
 domain:www-facebook.com
 domain:wwwfacebok.com
@@ -387,8 +391,4 @@ domain:wwwfacebook.com
 domain:wwwmfacebook.com
 domain:zuckerberg.com
 domain:zuckerberg.net
-domain:facebookwork.com
-domain:redkix.com
-domain:workplace.com
-domain:workplaceusecases.com
 full:fbcdn-a.akamaihd.net

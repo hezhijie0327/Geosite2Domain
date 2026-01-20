@@ -1,7 +1,7 @@
-domain:cf-ipfs.com
-domain:cloudflare-ipfs.com
 domain:4everland.io
 domain:c4rex.co
+domain:cf-ipfs.com
+domain:cloudflare-ipfs.com
 domain:crustwebsites.net
 domain:dweb.link
 domain:gateway.pinata.cloud

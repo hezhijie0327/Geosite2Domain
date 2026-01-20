@@ -1,2 +1,2 @@
-domain:hongkongpost.gov.hk
 domain:ecert.gov.hk
+domain:hongkongpost.gov.hk

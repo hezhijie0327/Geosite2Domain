@@ -1,2 +1,2 @@
-domain:doi.org
 domain:doi.info
+domain:doi.org

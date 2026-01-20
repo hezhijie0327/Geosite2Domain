@@ -1,4 +1,4 @@
 domain:cnbc.com
 domain:cnbcfm.com
-domain:nbcuni.com
 domain:nbcudigitaladops.com
+domain:nbcuni.com

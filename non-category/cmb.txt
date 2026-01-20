@@ -18,5 +18,5 @@ domain:cmf.biz
 domain:cmf.ltd
 domain:cmfchina.com
 domain:cmfunds.cn
-domain:test-cignacmb.com
 domain:joying.com
+domain:test-cignacmb.com

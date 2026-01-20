@@ -1,8 +1,8 @@
 domain:dyncdn.me
-domain:rarbg.me
-domain:rarbg.to
 domain:proxyrarbg.org
 domain:rarbg.is
+domain:rarbg.me
+domain:rarbg.to
 domain:rarbgaccess.org
 domain:rarbgaccessed.org
 domain:rarbgget.org

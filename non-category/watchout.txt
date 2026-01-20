@@ -1,2 +1,2 @@
-domain:watchout.tw
 domain:waa.tw
+domain:watchout.tw

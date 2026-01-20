@@ -2,8 +2,6 @@ domain:amp.dev
 domain:ampproject.com
 domain:ampproject.net
 domain:ampproject.org
-full:cdn.ampproject.org:@cn
-full:amp.akamaized.net
 domain:electronjs.org
 domain:jquery.com
 domain:jquerymobile.com
@@ -11,3 +9,5 @@ domain:jqueryui.com
 domain:mochajs.org
 domain:nodejs.org
 domain:openjsf.org
+full:amp.akamaized.net
+full:cdn.ampproject.org:@cn

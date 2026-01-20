@@ -1,5 +1,5 @@
-domain:canon
 domain:c-ij.com
+domain:canon
 domain:canon-cee.com
 domain:canon-cmos-sensors.com
 domain:canon-cna.com

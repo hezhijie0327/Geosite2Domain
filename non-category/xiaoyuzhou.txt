@@ -1,5 +1,5 @@
-domain:xyzfm.space
-domain:xyzfm.link
-domain:xyzcdn.net
-domain:xiaoyuzhoufm.com
 domain:podcast.xyz
+domain:xiaoyuzhoufm.com
+domain:xyzcdn.net
+domain:xyzfm.link
+domain:xyzfm.space

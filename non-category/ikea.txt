@@ -20,6 +20,7 @@ domain:ikea.co.ph
 domain:ikea.co.pl
 domain:ikea.co.th
 domain:ikea.co.uk
+domain:ikea.com
 domain:ikea.com.au
 domain:ikea.com.cy
 domain:ikea.com.de
@@ -68,6 +69,7 @@ domain:ikea.lv
 domain:ikea.ma
 domain:ikea.mx
 domain:ikea.my
+domain:ikea.net
 domain:ikea.nl
 domain:ikea.no
 domain:ikea.om
@@ -85,8 +87,6 @@ domain:ikea.si
 domain:ikea.sk
 domain:ikea.ua
 domain:ikea.us
-domain:ikea.com
-domain:ikea.net
 domain:ingka-dt.cn:@cn
 domain:ingka-internal.cn:@cn
 domain:ingka-system.cn:@cn

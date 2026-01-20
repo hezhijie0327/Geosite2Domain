@@ -1,3 +1,4 @@
+domain:cn-cdn1.skymansion.net:@cn
 domain:sky
 domain:sky.com
 domain:skyassets.com
@@ -10,4 +11,3 @@ domain:skysports.fr
 domain:skysports.ie
 domain:skysportsonline.com
 domain:skysportsracing.com
-domain:cn-cdn1.skymansion.net:@cn

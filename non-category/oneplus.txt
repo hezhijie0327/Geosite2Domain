@@ -1,8 +1,8 @@
-domain:oneplus.com
+domain:h2os.com
 domain:oneplus.cn
+domain:oneplus.com
 domain:oneplus.net
-domain:opstatics.com
 domain:oneplusbbs.com
 domain:oneplusmobile.com
-domain:h2os.com
+domain:opstatics.com
 full:community.oneplus.com:@!cn

@@ -1,7 +1,7 @@
-domain:ctadns.cn
 domain:bjctyiptv.cn
 domain:cqctyiptv.cn
 domain:ctacdn.cn
+domain:ctadns.cn
 domain:ctaigw.cn
 domain:ctbcdn.com
 domain:ctcdn.cn

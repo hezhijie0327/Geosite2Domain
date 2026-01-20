@@ -1,6 +1,3 @@
-domain:mask-api.icloud.com
-domain:mask-h2.icloud.com
-domain:mask.icloud.com
 domain:apple-icloud.cn:@cn
 domain:appleicloud.cn:@cn
 domain:applemx-icloud.com
@@ -38,12 +35,12 @@ domain:icloudhome.com
 domain:icloudmail.net
 domain:icloudmusic.net
 domain:icloudnet.net
-domain:icloudpay.net
 domain:icloudo.com
 domain:icloudo.de
 domain:icloudo.net
 domain:icloudos.de
 domain:icloudos.net
+domain:icloudpay.net
 domain:icloudsecure.net
 domain:icloudsetup.com
 domain:ios-icloud.com

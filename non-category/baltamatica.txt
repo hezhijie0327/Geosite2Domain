@@ -1,4 +1,4 @@
 domain:baltamatica.cn
+domain:baltamatica.com
 domain:baltamatica.net
 domain:baltamatica.org.cn
-domain:baltamatica.com

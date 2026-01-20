@@ -6,11 +6,11 @@ domain:globalsign.ch
 domain:globalsign.cloud
 domain:globalsign.cn:@cn
 domain:globalsign.co.uk
-domain:globalsign.com:@cn
 domain:globalsign.com.au
 domain:globalsign.com.br
 domain:globalsign.com.hk
 domain:globalsign.com.sg
+domain:globalsign.com:@cn
 domain:globalsign.es
 domain:globalsign.eu
 domain:globalsign.fr

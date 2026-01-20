@@ -1,2 +1,2 @@
-domain:edx.org
 domain:edx-cdn.org
+domain:edx.org

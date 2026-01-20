@@ -1,7 +1,6 @@
-domain:citic
-domain:xn--fiq64b
 domain:cfc108.com
 domain:chinaamc.com
+domain:citic
 domain:citic-prudential.com.cn
 domain:citicbank.com
 domain:citiccapital.com
@@ -15,3 +14,4 @@ domain:cncbinternational.com:@!cn
 domain:csc108.com
 domain:csci.hk:@!cn
 domain:ecitic.com
+domain:xn--fiq64b

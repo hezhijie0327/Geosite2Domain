@@ -1,5 +1,3 @@
-domain:unicom
-domain:xn--8y0a063a
 domain:10010.com
 domain:10010.com.cn
 domain:10155.com
@@ -14,9 +12,11 @@ domain:cuguplus.com:@!cn
 domain:cuniq.com:@!cn
 domain:cuniq.sg:@!cn
 domain:mychinaunicom.com
+domain:unicom
 domain:wo.cn
 domain:wo.com.cn
 domain:wo116114.com
 domain:wocloud.com.cn
 domain:woread.com.cn
 domain:wosms.cn
+domain:xn--8y0a063a

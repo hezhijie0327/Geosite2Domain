@@ -1,5 +1,5 @@
-domain:getfedora.org
 domain:fedoraforum.org
+domain:fedoramagazine.org
 domain:fedorapeople.org
 domain:fedoraproject.org
-domain:fedoramagazine.org
+domain:getfedora.org

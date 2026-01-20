@@ -1,3 +1,3 @@
+domain:mycdn.me
 domain:ok.ru
 domain:okcdn.ru
-domain:mycdn.me

@@ -1,4 +1,3 @@
-domain:dell
 domain:alienware.ae
 domain:alienware.at
 domain:alienware.be
@@ -36,8 +35,11 @@ domain:alienware.ps
 domain:alienware.ro
 domain:alienware.se
 domain:alienware.us
+domain:dataframeworks.com
 domain:del.com
 domain:del.com.br
+domain:dell
+domain:dell-alw.com:@cn
 domain:dell-brand.com:@cn
 domain:dell.ac
 domain:dell.am
@@ -177,8 +179,6 @@ domain:dell.ug
 domain:dell.uz
 domain:dell.vg
 domain:dell.vn
-domain:dataframeworks.com
-domain:dell-alw.com:@cn
 domain:dellcdn.com
 domain:dellcommunity.com
 domain:dellcomunidade.com
@@ -207,11 +207,11 @@ domain:shopalienware.com
 domain:solutionstation.com
 domain:studiodell.com
 domain:vce.com
-full:dell.my.site.com
 full:afcs.dell.com:@cn
 full:clientperipherals.dell.com:@cn
 full:customization-cdn.dell.com:@cn
 full:dds.dell.com:@cn
+full:dell.my.site.com
 full:dl.dell.com:@cn
 full:ea2cn-dev-outlet.dell.com:@cn
 full:ea2cn-prod-outlet.dell.com:@cn

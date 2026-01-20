@@ -1,5 +1,6 @@
-domain:blogger.com
 domain:blogblog.com
+domain:blogger.com
+domain:blogger.googleusercontent.com
 domain:blogspot.ae
 domain:blogspot.al
 domain:blogspot.am
@@ -73,4 +74,3 @@ domain:blogspot.td
 domain:blogspot.tw
 domain:blogspot.ug
 domain:blogspot.vn
-domain:blogger.googleusercontent.com

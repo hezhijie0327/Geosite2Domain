@@ -1,4 +1,6 @@
+domain:amlg.io
 domain:cbs.com
+domain:cbsaavideo.com
 domain:cbscorporation.com
 domain:cbsi.com
 domain:cbsi.video
@@ -13,16 +15,14 @@ domain:cbspressexpress.com
 domain:cbssports.com
 domain:cbsstatic.com
 domain:cbssvideo.com
+domain:mtvnservices.com
+domain:paramount.com
+domain:paramountplus.com
+domain:pplusstatic.com
 domain:viacbs.com
 domain:viacom.com
 domain:viacomcbs.com
 domain:viacomcbspressexpress.com
-domain:paramount.com
-domain:amlg.io
-domain:cbsaavideo.com
-domain:mtvnservices.com
-domain:paramountplus.com
-domain:pplusstatic.com
 full:cbsi.live.ott.irdeto.com
 full:cbsplaylistserver.aws.syncbak.com
 full:cbsservice.aws.syncbak.com

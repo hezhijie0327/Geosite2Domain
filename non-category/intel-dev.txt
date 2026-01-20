@@ -1,4 +1,6 @@
 domain:01.org
+domain:acpica.com
+domain:clearlinux.org
 domain:hyperscan.io
 domain:intellinuxgraphics.com
 domain:intellinuxgraphics.net
@@ -8,10 +10,8 @@ domain:opencas.io
 domain:opendroneid.org
 domain:openvino.ai
 domain:openvinotoolkit.org
+domain:ospray.net
+domain:ospray.org
 domain:renderingtoolkit.org
 domain:snap-telemetry.io
 domain:universalscalablefirmware.org
-domain:acpica.com
-domain:clearlinux.org
-domain:ospray.net
-domain:ospray.org

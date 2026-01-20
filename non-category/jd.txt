@@ -1,11 +1,3 @@
-domain:ads.union.jd.com:@ads
-domain:ads-union.jd.com:@ads
-domain:c-nfa.jd.com:@ads
-domain:cps.360buy.com:@ads
-domain:gia.jd.com:@ads
-domain:img-x.jd.com:@ads
-domain:jzt.jd.com:@ads
-domain:stat.m.jd.com:@ads
 domain:1huizhan.com
 domain:3.cn
 domain:300hu.com
@@ -16,8 +8,11 @@ domain:360buyimg.com
 domain:360buyinternational.com
 domain:360top.com
 domain:7fresh.com
+domain:ads-union.jd.com:@ads
+domain:ads.union.jd.com:@ads
 domain:baitiao.com
 domain:blackdragon.com
+domain:c-nfa.jd.com:@ads
 domain:caiyu.com
 domain:chicalot.cn
 domain:chinabank.com.cn
@@ -96,10 +91,15 @@ domain:cloudyuncheng.com
 domain:cloudyuxi.com
 domain:cloudzhongshan.com
 domain:cloudzhuhai.com
+domain:cps.360buy.com:@ads
 domain:dao123.com
 domain:duiou.com.cn
+domain:duolabao.com
+domain:gia.jd.com:@ads
 domain:goselling.com
 domain:healthjd.com
+domain:imdada.cn
+domain:img-x.jd.com:@ads
 domain:isvjcloud.com
 domain:isvjd.com
 domain:jcloud-cache.com
@@ -208,6 +208,7 @@ domain:jingxi.com
 domain:jkcsjd.com
 domain:joybuy.com
 domain:joybuy.es
+domain:jzt.jd.com:@ads
 domain:linglonglife.com
 domain:logiseasy.com
 domain:mayshijia.com
@@ -216,11 +217,12 @@ domain:missjia.net
 domain:ocwms.com
 domain:paidaojia.cn
 domain:paipai.com
-domain:prestodb.net.cn
 domain:prestodb-china.com
+domain:prestodb.net.cn
 domain:qianxun.com
 domain:qingzhouip.com
 domain:sgsic.com
+domain:stat.m.jd.com:@ads
 domain:toplife.com
 domain:vg.com
 domain:vipmro.com
@@ -236,5 +238,3 @@ domain:yihaodian.com
 domain:yihaodianimg.com
 domain:yiyaojd.com
 domain:yizhitou.com
-domain:imdada.cn
-domain:duolabao.com

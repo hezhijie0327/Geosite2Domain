@@ -2,7 +2,7 @@ domain:signal.art
 domain:signal.group
 domain:signal.link
 domain:signal.me
-domain:signal.tube
 domain:signal.org
+domain:signal.tube
 domain:signalusers.org
 domain:whispersystems.org

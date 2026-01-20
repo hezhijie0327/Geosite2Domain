@@ -1,2 +1,2 @@
-domain:scmp.com
 domain:i-scmp.com
+domain:scmp.com

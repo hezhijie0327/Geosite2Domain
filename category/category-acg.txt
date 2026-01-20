@@ -1,3 +1,4 @@
+domain:bowlroll.net
 domain:colorfulstage.com
 domain:crypton.co.jp
 domain:lapriere.jp
@@ -5,4 +6,3 @@ domain:magicalmirai.com
 domain:mikuexpo.com
 domain:piapro.net
 domain:snowmiku.com
-domain:bowlroll.net

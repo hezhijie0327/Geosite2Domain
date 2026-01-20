@@ -1,3 +1,8 @@
+domain:codei.sh
+domain:codeish.co
+domain:codeish.io
+domain:heroku-app.com
+domain:heroku-charge.com
 domain:heroku.co
 domain:heroku.com
 domain:heroku.me
@@ -5,8 +10,3 @@ domain:herokuapp.com
 domain:herokucdn.com
 domain:herokucharge.com
 domain:herokussl.com
-domain:heroku-app.com
-domain:heroku-charge.com
-domain:codei.sh
-domain:codeish.co
-domain:codeish.io

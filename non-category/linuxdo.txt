@@ -1,2 +1,2 @@
-domain:linux.do
 domain:ldstatic.com
+domain:linux.do

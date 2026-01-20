@@ -1,3 +1,4 @@
+domain:ro.com
 domain:tapapks.com
 domain:tapimg.com
 domain:tapimg.net
@@ -5,7 +6,6 @@ domain:taptap.cn
 domain:taptap.com
 domain:taptap.io:@!cn
 domain:taptapdada.com
-domain:ro.com
 domain:xd.cn
 domain:xd.com
 domain:xdcdn.net

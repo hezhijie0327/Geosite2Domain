@@ -1,3 +1,7 @@
+domain:benghuai.com
+domain:bh3.com
+domain:bhsr.com
+domain:juequling.com
 domain:mhystatic.com
 domain:mhyurl.cn
 domain:mihayo.com
@@ -7,10 +11,6 @@ domain:mihoyocg.com
 domain:mihoyogift.com
 domain:mihoyomall.com
 domain:miyoushe.com
-domain:benghuai.com
-domain:bh3.com
-domain:bhsr.com
 domain:themisweeps.com
 domain:yuanshen.com
-domain:juequling.com
 regexp:^.+-mihayo\.akamaized\.net$:@cn

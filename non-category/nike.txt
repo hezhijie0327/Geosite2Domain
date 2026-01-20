@@ -1,4 +1,3 @@
-domain:nike
 domain:air-nike-shoes.com
 domain:airmax360.com
 domain:beijingnike.com
@@ -26,6 +25,7 @@ domain:justdoit.us
 domain:kicksnike1.com
 domain:kidsnikeshoes.com
 domain:mynike.com
+domain:nike
 domain:nike-air-max.com
 domain:nike-dunksb.com
 domain:nike-fr.com
@@ -69,12 +69,12 @@ domain:nikebiz.info
 domain:nikebuy.com
 domain:nikeby.com
 domain:nikecdn.com
-domain:nikecompany.com
-domain:nikeconfluence.com
 domain:nikechina.cn:@cn
 domain:nikechosen.com
 domain:nikecloud.com
 domain:nikeclub.com
+domain:nikecompany.com
+domain:nikeconfluence.com
 domain:nikecraft.com
 domain:nikedawn.com
 domain:nikedunks.net
@@ -125,8 +125,8 @@ domain:nikelunarglide.com
 domain:nikemall.cn:@cn
 domain:nikemall.com.cn:@cn
 domain:nikemarketing.com
-domain:nikenews.com
 domain:niken7.com
+domain:nikenews.com
 domain:nikeonlinestore.com
 domain:nikeoutletstore.com
 domain:nikeoutletstores.com
