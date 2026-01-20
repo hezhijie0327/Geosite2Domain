@@ -72,6 +72,7 @@ domain:hwshu.com
 domain:hytung.cn
 domain:incopat.com
 domain:lawyee.org
+domain:libvideo.com
 domain:neohytung.com
 domain:nmrdata.com
 domain:nssd.cn
@@ -87,4 +88,3 @@ domain:unihan.com.cn
 domain:wenxin-ge.com
 domain:wind.com.cn
 domain:yiigle.com
-full:www.libvideo.com

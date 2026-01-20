@@ -62,6 +62,8 @@ domain:groq.com
 domain:hf.co
 domain:hf.space
 domain:huggingface.co
+domain:liveperson.net
+domain:lpsnmedia.net
 domain:chatgpt.com
 domain:chat.com
 domain:oaistatic.com
@@ -89,6 +91,9 @@ domain:poecdn.net
 domain:grok.com
 domain:grok.x.com
 domain:x.ai
+domain:youmind.ai
+domain:youmind.com
+domain:youmind.site
 domain:coderabbit.ai
 domain:coderabbit.gallery.vsassets.io
 domain:cohere.ai

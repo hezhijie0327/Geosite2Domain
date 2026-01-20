@@ -265,6 +265,10 @@ domain:schwab.com.hk
 domain:schwab.com.sg
 domain:schwabassetmanagement.com
 domain:schwabplan.com
+domain:sc.com
+domain:standardchartered.com
+full:standchartbank.sc.omtrdc.net
+full:standchartbank.tt.omtrdc.net
 domain:transferwise.com
 domain:wise.com
 domain:fxcorporate.com

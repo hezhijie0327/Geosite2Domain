@@ -1,3 +1,5 @@
+domain:annas-archive.in
 domain:annas-archive.li
 domain:annas-archive.org
+domain:annas-archive.pm
 domain:annas-archive.se

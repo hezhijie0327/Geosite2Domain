@@ -385,7 +385,6 @@ domain:segment.com:@ads
 domain:segment.io:@ads
 domain:segmenthub.com:@ads
 domain:segmentify.com:@ads
-domain:static.sensorsdata.cn:@ads
 domain:ad.sina.com.cn:@ads
 domain:ad.us.sinaimg.cn:@ads
 domain:adbox.sina.com.cn:@ads
@@ -663,6 +662,7 @@ domain:ipinyou.com.cn
 domain:optaim.com
 domain:reachmax.cn
 domain:reyun.com
+domain:static.sensorsdata.cn
 domain:zhugeapi.com
 domain:zhugeapi.net
 domain:zhugeio.com

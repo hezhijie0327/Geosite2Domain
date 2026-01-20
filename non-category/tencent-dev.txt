@@ -11,4 +11,4 @@ domain:tencentcloud.com
 domain:tjstats.com
 domain:wegamedeveloper.com
 domain:weixinbridge.com
-domain:weui.io:@cn
+domain:weui.io

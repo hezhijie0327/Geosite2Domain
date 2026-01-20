@@ -435,7 +435,7 @@ domain:tencentcloud.com
 domain:tjstats.com
 domain:wegamedeveloper.com
 domain:weixinbridge.com
-domain:weui.io:@cn
+domain:weui.io
 domain:battlecare.net
 domain:gameitop.com
 domain:gameloop.com
