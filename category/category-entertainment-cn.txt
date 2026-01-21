@@ -89,6 +89,7 @@ domain:anitama.net
 domain:anticheatexpert.com
 domain:appeeres.com
 domain:apple.www.letv.com:@ads
+domain:arcaea.cn
 domain:ark.letv.com:@ads
 domain:astral-vector.com
 domain:awemeughun.com

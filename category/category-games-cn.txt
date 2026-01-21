@@ -42,6 +42,7 @@ domain:abdf002.com
 domain:aki-game.com
 domain:anticheatexpert.com
 domain:appeeres.com
+domain:arcaea.cn
 domain:astral-vector.com
 domain:battlecare.net
 domain:bcfmglobal.com

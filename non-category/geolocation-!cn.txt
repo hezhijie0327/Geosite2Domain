@@ -8457,6 +8457,7 @@ domain:genshinimpact.com
 domain:gentoo.org
 domain:geobasket.ru
 domain:geodesummit.com
+domain:geogebra.org
 domain:geolytics.com
 domain:geoport.com
 domain:geospatialimaging.com
@@ -20566,6 +20567,7 @@ domain:wiisportsresort.com
 domain:wiiugamepad.com
 domain:wiivc.net
 domain:wikawika.xyz
+domain:wiki.gg
 domain:wikia.com
 domain:wikia.nocookie.net
 domain:wikia.org
@@ -20666,6 +20668,7 @@ domain:woflthenewsstation.com
 domain:wogx.com
 domain:wolfatbestbuy.com
 domain:wolfatbestbuy.net
+domain:wolframalpha.com
 domain:wolfsex-me.sbs
 domain:wolterskluwer.com
 domain:womensnikeshox.com

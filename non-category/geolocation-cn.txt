@@ -722,6 +722,7 @@ domain:applysquare.net
 domain:appsimg.com
 domain:appvipshop.com
 domain:ar.umeng.com:@ads
+domain:arcaea.cn
 domain:arco.design
 domain:ark.letv.com:@ads
 domain:arpun.com
@@ -800,6 +801,8 @@ domain:baihe.com
 domain:baijiayun.com
 domain:baike.com
 domain:baikevod.com
+domain:baimiao.tech
+domain:baimiaoapp.com
 domain:baishinetwork.com
 domain:baitiao.com
 domain:baixing.com
@@ -4978,6 +4981,7 @@ domain:shihuo.cn
 domain:shijiexia.com
 domain:shimo.im
 domain:shimonote.com
+domain:shinescan.tech
 domain:shixiseng.com
 domain:shizhuang-inc.com
 domain:shizhuang-inc.net
@@ -5727,6 +5731,7 @@ domain:uucl.vip
 domain:uuu9.com
 domain:uwtmy.cn
 domain:uyunad.com
+domain:uzero.cn
 domain:uzzf.com
 domain:v5875.com
 domain:v6-adashx.ut.amap.com:@ads

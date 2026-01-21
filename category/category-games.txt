@@ -52,6 +52,7 @@ domain:anthemthegame.com
 domain:anticheatexpert.com
 domain:apexlegends.com
 domain:appeeres.com
+domain:arcaea.cn
 domain:arcraiders.com
 domain:artstation.com
 domain:asobostudio.com
