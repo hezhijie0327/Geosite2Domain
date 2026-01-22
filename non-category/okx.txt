@@ -3,4 +3,5 @@ domain:oklink.com:@cn
 domain:okx-dns.com
 domain:okx-dns1.com
 domain:okx-dns2.com
+domain:okx.cab
 domain:okx.com
