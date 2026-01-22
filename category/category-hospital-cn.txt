@@ -1,3 +1,4 @@
+domain:cd120.com
 domain:fuwai.com
 domain:pkuh6.cn
 domain:puh3.net.cn

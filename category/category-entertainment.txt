@@ -379,6 +379,8 @@ domain:electronicarts.fr
 domain:elpionero.es
 domain:embark-studios.com
 domain:embark.games
+domain:eneba.com
+domain:eneba.games
 domain:epicgames.com
 domain:epicgames.dev
 domain:epicgamescdn.com

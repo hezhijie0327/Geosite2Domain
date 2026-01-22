@@ -42,6 +42,7 @@ domain:okjk.co
 domain:p4p.sina.com.cn:@ads
 domain:picself.cn
 domain:procg.cn
+domain:rednotecdn.com
 domain:rs.sinajs.cn:@ads
 domain:ruguoapp.com
 domain:sa.sina.cn:@ads

@@ -1,5 +1,6 @@
 domain:askdiandian.com
 domain:diandianlife.top
+domain:rednotecdn.com
 domain:xhscdn.com
 domain:xhscdn.net
 domain:xhslink.com

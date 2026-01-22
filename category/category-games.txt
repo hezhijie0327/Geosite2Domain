@@ -196,6 +196,8 @@ domain:electronicarts.com
 domain:electronicarts.fr
 domain:embark-studios.com
 domain:embark.games
+domain:eneba.com
+domain:eneba.games
 domain:epicgames.com
 domain:epicgames.dev
 domain:epicgamescdn.com

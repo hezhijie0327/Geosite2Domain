@@ -1230,6 +1230,7 @@ domain:cctvpro.cn
 domain:cctvpro.com.cn
 domain:cczq.com
 domain:cczq.net
+domain:cd120.com
 domain:cdn-go.cn
 domain:cdn20.com
 domain:cdn30.org
@@ -4819,6 +4820,7 @@ domain:realme.com
 domain:realmebbs.com
 domain:realmemobile.com
 domain:redmagic.com
+domain:rednotecdn.com
 domain:reke.at.sohu.com:@ads
 domain:renren-inc.com
 domain:renren.com
