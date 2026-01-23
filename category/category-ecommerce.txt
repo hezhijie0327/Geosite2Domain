@@ -1019,4 +1019,3 @@ domain:yibei.org
 full:api-p.videomarket.jp
 full:ebay-25-assets.s3-us-west-1.amazonaws.com
 full:ecapi-pchome.cdn.hinet.net
-full:pchomeonline.com.tw

@@ -46,7 +46,6 @@ full:a.leopard-raws.org
 full:aboutbeautifulgallopinghorsesinthegreenpasture.online
 full:academic-p2p.appspot.com
 full:aegir.sexy
-full:all4nothin.net
 full:alltorrents.net
 full:amigacity.xyz
 full:anidex.moe
@@ -107,7 +106,6 @@ full:denis.stalker.upeer.me
 full:deviloid.net
 full:ed2k.vip
 full:ehtracker.org
-full:elitezones.ro
 full:epider.me
 full:evan.im
 full:exodus.desync.com
@@ -116,7 +114,6 @@ full:extracker.dahrkael.net
 full:fh2.cmp-gaming.com
 full:finbytes.org
 full:free.publictracker.xyz
-full:freerainbowtables.com
 full:funfile.org
 full:git.vulnix.sh
 full:h4.trakx.nibba.trade
@@ -142,7 +139,6 @@ full:mixfiend.com
 full:moonburrow.club
 full:movies.zsw.ca
 full:music-torrent.net
-full:mvgroup.org
 full:new-line.net
 full:nnmclub.to
 full:nyaa.tracker.wf
