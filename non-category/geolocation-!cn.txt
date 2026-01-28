@@ -5247,6 +5247,7 @@ domain:creditkarma.com
 domain:cricketcountry.com
 domain:crit-staging.com
 domain:critiquebrainz.org
+domain:crixet.com
 domain:crmdynint-gcc.com
 domain:crmdynint.com
 domain:crocotube.com
@@ -22398,7 +22399,6 @@ full:ocsp2.apple.com:@cn
 full:oemsoc.download.prss.microsoft.com:@cn
 full:officecdn.microsoft.com:@cn
 full:ood.opsource.net
-full:openaicom.imgix.net:@ads
 full:oscdn.apple.com:@cn
 full:oscdn.origin-apple.com.akadns.net:@cn
 full:osxapps.itunes.apple.com:@cn

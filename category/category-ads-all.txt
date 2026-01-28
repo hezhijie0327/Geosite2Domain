@@ -79,6 +79,8 @@ domain:adping.qq.com:@ads
 domain:adpm.app.qq.com:@ads
 domain:adq.chinaso.com
 domain:ads-api.duolingo.com:@ads
+domain:ads-pixiv.net:@ads
+domain:ads-twitter.com:@ads
 domain:ads-union.jd.com:@ads
 domain:ads-uo.api.leiniao.com:@ads
 domain:ads-ut.api.leiniao.com:@ads
@@ -218,6 +220,7 @@ domain:clearbit.com:@ads
 domain:clearbitjs.com:@ads
 domain:clearbitscripts.com:@ads
 domain:click.ali213.net
+domain:click.gamersky.com:@ads
 domain:click.hunantv.com:@ads
 domain:click.uve.mobile.sina.cn:@ads
 domain:click.uve.weibo.com:@ads
@@ -371,6 +374,9 @@ domain:ipinyou.com.cn
 domain:ironbeast.io:@ads
 domain:isdspeed.qq.com:@ads
 domain:iwanad.baidu.com:@ads
+domain:ja.gamersky.com:@ads
+domain:ja1.gamersky.com:@ads
+domain:ja2.gamersky.com:@ads
 domain:jads.co
 domain:jl3.yjaxa.top
 domain:js-agent.newrelic.com:@ads
@@ -519,6 +525,7 @@ domain:s.union.360.cn:@ads
 domain:s4yxaqyq95.com
 domain:sa.sina.cn:@ads
 domain:sabavision.com
+domain:samsungads.com:@ads
 domain:sbeacon.sina.com.cn:@ads
 domain:sclick.baidu.com:@ads
 domain:sdkclick.mobile.sina.cn:@ads
@@ -614,6 +621,7 @@ domain:wbclick.mobile.sina.cn:@ads
 domain:wit.qq.com:@ads
 domain:wkctj.baidu.com:@ads
 domain:wm.baidu.com:@ads
+domain:wmbd.gamersky.com:@ads
 domain:wuliao.epro.sogou.com:@ads
 domain:wwads.cn
 domain:xy-log.tagtic.cn:@ads
@@ -643,11 +651,15 @@ full:adstudio-assets.scdn.co:@ads
 full:analytics.google.com:@ads
 full:apilog-web.acfun.cn:@ads
 full:bloodhound.spotify.com:@ads
+full:browser-intake-datadoghq.com:@ads
+full:disney.my.sentry.io:@ads
 full:log-sdk.gifshow.com:@ads
 full:log3-applog-hl.fqnovel.com:@ads
 full:log3-applog.fqnovel.com:@ads
 full:log5-applog-hl.fqnovel.com:@ads
 full:log5-applog.fqnovel.com:@ads
+full:o33249.ingest.sentry.io:@ads
+full:o4504926511693824.ingest.sentry.io:@ads
 full:p3-ad-sign.byteimg.com:@ads
 full:p6-ad-sign.byteimg.com:@ads
 full:p9-ad-sign.byteimg.com:@ads
@@ -665,6 +677,7 @@ full:rtlog3-applog-hl.fqnovel.com:@ads
 full:rtlog3-applog.fqnovel.com:@ads
 full:rtlog5-applog-hl.fqnovel.com:@ads
 full:rtlog5-applog.fqnovel.com:@ads
+full:sentry.hetzner.company:@ads
 full:wlog.kuaishou.com:@ads
 regexp:^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$:@ads
 regexp:^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$:@ads
