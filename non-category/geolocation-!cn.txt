@@ -2013,6 +2013,8 @@ domain:argo-bdp.com
 domain:argotunnel.com
 domain:aria.ms
 domain:ark.to
+domain:arma3.com
+domain:armaplatform.com
 domain:armovs.com
 domain:arnoldrenderer.com
 domain:arphic.com
@@ -2675,6 +2677,7 @@ domain:battleforcecomix.com
 domain:battlefront2.com
 domain:battlefrontii.com
 domain:battlelog.com
+domain:battleye.com
 domain:baxsound.com
 domain:bayareabmw.com
 domain:bayvoice.net
@@ -3280,6 +3283,7 @@ domain:biqle.org
 domain:biqle.ru
 domain:bisq.io
 domain:bisq.network
+domain:bistudio.com
 domain:bisyoujyogyaruge.topaz.ne.jp
 domain:bit.ly
 domain:bitballoon.com
@@ -3898,6 +3902,7 @@ domain:bocici.buzz
 domain:bodgirls.com
 domain:bodyandsoul.com.au
 domain:bodyfluids-jav.com
+domain:bohemia.net
 domain:boj.or.jp
 domain:bokep.net
 domain:bokepseks.org
@@ -5456,6 +5461,7 @@ domain:day24.ir
 domain:daylenerio.com
 domain:daytonbmw.com
 domain:daytontrucktires.com
+domain:dayz.com
 domain:dazn-api.com
 domain:dazn.com
 domain:dazndn.com
@@ -12373,6 +12379,7 @@ domain:maintracker.org
 domain:mairbeats.com
 domain:makaan.com
 domain:makeanything.com
+domain:makearmanotwar.com
 domain:makebettercode.com
 domain:makecode.org
 domain:makeeu.com
@@ -17554,6 +17561,7 @@ domain:sigopt.com
 domain:sih-db.com
 domain:sih.app
 domain:sikiswap.com
+domain:silicagame.com
 domain:silicon-mobility.com
 domain:siliconmobility.com
 domain:silkengirl.com
@@ -19772,6 +19780,7 @@ domain:viet69.news
 domain:viewerswives.net
 domain:viewgals.com
 domain:viewpointsfromfacebook.com
+domain:vigorgame.com
 domain:vikiporn.com
 domain:vilavpn.com
 domain:vilavpn.xyz
@@ -21544,6 +21553,7 @@ domain:yinshuiger.info
 domain:yinya.shop
 domain:yiqiedoushiganggangkaishi.org
 domain:yjcontentdelivery.com
+domain:ylands.com
 domain:ymail.com
 domain:ymhsf.top
 domain:ymhsf1.top
@@ -22020,6 +22030,7 @@ full:amp-api.media.apple.com:@cn
 full:amp-api.music.apple.com:@cn
 full:analytics.google.com:@ads
 full:angle.com.tw
+full:aod-ssl.itunes.apple.com:@cn
 full:aod.itunes.apple.com:@cn
 full:api-edge.apps.apple.com:@cn
 full:api-p.videomarket.jp
@@ -22446,7 +22457,6 @@ full:prod-support.apple-support.akadns.net:@cn
 full:prod.databe.floonet.goog:@cn
 full:productcard.gog-statics.com:@cn
 full:proxyconfig.corp.google.com:@cn
-full:pubg1.battleye.com
 full:public-us-pingsx.api.clonoth.com
 full:publicassets.cdn-apple.com:@cn
 full:qagpublic.qatp1.net:@cn

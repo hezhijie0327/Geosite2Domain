@@ -54,6 +54,8 @@ domain:apexlegends.com
 domain:appeeres.com
 domain:arcaea.cn
 domain:arcraiders.com
+domain:arma3.com
+domain:armaplatform.com
 domain:artstation.com
 domain:asobostudio.com
 domain:astral-vector.com
@@ -91,6 +93,7 @@ domain:biligame.com
 domain:biligame.net
 domain:bioware.com
 domain:biowarestore.com
+domain:bistudio.com
 domain:blackboxgames.com
 domain:blizzard.com
 domain:blizzardgearstore.com
@@ -98,6 +101,7 @@ domain:blox.com
 domain:bluearchive-cn.com:@cn
 domain:bluearchive.jp
 domain:blz-contentstack.com
+domain:bohemia.net
 domain:boombeach.com
 domain:bowsersinsidestory.com
 domain:brawlstars.cn
@@ -137,6 +141,7 @@ domain:darkageofcamelot.com
 domain:darkness-risen.com
 domain:dawngate.com
 domain:dawngatechronicles.com
+domain:dayz.com
 domain:deadspacegame.com
 domain:diablo3.com
 domain:diabloimmortal.com
@@ -365,6 +370,7 @@ domain:mahjongcup.com
 domain:mahjongcup.net
 domain:mail4399.com
 domain:maindown4399.com
+domain:makearmanotwar.com
 domain:marioandluigidreamteam.com
 domain:mariobroswii.com
 domain:mariokart.cn:@cn
@@ -649,6 +655,7 @@ domain:shadowcomplex.com
 domain:shyxhy.com
 domain:sih-db.com
 domain:sih.app
+domain:silicagame.com
 domain:simcity-buildit.com
 domain:simcity.com
 domain:skate2.com
@@ -780,6 +787,7 @@ domain:uoherald.com
 domain:uplay.com
 domain:valvesoftware.com
 domain:videoxiaoyouxi.com
+domain:vigorgame.com
 domain:visceralgames.com
 domain:vrchat.cloud
 domain:vrchat.com
@@ -852,6 +860,7 @@ domain:xn--mts47c3w9b1qr.net
 domain:xn--owtw8cc49ajfl.cn
 domain:ycgame.com
 domain:yingxiong.com
+domain:ylands.com
 domain:ynoproject.net
 domain:yogify.com
 domain:yokaverse.com

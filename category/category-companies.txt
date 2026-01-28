@@ -6859,6 +6859,7 @@ full:amp-api.apps.apple.com:@cn
 full:amp-api.media.apple.com:@cn
 full:amp-api.music.apple.com:@cn
 full:analytics.google.com:@ads
+full:aod-ssl.itunes.apple.com:@cn
 full:aod.itunes.apple.com:@cn
 full:api-edge.apps.apple.com:@cn
 full:app-analytics-services.com:@cn

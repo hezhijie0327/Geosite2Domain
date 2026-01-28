@@ -66,6 +66,8 @@ domain:archiveofourown.net
 domain:archiveofourown.org
 domain:arcraiders.com
 domain:argo-bdp.com
+domain:arma3.com
+domain:armaplatform.com
 domain:artstation.com
 domain:asobostudio.com
 domain:att.tv
@@ -109,6 +111,7 @@ domain:bgm.tv
 domain:biggggg.com
 domain:bioware.com
 domain:biowarestore.com
+domain:bistudio.com
 domain:blackboxgames.com
 domain:blizzard.com
 domain:blizzardgearstore.com
@@ -117,6 +120,7 @@ domain:blubrry.com
 domain:bluearchive-cn.com:@cn
 domain:bluearchive.jp
 domain:blz-contentstack.com
+domain:bohemia.net
 domain:bookeeper.itunes.apple.com
 domain:boombeach.com
 domain:boomerang.com
@@ -197,6 +201,7 @@ domain:darkageofcamelot.com
 domain:darkness-risen.com
 domain:dawngate.com
 domain:dawngatechronicles.com
+domain:dayz.com
 domain:dazn-api.com
 domain:dazn.com
 domain:dazndn.com
@@ -687,6 +692,7 @@ domain:maddenseason.org
 domain:madewithunity.jp
 domain:maedahiroyuki.com
 domain:magicalmirai.com
+domain:makearmanotwar.com
 domain:mangacopy.com
 domain:mangafuna.xyz
 domain:mangafunb.fun
@@ -1094,6 +1100,7 @@ domain:showtime.com
 domain:showtimeanytime.com
 domain:sih-db.com
 domain:sih.app
+domain:silicagame.com
 domain:simcity-buildit.com
 domain:simcity.com
 domain:simg.jp
@@ -1293,6 +1300,7 @@ domain:vhxqa2.com
 domain:vhxqa3.com
 domain:vhxqa4.com
 domain:vhxqa6.com
+domain:vigorgame.com
 domain:vimeo-staging.com
 domain:vimeo-staging2.com
 domain:vimeo.com
@@ -1379,6 +1387,7 @@ domain:xn--mts47c3w9b1qr.cn:@cn
 domain:xn--mts47c3w9b1qr.net
 domain:yande.re
 domain:yfsp.tv
+domain:ylands.com
 domain:ynoproject.net
 domain:yogify.com
 domain:yorozoonews.jp

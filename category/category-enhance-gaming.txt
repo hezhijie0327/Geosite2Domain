@@ -1,3 +1,4 @@
+domain:battleye.com
 domain:bluestacks.com
 domain:fflogs.com
 domain:heavenlywind.cc:@cn
