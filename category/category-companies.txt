@@ -828,8 +828,10 @@ domain:asuswebstorage.com
 domain:atandt.com
 domain:atdmt2.com
 domain:ateam-oracle.com
+domain:atl-paas.net
 domain:atlasdmt.com
 domain:atlasonepoint.com
+domain:atlassian-dev.net
 domain:atlassian.com
 domain:atlassian.net
 domain:atom.io
@@ -4239,6 +4241,7 @@ domain:java.net
 domain:jetfuelapp.com
 domain:jetfuelapps.com
 domain:jibemobile.com
+domain:jira.com
 domain:jkbeats.com
 domain:jos.com
 domain:jsati.com
@@ -5797,6 +5800,7 @@ domain:sptvbroadcast.com
 domain:sqlserveronlinux.com
 domain:squ1.com
 domain:squidplatform.com
+domain:ss-inf.net
 domain:ss2.us
 domain:ssdevrd.com
 domain:ssl-images-amazon.com

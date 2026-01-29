@@ -2115,9 +2115,11 @@ domain:atandt.com
 domain:atdmt2.com
 domain:ateam-oracle.com
 domain:atkgallery.com
+domain:atl-paas.net
 domain:atlantaminidealers.com
 domain:atlasdmt.com
 domain:atlasonepoint.com
+domain:atlassian-dev.net
 domain:atlassian.com
 domain:atlassian.net
 domain:atnext.com
@@ -7880,6 +7882,9 @@ domain:fotolia.tv
 domain:fotolja.com
 domain:fotoscaserasx.com
 domain:foundationdb.org
+domain:foundationdns.com
+domain:foundationdns.net
+domain:foundationdns.org
 domain:fourthns.systems
 domain:fout.jp:@ads
 domain:fox
@@ -11371,6 +11376,7 @@ domain:jieav.com
 domain:jijiji.ca
 domain:jilhub.com
 domain:jimeng22.com
+domain:jira.com
 domain:jitsi.org
 domain:jiuse.ai
 domain:jiuse.com.co
@@ -18006,6 +18012,7 @@ domain:sr.ht
 domain:srebrenica360.com
 domain:srtcdn.net
 domain:srttu.edu
+domain:ss-inf.net
 domain:ss2.us
 domain:ss7.app
 domain:ssdevrd.com

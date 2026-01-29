@@ -59,6 +59,9 @@ domain:cloudflarewarp.com
 domain:cloudflareworkers.com
 domain:encryptedsni.com
 domain:every1dns.net
+domain:foundationdns.com
+domain:foundationdns.net
+domain:foundationdns.org
 domain:imagedelivery.net
 domain:isbgpsafeyet.com
 domain:one.one.one

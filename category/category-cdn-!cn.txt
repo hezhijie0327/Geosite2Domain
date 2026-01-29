@@ -145,6 +145,9 @@ domain:fastly.io
 domain:fastly.net
 domain:fastlylabs.com
 domain:fastlylb.net
+domain:foundationdns.com
+domain:foundationdns.net
+domain:foundationdns.org
 domain:iamakamai.com
 domain:iamakamai.net
 domain:imagedelivery.net
