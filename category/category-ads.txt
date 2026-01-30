@@ -59,10 +59,6 @@ domain:adimg.mobile.sina.cn:@ads
 domain:adimg.uve.weibo.com:@ads
 domain:adivery.com
 domain:adivery.ir
-domain:adjust.com:@ads
-domain:adjust.io:@ads
-domain:adjust.net.in:@ads
-domain:adjust.world:@ads
 domain:adkwai.com:@ads
 domain:admob-cn.com:@ads
 domain:admob.com:@ads
@@ -83,7 +79,6 @@ domain:ads.api.my7v.com:@ads
 domain:ads.huan.tv:@ads
 domain:ads.huantest.com:@ads
 domain:ads.music.126.net:@ads
-domain:ads.pubmatic.com:@ads
 domain:ads.service.kugou.com:@ads
 domain:ads.sina.com:@ads
 domain:ads.sohu.com:@ads
@@ -208,9 +203,6 @@ domain:cfts1tifqr.com
 domain:china-caa.org
 domain:chinaciaf.org
 domain:clarity.ms:@ads
-domain:clearbit.com:@ads
-domain:clearbitjs.com:@ads
-domain:clearbitscripts.com:@ads
 domain:click.ali213.net
 domain:click.gamersky.com:@ads
 domain:click.hunantv.com:@ads
@@ -343,6 +335,7 @@ domain:iadmat.nosdn.127.net:@ads
 domain:iadmatapk.nosdn.127.net:@ads
 domain:iadmusicmat.music.126.net:@ads
 domain:iadmusicmatvideo.music.126.net:@ads
+domain:iads.unity3d.com:@ads
 domain:iadsdk.apple.com:@ads
 domain:ifacelog.iqiyi.com:@ads
 domain:im-apps.net:@ads
@@ -439,14 +432,7 @@ domain:nsclick.baidu.com:@ads
 domain:nsclickvideo.baidu.com:@ads
 domain:oc.umeng.com:@ads
 domain:oct.pocoiq.cn
-domain:ogury.co:@ads
-domain:ogury.com:@ads
 domain:onesignal.com
-domain:openx.net:@ads
-domain:openxadexchange.com:@ads
-domain:openxcdn.net:@ads
-domain:openxenterprise.com:@ads
-domain:openxmarket.asia:@ads
 domain:optaim.com
 domain:optimus-ads.amap.com:@ads
 domain:p-log.ykimg.com:@ads
@@ -481,7 +467,6 @@ domain:plbslog.umeng.com:@ads
 domain:pmir.3g.qq.com:@ads
 domain:policy.video.iqiyi.com:@ads
 domain:pos.baidu.com:@ads
-domain:presage.io:@ads
 domain:push.qq.com:@ads
 domain:pv.hd.sohu.com:@ads
 domain:pv.sohu.com:@ads
@@ -512,10 +497,6 @@ domain:samsungads.com:@ads
 domain:sbeacon.sina.com.cn:@ads
 domain:sclick.baidu.com:@ads
 domain:sdkclick.mobile.sina.cn:@ads
-domain:segment.com:@ads
-domain:segment.io:@ads
-domain:segmenthub.com:@ads
-domain:segmentify.com:@ads
 domain:sensors.umetrip.com.cn
 domain:sentry.d.mi.com:@ads
 domain:sentry.d.xiaomi.net:@ads
@@ -533,7 +514,6 @@ domain:socdm.com:@ads
 domain:spcode.baidu.com:@ads
 domain:splash-ads.cdn.unity.cn:@ads
 domain:splash-ads.unitychina.cn:@ads
-domain:ssacdn.com:@ads
 domain:ssp.api.tappx.com
 domain:stat.chinaso.com
 domain:stat.m.jd.com:@ads
@@ -544,9 +524,6 @@ domain:static.javhd.com
 domain:static.sensorsdata.cn
 domain:statis.api.3g.youku.com:@ads
 domain:stats.music.xiaomi.com:@ads
-domain:supersonic.com:@ads
-domain:supersonicads-a.akamaihd.net:@ads
-domain:supersonicads.com:@ads
 domain:syh.zybang.com:@ads
 domain:tajs.qq.com:@ads
 domain:tapsell.ir

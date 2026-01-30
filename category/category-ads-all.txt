@@ -88,7 +88,6 @@ domain:ads.api.my7v.com:@ads
 domain:ads.huan.tv:@ads
 domain:ads.huantest.com:@ads
 domain:ads.music.126.net:@ads
-domain:ads.pubmatic.com:@ads
 domain:ads.service.kugou.com:@ads
 domain:ads.sina.com:@ads
 domain:ads.sohu.com:@ads
@@ -355,6 +354,7 @@ domain:iadmat.nosdn.127.net:@ads
 domain:iadmatapk.nosdn.127.net:@ads
 domain:iadmusicmat.music.126.net:@ads
 domain:iadmusicmatvideo.music.126.net:@ads
+domain:iads.unity3d.com:@ads
 domain:iadsdk.apple.com:@ads
 domain:ifacelog.iqiyi.com:@ads
 domain:im-apps.net:@ads
@@ -498,7 +498,8 @@ domain:pmir.3g.qq.com:@ads
 domain:policy.video.iqiyi.com:@ads
 domain:pos.baidu.com:@ads
 domain:presage.io:@ads
-domain:pubmatic.com:@ads
+domain:pubmatic.co.jp
+domain:pubmatic.com
 domain:push.qq.com:@ads
 domain:pv.hd.sohu.com:@ads
 domain:pv.sohu.com:@ads

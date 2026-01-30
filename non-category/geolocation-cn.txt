@@ -482,6 +482,7 @@ domain:ads.sina.com:@ads
 domain:ads.sohu.com:@ads
 domain:ads.uc.cn:@ads
 domain:ads.union.jd.com:@ads
+domain:ads.unitychina.cn:@ads
 domain:adscdn.baidu.com:@ads
 domain:adsclick.qq.com:@ads
 domain:adserviceretry.kglink.cn:@ads
@@ -5116,6 +5117,8 @@ domain:spdb.com.cn
 domain:speedws.info
 domain:speedws.org
 domain:speiyou.com
+domain:splash-ads.cdn.unity.cn:@ads
+domain:splash-ads.unitychina.cn:@ads
 domain:springtour.com
 domain:sq.cc
 domain:sqqnh.cn
@@ -5629,6 +5632,7 @@ domain:u.tools
 domain:u17.com
 domain:u17i.com
 domain:u17t.com
+domain:u3d.cn
 domain:ubmcvideo.baidustatic.com:@ads
 domain:ubssdic.com
 domain:ubuntukylin.com
@@ -5710,6 +5714,10 @@ domain:unionpayintl.com
 domain:unionpaysecure.com
 domain:uniontech.cn
 domain:uniontech.com
+domain:unity.cn
+domain:unityads.unity.cn:@ads
+domain:unityads.unitychina.cn:@ads
+domain:unitychina.cn
 domain:uoj.ac
 domain:uoko.com
 domain:uonline-sh.com

@@ -2,7 +2,6 @@ domain:01.org
 domain:accountkit.com
 domain:acpica.com
 domain:adaptivecards.io
-domain:ads.unitychina.cn:@ads
 domain:adventofcode.com
 domain:alpinelinux.org
 domain:amp.dev
@@ -203,6 +202,7 @@ domain:hex.pm
 domain:hexdocs.pm
 domain:hhvm.com
 domain:hyperscan.io
+domain:iads.unity3d.com:@ads
 domain:imageglass.org
 domain:insiderdevtour.com
 domain:intellij.com
@@ -404,8 +404,6 @@ domain:snapcraft.io
 domain:snapstore.io
 domain:sourcegraph.com
 domain:sourcehut.org
-domain:splash-ads.cdn.unity.cn:@ads
-domain:splash-ads.unitychina.cn:@ads
 domain:sqlite.org
 domain:sqlserveronlinux.com
 domain:sr.ht
@@ -453,9 +451,7 @@ domain:ubuntu.net
 domain:ubuntuforums.org
 domain:unity.com
 domain:unity3d.com
-domain:unityads.unity.cn:@ads
 domain:unityads.unity3d.com:@ads
-domain:unityads.unitychina.cn:@ads
 domain:universalscalablefirmware.org
 domain:unpkg.com
 domain:uwpcommunitytoolkit.com

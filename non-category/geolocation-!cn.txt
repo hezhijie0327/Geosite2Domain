@@ -794,8 +794,6 @@ domain:adpornu.xyz
 domain:ads-api.duolingo.com:@ads
 domain:ads-pixiv.net:@ads
 domain:ads-twitter.com:@ads
-domain:ads.pubmatic.com:@ads
-domain:ads.unitychina.cn:@ads
 domain:ads.yahoo.com:@ads
 domain:ads.youtube.com:@ads
 domain:adsense.com:@ads
@@ -10141,6 +10139,7 @@ domain:i69.com.tw
 domain:i91dz.com
 domain:iaablog.com
 domain:iad.apple.com:@ads
+domain:iads.unity3d.com:@ads
 domain:iadsdk.apple.com:@ads
 domain:iafd.com
 domain:iam.soy
@@ -17964,8 +17963,6 @@ domain:spiedigitallibrary.org
 domain:spiritclubs.com
 domain:spiritofecstasy.com
 domain:spizoo.com
-domain:splash-ads.cdn.unity.cn:@ads
-domain:splash-ads.unitychina.cn:@ads
 domain:splatoon2tournament.com
 domain:splunk.com
 domain:spo-msedge.net
@@ -19392,9 +19389,7 @@ domain:uniswap.org
 domain:unity.com
 domain:unity3d.com
 domain:unity3dcloud.cn:@cn
-domain:unityads.unity.cn:@ads
 domain:unityads.unity3d.com:@ads
-domain:unityads.unitychina.cn:@ads
 domain:universalorlando.com
 domain:universalpictures.com
 domain:universalpicturesinternational.com

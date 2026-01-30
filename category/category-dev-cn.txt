@@ -1,6 +1,7 @@
 domain:51changxie.com
 domain:51jianxie.cn
 domain:91changxie.com
+domain:ads.unitychina.cn:@ads
 domain:aixcoder.com
 domain:apifox.cn
 domain:apifox.com
@@ -91,6 +92,8 @@ domain:saasops.tech
 domain:segmentfault.com
 domain:sifou.com
 domain:sndu.cn
+domain:splash-ads.cdn.unity.cn:@ads
+domain:splash-ads.unitychina.cn:@ads
 domain:sxl.cn
 domain:sxlcdn.cn
 domain:teachblog.net
@@ -106,9 +109,14 @@ domain:tikv.org
 domain:tipdm.org
 domain:tjstats.com
 domain:tracup.com
+domain:u3d.cn
 domain:ubuntukylin.com
 domain:uniontech.cn
 domain:uniontech.com
+domain:unity.cn
+domain:unityads.unity.cn:@ads
+domain:unityads.unitychina.cn:@ads
+domain:unitychina.cn
 domain:wegamedeveloper.com
 domain:weixinbridge.com
 domain:weui.io
