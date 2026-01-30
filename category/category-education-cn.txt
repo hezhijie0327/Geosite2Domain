@@ -127,6 +127,7 @@ domain:zggqzp.com
 domain:zgsydw.com
 domain:zhan.com
 domain:zhihuishu.com
+domain:zjzs.net
 domain:zxxk.com
 full:moocs.unipus.cn
 full:study.163.com
