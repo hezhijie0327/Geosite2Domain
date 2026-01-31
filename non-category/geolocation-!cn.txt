@@ -12173,6 +12173,8 @@ domain:looti.net
 domain:lordofultima.com
 domain:lostbetsgames.com
 domain:lotcrap.com
+domain:louisvuitton.cn:@cn
+domain:louisvuitton.com
 domain:love-sextoys.co.uk
 domain:love4porn.com
 domain:love6.tv
@@ -12248,6 +12250,7 @@ domain:luw666.xyz
 domain:luw666cm.cc
 domain:luxuretv.com
 domain:luxuretv.fun
+domain:lvcampaign.com:@cn
 domain:lvhtebook.com
 domain:lwwcn.buzz
 domain:lwwcn.xyz
@@ -22613,6 +22616,7 @@ full:time.xtracloud.net:@cn
 full:tj-pod1-smp-device.apple.com:@cn
 full:tools.google.com:@cn
 full:tools.l.google.com:@cn
+full:tp.louisvuitton.com:@cn
 full:uberproxy-debug4.corp.google.com:@cn
 full:uberproxy.corp.google.com:@cn
 full:uberproxy6.corp.google.com:@cn

@@ -1,0 +1,4 @@
+domain:louisvuitton.cn:@cn
+domain:louisvuitton.com
+domain:lvcampaign.com:@cn
+full:tp.louisvuitton.com:@cn

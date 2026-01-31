@@ -4432,12 +4432,15 @@ domain:logitechio.com.cn
 domain:logosfilm.co.kr
 domain:lojaiphone.com.br
 domain:lookinside.com
+domain:louisvuitton.cn:@cn
+domain:louisvuitton.com
 domain:lovebeatsdr.com
 domain:lovemarca.com
 domain:lrfdsoftware.com
 domain:luckyissue.com
 domain:luckysrv.de
 domain:lunchwithpype.com
+domain:lvcampaign.com:@cn
 domain:lync.cn:@cn
 domain:lyzsxx.com
 domain:m.me
@@ -7366,6 +7369,7 @@ full:tf-feedback.itunes.apple.com:@cn
 full:tj-pod1-smp-device.apple.com:@cn
 full:tools.google.com:@cn
 full:tools.l.google.com:@cn
+full:tp.louisvuitton.com:@cn
 full:uberproxy-debug4.corp.google.com:@cn
 full:uberproxy.corp.google.com:@cn
 full:uberproxy6.corp.google.com:@cn
