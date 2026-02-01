@@ -4121,6 +4121,7 @@ domain:brutalbdsmtube.com
 domain:brutalfetish.com
 domain:bs-adreview.com
 domain:bs-awh.ne.jp
+domain:bsappapi.com
 domain:bsi.ir
 domain:bsky.app
 domain:bsky.network
@@ -15611,6 +15612,7 @@ domain:pixtronix.com
 domain:pjbyj.top
 domain:pjful-app.lol
 domain:pjgirls.com
+domain:pjsekai.sega.jp
 domain:pki-post.ch
 domain:pki-posta.ch
 domain:pki-poste.ch

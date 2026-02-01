@@ -104,6 +104,7 @@ domain:dot.pub
 domain:dothework.cn
 domain:ectencent.cn
 domain:ectencent.com.cn
+domain:edgeone.cool
 domain:edgeonedy1.com
 domain:essurl.com
 domain:eu-frankfurt.myqcloud.com:@!cn

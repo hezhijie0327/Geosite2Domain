@@ -144,6 +144,7 @@ domain:dothework.cn
 domain:e.qq.com:@ads
 domain:ectencent.cn
 domain:ectencent.com.cn
+domain:edgeone.cool
 domain:edgeonedy1.com
 domain:essurl.com
 domain:eu-frankfurt.myqcloud.com:@!cn

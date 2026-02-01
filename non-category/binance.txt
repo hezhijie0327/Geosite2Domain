@@ -30,6 +30,7 @@ domain:binancezh.sh
 domain:binancezh.top
 domain:bnbstatic.com
 domain:bntrace.com
+domain:bsappapi.com
 domain:nftstatic.com
 domain:saasexch.cc
 domain:saasexch.co

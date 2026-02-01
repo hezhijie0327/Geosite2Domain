@@ -931,6 +931,7 @@ domain:pixiv.me
 domain:pixiv.net
 domain:pixiv.org
 domain:pixivision.net
+domain:pjsekai.sega.jp
 domain:planetminecraft.com
 domain:plantsvszombies2.com
 domain:play4free.com

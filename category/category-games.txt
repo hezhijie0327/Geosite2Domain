@@ -509,6 +509,7 @@ domain:personaltrainermath.com
 domain:phira.cn
 domain:pinkcore.com
 domain:pinkcore.net
+domain:pjsekai.sega.jp
 domain:planetminecraft.com
 domain:plantsvszombies2.com
 domain:play4free.com

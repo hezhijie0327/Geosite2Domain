@@ -2222,6 +2222,7 @@ domain:ectencent.com.cn
 domain:ecukwai.com
 domain:eda.cn
 domain:edgecloudx.cn
+domain:edgeone.cool
 domain:edgeonedy1.com
 domain:edu.cn
 domain:edu4399.com

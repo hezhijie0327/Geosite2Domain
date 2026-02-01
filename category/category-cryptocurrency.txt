@@ -49,6 +49,7 @@ domain:bittrex.com
 domain:blockfrost.io
 domain:bnbstatic.com
 domain:bntrace.com
+domain:bsappapi.com
 domain:btcbox.co.jp
 domain:byabcde.com
 domain:byapis.com
