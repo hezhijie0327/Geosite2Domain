@@ -525,6 +525,7 @@ full:gitlab-assets.oss-cn-hongkong.aliyuncs.com
 full:notary-submissions-prod.s3-accelerate.amazonaws.com
 full:notary-submissions-prod.s3.us-west-2.amazonaws.com
 full:p-events-delivery.akamaized.net
+full:packages.microsoft.com
 full:poshtestgallery.cloudapp.net
 full:psg-int-centralus.cloudapp.net
 full:psg-int-eastus.cloudapp.net
