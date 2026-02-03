@@ -26,8 +26,6 @@ domain:android
 domain:android.com
 domain:androidify.com
 domain:angulardart.org
-domain:antigravity-unleash.goog
-domain:antigravity.google
 domain:api.ai
 domain:apigee.com
 domain:app-analytics-services-att.com:@ads
@@ -167,7 +165,6 @@ domain:dclk
 domain:debug.com
 domain:debugproject.com
 domain:deepmind.com
-domain:deepmind.google
 domain:deps.dev
 domain:deps.info
 domain:devsitetest.how
@@ -203,8 +200,6 @@ domain:g.page
 domain:gateway.dev
 domain:gbiz
 domain:gcr.io
-domain:gemini.google
-domain:generativeai.google
 domain:gerritcodereview.com
 domain:get.app
 domain:get.dev
@@ -531,7 +526,6 @@ domain:impermium.com
 domain:itasoftware.com
 domain:j2objc.org
 domain:jibemobile.com
-domain:jules.google
 domain:kaggle.com
 domain:kaggle.io
 domain:kaggle.net
@@ -540,7 +534,6 @@ domain:keyhole.com
 domain:keytransparency.com
 domain:keytransparency.foo
 domain:keytransparency.org
-domain:labs.google
 domain:lanternal.com
 domain:like.com
 domain:madewithcode.com
@@ -558,14 +551,12 @@ domain:nest.com
 domain:new.day
 domain:nexus
 domain:nomulus.foo
-domain:notebooklm.google
 domain:oauthz.com
 domain:on.here
 domain:on2.com
 domain:onefifteen.net
 domain:onefifteen.org
 domain:oneworldmanystories.com
-domain:opal.google
 domain:opensourceinsight.dev
 domain:opensourceinsights.dev
 domain:openthread.io
@@ -586,7 +577,6 @@ domain:picasaweb.org
 domain:picnik.com
 domain:pittpatt.com
 domain:pixate.com
-domain:pki.goog
 domain:polymer-project.org
 domain:polymerproject.org
 domain:postini.com
@@ -598,7 +588,6 @@ domain:publishproxy.com
 domain:questvisual.com
 domain:quickoffice.com
 domain:quiksee.com
-domain:registry.google
 domain:revolv.com
 domain:ridepenguin.com
 domain:run.app

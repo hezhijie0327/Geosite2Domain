@@ -379,7 +379,6 @@ domain:appletv.fr
 domain:appletv.wang
 domain:appletv4.cn:@cn
 domain:appletv4.com.cn:@cn
-domain:appletvapp.apple
 domain:applewallet.com
 domain:applewallet.tv
 domain:applewatch.hk

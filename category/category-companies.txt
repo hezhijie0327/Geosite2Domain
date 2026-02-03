@@ -413,8 +413,6 @@ domain:angulardart.org
 domain:ankarazirvesi2018.com
 domain:annstores.net
 domain:antenna.co.kr
-domain:antigravity-unleash.goog
-domain:antigravity.google
 domain:anydesk.com
 domain:aokwholesale.net
 domain:aorus.com
@@ -767,7 +765,6 @@ domain:appletv.fr
 domain:appletv.wang
 domain:appletv4.cn:@cn
 domain:appletv4.com.cn:@cn
-domain:appletvapp.apple
 domain:applewallet.com
 domain:applewallet.tv
 domain:applewatch.hk
@@ -2064,7 +2061,6 @@ domain:deepfreeze.eu
 domain:deepfreeze.net
 domain:deepfreeze.tech
 domain:deepmind.com
-domain:deepmind.google
 domain:del.com
 domain:del.com.br
 domain:delcam-ams.com
@@ -3008,9 +3004,7 @@ domain:geforce.co.uk
 domain:geforce.com
 domain:geforce.com.tw
 domain:gemfire.net
-domain:gemini.google
 domain:gemini.yahoo.com:@ads
-domain:generativeai.google
 domain:geneticconstructor.com
 domain:geodesummit.com
 domain:geoport.com
@@ -4246,7 +4240,6 @@ domain:jkbeats.com
 domain:jos.com
 domain:jsati.com
 domain:jsatmobile.com
-domain:jules.google
 domain:jwide.co.kr
 domain:jwt.ms
 domain:kaggle.com
@@ -4359,7 +4352,6 @@ domain:kubeapps.com
 domain:kumo.com
 domain:kynogon.com
 domain:l-msedge.net
-domain:labs.google
 domain:lanternal.com
 domain:lasersawapp.com
 domain:latampartneruniversity.com
@@ -5031,7 +5023,6 @@ domain:nomachine.com
 domain:nomadproject.io
 domain:nomulus.foo
 domain:nonlinearnastran.com
-domain:notebooklm.google
 domain:now-ashare.com
 domain:now-tv.com
 domain:now.com
@@ -5173,7 +5164,6 @@ domain:onmschina.cn:@cn
 domain:onsalekey.com
 domain:onsaletrend.com
 domain:ootbstudio.co.kr
-domain:opal.google
 domain:openamt.com
 domain:openapiplatform.com
 domain:openapiservice.com
@@ -5277,7 +5267,6 @@ domain:pixate.com
 domain:pixlr-o-matic.com
 domain:pixlromatic.com
 domain:pixtronix.com
-domain:pki.goog
 domain:placesdocs.com
 domain:plansondemand.com
 domain:plasticlabs.com
@@ -5460,7 +5449,6 @@ domain:redtubepremium.com
 domain:redzonechannel.com
 domain:reform-apple.com
 domain:registeridm.com
-domain:registry.google
 domain:relateiq.com
 domain:renderingtoolkit.org
 domain:renovacionoffice.com

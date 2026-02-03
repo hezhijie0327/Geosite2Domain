@@ -1533,8 +1533,6 @@ domain:antenna.co.kr
 domain:anthemgame.com
 domain:anthemthegame.com
 domain:anthropic.com
-domain:antigravity-unleash.goog
-domain:antigravity.google
 domain:anudetube.com
 domain:anxiangxing.com
 domain:anybunny.org
@@ -1932,7 +1930,6 @@ domain:appletv.fr
 domain:appletv.wang
 domain:appletv4.cn:@cn
 domain:appletv4.com.cn:@cn
-domain:appletvapp.apple
 domain:applewallet.com
 domain:applewallet.tv
 domain:applewatch.hk
@@ -5515,7 +5512,6 @@ domain:deepfreeze.net
 domain:deepfreeze.tech
 domain:deepl.com
 domain:deepmind.com
-domain:deepmind.google
 domain:deezer.com
 domain:definebabe.com
 domain:definefetish.com
@@ -6720,7 +6716,6 @@ domain:economistgroupcareers.com
 domain:ecotect.com
 domain:ecotect.net
 domain:ecpa.fr
-domain:ecr.aws
 domain:ecscad.com
 domain:ecspublisher.com
 domain:ecuatorianas.best
@@ -8458,11 +8453,9 @@ domain:gelbooru.wjcodes.com
 domain:gemfire.net
 domain:gemfury.com
 domain:gemini.com
-domain:gemini.google
 domain:gemini.yahoo.com:@ads
 domain:gen.lib.rus.ec
 domain:gendai.net
-domain:generativeai.google
 domain:geneticconstructor.com
 domain:geng8cn.xyz
 domain:gengba-av.mom
@@ -11504,7 +11497,6 @@ domain:juggsjoy.com
 domain:juhachibank.co.jp
 domain:juiceced.xyz
 domain:juicytwink.com
-domain:jules.google
 domain:julesjordan.com
 domain:juliamiles.com
 domain:juliamovies.com
@@ -11840,7 +11832,6 @@ domain:l-0005.dc-msedge.net
 domain:l-msedge.net
 domain:la-mama.ru
 domain:labo.wovs.tk
-domain:labs.google
 domain:lacomics.org
 domain:ladies.com
 domain:ladsp.com:@ads
@@ -14477,7 +14468,6 @@ domain:nordstrom.com
 domain:nordstrommedia.com
 domain:norsk.mobi
 domain:norton.com
-domain:notebooklm.google
 domain:notepad-plus-plus.org
 domain:notion-static.com
 domain:notion.com
@@ -14841,7 +14831,6 @@ domain:oli-school.com
 domain:omafotze.com
 domain:omaps.app
 domain:omekinteractive.com
-domain:omg.adult
 domain:omg.blog
 domain:omghk.com
 domain:omgteens.com
@@ -14933,7 +14922,6 @@ domain:ooni.org
 domain:ootbstudio.co.kr
 domain:op.gg
 domain:op7979.com
-domain:opal.google
 domain:openai.com
 domain:openamt.com
 domain:openapiplatform.com
@@ -15616,7 +15604,6 @@ domain:pjsekai.sega.jp
 domain:pki-post.ch
 domain:pki-posta.ch
 domain:pki-poste.ch
-domain:pki.goog
 domain:placemyad.com.au
 domain:placesdocs.com
 domain:planetminecraft.com
@@ -15956,7 +15943,6 @@ domain:pornogratis.vlog.br
 domain:pornogrund.com
 domain:pornohd.blue
 domain:pornohd.plus
-domain:pornohd.porn
 domain:pornohoo.com.mx
 domain:pornohut.info
 domain:pornohutdeutsch.net
@@ -16680,7 +16666,6 @@ domain:regex101.com
 domain:regiongold.com
 domain:registerhulu.com
 domain:registeridm.com
-domain:registry.google
 domain:reiporno.com
 domain:relateiq.com
 domain:remirepo.net
