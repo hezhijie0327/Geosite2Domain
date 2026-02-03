@@ -24,6 +24,7 @@ domain:pardot.com
 domain:quotable.com
 domain:radian6.com
 domain:relateiq.com
+domain:salesforce-setup.com
 domain:salesforce.com
 domain:salesforce.org
 domain:salesforceiq.com

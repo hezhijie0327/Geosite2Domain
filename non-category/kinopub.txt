@@ -1,3 +1,4 @@
+domain:cdn-service.space
 domain:gfw.ovh
 domain:kino.pub
 domain:kinopub.online
