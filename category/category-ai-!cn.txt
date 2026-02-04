@@ -48,6 +48,7 @@ domain:gemini.google
 domain:gemini.google.com
 domain:generativeai.google
 domain:generativelanguage.googleapis.com
+domain:githubcopilot.com
 domain:grok.com
 domain:grok.x.com
 domain:groq.com

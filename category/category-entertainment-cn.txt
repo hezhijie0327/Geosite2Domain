@@ -84,6 +84,7 @@ domain:amemv.com
 domain:amemv.net
 domain:animetamashi.cn
 domain:animetamashi.com
+domain:anitabi.cn
 domain:anitama.cn
 domain:anitama.net
 domain:anticheatexpert.com

@@ -672,6 +672,7 @@ domain:anfensi.com
 domain:anhuinews.com
 domain:animetamashi.cn
 domain:animetamashi.com
+domain:anitabi.cn
 domain:anitama.cn
 domain:anitama.net
 domain:anjuke.com
