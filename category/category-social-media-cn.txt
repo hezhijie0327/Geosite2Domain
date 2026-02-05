@@ -23,6 +23,7 @@ domain:douban.fm
 domain:doubanio.com
 domain:duowan.com
 domain:dwstatic.com
+domain:fanfou.com
 domain:gracg.com
 domain:hoopchina.com.cn
 domain:hupu.com

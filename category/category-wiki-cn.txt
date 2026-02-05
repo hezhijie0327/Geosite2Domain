@@ -1,3 +1,4 @@
+domain:chaz.fun
 domain:fgo.wiki
 domain:huijistatic.com
 domain:huijiwiki.com

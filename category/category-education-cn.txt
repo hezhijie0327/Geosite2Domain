@@ -11,6 +11,7 @@ domain:banmaaike.com
 domain:baydn.com
 domain:bczcdn.com
 domain:bczeducation.cn
+domain:biyehome.net
 domain:burningvocabulary.cn
 domain:burningvocabulary.com
 domain:cbern.com.cn

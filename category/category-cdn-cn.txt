@@ -33,6 +33,7 @@ domain:cloudflareperf.com:@cn
 domain:cloudflareprod.com:@cn
 domain:cloudflarestaging.com:@cn
 domain:cloudflarestoragegw.com:@cn
+domain:dfyun.com.cn
 domain:dlgslb.cn
 domain:dlgslb.net
 domain:dwion.com

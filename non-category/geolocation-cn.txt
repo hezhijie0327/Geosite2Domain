@@ -1888,6 +1888,7 @@ domain:data.mistat.rus.xiaomi.com:@ads
 domain:data.mistat.xiaomi.com:@ads
 domain:dataeye.com
 domain:datasea.cn
+domain:datayi.cn
 domain:daton.com.cn
 domain:dayainfo.com
 domain:dayin8.com
@@ -1961,6 +1962,7 @@ domain:dewuyouhui.com
 domain:dfcfw.com
 domain:dfham.com
 domain:dfkhgj.com
+domain:dfyun.com.cn
 domain:dfzq.com.cn
 domain:dginfo.com
 domain:dgjy.net
@@ -2003,6 +2005,7 @@ domain:dji.com
 domain:dji.ink
 domain:dji.net
 domain:djicdn.com
+domain:djigate.com
 domain:djiits.com
 domain:djiops.com
 domain:djiservice.org
@@ -2294,6 +2297,7 @@ domain:fadfunds.com
 domain:falconsending.com
 domain:faloo.com
 domain:famulei.com
+domain:fanfou.com
 domain:fang.com
 domain:fangxiaoer.com
 domain:fanli.com
@@ -2610,6 +2614,7 @@ domain:giftatdw.cn
 domain:giftatdw.com
 domain:giftattoday.com
 domain:gijsq.com
+domain:gio.ren
 domain:giocdn.com
 domain:gitbook.cn
 domain:gitchat.cn
@@ -2677,6 +2682,8 @@ domain:gree.com
 domain:gree.com.cn
 domain:greenxiazai.com
 domain:greeyun.com
+domain:growin.cn
+domain:growingio.cn
 domain:growingio.com
 domain:growthsharebounce.cn
 domain:growthsharequestion.cn
@@ -4520,6 +4527,7 @@ domain:pb.i.sogou.com:@ads
 domain:pc6.com
 domain:pcbeta.com
 domain:pchome.net
+domain:pchpic.net
 domain:pconline.com.cn
 domain:pcpop.com
 domain:pddcdn.com
@@ -6122,6 +6130,7 @@ domain:xa-bank.com
 domain:xafc.com
 domain:xbext.com
 domain:xbiao.com
+domain:xcc.cn
 domain:xcsc.com
 domain:xd.cn
 domain:xd.com
@@ -6205,6 +6214,7 @@ domain:xiguavideo.cn
 domain:xiguavideo.net
 domain:ximalaya.com
 domain:xin.xin
+domain:xinchacha.com
 domain:xinchong.com
 domain:xindong.com
 domain:xingjiesj.com

@@ -1,5 +1,6 @@
 domain:asklink.com
 domain:easytier.cn
+domain:feihengip.com
 domain:ganjiangvpn.com
 domain:glxcc.net
 domain:nlark.com

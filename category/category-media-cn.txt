@@ -91,6 +91,7 @@ domain:gjgbdszt.com.cn
 domain:gjgbdszt.net.cn
 domain:gmw.com
 domain:go2map.com
+domain:guigu.org
 domain:gw.com.cn
 domain:hexun.com
 domain:hndt.com
@@ -158,6 +159,8 @@ domain:ottcn.com
 domain:ourl.co
 domain:p.aty.sohu.com:@ads
 domain:pb.i.sogou.com:@ads
+domain:pchome.net
+domain:pchpic.net
 domain:pconline.com.cn
 domain:people.cn
 domain:people.com.cn

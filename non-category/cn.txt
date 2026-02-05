@@ -1601,6 +1601,7 @@ domain:dji.com
 domain:dji.ink
 domain:dji.net
 domain:djicdn.com
+domain:djigate.com
 domain:djiits.com
 domain:djiops.com
 domain:djiservice.org
@@ -1842,6 +1843,7 @@ domain:fadfunds.com
 domain:falconsending.com
 domain:faloo.com
 domain:famulei.com
+domain:fanfou.com
 domain:fang.com
 domain:fangxiaoer.com
 domain:fanli.com
@@ -2104,6 +2106,7 @@ domain:gifshow.com
 domain:giftatdw.com
 domain:giftattoday.com
 domain:gijsq.com
+domain:gio.ren
 domain:giocdn.com
 domain:gitcode.com
 domain:gitcode.net
@@ -3659,6 +3662,7 @@ domain:pb.i.sogou.com:@ads
 domain:pc6.com
 domain:pcbeta.com
 domain:pchome.net
+domain:pchpic.net
 domain:pcpop.com
 domain:pddcdn.com
 domain:pddim.com
@@ -5016,6 +5020,7 @@ domain:xiguashipin.net
 domain:xiguavideo.net
 domain:ximalaya.com
 domain:xin.xin
+domain:xinchacha.com
 domain:xinchong.com
 domain:xindong.com
 domain:xingjiesj.com

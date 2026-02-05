@@ -163,7 +163,6 @@ domain:applvn.com
 domain:ar.umeng.com:@ads
 domain:ark.letv.com:@ads
 domain:aspect-upush.umeng.com:@ads
-domain:assets.growingio.com
 domain:assp.sohu.com:@ads
 domain:atanx.alicdn.com:@ads
 domain:atanx2.alicdn.com:@ads

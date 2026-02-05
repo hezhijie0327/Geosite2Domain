@@ -175,7 +175,6 @@ domain:applvn.com
 domain:ar.umeng.com:@ads
 domain:ark.letv.com:@ads
 domain:aspect-upush.umeng.com:@ads
-domain:assets.growingio.com
 domain:assp.sohu.com:@ads
 domain:atanx.alicdn.com:@ads
 domain:atanx2.alicdn.com:@ads
@@ -253,6 +252,7 @@ domain:data.mistat.india.xiaomi.com:@ads
 domain:data.mistat.intl.xiaomi.com:@ads
 domain:data.mistat.rus.xiaomi.com:@ads
 domain:data.mistat.xiaomi.com:@ads
+domain:datayi.cn
 domain:dc.letv.com:@ads
 domain:decide.mixpanel.com
 domain:demdex.net:@ads
@@ -302,6 +302,8 @@ domain:g3.letv.com:@ads
 domain:gdt.qq.com:@ads
 domain:gemini.yahoo.com:@ads
 domain:gia.jd.com:@ads
+domain:gio.ren
+domain:giocdn.com
 domain:gmossp-sp.jp:@ads
 domain:go2.global
 domain:google-analytics-cn.com:@ads
@@ -330,6 +332,9 @@ domain:graph-fallback.instagram.com:@ads
 domain:graph.instagram.com:@ads
 domain:graph.whatsapp.com:@ads
 domain:graph.whatsapp.net:@ads
+domain:growin.cn
+domain:growingio.cn
+domain:growingio.com
 domain:guanggaoad.youku.com:@ads
 domain:gz-data.com
 domain:gzads.com

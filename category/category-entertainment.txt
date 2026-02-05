@@ -1008,6 +1008,8 @@ domain:quiltmc.org
 domain:quixel.com
 domain:quixel.se
 domain:radgametools.com
+domain:radiko-cf.com
+domain:radiko.jp
 domain:ravm.tv
 domain:rayark.download
 domain:rayark.net
@@ -1109,6 +1111,7 @@ domain:skate2.com
 domain:sketchfab.com
 domain:sling.com
 domain:slinginternational.com
+domain:smartstream.ne.jp
 domain:sndcdn.com
 domain:snk-corp.co.jp
 domain:snk-corp.info
