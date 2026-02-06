@@ -3,6 +3,7 @@ domain:err.sh
 domain:hyper.is
 domain:nextjs.org
 domain:now.sh
+domain:skills.sh
 domain:static.fun
 domain:title.sh
 domain:turborepo.org
