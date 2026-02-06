@@ -197,6 +197,7 @@ domain:duoshan.com
 domain:e.kuaishou.cn:@ads
 domain:e.kuaishou.com:@ads
 domain:ecukwai.com
+domain:edgesrv.com
 domain:edu4399.com
 domain:faloo.com
 domain:fanqienovel.com

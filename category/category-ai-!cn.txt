@@ -65,6 +65,8 @@ domain:labs.google.com
 domain:liveperson.net
 domain:lpsnmedia.net
 domain:makersuite.google.com
+domain:manus.im
+domain:manuscdn.com
 domain:marscode.com
 domain:meta.ai
 domain:mistral.ai

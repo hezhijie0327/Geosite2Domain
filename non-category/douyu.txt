@@ -4,3 +4,4 @@ domain:douyucdn.cn
 domain:douyucdn2.cn
 domain:douyuscdn.com
 domain:douyutv.com
+domain:edgesrv.com

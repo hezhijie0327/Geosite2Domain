@@ -2228,6 +2228,7 @@ domain:eda.cn
 domain:edgecloudx.cn
 domain:edgeone.cool
 domain:edgeonedy1.com
+domain:edgesrv.com
 domain:edu.cn
 domain:edu4399.com
 domain:eduad.baidu.com:@ads
@@ -3457,6 +3458,7 @@ domain:jinshujucdn.com
 domain:jintdev.com
 domain:jinti.com
 domain:jiqizhixin.com
+domain:jisilu.cn
 domain:jisuanke.com
 domain:jisuxia.com
 domain:jiuyue919.com

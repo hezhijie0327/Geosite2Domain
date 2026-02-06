@@ -1788,6 +1788,7 @@ domain:ecombdstatic.com
 domain:ecukwai.com
 domain:edgeone.cool
 domain:edgeonedy1.com
+domain:edgesrv.com
 domain:edu4399.com
 domain:eduad.baidu.com:@ads
 domain:eduapaashwc.com
