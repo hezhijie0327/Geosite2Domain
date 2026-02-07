@@ -2771,6 +2771,7 @@ domain:jikecdn.com
 domain:jikeiot.cloud
 domain:jikexueyuan.com
 domain:jikipedia.com
+domain:jin10.com
 domain:jindidata.com
 domain:jingdong.com
 domain:jingdongjinrong.com

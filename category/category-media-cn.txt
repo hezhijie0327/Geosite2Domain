@@ -1,3 +1,4 @@
+domain:0033.cn
 domain:10jqka.com.cn
 domain:21jingji.com
 domain:36dianping.com
@@ -93,6 +94,8 @@ domain:gmw.com
 domain:go2map.com
 domain:guigu.org
 domain:gw.com.cn
+domain:hexin.cn
+domain:hexin.com.cn
 domain:hexun.com
 domain:hndt.com
 domain:hntv.tv
@@ -127,6 +130,7 @@ domain:jfdaily.com
 domain:jianyuweb.com
 domain:jiemian.com
 domain:jiemian.com.cn
+domain:jin10.com
 domain:jiqizhixin.com
 domain:jrj.com.cn
 domain:jrjimg.cn

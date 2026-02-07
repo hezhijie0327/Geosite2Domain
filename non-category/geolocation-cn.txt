@@ -1,3 +1,4 @@
+domain:0033.cn
 domain:00cdn.com
 domain:0123456789.com
 domain:0379home.com
@@ -2825,6 +2826,8 @@ domain:heroesports.com
 domain:herogame.com
 domain:herostart.com
 domain:heweather.net
+domain:hexin.cn
+domain:hexin.com.cn
 domain:hexun.com
 domain:heytap.com
 domain:heytapcs.com
@@ -3442,6 +3445,7 @@ domain:jikecdn.com
 domain:jikeiot.cloud
 domain:jikexueyuan.com
 domain:jikipedia.com
+domain:jin10.com
 domain:jindidata.com
 domain:jingdong.com
 domain:jingdongjinrong.com
