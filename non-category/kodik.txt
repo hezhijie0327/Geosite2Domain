@@ -1,0 +1,4 @@
+domain:kodik-storage.com
+domain:kodik.biz
+domain:kodik.cc
+domain:kodik.info

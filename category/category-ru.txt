@@ -1,5 +1,7 @@
 domain:5post.market
+domain:aviasales.com
 domain:avito.st
+domain:avs.io
 domain:boosty.to
 domain:chizhik.club
 domain:dodois.com
@@ -123,3 +125,4 @@ domain:yandexmetrica.com
 domain:yandexwebcache.org
 domain:yastat.net
 domain:yastatic.net
+full:yandex-pogoda.static-storage.net

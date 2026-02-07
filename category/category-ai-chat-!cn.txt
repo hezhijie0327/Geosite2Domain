@@ -19,6 +19,8 @@ domain:claude.com
 domain:claudemcpclient.com
 domain:claudeusercontent.com
 domain:clipdrop.co
+domain:codeium.com
+domain:codeiumdata.com
 domain:coderabbit.ai
 domain:coderabbit.gallery.vsassets.io
 domain:cohere.ai
@@ -91,6 +93,8 @@ domain:robinfrontend-pa.googleapis.com
 domain:sora.com
 domain:trae.ai
 domain:turn.livekit.cloud
+domain:windsurf.build
+domain:windsurf.com
 domain:x.ai
 domain:youmind.ai
 domain:youmind.com

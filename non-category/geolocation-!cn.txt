@@ -5040,6 +5040,8 @@ domain:codeforces.com
 domain:codei.sh
 domain:codeish.co
 domain:codeish.io
+domain:codeium.com
+domain:codeiumdata.com
 domain:coderabbit.ai
 domain:codespot.com
 domain:codethemicrobit.com
@@ -20634,6 +20636,8 @@ domain:windowsphone.com
 domain:windowssearch.com
 domain:windowsuem.com
 domain:windowsupdate.com
+domain:windsurf.build
+domain:windsurf.com
 domain:windy.com
 domain:winhec.com
 domain:winhec.net
@@ -22659,6 +22663,7 @@ full:www4-static.gog-statics.com:@cn
 full:xn--flw351e.com:@cn
 full:xp.apple.com:@cn
 full:xz.pphimalayanrt.com:@cn
+full:yandex-pogoda.static-storage.net
 full:yangzhi.app
 regexp:(^|\.)13mei[5-7]\.buzz$
 regexp:(^|\.)18j[efg]\.life$

@@ -20,6 +20,7 @@ domain:ads.music.126.net:@ads
 domain:analytics.163.com:@ads
 domain:crash.163.com:@ads
 domain:crashlytics.163.com:@ads
+domain:easebar.com:@!cn
 domain:g.163.com:@ads
 domain:haowu.link
 domain:iadmat.nosdn.127.net:@ads
