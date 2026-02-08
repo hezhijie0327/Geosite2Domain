@@ -7,6 +7,8 @@ domain:2ksports.com
 domain:2kweb.online
 domain:3lateral.com
 domain:ac-pocketcamp.com
+domain:acesofthunder.net
+domain:activematter.game
 domain:amiibo.com
 domain:anthemgame.com
 domain:anthemthegame.com
@@ -15,6 +17,7 @@ domain:arcraiders.com
 domain:arma3.com
 domain:armaplatform.com
 domain:artstation.com
+domain:artstorm.com
 domain:asobostudio.com
 domain:awayoutgame.com
 domain:ayudanintendo.com
@@ -70,9 +73,12 @@ domain:cncrivals.com
 domain:commandandconquer.com
 domain:conquerwithcharacter.com
 domain:convrgencegame.com
+domain:crossout.net
+domain:crsed.net
 domain:crysis.jp
 domain:csgo.wmsj.cn:@cn
 domain:cubicmotion.com
+domain:cubicodyssey.game
 domain:curseforge.com
 domain:cygames.co.jp
 domain:cygames.jp
@@ -141,6 +147,7 @@ domain:embark-studios.com
 domain:embark.games
 domain:eneba.com
 domain:eneba.games
+domain:enlisted.net
 domain:epicgames.com
 domain:epicgames.dev
 domain:epicgamescdn.com
@@ -168,6 +175,8 @@ domain:forzarc.com
 domain:frostbite.com
 domain:futpromos.com
 domain:futunited.com
+domain:gaijin.net
+domain:gaijinent.com
 domain:game-repack.site
 domain:gamepass.com
 domain:gamesfirsthelsinki.com
@@ -281,6 +290,7 @@ domain:mirrorsedge2.com
 domain:mirrorsedge2d.com
 domain:mo.co
 domain:mobimon.com.tw
+domain:modernwarships.com
 domain:modrinth.com
 domain:mojang.com
 domain:molesports.com
@@ -518,6 +528,7 @@ domain:ssx3.com
 domain:st.dl.bscstorage.net:@cn
 domain:st.dl.eccdnx.com:@cn
 domain:st.dl.pinyuncloud.com:@cn
+domain:star-conflict.com
 domain:starcraft.com
 domain:starcraft2.com
 domain:starfox.com
@@ -612,6 +623,7 @@ domain:vrchat.net
 domain:wariolandshakeit.com
 domain:wariowarediy.com
 domain:warnerbrosgames.com
+domain:warthunder.com
 domain:wbagora.com
 domain:wbgames.com
 domain:wbinsights.com
@@ -627,6 +639,7 @@ domain:wmsjsteam.com:@cn
 domain:worldflipper.akamaized.net
 domain:worldflipper.jp
 domain:worldofwarcraft.com
+domain:wtmobile.com
 domain:xbox
 domain:xbox.co
 domain:xbox.com

@@ -598,6 +598,7 @@ domain:acebook.com
 domain:acer-group.com
 domain:acer.com
 domain:acer.com.cn:@cn
+domain:acesofthunder.net
 domain:acgcf.com
 domain:acgdg.com
 domain:acgdv.com
@@ -625,6 +626,7 @@ domain:actalis.com
 domain:actalis.it
 domain:activelearnprimary.co.uk
 domain:activelearnprimary.com.au
+domain:activematter.game
 domain:activeteachonline.com
 domain:ad.games.dmm.com:@ads
 domain:ad69.com
@@ -2030,6 +2032,7 @@ domain:artoferotica.info
 domain:artstation.com
 domain:artstationmedia.com
 domain:artstor.org
+domain:artstorm.com
 domain:arxiv.org
 domain:arzon.jp
 domain:as-hp.ca
@@ -5263,10 +5266,12 @@ domain:cromite.org
 domain:crossborderexpansion.com
 domain:crossfitfirestone.com
 domain:crossmediapanel.com
+domain:crossout.net
 domain:crosswalk-project.com
 domain:crosswalk-project.net
 domain:crowdtangle.com
 domain:crr.com
+domain:crsed.net
 domain:crtsgfb1.top
 domain:cruel-furies.com
 domain:crunchyroll.com
@@ -5296,6 +5301,7 @@ domain:ctv.com.tw
 domain:ctwant.com
 domain:ctyun.online
 domain:cubicmotion.com
+domain:cubicodyssey.game
 domain:cuckfilmswifefuck.com
 domain:cuckold69.com
 domain:cuckoldfuck.com
@@ -6878,6 +6884,7 @@ domain:engineeringvillage.com
 domain:engkoo.com:@cn
 domain:enjoyasianporn.com
 domain:enjoyfuck.com
+domain:enlisted.net
 domain:enpass.io
 domain:enpirion.com
 domain:enspireformula.com
@@ -8300,6 +8307,8 @@ domain:g.dev
 domain:g.page
 domain:gab.com
 domain:gacebook.com
+domain:gaijin.net
+domain:gaijinent.com
 domain:gaito.xyz
 domain:galaxyappstore.com
 domain:galaxymobile.jp
@@ -13368,6 +13377,7 @@ domain:modelmediaus.com
 domain:modeloswebcambogota.com
 domain:modelsfreecams.com
 domain:modeltv.com
+domain:modernwarships.com
 domain:modoo.at
 domain:modperl.pl
 domain:modrinth.com
@@ -18065,6 +18075,7 @@ domain:staffhub.ms
 domain:standardchartered.com
 domain:standardsuniversity.org
 domain:star-brasil.com
+domain:star-conflict.com
 domain:star-latam.com
 domain:starbucks-stars.com
 domain:starbucks.ad
@@ -20382,6 +20393,7 @@ domain:wariowarediy.com
 domain:warnerbrosgames.com
 domain:warp.plus
 domain:warroom.org
+domain:warthunder.com
 domain:wasdj.com
 domain:washa.tv
 domain:washingtondcbmw.com
@@ -20762,6 +20774,7 @@ domain:wsjplus.com
 domain:wsjshop.com
 domain:wsjwine.com
 domain:wtfpeople.com
+domain:wtmobile.com
 domain:wto.org
 domain:wujieliulan.com
 domain:wunvb.com

@@ -28,6 +28,8 @@ domain:abema.tv
 domain:abematv.co.jp
 domain:abow.jp
 domain:ac-pocketcamp.com
+domain:acesofthunder.net
+domain:activematter.game
 domain:ads-pixiv.net:@ads
 domain:adventuresbydisney.com
 domain:adx.promo
@@ -72,6 +74,7 @@ domain:argo-bdp.com
 domain:arma3.com
 domain:armaplatform.com
 domain:artstation.com
+domain:artstorm.com
 domain:asobostudio.com
 domain:att.tv
 domain:atttvnow.com
@@ -186,11 +189,14 @@ domain:convrgencegame.com
 domain:copy-manga.com
 domain:copy20.com
 domain:copy2000.online
+domain:crossout.net
+domain:crsed.net
 domain:crunchyroll.com
 domain:crypton.co.jp
 domain:crysis.jp
 domain:csgo.wmsj.cn:@cn
 domain:cubicmotion.com
+domain:cubicodyssey.game
 domain:curseforge.com
 domain:cxacg.com
 domain:cygames.co.jp
@@ -389,6 +395,7 @@ domain:embark-studios.com
 domain:embark.games
 domain:eneba.com
 domain:eneba.games
+domain:enlisted.net
 domain:epicgames.com
 domain:epicgames.dev
 domain:epicgamescdn.com
@@ -435,6 +442,8 @@ domain:frostbite.com
 domain:funimation.com
 domain:futpromos.com
 domain:futunited.com
+domain:gaijin.net
+domain:gaijinent.com
 domain:game-repack.site
 domain:gameapps.hk
 domain:gamebase.com.tw
@@ -746,6 +755,7 @@ domain:mirrorsedge2.com
 domain:mirrorsedge2d.com
 domain:mo.co
 domain:mobimon.com.tw
+domain:modernwarships.com
 domain:modrinth.com
 domain:moedigi.com
 domain:moepedia.net
@@ -1157,6 +1167,7 @@ domain:st.dl.bscstorage.net:@cn
 domain:st.dl.eccdnx.com:@cn
 domain:st.dl.pinyuncloud.com:@cn
 domain:star-brasil.com
+domain:star-conflict.com
 domain:star-latam.com
 domain:starcraft.com
 domain:starcraft2.com
@@ -1334,6 +1345,7 @@ domain:wanuxi.com
 domain:wariolandshakeit.com
 domain:wariowarediy.com
 domain:warnerbrosgames.com
+domain:warthunder.com
 domain:watchdisneyfe.com
 domain:watchespn.com
 domain:wbagora.com
@@ -1363,6 +1375,7 @@ domain:worldflipper.jp
 domain:worldofwarcraft.com
 domain:ws-blau.com
 domain:ws-tcg.com
+domain:wtmobile.com
 domain:wwe.com
 domain:wwe9.com
 domain:wwr-stardom.com
