@@ -6,7 +6,10 @@ domain:20thcenturystudios.com.br
 domain:20thcenturystudios.jp
 domain:2k.com
 domain:2kcoretech.online
+domain:2kct.onl
 domain:2kgames.com
+domain:2ksports.com
+domain:2kweb.online
 domain:3lateral.com
 domain:4gamer.net
 domain:4gamers.com.tw
@@ -1077,6 +1080,7 @@ domain:roblox.vn
 domain:robloxlabs.com
 domain:roborecall.com
 domain:rockstargames.com
+domain:rockstarnorth.com
 domain:roku.com
 domain:rokutime.com
 domain:rowblocks.com
@@ -1578,6 +1582,9 @@ domain:zeetv.co.uk
 domain:zeetv.com
 domain:zeeuk.com
 domain:zenlesszonezero.com
+domain:zynga.com
+domain:zyngaplayersupport.com
+domain:zyngapoker.com
 full:a.ppy.sh
 full:a4e8s8k3.map2.ssl.hwcdn.net
 full:abematv.akamaized.net

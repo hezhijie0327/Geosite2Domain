@@ -216,7 +216,10 @@ domain:2drdrebeats.com
 domain:2gayboys.com
 domain:2k.com
 domain:2kcoretech.online
+domain:2kct.onl
 domain:2kgames.com
+domain:2ksports.com
+domain:2kweb.online
 domain:2lib.org
 domain:2mdn-cn.net:@ads
 domain:2mdn.net:@ads
@@ -16803,6 +16806,7 @@ domain:rocksdb.net
 domain:rocksdb.org
 domain:rocksextube.com
 domain:rockstargames.com
+domain:rockstarnorth.com
 domain:roku.com
 domain:rokutime.com
 domain:rolfoundation.org
@@ -21985,6 +21989,9 @@ domain:zukunftswerkstatt.de
 domain:zunked.com
 domain:zweiporn.com
 domain:zwtvusa.com
+domain:zynga.com
+domain:zyngaplayersupport.com
+domain:zyngapoker.com
 domain:zzcartoon.com
 domain:zzdh.biz
 domain:zzdh.cc

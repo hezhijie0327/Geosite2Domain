@@ -2,7 +2,10 @@ domain:100classicbooks.com
 domain:17roco.com
 domain:2k.com
 domain:2kcoretech.online
+domain:2kct.onl
 domain:2kgames.com
+domain:2ksports.com
+domain:2kweb.online
 domain:3304399.com
 domain:3304399.net
 domain:3839.com
@@ -635,6 +638,7 @@ domain:robloxdev.cn
 domain:robloxlabs.com
 domain:roborecall.com
 domain:rockstargames.com
+domain:rockstarnorth.com
 domain:roco.qq.com
 domain:rowblocks.com
 domain:rowblox.com
@@ -879,6 +883,9 @@ domain:zcjbgame.com
 domain:zenlesszonezero.com
 domain:zhuoyou.com
 domain:zhuoyuegame.com
+domain:zynga.com
+domain:zyngaplayersupport.com
+domain:zyngapoker.com
 full:a.ppy.sh
 full:a4e8s8k3.map2.ssl.hwcdn.net
 full:alibaba.cdn.steampipe.steamcontent.com:@cn

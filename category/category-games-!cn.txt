@@ -1,7 +1,10 @@
 domain:100classicbooks.com
 domain:2k.com
 domain:2kcoretech.online
+domain:2kct.onl
 domain:2kgames.com
+domain:2ksports.com
+domain:2kweb.online
 domain:3lateral.com
 domain:ac-pocketcamp.com
 domain:amiibo.com
@@ -481,6 +484,7 @@ domain:roblox.vn
 domain:robloxlabs.com
 domain:roborecall.com
 domain:rockstargames.com
+domain:rockstarnorth.com
 domain:rowblocks.com
 domain:rowblox.com
 domain:rsg.sc
@@ -653,6 +657,9 @@ domain:ynoproject.net
 domain:yogify.com
 domain:yoshisnewisland.com
 domain:zenlesszonezero.com
+domain:zynga.com
+domain:zyngaplayersupport.com
+domain:zyngapoker.com
 full:a.ppy.sh
 full:a4e8s8k3.map2.ssl.hwcdn.net
 full:alibaba.cdn.steampipe.steamcontent.com:@cn

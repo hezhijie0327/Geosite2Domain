@@ -1,4 +1,5 @@
 domain:rockstargames.com
+domain:rockstarnorth.com
 domain:rsg.sc
 full:gamedownloads-rockstargames-com.akamaized.net
 full:media-rockstargames-com.akamaized.net
