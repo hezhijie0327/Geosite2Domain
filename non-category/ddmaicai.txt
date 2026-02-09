@@ -6,11 +6,4 @@ domain:ddmaicai.net
 domain:ddmc.mobi
 domain:dduser.mobi
 domain:ddxq.mobi
-domain:dianping.com
 domain:imaicai.mobi
-domain:maoyan.com
-domain:meituan.com
-domain:meituan.net
-domain:mtyun.com
-domain:neixin.cn
-domain:sankuai.com

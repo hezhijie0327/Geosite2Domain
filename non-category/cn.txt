@@ -4,6 +4,7 @@ domain:0379home.com
 domain:055110.com
 domain:05sun.com
 domain:0759job.com
+domain:100.me
 domain:10010.com
 domain:100bt.com
 domain:100offer.com
@@ -1539,9 +1540,16 @@ domain:dcloudstc.net
 domain:dcloudvod.com
 domain:dcloudvod.net
 domain:dd373.com
+domain:ddcorp.net
+domain:ddfresh.net
+domain:ddimg.mobi
+domain:ddmaicai.net
+domain:ddmc.mobi
 domain:ddmogo.com
 domain:ddooo.com
 domain:ddurl.to
+domain:dduser.mobi
+domain:ddxq.mobi
 domain:dearedu.com
 domain:dedecms.com
 domain:deepepg.com
@@ -2551,6 +2559,7 @@ domain:im-cc.com
 domain:im2maker.com
 domain:im9.com
 domain:imacos.top
+domain:imaicai.mobi
 domain:imcapptest.com
 domain:imcome.net
 domain:imcoming.com
@@ -2922,6 +2931,7 @@ domain:kfcbest.com
 domain:kfzimg.com
 domain:kgimg.com
 domain:kidsccshow.com
+domain:kimi.com
 domain:kimiss.com
 domain:kingdee.com
 domain:kinghomechina.com
@@ -3402,6 +3412,7 @@ domain:moleecel.com
 domain:monitor.music.qq.com:@ads
 domain:monitor.uu.qq.com:@ads
 domain:moocollege.com
+domain:moonshot.ai
 domain:moonvy.com
 domain:moonvy.cool
 domain:mop.com

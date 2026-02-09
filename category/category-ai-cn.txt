@@ -20,6 +20,7 @@ domain:faxingbao.com
 domain:hailuoai.com
 domain:hi-butterfly.cn
 domain:hunyuan.tencent.com
+domain:kimi.com
 domain:liblib.art
 domain:maoxiangai.com
 domain:marscode.cn
@@ -33,6 +34,7 @@ domain:metaso.cn
 domain:miaibox.com
 domain:miaoyanai.com
 domain:minimaxi.com
+domain:moonshot.ai
 domain:moonshot.cn
 domain:myparallelstory.com
 domain:n.cn
