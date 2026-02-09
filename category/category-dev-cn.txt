@@ -83,6 +83,7 @@ domain:pgyer.com
 domain:phpweblog.net
 domain:pingcap.cn
 domain:pingcap.com
+domain:pingcode.com
 domain:programmer.com.cn
 domain:programmer.net.cn
 domain:qq.design

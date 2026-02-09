@@ -124,6 +124,7 @@ domain:ipanda.com
 domain:ipanda.com.cn
 domain:ipanda.net
 domain:iresearch.cn
+domain:it168.com
 domain:itc.cn
 domain:ithome.com
 domain:jfdaily.com
@@ -152,6 +153,7 @@ domain:livechina.com
 domain:lu.sogou.com:@ads
 domain:lu.sogoucdn.com:@ads
 domain:m.aty.sohu.com:@ads
+domain:miercn.com
 domain:minapp.com
 domain:mydrivers.com
 domain:nanyuenews.com
@@ -166,6 +168,7 @@ domain:pb.i.sogou.com:@ads
 domain:pchome.net
 domain:pchpic.net
 domain:pconline.com.cn
+domain:pcpop.com
 domain:people.cn
 domain:people.com.cn
 domain:phoenixcenter.cn
@@ -213,6 +216,7 @@ domain:soso.com
 domain:soso.com.cn
 domain:sososnap.com
 domain:southcn.com
+domain:southmoney.com
 domain:ssajax.cn
 domain:ssimg.cn
 domain:sspai.com
@@ -249,6 +253,7 @@ domain:wsoso.com
 domain:wuliao.epro.sogou.com:@ads
 domain:xiangrikuijianzhan.com
 domain:xiangrikuisite.com
+domain:xilu.com
 domain:xinhuanet.com
 domain:xinhuaxmt.com
 domain:xinyan.cn

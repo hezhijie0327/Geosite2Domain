@@ -3,6 +3,7 @@ domain:17173.com
 domain:17k.com
 domain:17roco.com
 domain:18183.com
+domain:1905.com
 domain:1xhh.cn
 domain:3304399.com
 domain:3304399.net
@@ -456,6 +457,8 @@ domain:lsplayer.com
 domain:ludosuperstar.cn
 domain:ludoworld.net
 domain:luojilab.com
+domain:m1905.cn
+domain:m1905.com
 domain:mahjongai.net
 domain:mahjongcup.cn
 domain:mahjongcup.com
@@ -494,6 +497,8 @@ domain:msstatic.com
 domain:mszdld.cn
 domain:mszdld.com
 domain:mszdld.net
+domain:mtime.cn
+domain:mtime.com
 domain:muwai.com
 domain:muyewx.com
 domain:my4399.com
