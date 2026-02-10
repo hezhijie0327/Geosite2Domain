@@ -1,3 +1,4 @@
+domain:ads.youtube.com:@ads
 domain:ggpht.cn:@cn
 domain:ggpht.com
 domain:googlevideo.com

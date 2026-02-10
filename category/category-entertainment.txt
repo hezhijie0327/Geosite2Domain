@@ -31,6 +31,7 @@ domain:ac-pocketcamp.com
 domain:acesofthunder.net
 domain:activematter.game
 domain:ads-pixiv.net:@ads
+domain:ads.youtube.com:@ads
 domain:adventuresbydisney.com
 domain:adx.promo
 domain:age.tv
@@ -57,6 +58,7 @@ domain:amebaowndme.com
 domain:ameblo.jp
 domain:amiibo.com
 domain:amp-api.podcast.apple.com
+domain:analytics.tiktok.com:@!cn,@ads
 domain:angelbeats.jp
 domain:anigema.jp
 domain:animedao-tv.com
@@ -683,6 +685,7 @@ domain:litv.tv
 domain:litvfreepc.akamaized.net
 domain:live-video.net
 domain:livestream.com
+domain:log-upload-os.hoyoverse.com:@ads
 domain:lol-europe.com
 domain:lolclub.org
 domain:lolespor.com
@@ -1352,7 +1355,7 @@ domain:wbagora.com
 domain:wbdnbo.net
 domain:wbgames.com
 domain:wbinsights.com
-domain:webnovel.com
+domain:webnovel.com:@!cn
 domain:weverse.io
 domain:wheelpop.com
 domain:whvn.cc
@@ -1601,6 +1604,8 @@ domain:zyngapoker.com
 full:a.ppy.sh
 full:a4e8s8k3.map2.ssl.hwcdn.net
 full:abematv.akamaized.net
+full:adeventtracker.spotify.com:@ads
+full:adstudio-assets.scdn.co:@ads
 full:alibaba.cdn.steampipe.steamcontent.com:@cn
 full:apl-hamivideo.cdn.hinet.net
 full:apple-tv-plus-press.apple.com
@@ -1610,6 +1615,7 @@ full:audio4-ak-spotify-com.akamaized.net
 full:avatargarenanow-a.akamaihd.net
 full:blizzard.nefficient.co.kr
 full:blizzcon-a.akamaihd.net
+full:bloodhound.spotify.com:@ads
 full:blzddist1-a.akamaihd.net
 full:blzddistkr1-a.akamaihd.net
 full:blzmedia-a.akamaihd.net

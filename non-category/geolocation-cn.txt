@@ -464,6 +464,7 @@ domain:adashx.ut.youku.com:@ads
 domain:adashx4ae.ut.taobao.com:@ads
 domain:adashx4yt.m.taobao.com:@ads
 domain:adashxgc.ut.taobao.com:@ads
+domain:adbehavior.ximalaya.com:@ads
 domain:adbkwai.com:@ads
 domain:adbox.sina.com.cn:@ads
 domain:adfilter.imtt.qq.com:@ads
@@ -478,6 +479,9 @@ domain:adnet.sohu.com:@ads
 domain:adping.qq.com:@ads
 domain:adpm.app.qq.com:@ads
 domain:ads-union.jd.com:@ads
+domain:ads-uo.api.leiniao.com:@ads
+domain:ads-ut.api.leiniao.com:@ads
+domain:ads.api.my7v.com:@ads
 domain:ads.music.126.net:@ads
 domain:ads.service.kugou.com:@ads
 domain:ads.sina.com:@ads
@@ -487,6 +491,8 @@ domain:ads.union.jd.com:@ads
 domain:ads.unitychina.cn:@ads
 domain:adscdn.baidu.com:@ads
 domain:adsclick.qq.com:@ads
+domain:adse.wsa.ximalaya.com:@ads
+domain:adse.ximalaya.com:@ads
 domain:adserviceretry.kglink.cn:@ads
 domain:adserviceretry.kugou.com:@ads
 domain:adsfile.qq.com:@ads
@@ -571,7 +577,6 @@ domain:alibaba-inc.com
 domain:alibaba.com
 domain:alibabacapital.com
 domain:alibabachengdun.com
-domain:alibabacloud.com
 domain:alibabacorp.com
 domain:alibabadns.com
 domain:alibabadoctor.com
@@ -581,7 +586,6 @@ domain:alibabaplanet.com
 domain:alibabaued.com
 domain:alibabausercontent.com
 domain:alicdn.com
-domain:alicloud.com
 domain:alicloudapi.com
 domain:alicloudccp.com
 domain:alidayu.com
@@ -665,7 +669,6 @@ domain:amzndns-cn.com:@cn
 domain:amzndns-cn.net:@cn
 domain:analog.com
 domain:analytics.163.com:@ads
-domain:analytics.tiktok.com:@ads
 domain:anav.com
 domain:ancientbooks.cn
 domain:andfx.cn
@@ -2289,6 +2292,7 @@ domain:et-api.com
 domain:et001.com
 domain:etao.com
 domain:ets100.com
+domain:euads-o.api.leiniao.com:@ads
 domain:everbright.com
 domain:ewww.com.cn
 domain:excelhome.net
@@ -2936,7 +2940,6 @@ domain:htcases.com
 domain:hteacher.net
 domain:htjsq.com
 domain:htjsq.mobi
-domain:htrace.wetvinfo.com:@ads
 domain:htsc.com.cn
 domain:htsec.com
 domain:httpdns-api.aliyuncs.com:@ads
@@ -3061,6 +3064,7 @@ domain:hupun.com.cn
 domain:huxiu.com
 domain:huxiucdn.com
 domain:huya.com
+domain:hwads-t.api.my7v.com:@ads
 domain:hwastro.cn
 domain:hwastro.com
 domain:hwccpc.cn
@@ -3954,6 +3958,7 @@ domain:lnlib.net
 domain:local-ip.online
 domain:lofter.com
 domain:lofter.httpdns.c.163.com:@ads
+domain:log-upload.mihoyo.com:@ads
 domain:log.hunantv.com:@ads
 domain:log.mix.sina.com.cn:@ads
 domain:log.sina.cn:@ads
@@ -4274,6 +4279,7 @@ domain:mwcloudcdn.com
 domain:mxhichina.com
 domain:my-qcloud.com
 domain:my4399.com
+domain:my7v.com
 domain:myalicdn.com
 domain:myapp.com
 domain:mybank.cn
@@ -4854,6 +4860,7 @@ domain:realcybertron.com
 domain:realme.com
 domain:realmebbs.com
 domain:realmemobile.com
+domain:redelight.cn
 domain:redmagic.com
 domain:rednotecdn.com
 domain:reke.at.sohu.com:@ads
@@ -5444,6 +5451,7 @@ domain:tendis.net
 domain:tenpay.com
 domain:tenxcloud.com
 domain:test-cignacmb.com
+domain:testads.api.my7v.com:@ads
 domain:testjrzk.net.cn
 domain:testmeet.cn
 domain:testplus.cn
@@ -6174,6 +6182,7 @@ domain:xhlsgs.com
 domain:xhscdn.com
 domain:xhscdn.net
 domain:xhslink.com
+domain:xhsrcdn.com
 domain:xiachufang.com
 domain:xiamai.net
 domain:xiamenair.com
@@ -6537,6 +6546,7 @@ domain:yytcdn.com
 domain:yzcdn.cn
 domain:yzyxgame.com
 domain:z-bank.com
+domain:z.ai
 domain:z.gds.cnzz.com:@ads
 domain:z28j.com
 domain:z95rr.cn
@@ -6612,6 +6622,7 @@ domain:zhiliaowenda.com.cn
 domain:zhimg.com
 domain:zhipin.com
 domain:zhipuai.cn
+domain:zhipucn.com
 domain:zhisheng.com
 domain:zhixue.com
 domain:zhiye.com

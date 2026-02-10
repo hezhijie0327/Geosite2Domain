@@ -61,6 +61,8 @@ domain:xinghuo.xfyun.cn
 domain:xingyeai.com
 domain:yiyan.baidu.com
 domain:yoma.cn
+domain:z.ai
 domain:zhipuai.cn
+domain:zhipucn.com
 full:ai.zhaomi.cn
 full:cueme-api.quark.cn

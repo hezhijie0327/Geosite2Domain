@@ -1,3 +1,4 @@
+domain:analytics.tiktok.com:@!cn,@ads
 domain:bytedapm.com:@!cn
 domain:byteoversea.com:@!cn
 domain:muscdn.com:@!cn

@@ -1,3 +1,4 @@
+domain:badjs.weixinbridge.com:@ads
 domain:cnb.cool
 domain:coding.me
 domain:coding.net

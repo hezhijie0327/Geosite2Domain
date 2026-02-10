@@ -1,4 +1,4 @@
-domain:cici.com
-domain:ciciai.com
-domain:ciciaicdn.com
-domain:dola.com
+domain:cici.com:@!cn
+domain:ciciai.com:@!cn
+domain:ciciaicdn.com:@!cn
+domain:dola.com:@!cn

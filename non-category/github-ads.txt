@@ -1,2 +1,0 @@
-domain:collector.github.com:@ads
-domain:copilot-telemetry.githubusercontent.com:@ads

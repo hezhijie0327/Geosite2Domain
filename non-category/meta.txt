@@ -8,6 +8,7 @@ domain:acheter-followers-instagram.com
 domain:acheterdesfollowersinstagram.com
 domain:acheterfollowersinstagram.com
 domain:advancediddetection.com
+domain:analytics.facebook.com:@ads
 domain:askfacebook.net
 domain:askfacebook.org
 domain:atdmt2.com
@@ -127,6 +128,7 @@ domain:facebook30.com
 domain:facebook30.net
 domain:facebook30.org
 domain:facebook4business.com
+domain:facebookads.com:@ads
 domain:facebookadvertisingsecrets.com
 domain:facebookappcenter.info
 domain:facebookappcenter.net
@@ -498,6 +500,7 @@ domain:opencreate.org
 domain:opengraphprotocol.com
 domain:opengraphprotocol.org
 domain:parse.com
+domain:pixel.facebook.com:@ads
 domain:powersunitedvr.com
 domain:pyrobot.org
 domain:reachtheworldonfacebook.com

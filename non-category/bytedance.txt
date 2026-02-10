@@ -20,7 +20,7 @@ domain:ali-restore.net
 domain:amemv.cn
 domain:amemv.com
 domain:amemv.net
-domain:analytics.tiktok.com:@ads
+domain:analytics.tiktok.com:@!cn,@ads
 domain:anycross.com
 domain:arco.design
 domain:awemeughun.com
@@ -184,9 +184,13 @@ domain:cdnbuild.net
 domain:cdndns1.com
 domain:cdndns2.com
 domain:changdunovel.com
+domain:cici.com:@!cn
+domain:ciciai.com:@!cn
+domain:ciciaicdn.com:@!cn
 domain:cloudendpoint.cn
 domain:cookicut.com
 domain:coze.cn
+domain:coze.com:@!cn
 domain:coze.site
 domain:cozebaas.cn
 domain:cozefn.cn
@@ -199,6 +203,7 @@ domain:dcarstatic.com
 domain:dcarvod.com
 domain:dcdapp.com
 domain:dig.bdurl.net:@ads
+domain:dola.com:@!cn
 domain:dongchedi.com
 domain:dongchediapp.com
 domain:doubao.com
@@ -392,6 +397,7 @@ domain:luckysf.net
 domain:maoxiangai.com
 domain:marscode.cn
 domain:marscode.com.cn
+domain:marscode.com:@!cn
 domain:mcbaas.work
 domain:mcdemo.show
 domain:mchost.guru
@@ -552,6 +558,7 @@ domain:toutiaowap.net
 domain:tr-test-ali.net
 domain:tr-test.net
 domain:tr-testboe.net
+domain:trae.ai:@!cn
 domain:trae.cn
 domain:trae.com.cn
 domain:trae.guru

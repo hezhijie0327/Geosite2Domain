@@ -17,7 +17,7 @@ domain:ad.api.moji.com
 domain:ad.browser.qq.com:@ads
 domain:ad.cctv.com:@ads
 domain:ad.games.dmm.com:@ads
-domain:ad.hpplay.cn:@ads
+domain:ad.hpplay.cn
 domain:ad.intl.xiaomi.com:@ads
 domain:ad.m.iqiyi.com:@ads
 domain:ad.mi.com:@ads
@@ -51,9 +51,9 @@ domain:adbehavior.ximalaya.com:@ads
 domain:adbkwai.com:@ads
 domain:adbox.sina.com.cn:@ads
 domain:adbutter.net
-domain:adc.hpplay.cn:@ads
+domain:adc.hpplay.cn
 domain:addthisedge.com
-domain:adeng.hpplay.cn:@ads
+domain:adeng.hpplay.cn
 domain:adfilter.imtt.qq.com:@ads
 domain:adimg.mobile.sina.cn:@ads
 domain:adimg.uve.weibo.com:@ads
@@ -76,8 +76,8 @@ domain:ads-union.jd.com:@ads
 domain:ads-uo.api.leiniao.com:@ads
 domain:ads-ut.api.leiniao.com:@ads
 domain:ads.api.my7v.com:@ads
-domain:ads.huan.tv:@ads
-domain:ads.huantest.com:@ads
+domain:ads.huan.tv
+domain:ads.huantest.com
 domain:ads.music.126.net:@ads
 domain:ads.service.kugou.com:@ads
 domain:ads.sina.com:@ads
@@ -122,8 +122,8 @@ domain:adv-sv-stat.focus.cn:@ads
 domain:adv.app.qq.com:@ads
 domain:adv.sec.intl.miui.com:@ads
 domain:adv.sec.miui.com:@ads
-domain:advapi.joyplus.tv:@ads
-domain:advapikj.joyplus.tv:@ads
+domain:advapi.joyplus.tv
+domain:advapikj.joyplus.tv
 domain:adver.qq.com:@ads
 domain:advertisercommunity.com:@ads
 domain:advertiserscommunity.com:@ads
@@ -149,7 +149,7 @@ domain:analytics-alv.google.com:@ads
 domain:analytics-data.io
 domain:analytics.163.com:@ads
 domain:analytics.facebook.com:@ads
-domain:analytics.tiktok.com:@ads
+domain:analytics.tiktok.com:@!cn,@ads
 domain:analytics.umetrip.com
 domain:analytics.vpc.duolingo.com:@ads
 domain:api-adservices.apple.com:@ads
@@ -180,9 +180,10 @@ domain:beacon.qq.com:@ads
 domain:beacon.sina.com.cn:@ads
 domain:beaconcdn.qq.com:@ads
 domain:beizi.biz
+domain:bingads.com:@ads
 domain:biz.weibo.com:@ads
 domain:bluekai.com:@ads
-domain:browser.events.data.msn.cn:@ads
+domain:browser.events.data.msn.cn:@ads,@cn
 domain:browser.events.data.msn.com:@ads
 domain:btrace.qq.com:@ads
 domain:bugly.qq.com:@ads
@@ -323,7 +324,7 @@ domain:hao123union.baidu.com:@ads
 domain:hm.baidu.com:@ads
 domain:hmma.baidu.com:@ads
 domain:hq-tracking.qq.com:@ads
-domain:htrace.wetvinfo.com:@ads
+domain:htrace.wetvinfo.com:@!cn,@ads
 domain:hubcloud.com.cn
 domain:hwads-t.api.my7v.com:@ads
 domain:i-mobile.co.jp:@ads
@@ -364,10 +365,12 @@ domain:juicyads.com
 domain:jzt.jd.com:@ads
 domain:kaprila.com
 domain:kepler-37b.com
-domain:kuyun.com:@ads
+domain:kuyun.com
 domain:ladsp.com:@ads
 domain:leanplum.com
 domain:lianmeng.360.cn:@ads
+domain:log-upload-os.hoyoverse.com:@ads
+domain:log-upload.mihoyo.com:@ads
 domain:log.hunantv.com:@ads
 domain:log.mix.sina.com.cn:@ads
 domain:log.sina.cn:@ads
@@ -633,5 +636,4 @@ full:rtlog5-applog-hl.fqnovel.com:@ads
 full:rtlog5-applog.fqnovel.com:@ads
 full:sentry.hetzner.company:@ads
 full:wlog.kuaishou.com:@ads
-regexp:^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$:@ads
 regexp:^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$:@ads

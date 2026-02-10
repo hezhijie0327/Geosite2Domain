@@ -107,6 +107,7 @@ domain:kurogames.com
 domain:labycore.cn
 domain:langrenclub.com
 domain:ledu.com
+domain:log-upload.mihoyo.com:@ads
 domain:longtugame.com
 domain:ludosuperstar.cn
 domain:ludoworld.net

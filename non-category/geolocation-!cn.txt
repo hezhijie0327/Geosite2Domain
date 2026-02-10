@@ -1120,13 +1120,13 @@ domain:aliassystems.com
 domain:aliasvisualizationstudio.com
 domain:aliaswavefront.com
 domain:alibabacloud.co.in:@!cn
-domain:alibabacloud.com
 domain:alibabacloud.com.au:@!cn
 domain:alibabacloud.com.hk:@!cn
 domain:alibabacloud.com.my:@!cn
 domain:alibabacloud.com.sg:@!cn
 domain:alibabacloud.com.tw:@!cn
-domain:alicloud.com
+domain:alibabacloud.com:@!cn
+domain:alicloud.com:@!cn
 domain:alienware.ae
 domain:alienware.at
 domain:alienware.be
@@ -1472,6 +1472,8 @@ domain:analscreen.com
 domain:analtime.org
 domain:analvids.com
 domain:analytics-alv.google.com:@ads
+domain:analytics.facebook.com:@ads
+domain:analytics.tiktok.com:@!cn,@ads
 domain:analytics.vpc.duolingo.com:@ads
 domain:analytictech.com
 domain:anandtech.com
@@ -4115,7 +4117,7 @@ domain:bromo.com
 domain:bronto.com
 domain:brotli.org
 domain:brourou.com
-domain:browser.events.data.msn.cn:@ads
+domain:browser.events.data.msn.cn:@ads,@cn
 domain:browser.events.data.msn.com:@ads
 domain:browser.kagi.com
 domain:browser.run
@@ -4792,9 +4794,9 @@ domain:chyoa.com
 domain:ci-en.jp
 domain:ci-en.net
 domain:ciattackers.com
-domain:cici.com
-domain:ciciai.com
-domain:ciciaicdn.com
+domain:cici.com:@!cn
+domain:ciciai.com:@!cn
+domain:ciciaicdn.com:@!cn
 domain:cilk.com
 domain:cilk.net
 domain:cindymovies.com
@@ -5218,7 +5220,7 @@ domain:coverartarchive.org
 domain:covid19-rx.org
 domain:covid19rx.org
 domain:cowboom.com
-domain:coze.com
+domain:coze.com:@!cn
 domain:cozydrdrebeats.com
 domain:cp44.net
 domain:cpan.org
@@ -6136,7 +6138,7 @@ domain:dojindb.net
 domain:dojinmanga.net
 domain:dojinwatch.com
 domain:dokusho-ojikan.jp
-domain:dola.com
+domain:dola.com:@!cn
 domain:dollarfotoclub.com
 domain:dollarphotoclub.com
 domain:dollarphotosclub.com
@@ -7247,6 +7249,7 @@ domain:facebook30.com
 domain:facebook30.net
 domain:facebook30.org
 domain:facebook4business.com
+domain:facebookads.com:@ads
 domain:facebookadvertisingsecrets.com
 domain:facebookappcenter.info
 domain:facebookappcenter.net
@@ -12123,6 +12126,7 @@ domain:localizejs.com
 domain:localizestatus.com
 domain:localpresshk.com
 domain:localxlist.org
+domain:log-upload-os.hoyoverse.com:@ads
 domain:logi.com
 domain:logicool.co.jp
 domain:logicoolg.com
@@ -12487,7 +12491,7 @@ domain:marketwatch.com
 domain:markingmenus.com
 domain:markzuckerberg.com
 domain:marranazas.com
-domain:marscode.com
+domain:marscode.com:@!cn
 domain:marvel.com
 domain:marvel10thanniversary.com
 domain:marveldimensionofheroes.com
@@ -15597,6 +15601,7 @@ domain:piwheels.org
 domain:pixanalytics.com
 domain:pixapp.net
 domain:pixate.com
+domain:pixel.facebook.com:@ads
 domain:pixfs.net
 domain:pixhost.to
 domain:pixinsight.com.tw
@@ -19054,7 +19059,7 @@ domain:tracker.network
 domain:tracking-location.com
 domain:tradevip1.com
 domain:tradingview.com
-domain:trae.ai
+domain:trae.ai:@!cn
 domain:trafficmanager.cn:@cn
 domain:trafficmanager.net
 domain:tranny.one
@@ -20484,7 +20489,7 @@ domain:webkitgtk.org
 domain:weblate.org
 domain:webmoneyinfo.com
 domain:webmproject.org
-domain:webnovel.com
+domain:webnovel.com:@!cn
 domain:webobjects.co.uk
 domain:webobjects.com
 domain:webobjects.de
@@ -22033,9 +22038,11 @@ full:ad-channel.diwodiwo.xyz:@ads
 full:ad-display.diwodiwo.xyz:@ads
 full:adcdownload.apple.com.akadns.net:@cn
 full:adcdownload.apple.com:@cn
+full:adeventtracker.spotify.com:@ads
 full:admob-cn.com:@cn
 full:adobeereg.com
 full:adservice.google.com:@cn
+full:adstudio-assets.scdn.co:@ads
 full:afcs.dell.com:@cn
 full:alibaba.cdn.steampipe.steamcontent.com:@cn
 full:alt1-mtalk.google.com:@!cn
@@ -22083,6 +22090,7 @@ full:bg.v4.a.dl.ws.microsoft.com:@cn
 full:bg4.v4.a.dl.ws.microsoft.com:@cn
 full:bj1.api.bing.com:@cn
 full:blizzard.nefficient.co.kr
+full:bloodhound.spotify.com:@ads
 full:bookkeeper.itunes.apple.com:@cn
 full:browser-intake-datadoghq.com:@ads
 full:build.microsoft.com:@cn
@@ -22833,7 +22841,6 @@ regexp:.+\.awsdns-cn-[0-9][a-e0-9]\.cn$:@cn
 regexp:.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$
 regexp:^(.+\.)*zh\.okaapps\.com$:@cn
 regexp:^[0-9]+vod-adaptive\.akamaized\.net$
-regexp:^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$:@ads
 regexp:^cdn-akamai-.+\.gog-services\.com$:@cn
 regexp:^cdn\d-epicgames-\d+\.file\.myqcloud\.com$:@cn
 regexp:^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$

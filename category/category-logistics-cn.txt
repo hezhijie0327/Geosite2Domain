@@ -102,6 +102,7 @@ domain:udalogistic.cn
 domain:udalogistic.com
 domain:upfos.cn
 domain:upfos.com
+domain:v6-adashx.ut.cainiao.com:@ads
 domain:wangniuwms.com
 domain:xinyuanfin.com
 domain:ydsys.cn

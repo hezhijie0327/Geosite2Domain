@@ -1,7 +1,7 @@
-domain:cici.com
-domain:ciciai.com
-domain:ciciaicdn.com
-domain:coze.com
-domain:dola.com
-domain:marscode.com
-domain:trae.ai
+domain:cici.com:@!cn
+domain:ciciai.com:@!cn
+domain:ciciaicdn.com:@!cn
+domain:coze.com:@!cn
+domain:dola.com:@!cn
+domain:marscode.com:@!cn
+domain:trae.ai:@!cn

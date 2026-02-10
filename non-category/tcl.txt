@@ -1,5 +1,12 @@
+domain:ads-uo.api.leiniao.com:@ads
+domain:ads-ut.api.leiniao.com:@ads
+domain:ads.api.my7v.com:@ads
+domain:euads-o.api.leiniao.com:@ads
+domain:hwads-t.api.my7v.com:@ads
 domain:leiniao.com
+domain:my7v.com
 domain:tcl.com
 domain:tcl.com.cn
 domain:tclai.top
 domain:tcltech.com
+domain:testads.api.my7v.com:@ads

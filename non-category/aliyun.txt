@@ -1,3 +1,6 @@
+domain:acjs.aliyun.com:@ads
+domain:adash-emas.cn-hangzhou.aliyuncs.com:@ads
+domain:adash.man.aliyuncs.com:@ads
 domain:alibabadns.com
 domain:alicdn.com
 domain:alicloudapi.com
@@ -6,6 +9,7 @@ domain:alidns.com
 domain:aligfwaf.com
 domain:alikunlun.com
 domain:alikunlun.net
+domain:alimama.alicdn.com:@ads
 domain:aliyun-inc.com
 domain:aliyun-iot-share.com
 domain:aliyun.com
@@ -13,6 +17,9 @@ domain:aliyuncdn.com
 domain:aliyuncdn.net
 domain:aliyunfile.com
 domain:aliyunpds.com
+domain:atanx.alicdn.com:@ads
+domain:atanx2.alicdn.com:@ads
+domain:baichuan-sdk.alicdn.com:@ads
 domain:cdngslb.com
 domain:fcapp.run
 domain:hichina.com
@@ -39,6 +46,7 @@ domain:kunlunvi.com
 domain:kunlunwe.com
 domain:mxhichina.com
 domain:myalicdn.com
+domain:nbsdk-baichuan.alicdn.com:@ads
 domain:oss-ap-northeast-1.aliyuncs.com:@!cn
 domain:oss-ap-northeast-2.aliyuncs.com:@!cn
 domain:oss-ap-south-1.aliyuncs.com:@!cn
@@ -66,3 +74,4 @@ domain:oss-eu-west-1.aliyuncs.com:@!cn
 domain:oss-me-east-1.aliyuncs.com:@!cn
 domain:oss-us-east-1.aliyuncs.com:@!cn
 domain:oss-us-west-1.aliyuncs.com:@!cn
+domain:tce.alicdn.com:@ads

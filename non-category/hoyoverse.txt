@@ -4,5 +4,6 @@ domain:honkaistarrail.com
 domain:hoyo.link
 domain:hoyolab.com
 domain:hoyoverse.com
+domain:log-upload-os.hoyoverse.com:@ads
 domain:n0vadesktop.com
 domain:zenlesszonezero.com

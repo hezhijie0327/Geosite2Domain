@@ -217,7 +217,7 @@ domain:hkgcloudcs.com
 domain:hongxiu.com
 domain:hq-tracking.qq.com:@ads
 domain:hr-welink.com
-domain:htrace.wetvinfo.com:@ads
+domain:htrace.wetvinfo.com:@!cn,@ads
 domain:idcgcloudcs.com
 domain:idqqimg.com
 domain:iemiq.com
@@ -546,6 +546,7 @@ domain:videoxiaoyouxi.com
 domain:vodtcbk.com
 domain:vxo7tu.com
 domain:wcbygame.com
+domain:webnovel.com:@!cn
 domain:wechat.com
 domain:wechatpay.cn
 domain:wegame.com

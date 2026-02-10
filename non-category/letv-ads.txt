@@ -1,4 +1,0 @@
-domain:apple.www.letv.com:@ads
-domain:ark.letv.com:@ads
-domain:dc.letv.com:@ads
-domain:g3.letv.com:@ads

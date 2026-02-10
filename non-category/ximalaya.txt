@@ -1,2 +1,5 @@
+domain:adbehavior.ximalaya.com:@ads
+domain:adse.wsa.ximalaya.com:@ads
+domain:adse.ximalaya.com:@ads
 domain:ximalaya.com
 domain:xmcdn.com

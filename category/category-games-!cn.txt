@@ -246,6 +246,7 @@ domain:leaguoflegends.com
 domain:learnwithleague.com
 domain:legendofzelda.cn:@cn
 domain:legendofzelda.com.cn:@cn
+domain:log-upload-os.hoyoverse.com:@ads
 domain:lol-europe.com
 domain:lolclub.org
 domain:lolespor.com

@@ -3,6 +3,7 @@ domain:accessfacebookfromschool.com
 domain:acebooik.com
 domain:acebook.com
 domain:advancediddetection.com
+domain:analytics.facebook.com:@ads
 domain:askfacebook.net
 domain:askfacebook.org
 domain:atdmt2.com
@@ -109,6 +110,7 @@ domain:facebook30.com
 domain:facebook30.net
 domain:facebook30.org
 domain:facebook4business.com
+domain:facebookads.com:@ads
 domain:facebookadvertisingsecrets.com
 domain:facebookatschool.com
 domain:facebookawards.com
@@ -368,6 +370,7 @@ domain:newsfeed.com
 domain:nextstop.com
 domain:online-deals.net
 domain:opencreate.org
+domain:pixel.facebook.com:@ads
 domain:reachtheworldonfacebook.com
 domain:redkix.com
 domain:rocksdb.org

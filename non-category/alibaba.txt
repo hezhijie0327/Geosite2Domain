@@ -42,12 +42,12 @@ domain:alibaba.com
 domain:alibabacapital.com
 domain:alibabachengdun.com
 domain:alibabacloud.co.in:@!cn
-domain:alibabacloud.com
 domain:alibabacloud.com.au:@!cn
 domain:alibabacloud.com.hk:@!cn
 domain:alibabacloud.com.my:@!cn
 domain:alibabacloud.com.sg:@!cn
 domain:alibabacloud.com.tw:@!cn
+domain:alibabacloud.com:@!cn
 domain:alibabacorp.com
 domain:alibabadns.com
 domain:alibabadoctor.com
@@ -57,7 +57,7 @@ domain:alibabaplanet.com
 domain:alibabaued.com
 domain:alibabausercontent.com
 domain:alicdn.com
-domain:alicloud.com
+domain:alicloud.com:@!cn
 domain:alicloudapi.com
 domain:alicloudccp.com
 domain:alidayu.com

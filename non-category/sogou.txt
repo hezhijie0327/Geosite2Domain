@@ -2,6 +2,11 @@ domain:binglianhuajianzhan.com
 domain:ggoplay.com
 domain:ggowan.com
 domain:go2map.com
+domain:inte.sogou.com:@ads
+domain:inte.sogoucdn.com:@ads
+domain:lu.sogou.com:@ads
+domain:lu.sogoucdn.com:@ads
+domain:pb.i.sogou.com:@ads
 domain:pinyin.cn
 domain:qd.ink
 domain:sg.cn
@@ -22,7 +27,10 @@ domain:soso.com
 domain:soso.com.cn
 domain:sososnap.com
 domain:teemo.cn
+domain:theta.sogoucdn.com:@ads
+domain:uranus.sogou.com:@ads
 domain:wannianqingjianzhan.com
+domain:wuliao.epro.sogou.com:@ads
 domain:xiangrikuijianzhan.com
 domain:xiangrikuisite.com
 domain:xinyan.cn

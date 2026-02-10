@@ -246,13 +246,13 @@ domain:aliassystems.com
 domain:aliasvisualizationstudio.com
 domain:aliaswavefront.com
 domain:alibabacloud.co.in:@!cn
-domain:alibabacloud.com
 domain:alibabacloud.com.au:@!cn
 domain:alibabacloud.com.hk:@!cn
 domain:alibabacloud.com.my:@!cn
 domain:alibabacloud.com.sg:@!cn
 domain:alibabacloud.com.tw:@!cn
-domain:alicloud.com
+domain:alibabacloud.com:@!cn
+domain:alicloud.com:@!cn
 domain:alienware.ae
 domain:alienware.at
 domain:alienware.be
@@ -401,6 +401,7 @@ domain:amzndns.net
 domain:amzndns.org
 domain:amznl.com
 domain:analytics-alv.google.com:@ads
+domain:analytics.facebook.com:@ads
 domain:analytics.vpc.duolingo.com:@ads
 domain:android
 domain:android.com
@@ -1596,7 +1597,7 @@ domain:broadcom.com
 domain:brocaproject.com
 domain:bronto.com
 domain:brotli.org
-domain:browser.events.data.msn.cn:@ads
+domain:browser.events.data.msn.cn:@ads,@cn
 domain:browser.events.data.msn.com:@ads
 domain:buck.build
 domain:buckbuild.com
@@ -2616,6 +2617,7 @@ domain:facebook30.com
 domain:facebook30.net
 domain:facebook30.org
 domain:facebook4business.com
+domain:facebookads.com:@ads
 domain:facebookadvertisingsecrets.com
 domain:facebookappcenter.info
 domain:facebookappcenter.net
@@ -5264,6 +5266,7 @@ domain:pittpatt.com
 domain:pivotalinitiative.com
 domain:pixapp.net
 domain:pixate.com
+domain:pixel.facebook.com:@ads
 domain:pixlr-o-matic.com
 domain:pixlromatic.com
 domain:pixtronix.com
@@ -7401,7 +7404,6 @@ full:yandex-pogoda.static-storage.net
 regexp:.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 regexp:.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$:@cn
 regexp:.+\.awsdns-cn-[0-9][a-e0-9]\.cn$:@cn
-regexp:^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$:@ads
 regexp:^ewcdn[0-9]+\.nowe\.com$
 regexp:^github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com$
 regexp:^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$:@cn

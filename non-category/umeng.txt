@@ -10,6 +10,7 @@ domain:ccs.umeng.com:@ads
 domain:cnlogs.umeng.com:@ads
 domain:cnlogs.umengcloud.com:@ads
 domain:cnzz.com
+domain:log.umtrack.com:@ads
 domain:mobmore.com
 domain:new-aaid.umeng.com.gds.alibabadns.com:@ads
 domain:new-aaid.umeng.com:@ads

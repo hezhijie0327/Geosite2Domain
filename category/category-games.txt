@@ -355,6 +355,8 @@ domain:learnwithleague.com
 domain:ledu.com
 domain:legendofzelda.cn:@cn
 domain:legendofzelda.com.cn:@cn
+domain:log-upload-os.hoyoverse.com:@ads
+domain:log-upload.mihoyo.com:@ads
 domain:lol-europe.com
 domain:lolclub.org
 domain:lolespor.com

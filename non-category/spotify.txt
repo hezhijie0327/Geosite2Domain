@@ -13,8 +13,11 @@ domain:spotifycodes.com
 domain:spotifyforbrands.com
 domain:spotifyjobs.com
 domain:tospotify.com
+full:adeventtracker.spotify.com:@ads
+full:adstudio-assets.scdn.co:@ads
 full:audio-ak-spotify-com.akamaized.net
 full:audio4-ak-spotify-com.akamaized.net
+full:bloodhound.spotify.com:@ads
 full:cdn-spotify-experiments.conductrics.com
 full:heads-ak-spotify-com.akamaized.net
 full:heads4-ak-spotify-com.akamaized.net

@@ -1,7 +1,9 @@
 domain:askdiandian.com
 domain:diandianlife.top
+domain:redelight.cn
 domain:rednotecdn.com
 domain:xhscdn.com
 domain:xhscdn.net
 domain:xhslink.com
+domain:xhsrcdn.com
 domain:xiaohongshu.com

@@ -140,7 +140,7 @@ domain:boswp.com
 domain:botframework.com
 domain:brazilpartneruniversity.com
 domain:breakdown.me
-domain:browser.events.data.msn.cn:@ads
+domain:browser.events.data.msn.cn:@ads,@cn
 domain:browser.events.data.msn.com:@ads
 domain:c-msedge.net
 domain:callersbane.com
