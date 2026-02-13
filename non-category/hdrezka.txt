@@ -6,5 +6,6 @@ domain:hdrezka.co
 domain:hdrezka.me
 domain:hdrezka.org
 domain:hdrezka.site
+domain:hdrzk.org
 domain:rezka.ag
 domain:stream.voidboost.cc

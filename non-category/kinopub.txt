@@ -4,6 +4,7 @@ domain:cdn2site.com
 domain:gfw.ovh
 domain:kino.pub
 domain:kinopub.online
+domain:kpdl.link
 domain:mos-gorsud.co
 domain:pushbr.com
 regexp:(\w+)-static-[0-9]+\.cdntogo\.net$

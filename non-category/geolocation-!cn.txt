@@ -1581,6 +1581,7 @@ domain:apkcombo.com
 domain:apkmirror.com
 domain:apkpure.com
 domain:apkpure.net
+domain:apkpures.xyz
 domain:aple.com
 domain:aplestore.com
 domain:aplleipods.com
@@ -2150,6 +2151,7 @@ domain:attcollaborate.com
 domain:attcorp.cn:@cn
 domain:attdns.com
 domain:attdns.net
+domain:attestation.app
 domain:attexperts.com
 domain:attglobal.net
 domain:attic.io
@@ -9087,6 +9089,19 @@ domain:graph.instagram.com:@ads
 domain:graph.org
 domain:graph.whatsapp.com:@ads
 domain:graph.whatsapp.net:@ads
+domain:grapheneos.app
+domain:grapheneos.ca
+domain:grapheneos.com
+domain:grapheneos.dev
+domain:grapheneos.foundation
+domain:grapheneos.info
+domain:grapheneos.net
+domain:grapheneos.network
+domain:grapheneos.online
+domain:grapheneos.org
+domain:grapheneos.ovh
+domain:grapheneos.page
+domain:grapheneos.social
 domain:graphengine.io
 domain:gravatar.com
 domain:gravitytank.com
@@ -17132,6 +17147,7 @@ domain:sdcountybmw.com
 domain:sdnice.one
 domain:sdnitube.buzz
 domain:seagroup.com
+domain:seamlessupdate.app
 domain:seamonkey-project.org
 domain:seancody.com
 domain:seaofsolitude.com
@@ -19516,6 +19532,7 @@ domain:vagrantup.com
 domain:valoryirene.com
 domain:valuegb.com
 domain:valvesoftware.com
+domain:vanadium.app
 domain:vancouverbmwretailers.ca
 domain:vanish.at
 domain:vanish.be
@@ -22647,6 +22664,7 @@ full:tp.louisvuitton.com:@cn
 full:uberproxy-debug4.corp.google.com:@cn
 full:uberproxy.corp.google.com:@cn
 full:uberproxy6.corp.google.com:@cn
+full:ubisoft.siteintercept.qualtrics.com
 full:update.crashlytics.com:@cn
 full:update.googleapis.com:@cn
 full:updates-http.cdn-apple.com.akadns.net:@cn

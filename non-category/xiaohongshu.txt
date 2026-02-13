@@ -1,7 +1,9 @@
 domain:askdiandian.com
 domain:diandianlife.top
 domain:redelight.cn
-domain:rednotecdn.com
+domain:rednote.com.my:@!cn
+domain:rednote.com:@!cn
+domain:rednotecdn.com:@!cn
 domain:xhscdn.com
 domain:xhscdn.net
 domain:xhslink.com

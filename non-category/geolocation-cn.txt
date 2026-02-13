@@ -4862,7 +4862,6 @@ domain:realmebbs.com
 domain:realmemobile.com
 domain:redelight.cn
 domain:redmagic.com
-domain:rednotecdn.com
 domain:reke.at.sohu.com:@ads
 domain:renren-inc.com
 domain:renren.com
