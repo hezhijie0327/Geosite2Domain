@@ -114,6 +114,7 @@ domain:telegram.space
 domain:telesco.pe
 domain:temp-mail.org
 domain:tg.dev
+domain:ton.org
 domain:tx.me
 domain:ui-portal.de
 domain:uicdn.com

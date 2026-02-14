@@ -15,5 +15,6 @@ domain:telegram.org
 domain:telegram.space
 domain:telesco.pe
 domain:tg.dev
+domain:ton.org
 domain:tx.me
 domain:usercontent.dev
