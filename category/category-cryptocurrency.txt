@@ -97,6 +97,7 @@ domain:gateimg.com
 domain:gateio.live
 domain:gateio.services
 domain:gemini.com
+domain:gmgn.ai
 domain:guardarian.com
 domain:hashflow.com
 domain:hbabit.com
@@ -158,6 +159,8 @@ domain:trustwallet.com
 domain:unisat.io
 domain:uniswap.org
 domain:walletconnect.com
+domain:walletconnect.org
+domain:web3modal.org
 domain:wintermute.com
 domain:wisecoin.com
 domain:wiseid.com
