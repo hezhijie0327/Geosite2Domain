@@ -1841,6 +1841,7 @@ domain:et001.com
 domain:etao.com
 domain:ets100.com
 domain:euads-o.api.leiniao.com:@ads
+domain:eufycn.com
 domain:everbright.com
 domain:excelhome.net
 domain:exmailgz.com

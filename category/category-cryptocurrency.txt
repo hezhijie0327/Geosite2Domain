@@ -37,6 +37,7 @@ domain:bisq.io
 domain:bisq.network
 domain:bitbank.cc
 domain:bitcoin.org
+domain:bitcoincore.org
 domain:bitfinex.com
 domain:bitflyer.com
 domain:bitflyer.jp

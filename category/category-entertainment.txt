@@ -1175,6 +1175,7 @@ domain:star-latam.com
 domain:starcraft.com
 domain:starcraft2.com
 domain:starfox.com
+domain:stargazer-games.com
 domain:starott.com
 domain:starplus.com
 domain:starwars.com
@@ -1210,6 +1211,8 @@ domain:steamstatic.com
 domain:steamstatic.com.8686c.com:@cn
 domain:steamunlocked.net
 domain:steamusercontent.com
+domain:stellasora.global
+domain:stellasora.jp
 domain:streamingdisney.net
 domain:subscene.com
 domain:supercell.com
@@ -1413,9 +1416,15 @@ domain:yande.re
 domain:yfsp.tv
 domain:ylands.com
 domain:ynoproject.net
+domain:yo-star.com
 domain:yogify.com
 domain:yorozoonews.jp
 domain:yoshisnewisland.com
+domain:yostar-pictures.co.jp
+domain:yostar.cn:@cn
+domain:yostar.co.jp
+domain:yostar.net
+domain:yostarplat.com
 domain:yourfantasybeginsnow.com
 domain:youtu.be
 domain:youtube

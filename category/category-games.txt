@@ -698,6 +698,7 @@ domain:star-conflict.com
 domain:starcraft.com
 domain:starcraft2.com
 domain:starfox.com
+domain:stargazer-games.com
 domain:starwarsbattlefront.com
 domain:starwarsbattlefront2.com
 domain:starwarsfallenorder.com
@@ -728,6 +729,8 @@ domain:steamstatic.com
 domain:steamstatic.com.8686c.com:@cn
 domain:steamunlocked.net
 domain:steamusercontent.com
+domain:stellasora.global
+domain:stellasora.jp
 domain:supercell.com
 domain:supercell.helpshift.com
 domain:supercell.net
@@ -882,9 +885,15 @@ domain:ycgame.com
 domain:yingxiong.com
 domain:ylands.com
 domain:ynoproject.net
+domain:yo-star.com
 domain:yogify.com
 domain:yokaverse.com
 domain:yoshisnewisland.com
+domain:yostar-pictures.co.jp
+domain:yostar.cn:@cn
+domain:yostar.co.jp
+domain:yostar.net
+domain:yostarplat.com
 domain:youba.com
 domain:yuanshen.com
 domain:yxdmgame.com

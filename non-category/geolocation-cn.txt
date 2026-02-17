@@ -682,6 +682,8 @@ domain:anitama.cn
 domain:anitama.net
 domain:anjuke.com
 domain:anjukestatic.com
+domain:anker.com.cn
+domain:ankerwork.cn
 domain:anlaiye.com
 domain:anlaiye.com.cn
 domain:anmo.com
@@ -2293,6 +2295,8 @@ domain:et001.com
 domain:etao.com
 domain:ets100.com
 domain:euads-o.api.leiniao.com:@ads
+domain:eufycn.com
+domain:eufymake.com.cn
 domain:everbright.com
 domain:ewww.com.cn
 domain:excelhome.net
@@ -5144,6 +5148,7 @@ domain:sososnap.com
 domain:sou.cn
 domain:sou.com
 domain:soufunimg.com
+domain:soundcore.com.cn
 domain:souqian.com
 domain:southcn.com
 domain:southmoney.com

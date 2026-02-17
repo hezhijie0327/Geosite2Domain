@@ -3395,6 +3395,7 @@ domain:bitbucket.org
 domain:bitchesgirls.com
 domain:bitchmomporn.com
 domain:bitcoin.org
+domain:bitcoincore.org
 domain:bitdefender.com
 domain:bitfinex.com
 domain:bitflyer.com
@@ -17264,7 +17265,9 @@ domain:sectigo.com
 domain:sectigochina.com.cdn.cloudflare.net:@cn
 domain:sectigochina.com:@cn
 domain:secure-paypal.info
+domain:securecloudtransformation.com
 domain:securepaypal.info
+domain:securitypreview.com
 domain:see.xxx
 domain:seedmov18.com
 domain:seehorsepenis.com
@@ -18264,6 +18267,7 @@ domain:starcraft.com
 domain:starcraft2.com
 domain:starfieldtech.com
 domain:starfox.com
+domain:stargazer-games.com
 domain:stark-verlag.ch
 domain:starott.com
 domain:starp2p.com
@@ -18329,6 +18333,8 @@ domain:steamygamer.com
 domain:steelbrick.com
 domain:steemit.com
 domain:steezylist.com
+domain:stellasora.global
+domain:stellasora.jp
 domain:stepdaughter.love
 domain:stepfamilyporn.com
 domain:stepmaturesex.com
@@ -18984,6 +18990,7 @@ domain:thotvids.com
 domain:threadingbuildingblocks.org
 domain:threads.com
 domain:threads.net
+domain:threatlabz.com
 domain:thri.xxx
 domain:thrixxx.com
 domain:thtmod1.com
@@ -21703,6 +21710,7 @@ domain:ymhsf.top
 domain:ymhsf1.top
 domain:ync.ne.jp
 domain:ynoproject.net
+domain:yo-star.com
 domain:yo1health.com
 domain:yogalayout.com
 domain:yogify.com
@@ -21718,6 +21726,11 @@ domain:yomiuri.co.jp
 domain:yopornshop.com
 domain:yorozoonews.jp
 domain:yoshisnewisland.com
+domain:yostar-pictures.co.jp
+domain:yostar.cn:@cn
+domain:yostar.co.jp
+domain:yostar.net
+domain:yostarplat.com
 domain:youassporn.com
 domain:youav.com
 domain:youflix.is
@@ -22016,6 +22029,8 @@ domain:zdassets.com
 domain:zdnet.com
 domain:zdnet.redvideo.io
 domain:zdusercontent.com
+domain:zdxbeta.net
+domain:zdxcloud.net
 domain:zee.com
 domain:zee5.com
 domain:zee5.in
@@ -22115,7 +22130,19 @@ domain:zoozhamster.com
 domain:zopim.com
 domain:zorglist.com
 domain:zotero.org
+domain:zpagov.net
+domain:zpath.com
 domain:zqqpwz.com
+domain:zscaler.com
+domain:zscaler.jp
+domain:zscaler.net
+domain:zscalerbeta.net
+domain:zscalergov.net
+domain:zscalerone.net
+domain:zscalershift.com
+domain:zscalerthree.net
+domain:zscalertwo.net
+domain:zscloud.net
 domain:zsh.org
 domain:zsuxtx-ktv.shop
 domain:zteman.net
