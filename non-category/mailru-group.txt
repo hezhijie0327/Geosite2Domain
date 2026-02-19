@@ -5,12 +5,14 @@ domain:dzen.ru
 domain:dzeninfra.ru
 domain:imgsmail.ru
 domain:mail.ru
+domain:max.ru
 domain:memealerts.com
 domain:mradx.net
 domain:mvk.com
 domain:mycdn.me
 domain:ok.ru
 domain:okcdn.ru
+domain:oneme.ru
 domain:tamtam.chat
 domain:userapi.com
 domain:vk-analytics.ru

@@ -4,6 +4,7 @@ domain:2025copy.com
 domain:20thcenturystudios.com.au
 domain:20thcenturystudios.com.br
 domain:20thcenturystudios.jp
+domain:24h.tv
 domain:2k.com
 domain:2kcoretech.online
 domain:2kct.onl
@@ -56,6 +57,7 @@ domain:amebame.com
 domain:amebaownd.com
 domain:amebaowndme.com
 domain:ameblo.jp
+domain:amediateka.ru
 domain:amiibo.com
 domain:amp-api.podcast.apple.com
 domain:analytics.tiktok.com:@!cn,@ads
@@ -164,6 +166,7 @@ domain:capitalgames.com
 domain:capturingreality.com
 domain:castro.fm
 domain:catchplay.com
+domain:cdnvideo.ru
 domain:cf-vanguard.com
 domain:championshipseriesleague.com
 domain:charlotte-anime.jp
@@ -638,6 +641,7 @@ domain:internationalsaimoe.com
 domain:iole.tv
 domain:itch.io
 domain:itch.zone
+domain:ivi.ru
 domain:iyf.tv
 domain:joinmaidez.com
 domain:joinsquad.com
@@ -649,6 +653,9 @@ domain:kamisama-maeda-lab.com
 domain:kfs.io
 domain:kingkong.com.tw
 domain:kingkongapp.com
+domain:kinopoisk-ru.clstorage.net
+domain:kinopoisk.ru
+domain:kinorium.com
 domain:kirbysepicyarn.com
 domain:kirbysuperstarultra.com
 domain:kk.stream
@@ -737,6 +744,7 @@ domain:maxis.com
 domain:media-imdb.com
 domain:mediaclip.jp
 domain:megaphone.fm
+domain:megogo.net
 domain:metacritic.com
 domain:mgo-images.com
 domain:mgo.com
@@ -838,7 +846,6 @@ domain:nflxsearch.net
 domain:nflxso.net
 domain:nflxvideo.net
 domain:nfsworld.com
-domain:ngenix.net
 domain:ngeo.com
 domain:nico
 domain:nicodic.jp
@@ -996,6 +1003,7 @@ domain:pokemonultrasunmoon.com
 domain:pokemonvgc.com
 domain:pokemonwifi.net
 domain:popcap.com
+domain:premier.one
 domain:priconne-redive.jp
 domain:prime-video.com
 domain:primevideo.cc
@@ -1129,6 +1137,7 @@ domain:sketchfab.com
 domain:sling.com
 domain:slinginternational.com
 domain:smartstream.ne.jp
+domain:smotreshka.tv
 domain:sndcdn.com
 domain:snk-corp.co.jp
 domain:snk-corp.info
@@ -1178,6 +1187,7 @@ domain:starfox.com
 domain:stargazer-games.com
 domain:starott.com
 domain:starplus.com
+domain:start.ru
 domain:starwars.com
 domain:starwarsbattlefront.com
 domain:starwarsbattlefront2.com
@@ -1290,6 +1300,7 @@ domain:tnt-ea.com
 domain:tospotify.com
 domain:toy-people.com
 domain:tra-ww000-cp.akamaized.net
+domain:trbcdn.net
 domain:triokini.com
 domain:ttlivecdn.com:@!cn
 domain:ttoverseaus.net:@!cn
@@ -1299,6 +1310,7 @@ domain:tv.apple.com
 domain:tvb.com
 domain:tver.co.jp
 domain:tver.jp
+domain:tvigle.ru
 domain:twinmotion.com
 domain:twitch.tv
 domain:twitchcdn.net
@@ -1326,6 +1338,7 @@ domain:vhxqa3.com
 domain:vhxqa4.com
 domain:vhxqa6.com
 domain:vigorgame.com
+domain:viju.ru
 domain:vimeo-staging.com
 domain:vimeo-staging2.com
 domain:vimeo.com

@@ -4553,6 +4553,7 @@ domain:markzuckerberg.com
 domain:masalladeloslimites.com
 domain:matchmover.com
 domain:material.io
+domain:max.ru
 domain:maxillofacial-cadcam.com
 domain:mayacomplete.com
 domain:mayaconductors.com
@@ -5163,6 +5164,7 @@ domain:onedrive.net
 domain:onedrive.org
 domain:onefifteen.net
 domain:onefifteen.org
+domain:oneme.ru
 domain:onenote.com
 domain:onenote.net
 domain:onestore.ms

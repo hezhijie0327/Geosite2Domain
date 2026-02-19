@@ -1,3 +1,5 @@
+domain:avito.ru
+domain:avito.st
 domain:geobasket.ru
 domain:ozon.ru
 domain:ozone.ru

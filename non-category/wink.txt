@@ -1,3 +1,2 @@
-domain:ngenix.net
 domain:restream-media.net
 domain:wink.ru

@@ -176,6 +176,8 @@ domain:appforebay.cn:@cn
 domain:appsonebay.net
 domain:asebay.com
 domain:automobile.fr
+domain:avito.ru
+domain:avito.st
 domain:axbdoll.com.tw
 domain:baazee.com
 domain:bby.com
