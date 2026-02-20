@@ -53,5 +53,6 @@ domain:yandexcom.net
 domain:yandexmetrica.com
 domain:yandexwebcache.org
 domain:yastat.net
+domain:yastatic-net.ru
 domain:yastatic.net
 full:yandex-pogoda.static-storage.net

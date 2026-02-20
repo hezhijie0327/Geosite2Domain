@@ -4,3 +4,4 @@ domain:missav.live
 domain:missav.uno
 domain:missav.vip
 domain:missav.ws
+domain:missav123.com
