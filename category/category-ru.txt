@@ -45,6 +45,7 @@ domain:sberbank.com
 domain:sistema-capital.com
 domain:smotreshka.tv
 domain:su
+domain:t1.cloud
 domain:tamtam.chat
 domain:tatar
 domain:taxsee.com
@@ -138,4 +139,5 @@ domain:yandexmetrica.com
 domain:yandexwebcache.org
 domain:yastat.net
 domain:yastatic.net
+domain:yclients.com
 full:yandex-pogoda.static-storage.net

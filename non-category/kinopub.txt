@@ -7,4 +7,5 @@ domain:kinopub.online
 domain:kpdl.link
 domain:mos-gorsud.co
 domain:pushbr.com
+domain:smarttvcdn.online
 regexp:(\w+)-static-[0-9]+\.cdntogo\.net$

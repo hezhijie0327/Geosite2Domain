@@ -326,6 +326,7 @@ domain:openwrt.org
 domain:osdn.net
 domain:ospray.net
 domain:ospray.org
+domain:packagecloud.io
 domain:packagist.org
 domain:packer.io
 domain:parse.com

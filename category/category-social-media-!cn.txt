@@ -472,6 +472,9 @@ domain:misskey.ranranhome.info
 domain:misskey.stream
 domain:misskey.yukineko.me
 domain:misskeyusercontent.jp
+domain:mixi.co.jp
+domain:mixi.jp
+domain:mixi.net
 domain:mk.shrimpia.network
 domain:mk.yopo.work
 domain:mobilefacebook.com
