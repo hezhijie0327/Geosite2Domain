@@ -55,6 +55,7 @@ domain:awsstatic.cn:@cn
 domain:awsstatic.com
 domain:awsthinkbox.com
 domain:awstrack.me
+domain:awswaf.com
 domain:cdkworkshop.com
 domain:cloudfront-cn.net:@cn
 domain:cloudfront-test.cn:@cn
