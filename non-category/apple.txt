@@ -1543,6 +1543,7 @@ full:adcdownload.apple.com:@cn
 full:amp-api-edge-lb-cn.itunes-apple.com.akadns.net:@cn
 full:amp-api-edge-lb.itunes-apple.com.akadns.net:@cn
 full:amp-api-edge.apps.apple.com:@cn
+full:amp-api-edge.music.apple.com:@cn
 full:amp-api-search-edge.apps.apple.com:@cn
 full:amp-api-updates.apps.apple.com:@cn
 full:amp-api.apps.apple.com:@cn
@@ -1684,6 +1685,8 @@ full:mesu.apple.com:@cn
 full:misc-assets.itunes.apple.com:@cn
 full:ml.cdn-apple.com:@cn
 full:music.apple.com:@cn
+full:musicstatus.music.apple.com:@cn
+full:mvod.itunes.apple.com:@cn
 full:myapp.itunes.apple.com:@cn
 full:notary-submissions-prod.s3-accelerate.amazonaws.com
 full:notary-submissions-prod.s3.us-west-2.amazonaws.com
@@ -1727,6 +1730,7 @@ full:sh-pod2-smp-device.apple.com:@cn
 full:shazam-insights.cdn-apple.com:@cn
 full:smp-device-content.apple.com:@cn
 full:sp.itunes.apple.com:@cn
+full:speedysub.music.apple.com:@cn
 full:static.gc.apple.com:@cn
 full:stocks-sparkline-lb.apple.com.akadns.net:@cn
 full:stocks-sparkline.apple.com:@cn
