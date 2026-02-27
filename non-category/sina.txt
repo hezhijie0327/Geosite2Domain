@@ -50,4 +50,5 @@ domain:weibo.cn
 domain:weibo.com
 domain:weibo.com.cn
 domain:weibocdn.com
+domain:weibopay.com
 domain:xhaiwai.com

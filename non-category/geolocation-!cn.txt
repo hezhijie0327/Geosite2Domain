@@ -21719,6 +21719,7 @@ domain:yandexadexchange.net
 domain:yandexcloud.net
 domain:yandexcom.net
 domain:yandexmetrica.com
+domain:yandexwebcache.net
 domain:yandexwebcache.org
 domain:yantaqu.com
 domain:yaohubaba.com

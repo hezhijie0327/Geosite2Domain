@@ -4864,6 +4864,7 @@ domain:wegamedeveloper.com
 domain:wegameplus.com
 domain:weibo.com
 domain:weibocdn.com
+domain:weibopay.com
 domain:weicaifu.com
 domain:weidian.com
 domain:weilaicaijing.com
