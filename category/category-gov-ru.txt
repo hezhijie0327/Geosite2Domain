@@ -62,6 +62,7 @@ domain:mari-el.ru
 domain:mari.ru
 domain:marine.ru
 domain:mgfoms.ru
+domain:mil.ru
 domain:mordovia.ru
 domain:mos.ru
 domain:mosreg.ru

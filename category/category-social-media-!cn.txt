@@ -434,6 +434,7 @@ domain:intagram.com
 domain:intagrm.com
 domain:internet.org
 domain:intgram.com
+domain:joinmastodon.org
 domain:kingstagram.com
 domain:klik.me
 domain:l-0005.dc-msedge.net
@@ -452,6 +453,8 @@ domain:login-account.net
 domain:mail.ru
 domain:maniakey.homes
 domain:markzuckerberg.com
+domain:mastodon.online
+domain:mastodon.social
 domain:mfmf.club
 domain:mi.kochudaho.me
 domain:mi.mashiro.site
@@ -497,6 +500,7 @@ domain:online-deals.net
 domain:online-instagram.com
 domain:onlineinstagram.com
 domain:opencreate.org
+domain:pawoo.net
 domain:periscope.tv
 domain:pixel.facebook.com:@ads
 domain:pscp.tv

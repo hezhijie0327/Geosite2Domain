@@ -3,6 +3,7 @@ domain:2ip.ru
 domain:2ip.ua
 domain:abstractapi.com
 domain:bigdatacloud.net
+domain:check-host.net
 domain:db-ip.com
 domain:extreme-ip-lookup.com
 domain:fraudguard.io

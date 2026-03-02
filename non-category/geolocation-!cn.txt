@@ -11609,6 +11609,7 @@ domain:johren.net
 domain:joiasmr.com
 domain:joinclubhouse.com
 domain:joinmaidez.com
+domain:joinmastodon.org
 domain:joinside.org
 domain:joinsquad.com
 domain:jokerlu-go.buzz
@@ -12760,6 +12761,8 @@ domain:masterclass.com
 domain:masterintelligence.com
 domain:masterpassteststore.com
 domain:masterwanker.com
+domain:mastodon.online
+domain:mastodon.social
 domain:masturbate2gether.com
 domain:mat6tube.com
 domain:matchmover.com
@@ -15337,6 +15340,7 @@ domain:patreoncommunity.com
 domain:patreonusercontent.com
 domain:paulsimon-music.com
 domain:pavpal.com
+domain:pawoo.net
 domain:paxful.com
 domain:paxlicense.org
 domain:paydiant.com

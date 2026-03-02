@@ -1798,6 +1798,7 @@ domain:ecmc.bdimg.com:@ads
 domain:ecombdapi.com
 domain:ecombdstatic.com
 domain:ecukwai.com
+domain:edgemonix.top
 domain:edgeone.cool
 domain:edgeonedy1.com
 domain:edgesrv.com
@@ -3419,6 +3420,7 @@ domain:mojichina.com
 domain:mojidict.com
 domain:mokahr.com
 domain:moleecel.com
+domain:monika.love
 domain:monitor.music.qq.com:@ads
 domain:monitor.uu.qq.com:@ads
 domain:moocollege.com
