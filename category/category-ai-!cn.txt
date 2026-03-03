@@ -39,6 +39,7 @@ domain:deepmind.com
 domain:deepmind.google
 domain:devin.ai
 domain:diabrowser.com
+domain:diabrowser.engineering
 domain:dify.ai
 domain:dola.com:@!cn
 domain:duck.ai

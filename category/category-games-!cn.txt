@@ -218,8 +218,6 @@ domain:humancoexperience.com
 domain:humblebundle.com
 domain:hutpromos.com
 domain:hyprsense.com
-domain:illusion.co.jp
-domain:illusion.jp
 domain:industrialtoys.com
 domain:instituteofwar.org
 domain:itch.io

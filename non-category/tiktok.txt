@@ -26,6 +26,7 @@ domain:tiktokv.eu:@!cn
 domain:tiktokv.us:@!cn
 domain:tiktokw.eu:@!cn
 domain:tiktokw.us:@!cn
+domain:ttcdn-us.com:@!cn
 domain:ttlivecdn.com:@!cn
 domain:ttoverseaus.net:@!cn
 domain:ttwstatic.com:@!cn

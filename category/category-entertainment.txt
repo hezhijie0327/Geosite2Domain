@@ -334,6 +334,7 @@ domain:disneytvajobs.com
 domain:disneyworld-go.com
 domain:dkr.com
 domain:dl.steam.clngaa.com:@cn
+domain:dlaf.jp
 domain:dlsite.com
 domain:dlsite.com.tw
 domain:dlsite.jp
@@ -626,8 +627,6 @@ domain:hyprsense.com
 domain:igcc.jp
 domain:ign.com
 domain:ignimg.com
-domain:illusion.co.jp
-domain:illusion.jp
 domain:imageworks.com
 domain:imdb
 domain:imdb.com
@@ -1302,6 +1301,7 @@ domain:toy-people.com
 domain:tra-ww000-cp.akamaized.net
 domain:trbcdn.net
 domain:triokini.com
+domain:ttcdn-us.com:@!cn
 domain:ttlivecdn.com:@!cn
 domain:ttoverseaus.net:@!cn
 domain:ttvnw.net

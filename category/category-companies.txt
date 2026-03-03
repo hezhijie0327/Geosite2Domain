@@ -3710,6 +3710,7 @@ domain:icloud-content.com
 domain:icloud-isupport.com
 domain:icloud-sandbox.com
 domain:icloud.ch
+domain:icloud.cn:@cn
 domain:icloud.com
 domain:icloud.com.cn:@cn
 domain:icloud.de

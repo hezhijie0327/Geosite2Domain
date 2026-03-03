@@ -565,6 +565,7 @@ domain:trae.guru
 domain:ttbyte.cn
 domain:ttbyte.com
 domain:ttbyte.net
+domain:ttcdn-us.com:@!cn
 domain:ttgslb.com
 domain:ttgtm.com
 domain:ttjisu.com

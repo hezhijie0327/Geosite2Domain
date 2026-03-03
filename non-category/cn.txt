@@ -63,6 +63,7 @@ domain:16888.com
 domain:169ol.com
 domain:16rd.com
 domain:17173.com
+domain:172mix.com
 domain:178.com
 domain:178linux.com
 domain:17989.com
@@ -1661,6 +1662,7 @@ domain:donews.com
 domain:dongao.com
 domain:dongchedi.com
 domain:dongchediapp.com
+domain:dongdianqiu.com
 domain:dongguantoday.com
 domain:dongjiao.cc
 domain:dongjiaoapp.com
@@ -2898,6 +2900,7 @@ domain:jutongbao.top
 domain:juwan.com
 domain:juxia.com
 domain:juxieyun.com
+domain:juziwulian.com
 domain:jxedt.com
 domain:jxksw.net
 domain:jxpp.com
@@ -2907,6 +2910,7 @@ domain:jzsec.com
 domain:jzt.jd.com:@ads
 domain:jztvnews.com
 domain:k366.com
+domain:kaadas.com
 domain:kaifayun.com
 domain:kaifubiao.com
 domain:kaipuyun.com

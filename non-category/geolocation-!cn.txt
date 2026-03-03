@@ -5938,6 +5938,7 @@ domain:dhlestudio.com.co
 domain:diablo3.com
 domain:diabloimmortal.com
 domain:diabrowser.com
+domain:diabrowser.engineering
 domain:dialga.com
 domain:dialogflow.com
 domain:diamantewebcam.com
@@ -6187,6 +6188,7 @@ domain:dkrecttv.com
 domain:dl-iphone.com
 domain:dl.delivery.mp.microsoft.com:@cn
 domain:dl.steam.clngaa.com:@cn
+domain:dlaf.jp
 domain:dlap001.xyz
 domain:dlap301.com
 domain:dldlinks.com
@@ -10342,6 +10344,7 @@ domain:icloud-content.com
 domain:icloud-isupport.com
 domain:icloud-sandbox.com
 domain:icloud.ch
+domain:icloud.cn:@cn
 domain:icloud.com
 domain:icloud.com.cn:@cn
 domain:icloud.de
@@ -10578,9 +10581,8 @@ domain:ilecture.co.nz
 domain:ilife.eu
 domain:ilife.gr
 domain:ilife.wang
+domain:illgames.jp
 domain:illianacomputerrecycling.com
-domain:illusion.co.jp
-domain:illusion.jp
 domain:illusion111.com
 domain:illusionas.com
 domain:illusionchn.com
@@ -11311,6 +11313,7 @@ domain:janor6.net
 domain:janrain.biz:@cn
 domain:janrainservices.com:@cn
 domain:japan-forward.com
+domain:japan-illgames.com
 domain:japan-whores.com
 domain:japan18tube.com
 domain:japanbeast.com
@@ -19367,6 +19370,7 @@ domain:tsumino.com
 domain:tsundora.com
 domain:tsuradou.noonvob.com
 domain:tsyum.com
+domain:ttcdn-us.com:@!cn
 domain:tteshop.com
 domain:ttlivecdn.com:@!cn
 domain:ttoverseaus.net:@!cn

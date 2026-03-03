@@ -320,8 +320,6 @@ domain:i3839.com
 domain:ihappystudio.cn
 domain:ihappystudio.com
 domain:ihykb.com
-domain:illusion.co.jp
-domain:illusion.jp
 domain:img4399.com
 domain:in.th
 domain:industrialtoys.com

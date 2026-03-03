@@ -1,6 +1,7 @@
 domain:chobit.cc
 domain:ci-en.jp
 domain:ci-en.net
+domain:dlaf.jp
 domain:dlsite.com
 domain:dlsite.com.tw
 domain:dlsite.jp

@@ -1495,6 +1495,7 @@ domain:diyuser.buzz
 domain:djkav.mom
 domain:dkcloud.cc
 domain:dkk37.com
+domain:dlaf.jp
 domain:dlap001.xyz
 domain:dlap301.com
 domain:dldlinks.com
@@ -2724,8 +2725,7 @@ domain:ijavtorrent.com
 domain:ikanhm.xyz
 domain:ikanmh.xyz
 domain:iknowthatgirl.com
-domain:illusion.co.jp
-domain:illusion.jp
+domain:illgames.jp
 domain:illusion111.com
 domain:illusionas.com
 domain:illusionchn.com
@@ -2839,6 +2839,7 @@ domain:jade-net-home.com
 domain:jadult.net
 domain:jambotube.com
 domain:janor6.net
+domain:japan-illgames.com
 domain:japan-whores.com
 domain:japan18tube.com
 domain:japanbeast.com
