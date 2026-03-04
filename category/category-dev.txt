@@ -217,6 +217,7 @@ domain:java.net
 domain:jb.gg
 domain:jenkins.io
 domain:jetbrains.ai
+domain:jetbrains.cloud
 domain:jetbrains.com
 domain:jetbrains.net
 domain:jetbrains.space

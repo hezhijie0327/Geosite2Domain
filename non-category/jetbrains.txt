@@ -5,6 +5,7 @@ domain:intellij.com
 domain:intellij.net
 domain:intellij.org
 domain:jb.gg
+domain:jetbrains.cloud
 domain:jetbrains.com
 domain:jetbrains.net
 domain:jetbrains.space
