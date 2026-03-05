@@ -15848,6 +15848,10 @@ domain:pleasefuck.org
 domain:pleasurebabe.com
 domain:pleasuregirl.net
 domain:pleasuremore.com
+domain:plex.com
+domain:plex.services
+domain:plex.tv
+domain:plexapp.com
 domain:plos.org
 domain:plug-into.com
 domain:plug.game

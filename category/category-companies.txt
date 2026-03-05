@@ -5312,6 +5312,10 @@ domain:playshowtv.com
 domain:playstation
 domain:playstation.com
 domain:playstation.net
+domain:plex.com
+domain:plex.services
+domain:plex.tv
+domain:plexapp.com
 domain:plug-into.com
 domain:plug.game
 domain:pmem.org
