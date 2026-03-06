@@ -1,3 +1,5 @@
 domain:mycdn.me
 domain:ok.ru
 domain:okcdn.ru
+full:st-ok-pts.cdn-vk.ru
+full:st-ok.cdn-vk.ru

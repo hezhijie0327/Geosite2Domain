@@ -47,3 +47,6 @@ domain:vkuservideo.com
 domain:vkuservideo.net
 domain:vkuservideo.ru
 domain:vkvideo.ru
+domain:youla.io
+domain:youla.ru
+full:youla-web-static.mrgcdn.ru

@@ -6674,6 +6674,8 @@ domain:yimg.jp
 domain:ymail.com
 domain:yogalayout.com
 domain:yopornshop.com
+domain:youla.io
+domain:youla.ru
 domain:youporn.com
 domain:youporngay.com
 domain:youpornpremium.com
@@ -7456,6 +7458,7 @@ full:www.support.apple.com:@cn
 full:xn--flw351e.com:@cn
 full:xp.apple.com:@cn
 full:yandex-pogoda.static-storage.net
+full:youla-web-static.mrgcdn.ru
 regexp:.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 regexp:.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$:@cn
 regexp:.+\.awsdns-cn-[0-9][a-e0-9]\.cn$:@cn

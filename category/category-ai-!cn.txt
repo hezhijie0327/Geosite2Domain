@@ -66,6 +66,7 @@ domain:kiro.dev
 domain:labs.google
 domain:labs.google.com
 domain:liveperson.net
+domain:lovart.ai
 domain:lpsnmedia.net
 domain:makersuite.google.com
 domain:manus.im
