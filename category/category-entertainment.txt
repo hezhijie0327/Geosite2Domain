@@ -783,6 +783,7 @@ domain:mudvod.tv
 domain:muscdn.com:@!cn
 domain:mushymush.tv
 domain:musical.ly:@!cn
+domain:muvluv-girls-garden.com
 domain:myhulu.com
 domain:mynavi.jp
 domain:mysims.com
@@ -1119,6 +1120,7 @@ domain:seagroup.com
 domain:seaofsolitude.com
 domain:seeurlpcl.com
 domain:sekai.colorfulpalette.org
+domain:sendvid.com
 domain:shadowcomplex.com
 domain:shadowverse-evolve.com
 domain:shopdisney.com

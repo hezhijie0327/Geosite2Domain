@@ -65,3 +65,4 @@ domain:where-am-i.co
 domain:whoer.net
 domain:wieistmeineip.de
 domain:wtfismyip.com
+full:checkip.amazonaws.com

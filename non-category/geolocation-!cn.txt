@@ -13859,6 +13859,7 @@ domain:musickit.net
 domain:musixmatch.com
 domain:mut.ch
 domain:muthead.com
+domain:muvluv-girls-garden.com
 domain:muycerdas.xxx
 domain:muyzorras.com
 domain:mvideoporno.xxx
@@ -15084,6 +15085,7 @@ domain:only3x.com
 domain:onlyams.com
 domain:onlycartoonsex.com
 domain:onlydudes.com
+domain:onlyfans.com
 domain:onlyfanspw.com
 domain:onlyfreelatinaporn.com
 domain:onlygayvideo.com
@@ -17362,6 +17364,7 @@ domain:selfloversworld.com
 domain:sellercommunity.com
 domain:semanticscholar.org
 domain:sena.co.kr
+domain:sendvid.com
 domain:seneporno.com
 domain:seniortgp.com
 domain:senluocaituan.gumroad.com
@@ -19642,6 +19645,7 @@ domain:upmedia.mg
 domain:upornia.com
 domain:uporno.xxx
 domain:uproxy.org
+domain:uptodown.com
 domain:ura-akiba.jp
 domain:urasma.com
 domain:urchin.com:@ads
@@ -19663,6 +19667,7 @@ domain:userpxt.io
 domain:usertrust.com
 domain:usvimosquito.com
 domain:usvimosquitoproject.com
+domain:utdstc.com
 domain:uug22.com
 domain:uug23.com
 domain:uug25.com

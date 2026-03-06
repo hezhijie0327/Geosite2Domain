@@ -2020,7 +2020,6 @@ domain:cozydrdrebeats.com
 domain:cpedge.com
 domain:cqcorea.com
 domain:crankplayer.com
-domain:crates.io
 domain:createspace.com
 domain:createwhatsnext.com
 domain:creativecloud.com
@@ -2378,7 +2377,6 @@ domain:doceapower.com
 domain:dockerizer.com
 domain:docs.com
 domain:docs.new
-domain:docs.rs
 domain:documentforce.com
 domain:dodv.com
 domain:dollarfotoclub.com
@@ -5519,9 +5517,7 @@ domain:rostaxi.org
 domain:route53.cn:@cn
 domain:routerboard.com
 domain:run.app
-domain:rust-lang.org
 domain:rustdesk.com
-domain:rustup.rs
 domain:rzr.to
 domain:s-bluemix.net
 domain:s-cashonmobile.com

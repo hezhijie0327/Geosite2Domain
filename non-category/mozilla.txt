@@ -1,7 +1,5 @@
 domain:bugzilla.org
-domain:crates.io
 domain:developer.allizom.org
-domain:docs.rs
 domain:extensionworkshop.com
 domain:firefox.com
 domain:firefoxusercontent.com
@@ -16,8 +14,6 @@ domain:mozilla.com
 domain:mozilla.community
 domain:mozilla.net
 domain:mozilla.org
-domain:rust-lang.org
-domain:rustup.rs
 domain:seamonkey-project.org
 domain:thunderbird.net
 full:mdn.mozillademos.org
