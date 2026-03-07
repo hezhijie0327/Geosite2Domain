@@ -1707,6 +1707,7 @@ domain:app-analytics-services.com:@ads
 domain:app-dynamics.com
 domain:app-measurement-cn.com:@ads
 domain:app-measurement.com:@ads
+domain:app-pay.jp
 domain:app-store.wang
 domain:app0le.com
 domain:app756.com
