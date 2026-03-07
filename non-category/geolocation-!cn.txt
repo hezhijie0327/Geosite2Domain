@@ -17153,6 +17153,7 @@ domain:samsungeshop.com.cn:@cn
 domain:samsunggalaxyfriends.com
 domain:samsunghealth.com
 domain:samsungiotcloud.com
+domain:samsungiots.com
 domain:samsungknox.com
 domain:samsungosp.com
 domain:samsungqbe.com
@@ -17917,6 +17918,7 @@ domain:smartonerobotics.com
 domain:smartonesolutions.com.hk
 domain:smartonesolutions.hk
 domain:smartstream.ne.jp
+domain:smartthings.com
 domain:smashed.xxx
 domain:smbc.co.jp
 domain:smbctb.co.jp

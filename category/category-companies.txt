@@ -5554,6 +5554,7 @@ domain:samsungeshop.com.cn:@cn
 domain:samsunggalaxyfriends.com
 domain:samsunghealth.com
 domain:samsungiotcloud.com
+domain:samsungiots.com
 domain:samsungknox.com
 domain:samsungosp.com
 domain:samsungqbe.com
@@ -5685,6 +5686,7 @@ domain:smartoneholdings.com
 domain:smartonerobotics.com
 domain:smartonesolutions.com.hk
 domain:smartonesolutions.hk
+domain:smartthings.com
 domain:snap-dev.net
 domain:snap-telemetry.io
 domain:snap.com

@@ -14,8 +14,10 @@ domain:samsungeshop.com.cn:@cn
 domain:samsunggalaxyfriends.com
 domain:samsunghealth.com
 domain:samsungiotcloud.com
+domain:samsungiots.com
 domain:samsungknox.com
 domain:samsungosp.com
 domain:samsungqbe.com
 domain:samsungrs.com
+domain:smartthings.com
 domain:xn--cg4bki
