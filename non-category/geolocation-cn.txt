@@ -100,6 +100,7 @@ domain:19yxw.com
 domain:1hai.cn
 domain:1huizhan.com
 domain:1nongjing.com
+domain:1ppt.com
 domain:1ting.com
 domain:1tyy.cn
 domain:1xhh.cn
@@ -269,6 +270,7 @@ domain:52hxw.com
 domain:52miji.com
 domain:52pk.com
 domain:52pojie.cn
+domain:52ppt.com
 domain:52z.com
 domain:53kf.com
 domain:55.com
@@ -781,6 +783,7 @@ domain:b3logfile.com
 domain:babytree.com
 domain:babytreeimg.com
 domain:badjs.weixinbridge.com:@ads
+domain:badou.com
 domain:baichuan-ai.com
 domain:baichuan-sdk.alicdn.com:@ads
 domain:baicizhan.com
@@ -1029,6 +1032,7 @@ domain:bohejiasuqi.com
 domain:bojianger.com
 domain:bokecc.com
 domain:boohee.com
+domain:book118.com
 domain:boosj.com
 domain:bootcdn.cn
 domain:bootcdn.net
@@ -2796,6 +2800,7 @@ domain:hao123union.baidu.com:@ads
 domain:hao222.com
 domain:haodf.com
 domain:haofenshu.com
+domain:haohaodoc.com
 domain:haohaowan.net
 domain:haokan.com
 domain:haolietou.com
@@ -3849,6 +3854,7 @@ domain:lawxp.com
 domain:lawyee.org
 domain:lazada.com
 domain:lazycat.cloud
+domain:lazyer.net
 domain:lbtp.com
 domain:lceda.cn
 domain:lckfb.com
@@ -4875,6 +4881,7 @@ domain:redmagic.com
 domain:reke.at.sohu.com:@ads
 domain:renren-inc.com
 domain:renren.com
+domain:renrendoc.com
 domain:report.qqweb.qq.com:@ads
 domain:report.tencentmusic.com:@ads
 domain:res.hunantv.com:@ads
@@ -6039,6 +6046,7 @@ domain:weiyangx.com
 domain:weiyun.com
 domain:welltrend-edu.com
 domain:wenjuan.com
+domain:wenkeju.com
 domain:wenmingban.com
 domain:wenshushu.cn
 domain:wenshushu.com

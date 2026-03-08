@@ -75,6 +75,7 @@ domain:bunny.net
 domain:bunnycdn.com
 domain:cdn77.com
 domain:cdn77.org
+domain:cdnjs.com
 domain:cf-china.info:@cn
 domain:cf-ipfs.com
 domain:cf-ns.com:@cn
@@ -137,6 +138,7 @@ domain:edgekey.net
 domain:edgekey88.net:@cn
 domain:edgesuite.net
 domain:encryptedsni.com
+domain:esm.run
 domain:every1dns.net
 domain:fastly-edge.com
 domain:fastly-terrarium.com
@@ -156,6 +158,8 @@ domain:imgix.net
 domain:isbgpsafeyet.com
 domain:janrain.biz:@cn
 domain:janrainservices.com:@cn
+domain:jsdelivr.com
+domain:jsdelivr.net
 domain:limelight.com
 domain:lldns.net
 domain:llnw-trials.com

@@ -47,7 +47,6 @@ domain:calendarserver.org
 domain:canonical.com
 domain:carekit.org
 domain:cdn.jetbrains.com:@cn
-domain:cdnjs.com
 domain:centos.org
 domain:chocolatey.org
 domain:clearlinux.org
@@ -98,7 +97,6 @@ domain:elrepo.org
 domain:embed.ly
 domain:embedly.com
 domain:erlang.org
-domain:esm.run
 domain:f8.com
 domain:facebookappcenter.info
 domain:facebookappcenter.net
@@ -228,8 +226,6 @@ domain:jquery.com
 domain:jquerymobile.com
 domain:jqueryui.com
 domain:js.org
-domain:jsdelivr.com
-domain:jsdelivr.net
 domain:jupyter.org
 domain:jwt.ms
 domain:k8s.io
