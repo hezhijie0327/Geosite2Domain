@@ -1020,6 +1020,7 @@ domain:caiyu.com
 domain:caiyun.com
 domain:caiyunai.com
 domain:caiyunapp.com
+domain:calorietech.com
 domain:camcard.com
 domain:camscanner.com
 domain:cang.com
@@ -1364,6 +1365,7 @@ domain:cmf.ltd
 domain:cmfchina.com
 domain:cmicapm.com
 domain:cmpassport.com
+domain:cmpay.com
 domain:cmread.com
 domain:cn
 domain:cn.pool.ntp.org:@cn
@@ -1695,6 +1697,7 @@ domain:douyincloud.run
 domain:douyinec.com
 domain:douyinfe.com
 domain:douyinliving.com
+domain:douyinpay.com
 domain:douyinpic.com
 domain:douyinstatic.com
 domain:douyinvod.com
@@ -2279,6 +2282,7 @@ domain:heisha.net
 domain:heiyan.com
 domain:heiyanimg.com
 domain:heiyu.space
+domain:helipay.com
 domain:hello-inc.com
 domain:hellobike.com
 domain:hellowebfont.com
@@ -2938,6 +2942,7 @@ domain:kdslife.com
 domain:ke.com
 domain:keboyunxiao.com
 domain:kechuang.org
+domain:keep.com
 domain:keepcdn.com
 domain:kejet.net
 domain:kekeniu.com
@@ -4065,6 +4070,7 @@ domain:shengyizhuanjia.com
 domain:shenjing.com
 domain:shenmayouxi.com
 domain:sheui.com
+domain:shfft.com
 domain:shgsec.com
 domain:shhxzq.com
 domain:shidianbaike.com
@@ -4646,6 +4652,7 @@ domain:umtrack.com
 domain:unaming.info
 domain:unaming.net
 domain:unicom
+domain:unicompayment.com
 domain:union.baidu.com:@ads
 domain:unionimage.baidu.com:@ads
 domain:unionpay.com

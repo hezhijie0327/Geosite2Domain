@@ -219,6 +219,7 @@ domain:douyincloud.run
 domain:douyinec.com
 domain:douyinfe.com
 domain:douyinliving.com
+domain:douyinpay.com
 domain:douyinpic.com
 domain:douyinstatic.com
 domain:douyinvod.com

@@ -66,6 +66,7 @@ domain:copilot-telemetry.githubusercontent.com:@ads
 domain:cpan.org
 domain:crates.io
 domain:cups.org
+domain:cve.org
 domain:cygwin.com
 domain:cython.org
 domain:dart.dev

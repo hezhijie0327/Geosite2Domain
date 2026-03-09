@@ -10,6 +10,7 @@ domain:cmicapm.com
 domain:cmicrwx.cn
 domain:cmicvip.cn
 domain:cmpassport.com
+domain:cmpay.com
 domain:cmread.com
 domain:cmvideo.cn
 domain:cytxl.com.cn

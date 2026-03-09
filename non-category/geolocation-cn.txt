@@ -922,6 +922,8 @@ domain:bestincapi.com
 domain:bestincapp.cn
 domain:bestincapp.com
 domain:bestopview.com
+domain:bestpay.cn
+domain:bestpay.com.cn
 domain:bestrhy.com
 domain:bestv.com.cn
 domain:bestvcdn.cn
@@ -1201,6 +1203,7 @@ domain:caiyu.com
 domain:caiyun.com
 domain:caiyunai.com
 domain:caiyunapp.com
+domain:calorietech.com
 domain:camcard.com
 domain:camscanner.com
 domain:cang.com
@@ -1678,6 +1681,7 @@ domain:cmicapm.com
 domain:cmicrwx.cn
 domain:cmicvip.cn
 domain:cmpassport.com
+domain:cmpay.com
 domain:cmread.com
 domain:cmvideo.cn
 domain:cn.pool.ntp.org:@cn
@@ -2117,6 +2121,7 @@ domain:douyincloud.run
 domain:douyinec.com
 domain:douyinfe.com
 domain:douyinliving.com
+domain:douyinpay.com
 domain:douyinpic.com
 domain:douyinstatic.com
 domain:douyinvod.com
@@ -2838,6 +2843,7 @@ domain:heisha.net
 domain:heiyan.com
 domain:heiyanimg.com
 domain:heiyu.space
+domain:helipay.com
 domain:hello-inc.com
 domain:hellobike.com
 domain:hellofont.cn
@@ -3649,6 +3655,8 @@ domain:kdslife.com
 domain:ke.com
 domain:keboyunxiao.com
 domain:kechuang.org
+domain:keep.com
+domain:keep.com.cn
 domain:keepcdn.com
 domain:kejet.net
 domain:kekeniu.com
@@ -5033,6 +5041,7 @@ domain:shengyizhuanjia.com
 domain:shenjing.com
 domain:shenmayouxi.com
 domain:sheui.com
+domain:shfft.com
 domain:shgsec.com
 domain:shhxzq.com
 domain:shidianbaike.com
@@ -5765,6 +5774,7 @@ domain:unaming.info
 domain:unaming.net
 domain:uncnn.cn
 domain:unicom
+domain:unicompayment.com
 domain:unihan.com.cn
 domain:union.baidu.com:@ads
 domain:unionimage.baidu.com:@ads

@@ -5485,6 +5485,7 @@ domain:customizedbeatsbydre.com
 domain:customizedbeatsdre.com
 domain:customnikeshoes.com
 domain:cutt.ly
+domain:cve.org
 domain:cw.com.tw
 domain:cwcams.com
 domain:cxacg.com

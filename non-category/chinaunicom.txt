@@ -13,6 +13,7 @@ domain:cuniq.com:@!cn
 domain:cuniq.sg:@!cn
 domain:mychinaunicom.com
 domain:unicom
+domain:unicompayment.com
 domain:wo.cn
 domain:wo.com.cn
 domain:wo116114.com

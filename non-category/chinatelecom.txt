@@ -1,4 +1,6 @@
 domain:189.cn
+domain:bestpay.cn
+domain:bestpay.com.cn
 domain:chinatelecom-h.com
 domain:chinatelecom.com.cn
 domain:chinatelecomglobal.com:@!cn
