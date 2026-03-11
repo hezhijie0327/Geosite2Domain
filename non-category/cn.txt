@@ -237,6 +237,7 @@ domain:5577.com
 domain:55bbs.com
 domain:56.com
 domain:56che.com
+domain:56img.com
 domain:56laile.com
 domain:58.com
 domain:5858.com
@@ -1172,6 +1173,7 @@ domain:chesicc.net
 domain:cheyisou.com
 domain:china-chair.com
 domain:china-nengyuan.com
+domain:china-sss.com
 domain:china-tower.com
 domain:china.com
 domain:chinaaet.com
@@ -4073,6 +4075,7 @@ domain:shengyi.ai
 domain:shengyizhuanjia.com
 domain:shenjing.com
 domain:shenmayouxi.com
+domain:shenzhenair.com
 domain:sheui.com
 domain:shfft.com
 domain:shgsec.com
@@ -4195,6 +4198,7 @@ domain:speedws.org
 domain:speiyou.com
 domain:splash-ads.cdn.unity.cn:@ads
 domain:splash-ads.unitychina.cn:@ads
+domain:springairlines.com
 domain:springtour.com
 domain:sq.cc
 domain:sqqnh.org
@@ -5441,7 +5445,6 @@ domain:zijieurl.net
 domain:zijiewap.com
 domain:zijiewap.net
 domain:zilrms.com
-domain:zimuzu.io
 domain:ziroom.com
 domain:ziroomapartment.com
 domain:zixiaomao.com

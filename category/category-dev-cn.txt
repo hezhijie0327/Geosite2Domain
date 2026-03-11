@@ -124,6 +124,7 @@ domain:wegamedeveloper.com
 domain:weixinbridge.com
 domain:weui.io
 domain:xitu.io
+domain:zuidaima.com
 full:p1-juejin.byteimg.com
 full:p2-juejin.byteimg.com
 full:p3-juejin.byteimg.com

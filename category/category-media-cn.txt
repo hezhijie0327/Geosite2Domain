@@ -6,6 +6,8 @@ domain:36kr.com
 domain:36krcdn.com
 domain:36krcnd.com
 domain:3conline.com
+domain:56.com
+domain:56img.com
 domain:6655.com
 domain:72whys.com
 domain:ad.cctv.com:@ads

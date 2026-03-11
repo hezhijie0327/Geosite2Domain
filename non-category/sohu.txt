@@ -1,3 +1,5 @@
+domain:56.com
+domain:56img.com
 domain:adnet.sohu.com:@ads
 domain:ads.sohu.com:@ads
 domain:adv-sv-show.focus.cn:@ads
