@@ -1,3 +1,4 @@
+domain:allhistory.com
 domain:chaz.fun
 domain:fgo.wiki
 domain:huijistatic.com

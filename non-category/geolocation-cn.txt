@@ -646,6 +646,7 @@ domain:allawnfs.com
 domain:allawno.com
 domain:allawntech.com
 domain:allflow.cn
+domain:allhistory.com
 domain:alloyteam.com
 domain:allyes.com
 domain:alog.umeng.com:@ads
@@ -4065,6 +4066,8 @@ domain:mahjongcup.com
 domain:mahjongcup.net
 domain:mail4399.com
 domain:maimai.cn
+domain:maimemo.com
+domain:maimemostatus.com
 domain:maindown4399.com
 domain:maisanqi.com
 domain:maitix.com
@@ -4084,6 +4087,7 @@ domain:maoyuncloud.cn
 domain:maoyuncloud.com
 domain:mapbar.com
 domain:marketing.alibaba.com:@ads
+domain:markji.com
 domain:marscode.cn
 domain:marscode.com.cn
 domain:mashort.cn
@@ -6549,6 +6553,7 @@ domain:yunpan.com
 domain:yunqishi.net
 domain:yunshipei.com
 domain:yunxiao.com
+domain:yunxindns.com
 domain:yunxinfw.com
 domain:yunzhijia.com
 domain:yunzhuxue.com
@@ -6725,7 +6730,6 @@ domain:zoom3g.com
 domain:zoomyou.cn
 domain:zpb365.com
 domain:zqrb.cn
-domain:zrblog.net
 domain:zs-jlc.com
 domain:zsxq.com
 domain:zszq.com

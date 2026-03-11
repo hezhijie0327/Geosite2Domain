@@ -76,6 +76,9 @@ domain:llsapp.com
 domain:llscdn.com
 domain:llsserver.com
 domain:magedu.com
+domain:maimemo.com
+domain:maimemostatus.com
+domain:markji.com
 domain:modex.com.cn
 domain:mojidict.com
 domain:mooc.cn
