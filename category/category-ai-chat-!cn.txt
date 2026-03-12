@@ -14,10 +14,12 @@ domain:chutes.ai
 domain:cici.com:@!cn
 domain:ciciai.com:@!cn
 domain:ciciaicdn.com:@!cn
+domain:clau.de
 domain:claude.ai
 domain:claude.com
 domain:claudemcpclient.com
 domain:claudeusercontent.com
+domain:clawhub.ai
 domain:clipdrop.co
 domain:codeium.com
 domain:codeiumdata.com
@@ -55,6 +57,7 @@ domain:githubcopilot.com
 domain:grok.com
 domain:grok.x.com
 domain:groq.com
+domain:h2o.ai
 domain:hf.co
 domain:hf.space
 domain:host.livekit.cloud
@@ -83,6 +86,7 @@ domain:opal.google.com
 domain:openai.com
 domain:openai.com.cdn.cloudflare.net
 domain:openart.ai
+domain:openclaw.ai
 domain:openrouter.ai
 domain:oystermercury.top
 domain:perplexity.ai
