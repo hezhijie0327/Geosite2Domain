@@ -125,6 +125,7 @@ domain:unionimage.baidu.com:@ads
 domain:wangmeng.baidu.com:@ads
 domain:wkctj.baidu.com:@ads
 domain:wm.baidu.com:@ads
+domain:xdrtc.com
 domain:xianfae.com
 domain:xiaodutv.com
 domain:yoojia.com

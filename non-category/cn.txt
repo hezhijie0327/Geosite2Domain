@@ -5012,6 +5012,7 @@ domain:xcsc.com
 domain:xd.com
 domain:xdcdn.net
 domain:xdqtech.com
+domain:xdrtc.com
 domain:xdtool.com
 domain:xdwan.com
 domain:xedge.cc
