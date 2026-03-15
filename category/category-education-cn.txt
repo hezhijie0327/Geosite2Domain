@@ -105,6 +105,7 @@ domain:smartedu.cn
 domain:speiyou.com
 domain:sydw8.com
 domain:tongxuepie.com
+domain:unipus.cn
 domain:weilaiyunxiao.com
 domain:winyoungreading.com
 domain:x-cloud.cc
@@ -133,5 +134,4 @@ domain:zhan.com
 domain:zhihuishu.com
 domain:zjzs.net
 domain:zxxk.com
-full:moocs.unipus.cn
 full:study.163.com

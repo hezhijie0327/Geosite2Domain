@@ -910,6 +910,7 @@ domain:beisen.com
 domain:beisenapp.com
 domain:beisencloud.com
 domain:beisenpaas.com
+domain:bemanicn.com
 domain:bendibao.com
 domain:benfuip.com
 domain:bengbeng.com
@@ -1251,6 +1252,7 @@ domain:cctvpro.com.cn
 domain:cczq.com
 domain:cczq.net
 domain:cd120.com
+domain:cdkeynogap.com
 domain:cdn-go.cn
 domain:cdn20.com
 domain:cdn30.org
@@ -5795,6 +5797,7 @@ domain:unionpayintl.com
 domain:unionpaysecure.com
 domain:uniontech.cn
 domain:uniontech.com
+domain:unipus.cn
 domain:unity.cn
 domain:unityads.unity.cn:@ads
 domain:unityads.unitychina.cn:@ads
@@ -6619,6 +6622,7 @@ domain:zdzq.com.cn
 domain:zealer.com
 domain:zebracdn.com
 domain:zeekrlife.com
+domain:zgbk.com
 domain:zgcbank.com
 domain:zggbdszt.cn
 domain:zggbdszt.com.cn
@@ -6718,6 +6722,7 @@ domain:zjbyte.net
 domain:zjcdn.com
 domain:zjfcdn.com
 domain:zjgslb.com
+domain:zjlib.cn
 domain:zjstv.com
 domain:zjytxd.cn
 domain:zjytxp.cn
@@ -6791,7 +6796,6 @@ full:log3-applog-hl.fqnovel.com:@ads
 full:log3-applog.fqnovel.com:@ads
 full:log5-applog-hl.fqnovel.com:@ads
 full:log5-applog.fqnovel.com:@ads
-full:moocs.unipus.cn
 full:ntp.aliyun.com:@cn
 full:ntp.tencent.com:@cn
 full:ntp1.aliyun.com:@cn

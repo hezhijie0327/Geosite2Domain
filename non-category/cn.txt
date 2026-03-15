@@ -781,6 +781,7 @@ domain:beisen.com
 domain:beisenapp.com
 domain:beisencloud.com
 domain:beisenpaas.com
+domain:bemanicn.com
 domain:bendibao.com
 domain:benfuip.com
 domain:bengbeng.com
@@ -1048,6 +1049,7 @@ domain:cctvpic.com
 domain:cczq.com
 domain:cczq.net
 domain:cd120.com
+domain:cdkeynogap.com
 domain:cdn20.com
 domain:cdn30.org
 domain:cdnbuild.com
@@ -5375,6 +5377,7 @@ domain:zdnscloud.net
 domain:zealer.com
 domain:zebracdn.com
 domain:zeekrlife.com
+domain:zgbk.com
 domain:zgcbank.com
 domain:zggqzp.com
 domain:zgjm.org

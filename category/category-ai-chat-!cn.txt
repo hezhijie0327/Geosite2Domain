@@ -97,6 +97,7 @@ domain:pplx.ai
 domain:proactivebackend-pa.googleapis.com
 domain:robinfrontend-pa.googleapis.com
 domain:sora.com
+domain:spicywriter.com
 domain:trae.ai:@!cn
 domain:turn.livekit.cloud
 domain:windsurf.build

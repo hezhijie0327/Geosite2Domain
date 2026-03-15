@@ -113,6 +113,7 @@ domain:baofeng.net
 domain:battlecare.net
 domain:bbtv.cn
 domain:bcfmglobal.com
+domain:bemanicn.com
 domain:benghuai.com
 domain:bestv.com.cn
 domain:bestvcdn.cn
@@ -162,6 +163,7 @@ domain:bsbsb.top
 domain:buke999.com
 domain:bx1k.com
 domain:c.uaa.iqiyi.com:@ads
+domain:cdkeynogap.com
 domain:cdncl.net
 domain:cgames.com
 domain:changdunovel.com

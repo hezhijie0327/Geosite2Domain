@@ -59,4 +59,5 @@ domain:tegrazone.com
 domain:tegrazone.jp
 domain:tegrazone.kr
 full:cn.download.nvidia.com:@cn
+full:nvidia.custhelp.com
 full:nvidia.tt.omtrdc.net
