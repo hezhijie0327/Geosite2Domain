@@ -441,6 +441,11 @@ domain:terraform.io
 domain:tex-talk.net
 domain:thegithubshop.com
 domain:thesffblog.com
+domain:tilda.cc
+domain:tilda.ru
+domain:tilda.ws
+domain:tildaapi.com
+domain:tildacdn.com
 domain:timelinestoryteller.com
 domain:timestamp.apple.com
 domain:topcoder.com

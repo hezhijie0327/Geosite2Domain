@@ -2777,6 +2777,7 @@ domain:gzcqs.com
 domain:gzctyiptv.cn
 domain:gzurl.cn
 domain:gzwanju.com
+domain:gzyowin.com
 domain:h-adashx.ut.ele.me:@ads
 domain:h-adashx.ut.taobao.com:@ads
 domain:h-adashx.ut.youku.com:@ads

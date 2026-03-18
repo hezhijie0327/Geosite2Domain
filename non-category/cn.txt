@@ -2222,6 +2222,7 @@ domain:gxairlines.com
 domain:gxb.io
 domain:gzcqs.com
 domain:gzwanju.com
+domain:gzyowin.com
 domain:h-adashx.ut.ele.me:@ads
 domain:h-adashx.ut.taobao.com:@ads
 domain:h-adashx.ut.youku.com:@ads
