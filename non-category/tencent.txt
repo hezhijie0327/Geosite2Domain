@@ -583,17 +583,3 @@ domain:yzyxgame.com
 domain:zcjbgame.com
 domain:zhuoyuegame.com
 full:wetv.qq.com:@!cn
-regexp:\.(.+-)?ap-beijing(-.+)?\.myqcloud\.com$
-regexp:\.(.+-)?ap-beijing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
-regexp:\.(.+-)?ap-chengdu(-.+)?\.myqcloud\.com$
-regexp:\.(.+-)?ap-chengdu(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
-regexp:\.(.+-)?ap-chongqing(-.+)?\.myqcloud\.com$
-regexp:\.(.+-)?ap-chongqing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
-regexp:\.(.+-)?ap-guangzhou(-.+)?\.myqcloud\.com$
-regexp:\.(.+-)?ap-guangzhou(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
-regexp:\.(.+-)?ap-nanjing(-.+)?\.myqcloud\.com$
-regexp:\.(.+-)?ap-nanjing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
-regexp:\.(.+-)?ap-shanghai(-.+)?\.myqcloud\.com$
-regexp:\.(.+-)?ap-shanghai(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
-regexp:\.(.+-)?ap-shenzhen(-.+)?\.myqcloud\.com$
-regexp:\.(.+-)?ap-shenzhen(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
