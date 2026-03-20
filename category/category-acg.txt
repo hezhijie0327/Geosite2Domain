@@ -1,3 +1,4 @@
+domain:bestdori.com
 domain:bowlroll.net
 domain:colorfulstage.com
 domain:crypton.co.jp

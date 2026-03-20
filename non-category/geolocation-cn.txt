@@ -2300,10 +2300,8 @@ domain:erp321.com
 domain:erp321.net
 domain:ersjk.com
 domain:esp8266.cn
-domain:esp8266.com
 domain:esp8266.com.cn
 domain:espressif.cn
-domain:espressif.com
 domain:espressif.com.cn
 domain:essence.com.cn
 domain:essurl.com

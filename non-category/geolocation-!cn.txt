@@ -3211,6 +3211,7 @@ domain:bestbuytradein.com
 domain:bestbuyus.com
 domain:bestcamsites.net
 domain:bestclouddrive.com
+domain:bestdori.com
 domain:besterpornos.com
 domain:bestescortgirls.nl
 domain:bestfreecams.club
@@ -22189,6 +22190,7 @@ domain:zhtv01.com
 domain:zhuichaguoji.org
 domain:zhuzhushipin-app.com
 domain:zibacity.com
+domain:ziglang.org
 domain:zigzag.kr
 domain:zind.cloud
 domain:zingtruyen.net

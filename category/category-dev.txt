@@ -494,6 +494,7 @@ domain:xposed.info
 domain:yarnpkg.com
 domain:yogalayout.com
 domain:youtrack.cloud
+domain:ziglang.org
 domain:zsh.org
 full:amp.akamaized.net
 full:android.googlesource.com

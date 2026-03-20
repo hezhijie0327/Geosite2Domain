@@ -43,6 +43,7 @@ domain:ip-api.io
 domain:ip-api.ru
 domain:ip-check.info
 domain:ip-score.com
+domain:ip.hetzner.com
 domain:ip.mail.ru
 domain:ip.me
 domain:ip.nic.ru

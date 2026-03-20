@@ -1848,8 +1848,6 @@ domain:erji.net
 domain:erp321.com
 domain:erp321.net
 domain:ersjk.com
-domain:esp8266.com
-domain:espressif.com
 domain:essurl.com
 domain:et-api.com
 domain:et001.com
