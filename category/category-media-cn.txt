@@ -10,6 +10,7 @@ domain:56.com
 domain:56img.com
 domain:6655.com
 domain:72whys.com
+domain:8531.cn
 domain:ad.cctv.com:@ads
 domain:admin5.com
 domain:adnet.sohu.com:@ads
@@ -150,6 +151,8 @@ domain:landian.xyz
 domain:landiannews.com
 domain:lapin365.com
 domain:latepost.com
+domain:leikeji.com
+domain:leiphone.com
 domain:livechina.cn
 domain:livechina.com
 domain:lu.sogou.com:@ads
@@ -235,6 +238,7 @@ domain:thepaper.cn
 domain:theta.sogoucdn.com:@ads
 domain:ths123.com
 domain:thsi.cn
+domain:tidenews.com.cn
 domain:tigeek.net.cn
 domain:tivitv.com
 domain:tmtpost.com
@@ -247,12 +251,14 @@ domain:uranus.sogou.com:@ads
 domain:wallstcn.com
 domain:wallstreetcn.com
 domain:wannianqingjianzhan.com
+domain:weiphone.net
 domain:wfdata.club
 domain:win7china.com
 domain:win8china.com
 domain:woshipm.com
 domain:wsoso.com
 domain:wuliao.epro.sogou.com:@ads
+domain:xhby.net
 domain:xiangrikuijianzhan.com
 domain:xiangrikuisite.com
 domain:xilu.com
@@ -276,6 +282,7 @@ domain:ynet.com
 domain:ynet.com.cn
 domain:yundzh.com
 domain:yuweikuijianzhan.com
+domain:yzwb.net
 domain:zealer.com
 domain:zggbdszt.cn
 domain:zggbdszt.com.cn

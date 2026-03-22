@@ -65,6 +65,8 @@ domain:icve.com.cn
 domain:iyunxiao.com
 domain:j-test.com
 domain:jinrongren.net
+domain:jyeoo.com
+domain:jyeoo.net
 domain:keboyunxiao.com
 domain:ketangpai.com
 domain:koocdn.com
@@ -129,6 +131,7 @@ domain:yushiyan.net
 domain:zbbm.gov.cn
 domain:zbbm.net
 domain:zggqzp.com
+domain:zgjsks.com
 domain:zgsydw.com
 domain:zhan.com
 domain:zhihuishu.com

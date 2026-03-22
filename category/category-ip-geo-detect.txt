@@ -104,6 +104,7 @@ domain:myip.com
 domain:myip.la:@!cn
 domain:myip.ms
 domain:myip.ru
+domain:myip.wtf
 domain:myipaddress.com
 domain:myiplookup.com
 domain:mylocation.org

@@ -347,6 +347,7 @@ domain:800bestapp.com
 domain:818ps.com
 domain:8264.com
 domain:84399.com
+domain:8531.cn
 domain:8686c.com
 domain:885.com
 domain:88cdn.com
@@ -1736,6 +1737,7 @@ domain:coloros.com
 domain:coloros.net
 domain:computeinit.com
 domain:comsenz.com
+domain:conac.cn
 domain:contentchina.com
 domain:cookicut.com
 domain:coolab.top
@@ -3622,6 +3624,8 @@ domain:jvoice.cn
 domain:jxedt.com
 domain:jxksw.net
 domain:jxpp.com
+domain:jyeoo.com
+domain:jyeoo.net
 domain:jyimg.com
 domain:jyzq.cn
 domain:jzfz.net
@@ -4644,6 +4648,7 @@ domain:pipix.com
 domain:pipixiaha.com
 domain:pishu.com.cn
 domain:pixeldance.com
+domain:piyao.org.cn
 domain:piyipiba.com
 domain:pkoplink.com
 domain:pkuh6.cn
@@ -5543,6 +5548,7 @@ domain:tidaas.com
 domain:tidb.ai
 domain:tidb.net
 domain:tidbcloud.com
+domain:tidenews.com.cn
 domain:tieba.com
 domain:tiebaimg.com
 domain:tietuku.com
@@ -6220,6 +6226,7 @@ domain:xf-fund.com
 domain:xfdown.com
 domain:xfyun.cn
 domain:xhaiwai.com
+domain:xhby.net
 domain:xhlsgs.com
 domain:xhscdn.com
 domain:xhscdn.net
@@ -6587,6 +6594,7 @@ domain:yystatic.com
 domain:yystv.cn
 domain:yytcdn.com
 domain:yzcdn.cn
+domain:yzwb.net
 domain:yzyxgame.com
 domain:z-bank.com
 domain:z.ai

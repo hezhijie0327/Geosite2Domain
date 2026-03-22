@@ -2917,6 +2917,8 @@ domain:juziwulian.com
 domain:jxedt.com
 domain:jxksw.net
 domain:jxpp.com
+domain:jyeoo.com
+domain:jyeoo.net
 domain:jyimg.com
 domain:jzfz.net
 domain:jzsec.com
@@ -5019,6 +5021,7 @@ domain:xesimg.com
 domain:xf-fund.com
 domain:xfdown.com
 domain:xhaiwai.com
+domain:xhby.net
 domain:xhlsgs.com
 domain:xhscdn.com
 domain:xhscdn.net
@@ -5353,6 +5356,7 @@ domain:yy.com
 domain:yyds.co
 domain:yystatic.com
 domain:yytcdn.com
+domain:yzwb.net
 domain:yzyxgame.com
 domain:z-bank.com
 domain:z.ai
