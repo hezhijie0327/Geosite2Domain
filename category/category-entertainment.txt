@@ -933,6 +933,7 @@ domain:omobi.cc
 domain:onlinegamer.jp
 domain:op.gg
 domain:openbook.org.tw
+domain:openrec.tv
 domain:oranum.com
 domain:origin.com
 domain:origin.tv
@@ -1688,6 +1689,7 @@ full:disney.my.sentry.io:@ads
 full:dlgarenanow-a.akamaihd.net
 full:dlmobilegarena-a.akamaihd.net
 full:dmqdd6hw24ucf.cloudfront.net
+full:dqd0jw5gvbchn.cloudfront.net
 full:dqrpb9wgowsf5.cloudfront.net
 full:ds-linear-abematv.akamaized.net
 full:ds-vod-abematv.akamaized.net
