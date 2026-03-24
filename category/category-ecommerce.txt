@@ -924,8 +924,15 @@ domain:nordstrom.com
 domain:nordstrommedia.com
 domain:onlinegeeksquad.com
 domain:outletnike.com
+domain:ozon.by
+domain:ozon.com
+domain:ozon.com.by
+domain:ozon.com.kz
+domain:ozon.kz
 domain:ozon.ru
+domain:ozon.tm
 domain:ozone.ru
+domain:ozonru.me
 domain:ozonusercontent.com
 domain:pacifickitchenandhome.com
 domain:paisapay.cc

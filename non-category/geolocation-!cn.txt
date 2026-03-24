@@ -15266,8 +15266,15 @@ domain:oystermercury.top
 domain:ozeex.com
 domain:ozodi.org
 domain:ozodlik.org
+domain:ozon.by
+domain:ozon.com
+domain:ozon.com.by
+domain:ozon.com.kz
+domain:ozon.kz
 domain:ozon.ru
+domain:ozon.tm
 domain:ozone.ru
+domain:ozonru.me
 domain:ozonusercontent.com
 domain:ozvoice.org
 domain:pa9pal.com
@@ -21174,6 +21181,7 @@ domain:xiangrikui-app.com
 domain:xianir.xyz
 domain:xiaofu.me
 domain:xiaogirls.com
+domain:xiaomiflash.com
 domain:xiaoou.io
 domain:xiaoou.tv
 domain:xiaoshuobb.life

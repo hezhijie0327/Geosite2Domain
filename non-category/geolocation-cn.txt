@@ -6264,7 +6264,6 @@ domain:xiaomidns.com
 domain:xiaomidns.com.cn
 domain:xiaomidns.net
 domain:xiaomiev.com
-domain:xiaomiflash.com
 domain:xiaomiinc.cn
 domain:xiaomiinc.com
 domain:xiaomiinc.com.cn
