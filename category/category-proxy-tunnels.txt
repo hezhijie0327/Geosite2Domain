@@ -1,3 +1,5 @@
+domain:equinox.io
+domain:ngrok-agent.com
 domain:ngrok-free.app
 domain:ngrok-free.dev
 domain:ngrok-free.pizza

@@ -5925,6 +5925,8 @@ domain:tegrazone.co.kr
 domain:tegrazone.com
 domain:tegrazone.jp
 domain:tegrazone.kr
+domain:telega.info
+domain:telega.me
 domain:tellmewhygame.com
 domain:tenbyfotolia.com
 domain:tensorflow.org

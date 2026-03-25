@@ -14,6 +14,8 @@ domain:ok.ru
 domain:okcdn.ru
 domain:oneme.ru
 domain:tamtam.chat
+domain:telega.info
+domain:telega.me
 domain:userapi.com
 domain:vk-analytics.ru
 domain:vk-apps.com

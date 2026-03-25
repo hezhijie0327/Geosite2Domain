@@ -7084,6 +7084,7 @@ domain:epochweekly.com
 domain:eporner.com
 domain:eprc.com.hk
 domain:eprintsw.com
+domain:equinox.io
 domain:erabaru.net
 domain:eracom.com.tw
 domain:eraofconnection.com
@@ -14364,6 +14365,7 @@ domain:ngeo.com
 domain:nginx.com
 domain:nginx.org
 domain:nginxconfig.io
+domain:ngrok-agent.com
 domain:ngrok-free.app
 domain:ngrok-free.dev
 domain:ngrok-free.pizza
@@ -18819,6 +18821,8 @@ domain:tegrazone.jp
 domain:tegrazone.kr
 domain:tejaratbank.ir
 domain:telebay.com
+domain:telega.info
+domain:telega.me
 domain:telega.one
 domain:telegra.ph
 domain:telegram-cdn.org
