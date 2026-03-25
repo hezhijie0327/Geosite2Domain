@@ -1,5 +1,6 @@
 domain:1ppt.com
 domain:360doc.com
+domain:51wendang.com
 domain:52ppt.com
 domain:badou.com
 domain:book118.com

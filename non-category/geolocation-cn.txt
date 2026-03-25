@@ -248,6 +248,7 @@ domain:51cdn.com
 domain:51changxie.com
 domain:51credit.com
 domain:51cto.com
+domain:51ctocdn.cn
 domain:51dzt.com
 domain:51eshop.com
 domain:51gaifang.com
@@ -354,6 +355,7 @@ domain:88cdn.com
 domain:8btc.com
 domain:8gcdp.cn
 domain:8n82b.cn
+domain:8uri.cn
 domain:900.la
 domain:900cha.com
 domain:91.com
@@ -558,6 +560,7 @@ domain:airitilibrary.cn
 domain:airstarfinance.net
 domain:aisee.tv
 domain:aiskycn.com
+domain:aispeech.com
 domain:aitcfw.com
 domain:aitransfy.com
 domain:aixcoder.com
@@ -681,6 +684,7 @@ domain:andfx.cn
 domain:andfx.net
 domain:anfensi.com
 domain:anhuinews.com
+domain:anhuiyun.com
 domain:animetamashi.cn
 domain:animetamashi.com
 domain:anitabi.cn
@@ -1809,6 +1813,7 @@ domain:ctdcdn.com
 domain:ctdns.cn
 domain:ctdns.com.cn
 domain:ctdns.net
+domain:ctdsb.net
 domain:ctecdn.cn
 domain:ctecx.cn
 domain:ctfile.com
@@ -2744,6 +2749,7 @@ domain:guabu.com
 domain:guaiguai.com
 domain:guaiku.com
 domain:guanaitong.com
+domain:guancha.cn
 domain:guanggaoad.youku.com:@ads
 domain:guanggaotongapp.cn
 domain:guanhaobio.com
@@ -3166,6 +3172,7 @@ domain:icpcw.com
 domain:icphoto.cn
 domain:icplishi.com
 domain:ics.design
+domain:icswb.com
 domain:ictbda.cn
 domain:ictbda.com
 domain:icve.com.cn
@@ -3225,6 +3232,7 @@ domain:ihykb.com
 domain:ijiandao.com
 domain:ijinshan.com
 domain:ikafan.com
+domain:ikanchai.com
 domain:ilanzou.com
 domain:ileapcloud.com
 domain:iluckysf.net
@@ -3486,6 +3494,7 @@ domain:jikeiot.cloud
 domain:jikexueyuan.com
 domain:jikipedia.com
 domain:jin10.com
+domain:jinantimes.com.cn
 domain:jindidata.com
 domain:jingdong.com
 domain:jingdongjinrong.com
@@ -3623,6 +3632,7 @@ domain:jvcsmart.com.cn
 domain:jvoice.cn
 domain:jxedt.com
 domain:jxksw.net
+domain:jxnews.com.cn
 domain:jxpp.com
 domain:jyeoo.com
 domain:jyeoo.net
@@ -3703,6 +3713,7 @@ domain:kmcb-cn-north-4.cn
 domain:kmop-cn-east-3.cn
 domain:kmop-cn-north-4.cn
 domain:knet.cn
+domain:knewsmart.com
 domain:kolbuyer.cn
 domain:kongfz.com
 domain:koocdn.com
@@ -4591,8 +4602,10 @@ domain:passport-log.youku.com:@ads
 domain:paydxm.com
 domain:pb.i.sogou.com:@ads
 domain:pc6.com
+domain:pcauto.com.cn
 domain:pcbeta.com
 domain:pchome.net
+domain:pchouse.com.cn
 domain:pchpic.net
 domain:pconline.com.cn
 domain:pcpop.com
@@ -5179,6 +5192,7 @@ domain:sojump.com
 domain:soku.com
 domain:solidot.org
 domain:somode.com
+domain:sootoo.com
 domain:soso.com
 domain:soso.com.cn
 domain:sososnap.com
@@ -5432,6 +5446,7 @@ domain:tebiefuza.cloud
 domain:tebiefuza.cn
 domain:tebon.com.cn
 domain:techo.chat
+domain:techwalker.com
 domain:techweb.com.cn
 domain:teemo.cn
 domain:tefscloud.com
@@ -6391,6 +6406,7 @@ domain:yccdn.com
 domain:ycgame.com
 domain:ycrx360.com
 domain:yctdyy.com
+domain:ycwb.com
 domain:ydamc.com
 domain:ydsc.com.cn
 domain:ydstatic.com
@@ -6662,6 +6678,7 @@ domain:zhfund.com
 domain:zhibo8.cc
 domain:zhichanli.com
 domain:zhidemai.com
+domain:zhiding.cn
 domain:zhiding.com.cn
 domain:zhidx.com
 domain:zhifang.com
@@ -6798,6 +6815,7 @@ full:ads3-normal.zijieapi.com:@ads
 full:ads5-normal-hl.zijieapi.com:@ads
 full:ads5-normal.zijieapi.com:@ads
 full:apilog-web.acfun.cn:@ads
+full:ctdsb.clouddiffuse.xyz
 full:log-sdk.gifshow.com:@ads
 full:log3-applog-hl.fqnovel.com:@ads
 full:log3-applog.fqnovel.com:@ads

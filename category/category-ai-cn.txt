@@ -1,3 +1,4 @@
+domain:aispeech.com
 domain:askdiandian.com
 domain:baichuan-ai.com
 domain:bigmodel.cn
@@ -16,6 +17,8 @@ domain:diandianlife.top
 domain:doubao.com
 domain:doubaocdn.com
 domain:doudou.com
+domain:dui.ai
+domain:duiopen.com
 domain:faxingbao.com
 domain:hailuoai.com
 domain:hi-butterfly.cn

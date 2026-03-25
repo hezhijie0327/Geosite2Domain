@@ -480,6 +480,7 @@ domain:airguilin.com
 domain:airstarfinance.net
 domain:aisee.tv
 domain:aiskycn.com
+domain:aispeech.com
 domain:aitcfw.com
 domain:aitransfy.com
 domain:aixcoder.com
@@ -591,6 +592,7 @@ domain:anav.com
 domain:andfx.net
 domain:anfensi.com
 domain:anhuinews.com
+domain:anhuiyun.com
 domain:animetamashi.com
 domain:anitama.net
 domain:anjuke.com
@@ -1462,6 +1464,7 @@ domain:ctbcdn.com
 domain:ctcdnov.net
 domain:ctdcdn.com
 domain:ctdns.net
+domain:ctdsb.net
 domain:ctfile.com
 domain:ctfund.com
 domain:ctgcdn.com
@@ -2527,6 +2530,7 @@ domain:icourse163.org
 domain:icpcw.com
 domain:icplishi.com
 domain:ics.design
+domain:icswb.com
 domain:ictbda.com
 domain:idcgcloudcs.com
 domain:idcquan.com
@@ -2576,6 +2580,7 @@ domain:ihykb.com
 domain:ijiandao.com
 domain:ijinshan.com
 domain:ikafan.com
+domain:ikanchai.com
 domain:ilanzou.com
 domain:ileapcloud.com
 domain:iluckysf.net
@@ -2974,6 +2979,7 @@ domain:kkmh.com
 domain:kksmg.com
 domain:kkzj.com
 domain:klpbbs.com
+domain:knewsmart.com
 domain:kongfz.com
 domain:koocdn.com
 domain:kookong.com
@@ -4182,6 +4188,7 @@ domain:sojump.com
 domain:soku.com
 domain:solidot.org
 domain:somode.com
+domain:sootoo.com
 domain:soso.com
 domain:sososnap.com
 domain:sou.com
@@ -4380,6 +4387,7 @@ domain:teambition.net
 domain:teambitionapis.com
 domain:tebiefuza.cloud
 domain:techo.chat
+domain:techwalker.com
 domain:tefscloud.com
 domain:tefscloud.net
 domain:tekkenthree.com
@@ -5186,6 +5194,7 @@ domain:yccdn.com
 domain:ycgame.com
 domain:ycrx360.com
 domain:yctdyy.com
+domain:ycwb.com
 domain:ydamc.com
 domain:ydstatic.com
 domain:yeah.net
@@ -5512,6 +5521,7 @@ full:ads3-normal.zijieapi.com:@ads
 full:ads5-normal-hl.zijieapi.com:@ads
 full:ads5-normal.zijieapi.com:@ads
 full:apilog-web.acfun.cn:@ads
+full:ctdsb.clouddiffuse.xyz
 full:log-sdk.gifshow.com:@ads
 full:log3-applog-hl.fqnovel.com:@ads
 full:log3-applog.fqnovel.com:@ads

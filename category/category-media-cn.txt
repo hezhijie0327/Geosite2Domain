@@ -19,6 +19,7 @@ domain:adv-sv-show.focus.cn:@ads
 domain:adv-sv-stat.focus.cn:@ads
 domain:aiganggu.com
 domain:anhuinews.com
+domain:anhuiyun.com
 domain:anzhuo.cn
 domain:assp.sohu.com:@ads
 domain:bdu.focus.cn:@ads
@@ -65,6 +66,8 @@ domain:cqliving.com
 domain:cqnews.net
 domain:cqsjb.com
 domain:cs.com.cn
+domain:ctdsb.net
+domain:ctoutiao.com
 domain:cyzone.cn
 domain:cztv.com
 domain:cztvcdn.com
@@ -95,6 +98,7 @@ domain:gjgbdszt.com.cn
 domain:gjgbdszt.net.cn
 domain:gmw.com
 domain:go2map.com
+domain:guancha.cn
 domain:guigu.org
 domain:gw.com.cn
 domain:hexin.cn
@@ -108,6 +112,7 @@ domain:huxiu.com
 domain:huxiucdn.com
 domain:icntvcdn.com
 domain:icpcw.com
+domain:icswb.com
 domain:idcquan.com
 domain:ifanr.cn
 domain:ifanr.com
@@ -117,6 +122,7 @@ domain:ifanrx.com
 domain:ifeng.com
 domain:ifengimg.com
 domain:ifengweekly.com
+domain:ikanchai.com
 domain:imedao.com
 domain:imp.go.sohu.com:@ads
 domain:inewsweek.cn
@@ -135,16 +141,19 @@ domain:jianyuweb.com
 domain:jiemian.com
 domain:jiemian.com.cn
 domain:jin10.com
+domain:jinantimes.com.cn
 domain:jiqizhixin.com
 domain:jrj.com.cn
 domain:jrjimg.cn
 domain:jsbc.com
 domain:jstv.com
+domain:jxnews.com.cn
 domain:jxpp.com
 domain:jztvnews.com
 domain:kankanews.com
 domain:kankannews.com
 domain:kksmg.com
+domain:knewsmart.com
 domain:lancdn.com
 domain:landian.vip
 domain:landian.xyz
@@ -170,7 +179,9 @@ domain:ottcn.com
 domain:ourl.co
 domain:p.aty.sohu.com:@ads
 domain:pb.i.sogou.com:@ads
+domain:pcauto.com.cn
 domain:pchome.net
+domain:pchouse.com.cn
 domain:pchpic.net
 domain:pconline.com.cn
 domain:pcpop.com
@@ -217,6 +228,7 @@ domain:sohu
 domain:sohu.com
 domain:sohucs.com
 domain:solidot.org
+domain:sootoo.com
 domain:soso.com
 domain:soso.com.cn
 domain:sososnap.com
@@ -231,6 +243,7 @@ domain:stockstar.com
 domain:sznews.com
 domain:szpgm.com
 domain:takungpao.com
+domain:techwalker.com
 domain:techweb.com.cn
 domain:teemo.cn
 domain:thecover.cn
@@ -273,6 +286,7 @@ domain:xn--kprv4ewxfr9cpxcc7joo6apn8a.cn
 domain:xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s
 domain:xueqiu.com
 domain:yangshipin.cn
+domain:ycwb.com
 domain:yeyousg.com
 domain:yicai.com
 domain:yidianliulan.cn
@@ -288,9 +302,11 @@ domain:zggbdszt.cn
 domain:zggbdszt.com.cn
 domain:zggbdszt.net.cn
 domain:zhichanli.com
+domain:zhiding.cn
 domain:zjstv.com
 domain:zol-img.com.cn
 domain:zol.com.cn
 domain:zqrb.cn
 domain:zuihuimai.com
 domain:zygbdszt.net.cn
+full:ctdsb.clouddiffuse.xyz

@@ -373,6 +373,7 @@ domain:v6-adashx.ut.taobao.com:@ads
 domain:v6-adashx.ut.youku.com:@ads
 domain:w.cnzz.com:@ads
 domain:wandoujia.com
+domain:wdjimg.com
 domain:whalecloud.com
 domain:xiami.com
 domain:xiami.fm

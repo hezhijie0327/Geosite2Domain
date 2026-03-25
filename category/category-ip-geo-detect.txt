@@ -112,6 +112,7 @@ domain:osint.sh
 domain:proxycheck.io
 domain:realip.cc
 domain:seeip.org
+domain:showip.net
 domain:showmyip.com
 domain:showmyipaddress.com
 domain:spur.us

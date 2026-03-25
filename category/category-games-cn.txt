@@ -63,6 +63,7 @@ domain:codm.com
 domain:cowlevel.net
 domain:dobest.com
 domain:edu4399.com
+domain:feihuo.com
 domain:ffbuddy.com
 domain:forevernine.com
 domain:funnycore.com

@@ -226,6 +226,7 @@ domain:fanqiesdkpic.com
 domain:fanqiesdkstatic.com
 domain:fanqiesdkvod.com
 domain:fanxingliveshow.com
+domain:feihuo.com
 domain:ffbuddy.com
 domain:forevernine.com
 domain:fqnovel-op.com
@@ -704,6 +705,7 @@ domain:youxituoluo.com
 domain:yuanshen.com
 domain:yuewen.com
 domain:yxdmgame.com
+domain:yxdown.com
 domain:yxhapi.com
 domain:yxhhdl.com
 domain:yxhimg.com

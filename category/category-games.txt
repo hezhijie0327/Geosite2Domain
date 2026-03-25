@@ -124,6 +124,7 @@ domain:capturingreality.com
 domain:cdncl.net
 domain:championshipseriesleague.com
 domain:chillingo.com
+domain:chunkbase.com
 domain:clash.com
 domain:clashmini.com
 domain:clashofclans.com
@@ -223,6 +224,7 @@ domain:fabricmc.net
 domain:faceit-cdn.net
 domain:faceit.com
 domain:fanatical.com
+domain:feihuo.com
 domain:ffbuddy.com
 domain:fifastreet.com
 domain:fifastreet3.com
@@ -410,6 +412,7 @@ domain:miiverse.com
 domain:minecraft-services.net
 domain:minecraft.net
 domain:minecraft.wiki
+domain:minecraftforge.net
 domain:minecraftservices.com
 domain:minecraftshop.com
 domain:mirrorsedge.com
@@ -438,6 +441,7 @@ domain:mythicentertainment.net
 domain:mythicgames.com
 domain:n0vadesktop.com
 domain:nagcloudcs.com
+domain:namemc.com
 domain:needforspeed.com
 domain:needforspeedboost.com
 domain:needforspeeddriftkings.com
@@ -453,6 +457,7 @@ domain:needforspeedtherun.com
 domain:needforspeedtimeattack.com
 domain:needforspeedundergroundeast.com
 domain:nentindo.net
+domain:neoforged.net
 domain:newsupermariobrosu.com
 domain:nexon.co.jp
 domain:nexon.com
@@ -513,6 +518,7 @@ domain:nzsiteres.com
 domain:offworldindustries.com
 domain:offworldindustries.net
 domain:op.gg
+domain:optifine.net
 domain:origin.com
 domain:origin.tv
 domain:orithegame.com
@@ -685,6 +691,7 @@ domain:sonyentertainmentnetwork.com
 domain:spearhead.kr
 domain:speedhunters.com
 domain:speedrun.com
+domain:spigotmc.org
 domain:splatoon2tournament.com
 domain:spore.com
 domain:spyjinx.com

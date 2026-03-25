@@ -4909,6 +4909,7 @@ domain:chubbypornonly.com
 domain:chugokubank.co.jp
 domain:chuneo.xyz
 domain:chunja19.net
+domain:chunkbase.com
 domain:chuokoron.jp
 domain:chuporno.com
 domain:chutes.ai
@@ -13200,6 +13201,7 @@ domain:mindmeld.com
 domain:minecraft-services.net
 domain:minecraft.net
 domain:minecraft.wiki
+domain:minecraftforge.net
 domain:minecraftservices.com
 domain:minecraftshop.com
 domain:minghui.org
@@ -14085,6 +14087,7 @@ domain:nakedgirlpic.com
 domain:nakedgirls.biz
 domain:nakedmodelsxxx.com
 domain:nakednews.com
+domain:namemc.com
 domain:namemybeats.com
 domain:namethatporn.com
 domain:namethatpornad.com
@@ -14183,6 +14186,7 @@ domain:nelreports.net:@ads
 domain:nenastran.com
 domain:nenitas.club
 domain:nentindo.net
+domain:neoforged.net
 domain:neotokyo.supertop-100.com
 domain:neovim.io
 domain:neow.in
@@ -15175,6 +15179,7 @@ domain:opte.org
 domain:optica.org
 domain:opticore.com
 domain:opticsforthecloud.net
+domain:optifine.net
 domain:optimumssl.com
 domain:oracle
 domain:oracle.com
@@ -18192,6 +18197,7 @@ domain:spiceworksstatic.com
 domain:spicybigtits.com
 domain:spicywriter.com
 domain:spiedigitallibrary.org
+domain:spigotmc.org
 domain:spiritclubs.com
 domain:spiritofecstasy.com
 domain:spizoo.com

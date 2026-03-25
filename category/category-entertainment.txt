@@ -175,6 +175,7 @@ domain:charlotte-anime.jp
 domain:chii.in
 domain:chillingo.com
 domain:chobit.cc
+domain:chunkbase.com
 domain:ci-en.jp
 domain:ci-en.net
 domain:cinemax.com
@@ -758,6 +759,7 @@ domain:mikuexpo.com
 domain:minecraft-services.net
 domain:minecraft.net
 domain:minecraft.wiki
+domain:minecraftforge.net
 domain:minecraftservices.com
 domain:minecraftshop.com
 domain:mirrorsedge.com
@@ -795,6 +797,7 @@ domain:mythicentertainment.net
 domain:mythicgames.com
 domain:mytvsuper.com
 domain:n0vadesktop.com
+domain:namemc.com
 domain:natgeomaps.com
 domain:nationalgeographic.com
 domain:nationalgeographicpartners.com
@@ -816,6 +819,7 @@ domain:needforspeedtherun.com
 domain:needforspeedtimeattack.com
 domain:needforspeedundergroundeast.com
 domain:nentindo.net
+domain:neoforged.net
 domain:netflix.ca
 domain:netflix.com
 domain:netflix.net
@@ -934,6 +938,7 @@ domain:onlinegamer.jp
 domain:op.gg
 domain:openbook.org.tw
 domain:openrec.tv
+domain:optifine.net
 domain:oranum.com
 domain:origin.com
 domain:origin.tv
@@ -1162,6 +1167,7 @@ domain:spaindisney.com
 domain:spearhead.kr
 domain:speedhunters.com
 domain:speedrun.com
+domain:spigotmc.org
 domain:splatoon2tournament.com
 domain:spore.com
 domain:spoti.fi
