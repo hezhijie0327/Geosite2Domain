@@ -14,9 +14,11 @@ domain:meetsmartbook.com
 domain:patenttruth.org
 domain:pixtronix.com
 domain:qceventscenter.com.cn:@cn
+domain:qcomgeo2.com
 domain:qctconnect.com
 domain:qprize.com
 domain:qualcomm-email.com
+domain:qualcomm-inc.com
 domain:qualcomm.cn.cdn.cloudflare.net:@cn
 domain:qualcomm.cn:@cn
 domain:qualcomm.co.id

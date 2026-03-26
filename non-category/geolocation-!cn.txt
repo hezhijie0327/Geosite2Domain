@@ -16551,6 +16551,7 @@ domain:qattdh6.top
 domain:qbmengmei6.mom
 domain:qceventscenter.com.cn:@cn
 domain:qcmod.xyz
+domain:qcomgeo2.com
 domain:qctconnect.com
 domain:qdiehzz7.me
 domain:qinav.com
@@ -16580,6 +16581,7 @@ domain:qr.ae
 domain:qt-project.org
 domain:qt.io
 domain:qualcomm-email.com
+domain:qualcomm-inc.com
 domain:qualcomm.cn.cdn.cloudflare.net:@cn
 domain:qualcomm.cn:@cn
 domain:qualcomm.co.id
@@ -22633,6 +22635,7 @@ full:is5.mzstatic.com:@cn
 full:itunes-apple.com.akadns.net:@cn
 full:itunes.apple.com:@cn
 full:itunesconnect.apple.com:@cn
+full:izattime.qcomgeo2.com:@cn
 full:js-cdn.music.apple.com:@cn
 full:km.support.apple.com:@cn
 full:ksn-cinfo-geo.kaspersky-labs.com:@cn
@@ -22972,6 +22975,7 @@ full:www.support.apple.com:@cn
 full:www4-static.gog-statics.com:@cn
 full:xn--flw351e.com:@cn
 full:xp.apple.com:@cn
+full:xtratime.qcomgeo2.com:@cn
 full:xz.pphimalayanrt.com:@cn
 full:yandex-pogoda.static-storage.net
 full:yangzhi.app

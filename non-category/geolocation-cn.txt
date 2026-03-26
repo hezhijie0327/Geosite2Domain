@@ -6816,6 +6816,7 @@ full:ads5-normal-hl.zijieapi.com:@ads
 full:ads5-normal.zijieapi.com:@ads
 full:apilog-web.acfun.cn:@ads
 full:ctdsb.clouddiffuse.xyz
+full:izattime.qcomgeo2.com:@cn
 full:log-sdk.gifshow.com:@ads
 full:log3-applog-hl.fqnovel.com:@ads
 full:log3-applog.fqnovel.com:@ads
@@ -6846,6 +6847,7 @@ full:time.amazonaws.cn:@cn
 full:time.izatcloud.net:@cn
 full:time.xtracloud.net:@cn
 full:wlog.kuaishou.com:@ads
+full:xtratime.qcomgeo2.com:@cn
 regexp:.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$:@cn
 regexp:.+\.awsdns-cn-[0-9][a-e0-9]\.cn$:@cn
 regexp:^.+-mihayo\.akamaized\.net$:@cn

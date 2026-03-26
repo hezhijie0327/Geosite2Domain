@@ -2,6 +2,7 @@ domain:cn.pool.ntp.org:@cn
 domain:ntp.neu.edu.cn:@cn
 domain:ntp.ntsc.ac.cn:@cn
 domain:ntp.org.cn:@cn
+full:izattime.qcomgeo2.com:@cn
 full:ntp.aliyun.com:@cn
 full:ntp.tencent.com:@cn
 full:ntp1.aliyun.com:@cn
@@ -19,3 +20,4 @@ full:ntp7.aliyun.com:@cn
 full:time.amazonaws.cn:@cn
 full:time.izatcloud.net:@cn
 full:time.xtracloud.net:@cn
+full:xtratime.qcomgeo2.com:@cn

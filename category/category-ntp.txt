@@ -39,6 +39,7 @@ domain:ntp3.v6.mfeed.ad.jp
 domain:pool.ntp.org
 domain:s2csntp.miz.nao.ac.jp
 domain:time.nrc.ca
+full:izattime.qcomgeo2.com:@cn
 full:ntp-b.nist.gov
 full:ntp-c.colorado.edu
 full:ntp-d.nist.gov
@@ -107,3 +108,4 @@ full:ut1-wwv.nist.gov
 full:utcnist.colorado.edu
 full:utcnist2.colorado.edu
 full:utcnist3.colorado.edu
+full:xtratime.qcomgeo2.com:@cn
