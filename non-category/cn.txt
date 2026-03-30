@@ -3955,6 +3955,7 @@ domain:qznovelstatic.com
 domain:qznovelvod.com
 domain:qzone.com
 domain:rainclassroom.com
+domain:rainyun.com
 domain:rdfybk.com
 domain:rdnsdb.com
 domain:readnovel.com
@@ -4274,6 +4275,7 @@ domain:syxlgame.com
 domain:sz-jlc.com
 domain:szbdyd.com
 domain:szfw.org
+domain:szhdy.com
 domain:szhk.com
 domain:szlcsc.com
 domain:sznews.com

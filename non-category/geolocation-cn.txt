@@ -4903,6 +4903,7 @@ domain:qznovelvod.com
 domain:qzone.com
 domain:r8zc9.cn
 domain:rainclassroom.com
+domain:rainyun.com
 domain:rdfybk.com
 domain:rdnsdb.com
 domain:readnovel.com
@@ -5310,6 +5311,7 @@ domain:syxlgame.com
 domain:sz-jlc.com
 domain:szbdyd.com
 domain:szfw.org
+domain:szhdy.com
 domain:szhk.com
 domain:szjlc.cn
 domain:szlcsc.com
