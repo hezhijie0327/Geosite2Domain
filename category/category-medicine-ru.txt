@@ -1,0 +1,5 @@
+domain:medsi-premium.ru
+domain:medsi.com
+domain:medsi.pro
+domain:medsi.ru
+domain:smartmed.pro

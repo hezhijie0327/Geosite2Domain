@@ -740,6 +740,7 @@ domain:marvelsuperheroseptember.com
 domain:marvelsuperwar.com
 domain:masseffect.com
 domain:masseffectarchives.com
+domain:masteroforion.com
 domain:max.com
 domain:maxgo.com
 domain:maxis.com
@@ -1372,6 +1373,8 @@ domain:vrchat.net
 domain:vrv.co
 domain:wallhaven.cc
 domain:wanuxi.com
+domain:wargaming.com
+domain:wargaming.net
 domain:wariolandshakeit.com
 domain:wariowarediy.com
 domain:warnerbrosgames.com
@@ -1384,6 +1387,8 @@ domain:wbgames.com
 domain:wbinsights.com
 domain:webnovel.com:@!cn
 domain:weverse.io
+domain:wgcdn.co
+domain:wgcrowd.io
 domain:wheelpop.com
 domain:whvn.cc
 domain:wide-youtube.l.google.com
@@ -1402,7 +1407,13 @@ domain:withyoutube.com
 domain:wmsjsteam.com:@cn
 domain:worldflipper.akamaized.net
 domain:worldflipper.jp
+domain:worldoftanks.com
+domain:worldoftanks.eu
 domain:worldofwarcraft.com
+domain:worldofwarplanes.com
+domain:worldofwarships.com
+domain:wotblitz.com
+domain:wowsblitz.com
 domain:ws-blau.com
 domain:ws-tcg.com
 domain:wtmobile.com

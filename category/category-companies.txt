@@ -1,5 +1,6 @@
 domain:01.org
 domain:0emm.com
+domain:1-account.com
 domain:100beatscheap.com
 domain:1010.com.hk
 domain:10xfotolia.com
@@ -75,6 +76,7 @@ domain:2gis.uz
 domain:2mdn-cn.net:@ads
 domain:2mdn.net:@ads
 domain:2o7.net
+domain:30d.jp
 domain:360autodesk.com
 domain:360nexus.com
 domain:360nexus.net
@@ -142,6 +144,7 @@ domain:acmvalidations.com
 domain:acmvalidationsaws.com
 domain:acpica.com
 domain:acrobat.com
+domain:adam.jp
 domain:adaptivecards.io
 domain:adbecrsl.com
 domain:addthis.com
@@ -305,6 +308,7 @@ domain:alienware.ps
 domain:alienware.ro
 domain:alienware.se
 domain:alienware.us
+domain:alive-project.com
 domain:aliveipc.com
 domain:aliveitsm.com
 domain:aliveprofiler.com
@@ -314,6 +318,7 @@ domain:alivertsm.com
 domain:alivevm.com
 domain:alivevmax.com
 domain:alivevue.com
+domain:alphassl.com:@cn
 domain:altera.co.jp
 domain:altera.com
 domain:alteraforum.com
@@ -437,6 +442,7 @@ domain:anexia-it.com
 domain:anexia.at
 domain:anexia.com
 domain:angulardart.org
+domain:animary.jp
 domain:ankarazirvesi2018.com
 domain:annstores.net
 domain:antenna.co.kr
@@ -858,6 +864,7 @@ domain:atlasonepoint.com
 domain:atlassian-dev.net
 domain:atlassian.com
 domain:atlassian.net
+domain:atokara.jp
 domain:atom.io
 domain:atscaleconference.com
 domain:att-bundles.com
@@ -1180,6 +1187,7 @@ domain:band.us
 domain:bandgirlz.com
 domain:bandpage.com
 domain:bandwagonhost.com
+domain:banksy.tokyo
 domain:barefootnetworks.com
 domain:barkadahansasmartone.com
 domain:baselinestudy.com
@@ -1611,6 +1619,7 @@ domain:brandeasygo.com
 domain:brandelectronic.com
 domain:brandproducts1688.com
 domain:brands098.com
+domain:brantect.com
 domain:brazilpartneruniversity.com
 domain:brazzer.com
 domain:brazzers.com
@@ -1763,6 +1772,7 @@ domain:carbon.com
 domain:careersatfb.com
 domain:carekit.org
 domain:carstagram.com
+domain:cashmart.jp
 domain:casque-fr.com
 domain:casquebeatsbydrdresolohd.com
 domain:casquebeatsdocteurdre.com
@@ -1869,6 +1879,7 @@ domain:chinacloud-mobile.cn:@cn
 domain:chinacloudapi.cn:@cn
 domain:chinacloudapp.cn:@cn
 domain:chinacloudsites.cn:@cn
+domain:chintaidx.com
 domain:chips.com
 domain:chomp.com
 domain:chrome
@@ -1930,6 +1941,7 @@ domain:civitai.com
 domain:clarity.ms:@ads
 domain:clco.cc
 domain:clearlinux.org
+domain:click-sec.com
 domain:click-url.com
 domain:clickedu.co.uk
 domain:climate-server.com
@@ -1942,6 +1954,7 @@ domain:cloudcone.com
 domain:cloudcone.net
 domain:cloudcraze.com
 domain:cloudcredibility.com
+domain:cloudec.jp
 domain:cloudfront-cn.net:@cn
 domain:cloudfront-test.cn:@cn
 domain:cloudfront.cn:@cn
@@ -1969,11 +1982,14 @@ domain:cobatt.com
 domain:cobrasearch.com
 domain:codespot.com
 domain:codethemicrobit.com
+domain:coeteco.jp
 domain:collabora.co.uk
 domain:collabora.com
 domain:collabora.org
 domain:collaboraoffice.com
 domain:collector.github.com:@ads
+domain:colleee.net
+domain:colorme-repeat.jp
 domain:colorprotechnology.com
 domain:comm-verse.com
 domain:como-hackearfacebook.com
@@ -1985,6 +2001,7 @@ domain:compass-systems.com
 domain:componentkit.org
 domain:compresspdf.new
 domain:connect-in-canada.com
+domain:conoha.jp
 domain:conscrypt.com
 domain:conscrypt.org
 domain:constructware.com
@@ -2007,6 +2024,7 @@ domain:coreldraw.com
 domain:corelstore.com
 domain:coreml.net
 domain:coreoptics.net
+domain:coreserver.jp
 domain:cortanaanalytics.com
 domain:cortanaskills.com
 domain:cosmosdb.info
@@ -2082,6 +2100,7 @@ domain:dctbeatsbydre.com
 domain:dealsbeatsblackfriday.com
 domain:debug.com
 domain:debugproject.com
+domain:decopri.net
 domain:deepfreeze.co.uk
 domain:deepfreeze.com
 domain:deepfreeze.com.br
@@ -2268,6 +2287,7 @@ domain:delltechnologiesworld.com
 domain:demandware.com
 domain:demdex.net
 domain:demoprint.com
+domain:dentry.jp
 domain:dependabot.com
 domain:deps.dev
 domain:deps.info
@@ -2492,10 +2512,12 @@ domain:dynamopackages.com
 domain:dynamoreach.com
 domain:dzen.ru
 domain:dzeninfra.ru
+domain:e-estate.jp
 domain:earphonescheapest.com
 domain:earpod.net
 domain:earthdell.com
 domain:easic.com
+domain:easy-signing.com:@cn
 domain:ebookforipad.com
 domain:ebuyheadphones.com
 domain:ecgapp.com.cn:@cn
@@ -2511,6 +2533,7 @@ domain:edu-research.org
 domain:education-cadcam.com
 domain:efproject.net
 domain:einstein.com
+domain:ekiten.jp
 domain:elasticbeanstalk.com
 domain:elderscrolls.com
 domain:emac.co.in
@@ -2524,10 +2547,12 @@ domain:emome.net
 domain:enablementadobe.com
 domain:energystarbuildings.com
 domain:engkoo.com:@cn
+domain:enpay.co.jp
 domain:enpirion.com
 domain:enterprisepaging.com
 domain:episodic.com
 domain:eprintsw.com
+domain:epsilon.jp
 domain:eraofconnection.com
 domain:esbeatsbydrebuy.com
 domain:esmarthealth.com
@@ -2810,6 +2835,7 @@ domain:familyds.com
 domain:familyds.net
 domain:familyds.org
 domain:famosascalvas.com
+domain:fanspot.jp
 domain:faronics.ca
 domain:faronics.co.uk
 domain:faronics.com
@@ -2897,6 +2923,8 @@ domain:ficeboock.com
 domain:fifthns.com
 domain:finalcutpro.com
 domain:financeleadsonline.com
+domain:fincode.jp
+domain:find-a.jp
 domain:find-apple.com
 domain:findmybeats.com
 domain:findmyipad.com
@@ -2914,6 +2942,7 @@ domain:firstns.cc
 domain:fitbit.com
 domain:five-d.com
 domain:flameunleashed.com
+domain:flatt.tech
 domain:flic.kr
 domain:flickr
 domain:flickr.com
@@ -2991,6 +3020,7 @@ domain:fsacebok.com
 domain:fscebook.com
 domain:ftcdn.net
 domain:fuchsia.dev
+domain:fulloutsourcing.jp
 domain:fundaiphone5s.com
 domain:fundraisingwithfacebook.com
 domain:funnyfacebook.org
@@ -3006,6 +3036,7 @@ domain:g.co
 domain:g.dev
 domain:g.page
 domain:gacebook.com
+domain:gaikaex.com
 domain:galaxyappstore.com
 domain:galaxymobile.jp
 domain:game-platform.net
@@ -3039,12 +3070,14 @@ domain:geoport.com
 domain:geospatialimaging.com
 domain:geospatialinfo.com
 domain:gerritcodereview.com
+domain:gesoten.com
 domain:get.app
 domain:get.dev
 domain:get.how
 domain:get.new
 domain:get.page
 domain:get.rsvp
+domain:get.shop
 domain:getboxer.com
 domain:getbumptop.com
 domain:getbuzzsaw.com
@@ -3092,10 +3125,56 @@ domain:gkecnapps.cn:@cn
 domain:gle
 domain:gleline.com
 domain:globaledu.org
+domain:globalsign-media.com
+domain:globalsign.be
+domain:globalsign.ch
+domain:globalsign.cloud
+domain:globalsign.cn:@cn
+domain:globalsign.co.uk
+domain:globalsign.com.au
+domain:globalsign.com.br
+domain:globalsign.com.hk
+domain:globalsign.com.sg
+domain:globalsign.com:@cn
+domain:globalsign.es
+domain:globalsign.eu
+domain:globalsign.fr
+domain:globalsign.net
+domain:globalsign.nl
+domain:globalsigncdn.com:@cn
 domain:gmail
 domain:gmail.com
 domain:gmnetworks.net
+domain:gmo
+domain:gmo-aozora.com
+domain:gmo-app.jp
+domain:gmo-c.jp
+domain:gmo-clinic-map.com
+domain:gmo-connect.com
+domain:gmo-cybersecurity.com
+domain:gmo-digitalpay.jp
+domain:gmo-fg.com
+domain:gmo-healthtech.com
+domain:gmo-insight.jp
+domain:gmo-mobilepay.jp
+domain:gmo-office.com
+domain:gmo-official.shop
+domain:gmo-pa.com
+domain:gmo-pg.com
+domain:gmo-ps.com
+domain:gmo-rakurakuhp.jp
+domain:gmo-rast.co.jp
+domain:gmo-research.ai
+domain:gmo-sol.jp
+domain:gmo-vp.com
+domain:gmo.jp
+domain:gmo.media
+domain:gmoask.jp
+domain:gmobb.jp
+domain:gmocloud.com
 domain:gmodules.com
+domain:gmosign.com
+domain:gmossp.jp
 domain:go-lang.com
 domain:go-lang.net
 domain:go-lang.org
@@ -3116,6 +3195,7 @@ domain:golang.org
 domain:gonglchuangl.net
 domain:goo
 domain:goo.gl
+domain:good-apps.jp
 domain:goodsdunk.net
 domain:goodsrv.de
 domain:goog
@@ -3379,6 +3459,7 @@ domain:googlezip.net
 domain:googlr.com
 domain:goolge.com
 domain:gooogle.com
+domain:goope.jp
 domain:gopayment.com
 domain:gopayments.com
 domain:gopivotal.com
@@ -3435,6 +3516,7 @@ domain:hackfacebook.com
 domain:hackfacebookid.com
 domain:hackharassment.com
 domain:hacklang.org
+domain:hakaru.ai
 domain:hangout
 domain:haplorrhini.com
 domain:happysrv.de
@@ -3462,6 +3544,7 @@ domain:hellokittybeats.com
 domain:hellosmartbook.com
 domain:heptio.cn:@cn
 domain:heptio.com
+domain:heteml.jp
 domain:hetzner-cloud.de
 domain:hetzner.cloud
 domain:hetzner.com
@@ -3515,6 +3598,7 @@ domain:horizontal-systems.com
 domain:horizontalglue.com
 domain:horizontalsystems.com
 domain:hotbeatsonsale.com
+domain:hotel-reviewn.com
 domain:hotmail
 domain:hotmail.co
 domain:hotmail.com
@@ -3802,6 +3886,7 @@ domain:imstagram.com
 domain:imtagram.com
 domain:incentivetravelgifts.com
 domain:indiaipad.com
+domain:infoq.jp
 domain:infraworks.com
 domain:ingads.com
 domain:inkchoice.com
@@ -4204,6 +4289,8 @@ domain:ipodshop.com.au
 domain:ipodtouch.co
 domain:ipodtouch.com
 domain:ipple.com
+domain:iprad-ryoma.com
+domain:ird.co.jp
 domain:ischool.com
 domain:iskoot.com
 domain:islamiccenterofnewlondon.com
@@ -4270,11 +4357,13 @@ domain:jos.com
 domain:jsati.com
 domain:jsatmobile.com
 domain:jwide.co.kr
+domain:jword.jp
 domain:jwt.ms
 domain:kaggle.com
 domain:kaggle.io
 domain:kaggle.net
 domain:kaggleusercontent.com
+domain:kaipoke.jp
 domain:kakao.co.kr
 domain:kakao.com
 domain:kakao.vc
@@ -4298,6 +4387,8 @@ domain:kakaopiccoma.com
 domain:kakaostyle.com
 domain:kakaotalk.jp
 domain:kakaovx.com
+domain:kantan.game
+domain:karabako-gmo.com
 domain:karechat.ai
 domain:kaspersky-labs.com
 domain:kaspersky.be
@@ -4368,16 +4459,20 @@ domain:kindleproject.com
 domain:kingstagram.com
 domain:kinopoisk-ru.clstorage.net
 domain:kinopoisk.ru
+domain:kireipass.jp
 domain:klik.me
 domain:knoxemm.com
 domain:kobbeatssbydredk.com
 domain:kopfhorergunstigshop.com
+domain:koukoku.jp
 domain:kpinsurances.com
 domain:krosspictures.com
 domain:krux.com
 domain:kscisco.com
 domain:kubeacademy.com
 domain:kubeapps.com
+domain:kumagai.com
+domain:kumapon.jp
 domain:kumo.com
 domain:kynogon.com
 domain:l-msedge.net
@@ -4452,6 +4547,7 @@ domain:logitechg.fr
 domain:logitechio.com.cn
 domain:logosfilm.co.kr
 domain:lojaiphone.com.br
+domain:lolipop.jp
 domain:lookinside.com
 domain:louisvuitton.cn:@cn
 domain:louisvuitton.com
@@ -4533,12 +4629,15 @@ domain:mail.ru
 domain:mailchimp.com
 domain:mairbeats.com
 domain:makeanything.com
+domain:makeappli.jp
 domain:makebettercode.com
 domain:makecode.org
 domain:makeeu.com
 domain:makeitopen.com
 domain:makeitrealcontest.com
+domain:makerepeater.jp
 domain:makesenseofdata.com
+domain:makeshop.jp
 domain:makingstartshere.com
 domain:maktoob.com
 domain:mallheadphone.com
@@ -4605,6 +4704,7 @@ domain:meccontroller.com
 domain:media-amazon.com
 domain:media-imdb.com
 domain:mediafiles-cisco.com
+domain:medical-reserve.co.jp
 domain:medicalimplants-cadcam.com
 domain:meet.new
 domain:meetfasttrack.com
@@ -4615,6 +4715,7 @@ domain:megasrv.de
 domain:melon.com
 domain:memealerts.com
 domain:men.com
+domain:meo-dash.com
 domain:mepn.com
 domain:meraki-go.com
 domain:meraki.hk
@@ -4631,6 +4732,7 @@ domain:metamind.io
 domain:metrics.duolingo.com:@ads
 domain:mfg-inspector.com
 domain:mgmt-azure-api.cn:@cn
+domain:michill.jp
 domain:microbit.org
 domain:microsoft
 domain:microsoft-falcon.io
@@ -4764,6 +4866,7 @@ domain:minecraft-services.net
 domain:minecraft.net
 domain:minecraftservices.com
 domain:minecraftshop.com
+domain:minne.com
 domain:mktdns.com
 domain:mkto-c0100.com
 domain:mktorest.com
@@ -4925,6 +5028,7 @@ domain:mudbox3d.com
 domain:multiplydiversity.com
 domain:musickit.net
 domain:musixmatch.com
+domain:muumuu-domain.com
 domain:mvk.com
 domain:mxlogin.com
 domain:mxmcdn.net
@@ -5052,6 +5156,7 @@ domain:niosii.net
 domain:nomachine.com
 domain:nomadproject.io
 domain:nomulus.foo
+domain:nomyne.com
 domain:nonlinearnastran.com
 domain:now-ashare.com
 domain:now-tv.com
@@ -5160,12 +5265,17 @@ domain:ogameblog.com
 domain:ogp.me
 domain:ok.ru
 domain:okcdn.ru
+domain:okiwine.jp
+domain:omakase.in
 domain:omekinteractive.com
 domain:omnitek.tv
 domain:omniture.com
 domain:omtrdc.net
 domain:on.here
 domain:on2.com
+domain:onamae-desktop.com
+domain:onamae-office.com
+domain:onamae.com
 domain:onbeatsbydresale.com
 domain:oneapi.com
 domain:oneapi.io
@@ -5228,10 +5338,13 @@ domain:orbitera.com
 domain:orithegame.com
 domain:orthopaedic-cadcam.com
 domain:orthotics-cadcam.com
+domain:osaipo.jp
+domain:oshiete.ai
 domain:ospray.net
 domain:ospray.org
 domain:ospserver.net
 domain:ouroath.com
+domain:out-app-purchase.com
 domain:outingsapp.com
 domain:outletbeatsshop.com
 domain:outlook.cn:@cn
@@ -5275,6 +5388,7 @@ domain:pccwsolutions.com
 domain:pdf.new
 domain:pentium.com
 domain:pentium.net
+domain:pepabo.com
 domain:perfectkickz.net
 domain:personeelsland.com
 domain:phncdn.com
@@ -5304,6 +5418,7 @@ domain:plansondemand.com
 domain:plasticlabs.com
 domain:plastics-cadcam.com
 domain:platform.dell.com:@cn
+domain:playads.jp
 domain:playfab.com
 domain:playfabapi.com
 domain:playshow.io
@@ -5320,6 +5435,7 @@ domain:plug.game
 domain:pmem.org
 domain:pmem.us
 domain:pocketbiketrader.com
+domain:pointtown.com
 domain:polymer-project.org
 domain:polymerproject.org
 domain:porkbun.com
@@ -5356,6 +5472,8 @@ domain:powershape.com
 domain:powershellgallery.com
 domain:powersrv.de
 domain:powersunitedvr.com
+domain:prcm.jp
+domain:pricesearch.jp
 domain:prime-video.com
 domain:primeday.cn:@cn
 domain:primeday.com.cn:@cn
@@ -5491,6 +5609,7 @@ domain:relateiq.com
 domain:renderingtoolkit.org
 domain:renovacionoffice.com
 domain:renovacionxboxlive.com
+domain:renshu.com
 domain:repo.new
 domain:repsneakermall.com
 domain:repswing.com
@@ -5605,6 +5724,9 @@ domain:securecloudtransformation.com
 domain:securitypreview.com
 domain:sena.co.kr
 domain:sensorynetworks.com
+domain:seo-dash.net
+domain:seodirector.ai
+domain:seotimes.jp
 domain:sequence.com
 domain:servercontrolpanel.de
 domain:serverlesslibrary.net
@@ -5623,9 +5745,11 @@ domain:sharepoint.com
 domain:sharepointonline.com
 domain:shazam.com
 domain:sheets.new
+domain:shisho.dev
 domain:shoers.com
 domain:shoestop2.com
 domain:shop-headphones.net
+domain:shop-pro.jp
 domain:shopalienware.com
 domain:shopbeatsdre.com
 domain:shopbydre.com
@@ -5647,6 +5771,7 @@ domain:shotgunstudio.com
 domain:shotgunvfx.com
 domain:shotwithgeforce.com
 domain:shownote.com
+domain:shuminavi.net
 domain:siege-amazon.com
 domain:sign.new
 domain:signalbar.com
@@ -5675,6 +5800,7 @@ domain:skypedata.akadns.net
 domain:skyperfectjsat.space
 domain:skyperfectv.co.jp
 domain:slides.new
+domain:smaad.net
 domain:smart-edge.com
 domain:smart-edge.info
 domain:smart-edge.io
@@ -5712,6 +5838,7 @@ domain:social.com
 domain:socialcam.com
 domain:socialcammail.com
 domain:socialkam.com
+domain:sokuresu.ai
 domain:solostudioksale.com
 domain:solutionstation.com
 domain:solveforx.com
@@ -5886,6 +6013,7 @@ domain:sustainabledesigncouncil.com
 domain:sustainabledesigncouncil.net
 domain:sustainthesound.com
 domain:suxiebu.com
+domain:suzuri.jp
 domain:svc.ms
 domain:sverigebeatsbydrdre.com
 domain:sway-cdn.com
@@ -5916,6 +6044,7 @@ domain:takegoto.com
 domain:tamtam.chat
 domain:tandberg-china.com
 domain:tandberg.com
+domain:taxel.media
 domain:teamviewer.cn:@cn
 domain:teamviewer.com
 domain:teamviewer.us
@@ -5930,8 +6059,10 @@ domain:tegrazone.kr
 domain:telega.info
 domain:telega.me
 domain:tellmewhygame.com
+domain:tenbin.ai
 domain:tenbyfotolia.com
 domain:tensorflow.org
+domain:tenten.vn
 domain:terraform.io
 domain:terragraph.com
 domain:texture.com
@@ -5988,12 +6119,14 @@ domain:topbeatsdealer.com
 domain:topbeatsforsale.com
 domain:toplayerserver.com
 domain:topobase.com
+domain:toritonssl.com
 domain:touchid.tv
 domain:touchid.wang
 domain:touchsmartpc.com
 domain:touchsmartpc.net
 domain:touchsmartpc.org
 domain:toutapp.com
+domain:townwifi.jp
 domain:toy-cadcam.com
 domain:toycadcam.com
 domain:tracking-location.com
@@ -6013,6 +6146,7 @@ domain:trusted-dwg.com
 domain:trustedanalytics.com
 domain:trustedanalytics.net
 domain:trusteddwg.com
+domain:trustlogin.com
 domain:tryalias.com
 domain:trydesign.com
 domain:tryfunctions.com
@@ -6081,6 +6215,8 @@ domain:v8.dev
 domain:v8project.org
 domain:vagrantcloud.com
 domain:vagrantup.com
+domain:value-domain.com
+domain:value-server.com
 domain:valuegb.com
 domain:vastenm.com
 domain:vaultproject.io
@@ -6254,6 +6390,8 @@ domain:vsphere.net
 domain:vultr.com
 domain:vzw.com
 domain:wa.me
+domain:waccas.com
+domain:wadax.ne.jp
 domain:wallet.com
 domain:wasdj.com
 domain:wattpad.com
@@ -6461,6 +6599,7 @@ domain:xn--ruq8a011kt6y.xn--hxt814e
 domain:xn--ztsq84g.cn
 domain:xo.com
 domain:xplr.co
+domain:xrea.com
 domain:xscale.com
 domain:xtracloud.cn:@cn
 domain:xtracloud.net
@@ -6866,9 +7005,11 @@ domain:yt.be
 domain:ytimg.com
 domain:yusercontent.com
 domain:z.cn:@cn
+domain:z.com
 domain:zappos
 domain:zdxbeta.net
 domain:zdxcloud.net
+domain:zeibit.ai
 domain:zigzag.kr
 domain:zipcine.com
 domain:zpagov.net
@@ -6883,6 +7024,7 @@ domain:zscalershift.com
 domain:zscalerthree.net
 domain:zscalertwo.net
 domain:zscloud.net
+domain:ztrendlab.com
 domain:zuckerberg.com
 domain:zuckerberg.net
 domain:zukunftswerkstatt.de
@@ -6958,6 +7100,7 @@ full:cdn-cn2.apple-mapkit.com:@cn
 full:cdn-cn3.apple-mapkit.com:@cn
 full:cdn-cn4.apple-mapkit.com:@cn
 full:cdn.apple-mapkit.com:@cn
+full:cdn.globalsigncdn.com.cdn.cloudflare.net:@cn
 full:cdn.js7k.com
 full:cdn.marketplaceimages.windowsphone.com:@cn
 full:cdn1.apple-mapkit.com:@cn
@@ -7008,6 +7151,7 @@ full:content.googleadapis.com:@cn
 full:crashlyticsreports-pa.googleapis.com:@cn
 full:crl-lb.apple.com.akadns.net:@cn
 full:crl.apple.com:@cn
+full:crl.globalsign.net:@cn
 full:crl.kaspersky.com:@cn
 full:crl.pki.goog:@cn
 full:crl.versign.net

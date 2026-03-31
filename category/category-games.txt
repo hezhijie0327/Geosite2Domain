@@ -394,6 +394,7 @@ domain:mariokart8.com
 domain:mariosupersluggers.com
 domain:masseffect.com
 domain:masseffectarchives.com
+domain:masteroforion.com
 domain:maxis.com
 domain:me4399.com
 domain:metalrevolution.com
@@ -825,6 +826,8 @@ domain:vrzwk.net
 domain:vrzwk.top
 domain:wanmei.com
 domain:wanwan4399.com
+domain:wargaming.com
+domain:wargaming.net
 domain:wariolandshakeit.com
 domain:wariowarediy.com
 domain:warnerbrosgames.com
@@ -839,6 +842,8 @@ domain:wegame.com
 domain:wegame.com.cn
 domain:wegameplus.com
 domain:werepository.com.cn
+domain:wgcdn.co
+domain:wgcrowd.io
 domain:wii-u.com
 domain:wiifit.com
 domain:wiifitu.com
@@ -853,7 +858,13 @@ domain:wmsjsteam.com:@cn
 domain:wo1wan.com
 domain:worldflipper.akamaized.net
 domain:worldflipper.jp
+domain:worldoftanks.com
+domain:worldoftanks.eu
 domain:worldofwarcraft.com
+domain:worldofwarplanes.com
+domain:worldofwarships.com
+domain:wotblitz.com
+domain:wowsblitz.com
 domain:wtmobile.com
 domain:xbox
 domain:xbox.co

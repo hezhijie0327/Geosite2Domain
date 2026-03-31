@@ -150,6 +150,9 @@ domain:fastlylb.net
 domain:foundationdns.com
 domain:foundationdns.net
 domain:foundationdns.org
+domain:gcdn.co
+domain:gcore.com
+domain:gcore.pro
 domain:iamakamai.com
 domain:iamakamai.net
 domain:imagedelivery.net
