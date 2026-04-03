@@ -169,6 +169,7 @@ domain:capturingreality.com
 domain:castro.fm
 domain:catchplay.com
 domain:cdnvideo.ru
+domain:cdnvideohub.com
 domain:cf-vanguard.com
 domain:championshipseriesleague.com
 domain:charlotte-anime.jp
@@ -945,6 +946,7 @@ domain:origin.com
 domain:origin.tv
 domain:originalhulu.com
 domain:orithegame.com
+domain:our-notes.jp
 domain:overcast.fm
 domain:pandanet-igs.com
 domain:papermc.io

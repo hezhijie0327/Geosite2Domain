@@ -55,6 +55,8 @@ domain:asahi.com
 domain:asahicom.jp
 domain:asakonet.co.jp
 domain:atnext.com
+domain:autoesporte.com
+domain:autoesporte.com.br
 domain:aweencore.com
 domain:awetv.com
 domain:axios.com
@@ -96,6 +98,7 @@ domain:bestmallawards.com
 domain:bestrecipes.com.au
 domain:bgov.com
 domain:bgr.in
+domain:bhfm.com.br
 domain:bidi.net.uk
 domain:bigbigchannel.com.hk
 domain:bigbigshop.com
@@ -182,7 +185,9 @@ domain:caijinglengyan.com
 domain:cairnspost.com.au
 domain:careerfundas.com
 domain:careerjournal.com
+domain:cartola.com.br
 domain:casoneexchange.com
+domain:cbn.com.br
 domain:cbs.com
 domain:cbsaavideo.com
 domain:cbscorporation.com
@@ -301,6 +306,8 @@ domain:enanyang.my
 domain:encoretvb.com
 domain:engadget.com
 domain:epicreads.com
+domain:epoca.com.br
+domain:epocanegocios.com.br
 domain:epoch.cloud
 domain:epoch.org.il
 domain:epochbase.com
@@ -561,6 +568,7 @@ domain:fxn.ws
 domain:fxnetwork.com
 domain:fxnetworks.com
 domain:g-tvapp.com
+domain:g1.com.br
 domain:ganjing.com
 domain:ganjing.world
 domain:ganjingworld.com
@@ -580,12 +588,21 @@ domain:glasamerike.net
 domain:globalriskregulator.com
 domain:globalvoices.org
 domain:globalvoicesonline.org
+domain:globo.com
+domain:globo.com.br
+domain:globoplay.com
+domain:globoplay.com.br
+domain:globoradio.com.br
+domain:globoreporter.com.br
+domain:globorural.com.br
 domain:gnews.org
 domain:goldcoastbulletin.com.au
 domain:golos-ameriki.ru
 domain:golosameriki.com
 domain:gooddaychicago.com
 domain:gotraffic.net
+domain:gshow.com
+domain:gshow.com.br
 domain:gtv.org
 domain:gtv1.org
 domain:gtvmediagroupfairfund.com
@@ -662,6 +679,7 @@ domain:igniteseurope.com
 domain:ind.sh
 domain:india.com
 domain:indiancolleges.com
+domain:infoglobo.com.br
 domain:infotimes.com.tw
 domain:infowars.com
 domain:infowarsmedia.com
@@ -937,6 +955,8 @@ domain:nytimes.com
 domain:nytstyle.com
 domain:oanencore.com
 domain:oann.com
+domain:oghost.com.br
+domain:oglobo.com.br
 domain:omghk.com
 domain:omoplanet.com
 domain:on.cc
@@ -957,6 +977,8 @@ domain:pashtovoa.com
 domain:passiontimes.hk
 domain:pcmarket.com.hk
 domain:peacocktv.com
+domain:pegn.com
+domain:pegn.com.br
 domain:pensions-expert.com
 domain:peoplenews.tw
 domain:persagg.com
@@ -978,6 +1000,7 @@ domain:qmap.pub
 domain:quicktake.video
 domain:racked.com
 domain:radiofarda.com
+domain:radioglobo.com.br
 domain:radiomango.fm
 domain:radiomarsho.com
 domain:radiosvoboda.org
@@ -1025,6 +1048,13 @@ domain:reuters.com
 domain:reuters.tv
 domain:reutersagency.cn
 domain:reutersmedia.net
+domain:revistaepoca.com
+domain:revistaepoca.com.br
+domain:revistagalileu.com.br
+domain:revistapegn.com
+domain:revistapegn.com.br
+domain:revistaquem.com.br
+domain:revistavalor.com.br
 domain:rexcha.com
 domain:rfa.org
 domain:rferl.org
@@ -1065,6 +1095,7 @@ domain:seiron-sankei.com
 domain:setn.com
 domain:settv.com.tw
 domain:severreal.org
+domain:sgr.com.br
 domain:sharpdaily.tw
 domain:shelfstuff.com
 domain:shenyun.com
@@ -1143,6 +1174,8 @@ domain:taste.com.au
 domain:techatbloomberg.com
 domain:technews.tw
 domain:techradar.com
+domain:techtudo.com
+domain:techtudo.com.br
 domain:teenchoice.com
 domain:testonfox.com
 domain:the-japan-news.com
@@ -1245,6 +1278,8 @@ domain:udndata.com
 domain:udnfunlife.com
 domain:ulifestyle.com.hk
 domain:umagazine.com.hk
+domain:umsoplaneta.com
+domain:umsoplaneta.com.br
 domain:universalorlando.com
 domain:universalpictures.com
 domain:universalpicturesinternational.com
@@ -1255,6 +1290,10 @@ domain:upmedia.mg
 domain:urduvoa.com
 domain:usatoday.com
 domain:usatodaynetworkservice.com
+domain:valor.com.br
+domain:valoreconomico.com.br
+domain:valorinveste.com
+domain:valorinveste.com.br
 domain:vanitaonline.com
 domain:vanitha.in
 domain:vanithaveedu.com
@@ -1342,6 +1381,7 @@ domain:wsjshop.com
 domain:wsjwine.com
 domain:wujieliulan.com
 domain:xinsheng.net
+domain:xuxaverso.com.br
 domain:xwbo.com
 domain:ycombinator.com
 domain:ydn.com.tw

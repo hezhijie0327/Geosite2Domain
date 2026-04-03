@@ -2450,6 +2450,8 @@ domain:autodeskviewer.com
 domain:autodeskworkshop.com
 domain:autodeskworkshop.net
 domain:autodraw.com
+domain:autoesporte.com
+domain:autoesporte.com.br
 domain:automaton-media.com
 domain:automobile.fr
 domain:automotive-cadcam.com
@@ -3274,6 +3276,7 @@ domain:bgm.tv
 domain:bgov.com
 domain:bgr.in
 domain:bhent.co.kr
+domain:bhfm.com.br
 domain:bhggn.xyz
 domain:bhzyk.buzz
 domain:bhzyw2.top
@@ -4597,6 +4600,7 @@ domain:cargigileads.com
 domain:caribbeancom.com
 domain:caribbeancompr.com
 domain:carstagram.com
+domain:cartola.com.br
 domain:cartoon-sex.tv
 domain:cartoon18.com
 domain:cartoon3thumbs.com
@@ -4654,6 +4658,7 @@ domain:cbart.net
 domain:cbbank.com.mm
 domain:cbi.ir
 domain:cbm.com.mm
+domain:cbn.com.br
 domain:cbs.com
 domain:cbsaavideo.com
 domain:cbscorporation.com
@@ -4703,6 +4708,7 @@ domain:cdnmhwscc.vip
 domain:cdnpure.com
 domain:cdnuc.vip
 domain:cdnvideo.ru
+domain:cdnvideohub.com
 domain:cdnxxx-proxy.co
 domain:cdnxxx-proxy.xyz
 domain:cebay.com
@@ -7066,6 +7072,8 @@ domain:epigeum.com
 domain:epikporn.com
 domain:epinions.com
 domain:episodic.com
+domain:epoca.com.br
+domain:epocanegocios.com.br
 domain:epoch.cloud
 domain:epoch.org.il
 domain:epochbase.com
@@ -8472,6 +8480,7 @@ domain:g.cn:@cn
 domain:g.co
 domain:g.dev
 domain:g.page
+domain:g1.com.br
 domain:gab.com
 domain:gacebook.com
 domain:gaijin.net
@@ -8855,6 +8864,13 @@ domain:globalsigncdn.com:@cn
 domain:globalspec.com
 domain:globalvoices.org
 domain:globalvoicesonline.org
+domain:globo.com
+domain:globo.com.br
+domain:globoplay.com
+domain:globoplay.com.br
+domain:globoradio.com.br
+domain:globoreporter.com.br
+domain:globorural.com.br
 domain:gloporn.com
 domain:gloryholeswallow.com
 domain:gloryofheracles.com
@@ -9330,6 +9346,8 @@ domain:grss-ieee.org
 domain:grupobmw.com
 domain:gscanada.info
 domain:gsccdn.com
+domain:gshow.com
+domain:gshow.com.br
 domain:gslink.us
 domain:gsrc.io
 domain:gstatic.cn:@cn
@@ -10784,6 +10802,7 @@ domain:infinitetube.com
 domain:influencersgonewild.com
 domain:infocert.digital
 domain:infocert.it
+domain:infoglobo.com.br
 domain:infolinker.com.tw
 domain:infoq.jp
 domain:informs.org
@@ -15082,6 +15101,8 @@ domain:offworldindustries.net
 domain:ofiii.com
 domain:ogakikyoritsu.co.jp
 domain:ogameblog.com
+domain:oghost.com.br
+domain:oglobo.com.br
 domain:ogp.me
 domain:ohentai.org
 domain:ohgratisporrfilm.com
@@ -15331,6 +15352,7 @@ domain:otokonokoland.com
 domain:oudoll.com
 domain:oup.com
 domain:ouplaw.com
+domain:our-notes.jp
 domain:ouroath.com
 domain:oursexgames.com
 domain:ourshdtv.com
@@ -15728,6 +15750,8 @@ domain:pearsonvue.net
 domain:peekvids.com
 domain:peepholecam.com
 domain:peerj.com
+domain:pegn.com
+domain:pegn.com.br
 domain:pelvicexam.info
 domain:penisbot.com
 domain:pensions-expert.com
@@ -16780,6 +16804,7 @@ domain:radian6.com
 domain:radiko-cf.com
 domain:radiko.jp
 domain:radiofarda.com
+domain:radioglobo.com.br
 domain:radiomango.fm
 domain:radiomarsho.com
 domain:radiosvoboda.org
@@ -17047,6 +17072,13 @@ domain:reuters.tv
 domain:reutersagency.cn
 domain:reutersmedia.net
 domain:revenue-performance-management.com
+domain:revistaepoca.com
+domain:revistaepoca.com.br
+domain:revistagalileu.com.br
+domain:revistapegn.com
+domain:revistapegn.com.br
+domain:revistaquem.com.br
+domain:revistavalor.com.br
 domain:revit.com
 domain:revitcc.com
 domain:revitsucks.net
@@ -17726,6 +17758,7 @@ domain:sfx.ms
 domain:sg120.me
 domain:sg1lib.org
 domain:sgp1.fun
+domain:sgr.com.br
 domain:sgspe.de
 domain:sgspt.buzz
 domain:sh-xuxingda.com
@@ -18905,6 +18938,8 @@ domain:technologyandsociety.org
 domain:techradar.com
 domain:techstreet.com
 domain:techtimes.com
+domain:techtudo.com
+domain:techtudo.com.br
 domain:ted.com
 domain:tedcdn.com
 domain:teen-girl.net
@@ -19757,6 +19792,8 @@ domain:ultrasrv.de
 domain:umagazine.com.hk
 domain:umass.edu
 domain:umbrella.com
+domain:umsoplaneta.com
+domain:umsoplaneta.com.br
 domain:un.org
 domain:unbrandedproducts.com
 domain:uncams.com
@@ -19877,6 +19914,10 @@ domain:vaginalultrasound.info
 domain:vaginapics.pro
 domain:vagrantcloud.com
 domain:vagrantup.com
+domain:valor.com.br
+domain:valoreconomico.com.br
+domain:valorinveste.com
+domain:valorinveste.com.br
 domain:valoryirene.com
 domain:value-domain.com
 domain:value-server.com
@@ -21520,6 +21561,7 @@ domain:xtubezoo.com
 domain:xu97.vip
 domain:xuite.net
 domain:xujan.com
+domain:xuxaverso.com.br
 domain:xv-ru.com
 domain:xv1.monster
 domain:xvds.tv

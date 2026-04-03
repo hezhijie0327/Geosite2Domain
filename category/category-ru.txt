@@ -5,6 +5,7 @@ domain:avito.st
 domain:avs.io
 domain:beeline.tv
 domain:boosty.to
+domain:cdnvideohub.com
 domain:chizhik.club
 domain:dbo-dengi.online
 domain:dodois.com

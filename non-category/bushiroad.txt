@@ -23,6 +23,7 @@ domain:hibiki-cast.jp
 domain:hikosen.co.jp
 domain:njpw.co.jp
 domain:njpw1972.com
+domain:our-notes.jp
 domain:rebirth-fy.com
 domain:revuestarlight.com
 domain:shadowverse-evolve.com
