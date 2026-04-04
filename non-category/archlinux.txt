@@ -1,3 +1,4 @@
 domain:archlinux.org
 domain:archlinuxarm.org
 domain:archlinuxcn.org
+domain:pkgbuild.com

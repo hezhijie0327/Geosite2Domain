@@ -1832,6 +1832,7 @@ full:videos-rockstargames-com.akamaized.net
 full:vod-abematv.akamaized.net
 full:wb-agora-hydra-file-storage-k1.s3.amazonaws.com
 full:weblive-hamivideo.cdn.hinet.net
+full:ws.audioscrobbler.com
 full:www4-static.gog-statics.com:@cn
 full:xz.pphimalayanrt.com:@cn
 full:yt3.googleusercontent.com

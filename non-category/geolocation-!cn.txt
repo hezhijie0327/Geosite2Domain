@@ -7210,6 +7210,7 @@ domain:eset.systems
 domain:esetsoftware.com
 domain:eskimotube.com
 domain:esm.run
+domain:esm.sh
 domain:esmarthealth.com
 domain:esmatube.com
 domain:esopworld.com
@@ -15945,6 +15946,7 @@ domain:pjbyj.top
 domain:pjful-app.lol
 domain:pjgirls.com
 domain:pjsekai.sega.jp
+domain:pkgbuild.com
 domain:pki-post.ch
 domain:pki-posta.ch
 domain:pki-poste.ch
@@ -23135,6 +23137,7 @@ full:weather-map2.apple.com:@cn
 full:weatherkit.apple.com:@cn
 full:widgets.stripst.com
 full:wrds-www.wharton.upenn.edu
+full:ws.audioscrobbler.com
 full:wscont1.apps.microsoft.com:@cn
 full:wscont2.apps.microsoft.com:@cn
 full:www-csb.dell.com:@cn

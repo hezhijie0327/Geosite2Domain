@@ -139,6 +139,7 @@ domain:edgekey88.net:@cn
 domain:edgesuite.net
 domain:encryptedsni.com
 domain:esm.run
+domain:esm.sh
 domain:every1dns.net
 domain:fastly-edge.com
 domain:fastly-terrarium.com

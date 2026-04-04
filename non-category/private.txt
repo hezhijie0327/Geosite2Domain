@@ -112,7 +112,6 @@ domain:plex.direct
 domain:router.ctc
 domain:tendawifi.com
 domain:test
-domain:test.steampowered.com
 domain:tplinkwifi.net
 domain:ts.net
 domain:zte.home
