@@ -5142,6 +5142,7 @@ domain:skycn.com
 domain:skydweller.cn
 domain:skypixel.com
 domain:skysea.com
+domain:skywt.cn
 domain:sl916.com
 domain:slbauto.com
 domain:slk1.net
@@ -5328,6 +5329,7 @@ domain:t8tms.com
 domain:t9tms.com
 domain:tacool.com
 domain:tadu.com
+domain:tai3.cn
 domain:taichuan.com
 domain:taichuan.net
 domain:taihe.com

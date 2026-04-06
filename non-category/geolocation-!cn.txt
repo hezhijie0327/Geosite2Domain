@@ -189,6 +189,7 @@ domain:20thcenturystudios.com.au
 domain:20thcenturystudios.com.br
 domain:20thcenturystudios.jp
 domain:20yearsoffea.com
+domain:21-school.ru
 domain:21centuryaccess.com
 domain:21heise360dh.cc
 domain:21hub.com
@@ -667,7 +668,7 @@ domain:addthiscdn.com
 domain:addthisedge.com
 domain:addtoany.com
 domain:adelaidenow.com.au
-domain:adfox.ru
+domain:adfox.ru:@ads
 domain:adgoogle.net
 domain:adguard-dns.com
 domain:adguard-dns.io
@@ -769,7 +770,7 @@ domain:adidastabletennis.com
 domain:adidasusnews.com
 domain:adinst.com
 domain:admeld.com
-domain:admetrica.ru
+domain:admetrica.ru:@ads
 domain:admob-cn.com:@ads
 domain:admob.com:@ads
 domain:adobe-aemassets-value.com
@@ -823,6 +824,7 @@ domain:ads-api.duolingo.com:@ads
 domain:ads-pixiv.net:@ads
 domain:ads-twitter.com:@ads
 domain:ads.yahoo.com:@ads
+domain:ads.yandex:@ads
 domain:ads.youtube.com:@ads
 domain:adsense.com:@ads
 domain:adsensecustomsearchads.com:@ads
@@ -923,6 +925,7 @@ domain:affect3dstore.com
 domain:affinity.api.serifservices.com
 domain:affinity.studio
 domain:affirmtrust.com
+domain:afisha.ru
 domain:afkv28.com
 domain:aflamporn.com
 domain:aflamsex.net
@@ -1206,6 +1209,7 @@ domain:alexafund.cn:@cn
 domain:alexafund.com.cn:@cn
 domain:alexanderstreet.com
 domain:alfabank.ru
+domain:alfabank.st
 domain:alfera.com.hk
 domain:alfera.com.my
 domain:alfera.in
@@ -3178,6 +3182,7 @@ domain:benaughty.fun
 domain:bengalisexvideos.com
 domain:benliton.com
 domain:bentobox.tv
+domain:berizaryad.ru
 domain:berkanawireless.com
 domain:berkeley.edu
 domain:berlincompanions.com
@@ -4132,6 +4137,7 @@ domain:boyspornpics.com
 domain:boyvid.com
 domain:boyztube.com
 domain:bpi.ir
+domain:bps-sberbank.by
 domain:braeburncapital.com
 domain:braintreegateway.com
 domain:braintreegateway.tv
@@ -4732,6 +4738,7 @@ domain:censorship.ai
 domain:censorship.no
 domain:centervillage.co.jp
 domain:centos.org
+domain:centraluniversity.ru
 domain:centralvalidation.com
 domain:centrino.com
 domain:centrino.net
@@ -4994,6 +5001,7 @@ domain:citizenlab.ca
 domain:citizenlab.org
 domain:citrixandautodesk.com
 domain:city-hentai.com
+domain:citydrive.ru
 domain:cityheaven.net
 domain:citylab.com
 domain:cityoflove.com
@@ -5027,6 +5035,7 @@ domain:claude.com
 domain:claudemcpclient.com
 domain:claudeusercontent.com
 domain:clawhub.ai
+domain:clck.ru
 domain:clco.cc
 domain:clearasil.cn:@cn
 domain:clearasil.com.cn:@cn
@@ -5053,6 +5062,7 @@ domain:clipsex.asia
 domain:clitgames.com
 domain:clock.isc.org
 domain:clojure.org
+domain:cloud.ru
 domain:cloudapp.net
 domain:cloudappsecurity.com
 domain:cloudburstresearch.com
@@ -5126,11 +5136,13 @@ domain:cloudlock.com
 domain:cloudn.me
 domain:cloudproxy.app
 domain:cloudrobotics.com
+domain:cloudru.cn:@cn
 domain:cloudvolumes.com
 domain:cloudyzgirl.com
 domain:cloupia.com
 domain:cloupia.net
 domain:clova.ai
+domain:clstorage.net
 domain:clubhouse.com
 domain:clubhouseapi.com
 domain:clubseventeen.com
@@ -5453,6 +5465,7 @@ domain:ctotires.com
 domain:ctv.com.tw
 domain:ctwant.com
 domain:ctyun.online
+domain:cu.ru
 domain:cubicmotion.com
 domain:cubicodyssey.game
 domain:cuckfilmswifefuck.com
@@ -6301,6 +6314,7 @@ domain:dollarfotoclub.com
 domain:dollarphotoclub.com
 domain:dollarphotosclub.com
 domain:dolphiners.com
+domain:dolyame.ru
 domain:dombosco.com.br
 domain:domywife.com
 domain:donatecarsoh.org
@@ -6644,6 +6658,7 @@ domain:eamythic.com
 domain:eamythic.net
 domain:eanordic.com
 domain:eaplay.com
+domain:eapteka.ru
 domain:earngeek.com
 domain:earphonescheapest.com
 domain:earpod.net
@@ -6934,6 +6949,7 @@ domain:ekhokavkaza.com
 domain:ekiten.jp
 domain:ekolojik.org
 domain:el-ladies.com
+domain:elama.ru
 domain:elasticbeanstalk.com
 domain:elderscrolls.com
 domain:electbabe.com
@@ -8597,6 +8613,8 @@ domain:gaytopcams.com
 domain:gaytube.com
 domain:gayvl.net
 domain:gazounabi.com
+domain:gazprombank.com
+domain:gazprombank.investments
 domain:gazprombank.ru
 domain:gbank.com.mm
 domain:gbiz
@@ -8765,6 +8783,7 @@ domain:giantessbooru.com
 domain:giffgaff.com
 domain:giffgaff.design
 domain:gifnuki.com
+domain:giga.chat
 domain:gigabyte.cn:@cn
 domain:gigabyte.com
 domain:gigantits.com
@@ -10483,6 +10502,7 @@ domain:icloudsecure.net
 domain:icloudsetup.com
 domain:icsd.fiz-karlsruhe.de
 domain:icuminside.com
+domain:id.ru
 domain:idarkdoll.com
 domain:idea-server.com
 domain:ideal-teens.com
@@ -12014,7 +12034,6 @@ domain:kinklive.com
 domain:kinkoid.com
 domain:kinkyfamily.com
 domain:kinkypeepz.com
-domain:kinopoisk-ru.clstorage.net
 domain:kinopoisk.ru
 domain:kinorium.com
 domain:kir2kos.net
@@ -12100,6 +12119,7 @@ domain:kumapon.jp
 domain:kumo.com
 domain:kun66.xyz
 domain:kundun1069.com
+domain:kuper.ru
 domain:kusugurizanmai.com
 domain:kutjeporno.com
 domain:kynogon.com
@@ -13043,6 +13063,8 @@ domain:mega.nz
 domain:megacamz.com
 domain:megafilmporno.com
 domain:megalodon.jp
+domain:megamarket.ru
+domain:megamarket.tech
 domain:megamon.co.kr
 domain:megaphone.fm
 domain:megapornfreehd.com
@@ -13097,6 +13119,7 @@ domain:metaporn.com
 domain:metart.com
 domain:metartnetwork.com
 domain:metcams.com
+domain:meteum.ai
 domain:metrics.duolingo.com:@ads
 domain:metro.co.uk
 domain:metropolitana.tokyo
@@ -15349,6 +15372,7 @@ domain:otaku-168.com
 domain:otaku18a.info
 domain:otaku55.xyz
 domain:otbm.com
+domain:otello.ru
 domain:otokonokoland.com
 domain:oudoll.com
 domain:oup.com
@@ -15505,6 +15529,7 @@ domain:paydiant.com
 domain:paygonline.com
 domain:payhulu.com
 domain:paylike.com
+domain:payment.ru
 domain:paypa1.com
 domain:paypa1.org
 domain:paypaal.com
@@ -15798,6 +15823,7 @@ domain:phimsexhentai.me
 domain:phimsexkhongche.cyou
 domain:phimsexnhanh.club
 domain:phncdn.com
+domain:phoenix-ca.ru
 domain:photo-image.monster
 domain:photolia.net
 domain:photonicssociety.org
@@ -16023,6 +16049,7 @@ domain:pmem.org
 domain:pmem.us
 domain:pnas.org
 domain:pobl-content.com
+domain:pochtabank.ru
 domain:pocketbiketrader.com
 domain:pocketcasts.com
 domain:poe.com
@@ -16588,6 +16615,8 @@ domain:proxyrarbg.org
 domain:prpops.com
 domain:prts.plus
 domain:ps-exchange.com
+domain:psb-ocenka.ru
+domain:psb.ru
 domain:psbank.ru
 domain:pscdn.co
 domain:pscp.tv
@@ -17308,6 +17337,7 @@ domain:salesforceliveagent.com
 domain:salesforcemarketingcloud.com
 domain:sambaporno.com
 domain:samebags.com
+domain:samokat.ru
 domain:samsung
 domain:samsung.com
 domain:samsungads.com:@ads
@@ -17393,9 +17423,27 @@ domain:sb-telecom.net
 domain:sb.sb
 domain:sb24.com
 domain:sbank.ir
+domain:sber-bank.by
+domain:sber.pro
 domain:sber.ru
+domain:sberauto.com
+domain:sberbank-insurance.ru
 domain:sberbank.com
 domain:sberbank.ru
+domain:sberbankins.ru
+domain:sbercloud.ru
+domain:sbercloud.tech
+domain:sberdevices.ru
+domain:sberdisk.ru
+domain:sberhealth.ru
+domain:sberindex.ru
+domain:sberleasing.ru
+domain:sberlogistics.ru
+domain:sbermarketing.ru:@ads
+domain:sbermegamarket.ru
+domain:sbermobile.ru
+domain:sberpb.ru
+domain:sbertroika.ru
 domain:sbgkstv.shop
 domain:sbishinseibank.co.jp
 domain:sbitravelcard.com
@@ -17792,6 +17840,7 @@ domain:sharmota.com
 domain:sharpdaily.tw
 domain:shazam.com
 domain:shdd.ink
+domain:shedevrum.ai
 domain:sheets.new
 domain:sheflix.com
 domain:shegg.com
@@ -18298,6 +18347,7 @@ domain:soundcloud.com
 domain:soundofhope.eu
 domain:soundofhope.kr
 domain:soundofhope.org
+domain:sourcecraft.dev
 domain:sourceforge.com
 domain:sourceforge.net
 domain:sourcegraph.com
@@ -18328,6 +18378,8 @@ domain:spankingtube.com
 domain:spankmonster.com
 domain:spankred3d.com
 domain:spankwire.com
+domain:spasibosb.ru
+domain:spasibosberbank.ru
 domain:spcc-sp.com
 domain:spearhead.kr
 domain:specialtyheadphones.com
@@ -18546,6 +18598,7 @@ domain:stateofthemap.com
 domain:stateofthemap.org
 domain:static-cisco.com
 domain:static-nike.com
+domain:static-storage.net
 domain:static-verizon.com
 domain:static.fun
 domain:static9.net.au
@@ -18846,8 +18899,12 @@ domain:szabadeuropa.hu
 domain:szcheapmonsterheadphones.com
 domain:szexvideo.top
 domain:szwinnertechnology.com
+domain:t-bank-app.ru
+domain:t-j.ru
 domain:t-msedge.net
 domain:t-splines.com
+domain:t-static.ru
+domain:t-technologies.ru
 domain:t.co
 domain:t.me
 domain:t66y.com
@@ -19324,6 +19381,10 @@ domain:tinkerboxapp.com
 domain:tinkercad.com
 domain:tinkerentertainment.com
 domain:tinkerplay.net
+domain:tinkoff-group.com
+domain:tinkoff.ru
+domain:tinkoffjournal.ru
+domain:tinsurance.ru
 domain:tiny4k.com
 domain:tinyurl.com
 domain:tiohentai.com
@@ -19804,6 +19865,7 @@ domain:uncensoredsexparties.com
 domain:underhentai.net
 domain:underlords.com
 domain:unfiltered.news
+domain:unidraw.io
 domain:uninhibitedcomix.com
 domain:unisat.io
 domain:uniswap.org
@@ -20921,8 +20983,8 @@ domain:webrtc.org
 domain:webtoons.com
 domain:webtoonscorp.com
 domain:webtype.com
-domain:webvisor.com
-domain:webvisor.org
+domain:webvisor.com:@ads
+domain:webvisor.org:@ads
 domain:weekly-economist.com
 domain:weeklytimesnow.com.au
 domain:weimi180.com
@@ -21747,10 +21809,11 @@ domain:xxxyoungxxx.com
 domain:xzone.to
 domain:xzxxporn.com
 domain:xzxxtube.com
+domain:ya.cc
 domain:ya.ru
 domain:yaddal.tv
 domain:yadori.club
-domain:yads.tech
+domain:yads.tech:@ads
 domain:yaeby.info
 domain:yaeby.pro
 domain:yahoo
@@ -21923,9 +21986,10 @@ domain:yamoon.club
 domain:yande.re
 domain:yandex
 domain:yandex-bank.net
-domain:yandex-images.clstorage.net
+domain:yandex-metrica.ru:@ads
 domain:yandex-team.ru
 domain:yandex.aero
+domain:yandex.asia
 domain:yandex.az
 domain:yandex.by
 domain:yandex.cloud
@@ -21947,6 +22011,7 @@ domain:yandex.kz
 domain:yandex.lt
 domain:yandex.lv
 domain:yandex.md
+domain:yandex.mobi
 domain:yandex.net
 domain:yandex.org
 domain:yandex.pl
@@ -21961,7 +22026,8 @@ domain:yandex.uz
 domain:yandexadexchange.net
 domain:yandexcloud.net
 domain:yandexcom.net
-domain:yandexmetrica.com
+domain:yandexlyceum.ru
+domain:yandexmetrica.com:@ads
 domain:yandexwebcache.net
 domain:yandexwebcache.org
 domain:yantaqu.com
@@ -21982,6 +22048,7 @@ domain:yavtube.com
 domain:yaya.cyou
 domain:yayadizhi.xyz
 domain:yazhouse8.com
+domain:yccdn.ru
 domain:ycombinator.com
 domain:ydn.com.tw
 domain:yeonda.com
@@ -22465,6 +22532,8 @@ domain:zuckerberg.com
 domain:zuckerberg.net
 domain:zukunftswerkstatt.de
 domain:zunked.com
+domain:zvuk-b2b.com
+domain:zvuk.com
 domain:zweiporn.com
 domain:zwtvusa.com
 domain:zynga.com
@@ -22499,10 +22568,17 @@ full:ad-display.diwodiwo.xyz:@ads
 full:adcdownload.apple.com.akadns.net:@cn
 full:adcdownload.apple.com:@cn
 full:adeventtracker.spotify.com:@ads
+full:adfox.yandex.ru:@ads
+full:adfstat.yandex.ru:@ads
 full:admob-cn.com:@cn
 full:adobeereg.com
+full:ads.yandex.com:@ads
+full:ads.yandex.ru:@ads
+full:adsdk.yandex.ru:@ads
 full:adservice.google.com:@cn
 full:adstudio-assets.scdn.co:@ads
+full:adv.yandex.com:@ads
+full:adv.yandex.ru:@ads
 full:afcs.dell.com:@cn
 full:alibaba.cdn.steampipe.steamcontent.com:@cn
 full:alt1-mtalk.google.com:@!cn
@@ -22511,6 +22587,7 @@ full:alt3-mtalk.google.com:@!cn
 full:alt4-mtalk.google.com:@!cn
 full:alt5-mtalk.google.com:@!cn
 full:alt6-mtalk.google.com:@!cn
+full:amc.yandex.ru:@ads
 full:amp-api-edge-lb-cn.itunes-apple.com.akadns.net:@cn
 full:amp-api-edge-lb.itunes-apple.com.akadns.net:@cn
 full:amp-api-edge.apps.apple.com:@cn
@@ -22520,12 +22597,15 @@ full:amp-api-updates.apps.apple.com:@cn
 full:amp-api.apps.apple.com:@cn
 full:amp-api.media.apple.com:@cn
 full:amp-api.music.apple.com:@cn
+full:an.yandex.ru:@ads
 full:analytics.google.com:@ads
+full:analytics.mobile.yandex.net:@ads
 full:angle.com.tw
 full:aod-ssl.itunes.apple.com:@cn
 full:aod.itunes.apple.com:@cn
 full:api-edge.apps.apple.com:@cn
 full:api-p.videomarket.jp
+full:api.appmetrica.yandex.ru:@ads
 full:app-analytics-services.com:@cn
 full:app-measurement-cn.com:@cn
 full:app-measurement.com:@cn
@@ -22554,6 +22634,8 @@ full:blizzard.nefficient.co.kr
 full:bloodhound.spotify.com:@ads
 full:bookkeeper.itunes.apple.com:@cn
 full:browser-intake-datadoghq.com:@ads
+full:browser-updater.yandex.net:@ads
+full:bs.yandex.ru:@ads
 full:build.microsoft.com:@cn
 full:bybit.ada.support
 full:c.admob.com:@cn
@@ -22599,9 +22681,12 @@ full:cl4-cn.apple.com:@cn
 full:cl4.apple.com:@cn
 full:cl5-cdn.origin-apple.com.akadns.net:@cn
 full:cl5.apple.com:@cn
+full:clck.yandex.net:@ads
+full:clck.yandex.ru:@ads
 full:clickserve.cc-dt.com:@cn
 full:clickserve.dartsearch.net:@cn
 full:clickserver.googleads.com:@cn
+full:clickstream.sberbank.ru:@ads
 full:client-api.itunes.apple.com:@cn
 full:clientflow.apple.com.akadns.net:@cn
 full:clientflow.apple.com:@cn
@@ -22618,6 +22703,8 @@ full:configuration.apple.com.akadns.net:@cn
 full:configuration.apple.com:@cn
 full:connectivitycheck.gstatic.com:@cn
 full:content.googleadapis.com:@cn
+full:counter.yandex.net:@ads
+full:counter.yandex.ru:@ads
 full:crashlyticsreports-pa.googleapis.com:@cn
 full:crl-lb.apple.com.akadns.net:@cn
 full:crl.apple.com:@cn
@@ -22693,6 +22780,7 @@ full:edge.geo.kaspersky.com:@cn
 full:elib.maruzen.co.jp
 full:emmapplecodevice.googleapis.com:@cn
 full:emoi-cncdn.bing.com:@cn
+full:error-tracking.megamarket.tech:@ads
 full:experiments.apple.com:@cn
 full:f.c2r.ts.cdn.office.net:@cn
 full:f3b7q2p3.ssl.hwcdn.net
@@ -22785,6 +22873,7 @@ full:imperial.insendi.com
 full:inappcheck-cn.itunes-apple.com.akadns.net:@cn
 full:inappcheck-lb.itunes-apple.com.akadns.net:@cn
 full:inappcheck.itunes.apple.com:@cn
+full:informer.yandex.ru:@ads
 full:ingest.apple-studies.com
 full:init-kt.apple.com:@cn
 full:init-p01md-lb.push-apple.com.akadns.net:@cn
@@ -22853,6 +22942,8 @@ full:logger.corp.google.com:@cn
 full:login.corp.google.com:@cn
 full:lv.queniujq.cn:@cn
 full:maps.apple.com:@cn
+full:mc.yandex.com:@ads
+full:mc.yandex.ru:@ads
 full:mdn.mozillademos.org
 full:mdr.ksn.kaspersky-labs.com:@cn
 full:medone-education.thieme.com
@@ -22860,6 +22951,7 @@ full:menu-static.gog-statics.com:@cn
 full:mesu-cdn.apple.com.akadns.net:@cn
 full:mesu-china.apple.com.akadns.net:@cn
 full:mesu.apple.com:@cn
+full:metrika.yandex.ru:@ads
 full:misc-assets.itunes.apple.com:@cn
 full:ml.cdn-apple.com:@cn
 full:monitoring.qpdp1.net:@cn
@@ -22939,6 +23031,8 @@ full:pba0.apple.com:@cn
 full:pd-nk.itunes.apple.com:@cn
 full:pd.itunes.apple.com:@cn
 full:performanceparameters.googleapis.com:@cn
+full:pix.yandex.ru:@ads
+full:pixel.yandex.net:@ads
 full:pki-goog.l.google.com:@cn
 full:play.itunes.apple.com:@cn
 full:play.music.apple.com:@cn
@@ -22977,6 +23071,9 @@ full:redirector.offline-maps.gvt1.com:@cn
 full:redirector.snap.gvt1.com:@cn
 full:redirector.xn--ngstr-lra8j.com:@cn
 full:refresh-bkg.activation-v2.kaspersky.com:@cn
+full:report-partners.appmetrica.yandex.net:@ads
+full:report.ap.yandex-net.ru:@ads
+full:report.appmetrica.yandex.net:@ads
 full:res-1.cdn.office.net:@cn
 full:res.cdn.office.net:@cn
 full:reserve-prime.apple.com:@cn
@@ -23030,6 +23127,7 @@ full:s5.mzstatic.com:@cn
 full:sa78gs.wpc.edgecastcdn.net
 full:safebrowsing-cache.google.com:@cn
 full:safebrowsing.googleapis.com:@cn
+full:sberpro.vedomosti.ru
 full:scanservice1.qcpp1.net:@cn
 full:scene7-cdn.dell.com:@cn
 full:sdx.microsoft.com:@cn
@@ -23040,6 +23138,7 @@ full:seed-sequoia.siri.apple.com:@cn
 full:seed-swallow.siri.apple.com:@cn
 full:seed.siri.apple.com:@cn
 full:sentry.hetzner.company:@ads
+full:sentry.sberauto.com:@ads
 full:sequoia.apple.com:@cn
 full:service.urchin.com:@cn
 full:sf-api-token-service.itunes.apple.com:@cn
@@ -23109,6 +23208,7 @@ full:tj-pod1-smp-device.apple.com:@cn
 full:tools.google.com:@cn
 full:tools.l.google.com:@cn
 full:tp.louisvuitton.com:@cn
+full:tracing-http.megamarket.tech:@ads
 full:uberproxy-debug4.corp.google.com:@cn
 full:uberproxy.corp.google.com:@cn
 full:uberproxy6.corp.google.com:@cn
@@ -23126,6 +23226,7 @@ full:utcnist2.colorado.edu
 full:utcnist3.colorado.edu
 full:valid.apple.com:@cn
 full:valid.origin-apple.com.akadns.net:@cn
+full:visor.sberbank.ru:@ads
 full:vscode.download.prss.microsoft.com:@cn
 full:vsmarketplacebadge.apphb.com
 full:vz.download.prss.microsoft.com:@cn
@@ -23159,7 +23260,7 @@ full:xn--flw351e.com:@cn
 full:xp.apple.com:@cn
 full:xtratime.qcomgeo2.com:@cn
 full:xz.pphimalayanrt.com:@cn
-full:yandex-pogoda.static-storage.net
+full:yabs.yandex.ru:@ads
 full:yangzhi.app
 full:youla-web-static.mrgcdn.ru
 regexp:(^|\.)13mei[5-7]\.buzz$

@@ -6,4 +6,6 @@ domain:fanmingming.com
 domain:huangyuhui.net
 domain:mryys.cn
 domain:mryys.com
+domain:skywt.cn
+domain:tai3.cn
 domain:zway.top

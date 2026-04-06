@@ -1,5 +1,12 @@
+domain:emias.info
+domain:emias.ru
+domain:klinikabudzdorov.ru
+domain:lk.emias.mos.ru
 domain:medsi-premium.ru
 domain:medsi.com
 domain:medsi.pro
 domain:medsi.ru
+domain:mosgorzdrav.ru
+domain:polyclinika.ru
 domain:smartmed.pro
+domain:vipmed.ru
