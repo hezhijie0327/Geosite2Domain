@@ -39,6 +39,7 @@ domain:fix-price.com
 domain:gazprombank.com
 domain:gazprombank.investments
 domain:giga.chat
+domain:ideco.dev
 domain:kinorium.com
 domain:lenta.com
 domain:lenta.tech

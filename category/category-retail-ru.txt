@@ -51,6 +51,7 @@ domain:x5.tech
 domain:x5club.ru
 domain:x5id.ru
 domain:x5l.ru
+domain:x5media.ru
 domain:x5paket.ru
 domain:x5q.ru
 domain:x5static.net
