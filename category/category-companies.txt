@@ -151,6 +151,8 @@ domain:addthis.com
 domain:addthiscdn.com
 domain:addthisedge.com
 domain:adfox.ru:@ads
+domain:adfox.yandex.ru:@ads
+domain:adfstat.yandex.ru:@ads
 domain:adgoogle.net
 domain:adinst.com
 domain:admeld.com
@@ -202,8 +204,12 @@ domain:adobetechcommdemo.com
 domain:adobexdplatform.com
 domain:ads-api.duolingo.com:@ads
 domain:ads.yahoo.com:@ads
+domain:ads.yandex.com:@ads
+domain:ads.yandex.ru:@ads
 domain:ads.yandex:@ads
+domain:ads.yango.com:@ads
 domain:ads.youtube.com:@ads
+domain:adsdk.yandex.ru:@ads
 domain:adsense.com:@ads
 domain:adsensecustomsearchads.com:@ads
 domain:adsenseformobileapps.com:@ads
@@ -216,6 +222,8 @@ domain:adskengpp.net
 domain:adskengpr.net
 domain:adtcc.com
 domain:adtrafficquality.google:@ads
+domain:adv.yandex.com:@ads
+domain:adv.yandex.ru:@ads
 domain:advancediddetection.com
 domain:advertisercommunity.com:@ads
 domain:advertiserscommunity.com:@ads
@@ -413,6 +421,7 @@ domain:amazonwebservices.com.cn:@cn
 domain:amazonworkdocs.cn:@cn
 domain:amazonworkdocs.com
 domain:amazonworkdocs.com.cn:@cn
+domain:amc.yandex.ru:@ads
 domain:amd.com
 domain:amd.com.cn
 domain:amdfanstore.com
@@ -432,8 +441,10 @@ domain:amzndns.com
 domain:amzndns.net
 domain:amzndns.org
 domain:amznl.com
+domain:an.yandex.ru:@ads
 domain:analytics-alv.google.com:@ads
 domain:analytics.facebook.com:@ads
+domain:analytics.mobile.yandex.net:@ads
 domain:analytics.vpc.duolingo.com:@ads
 domain:android
 domain:android.com
@@ -818,6 +829,10 @@ domain:applicationinsights.net
 domain:applle.com
 domain:applw.com
 domain:appmediagroup.com
+domain:appmetrica.yandex.com:@ads
+domain:appmetrica.yandex.net:@ads
+domain:appmetrica.yandex.ru:@ads
+domain:appmetrica.yango.com:@ads
 domain:appserviceenvironment.cn:@cn
 domain:appspot.com
 domain:appsto.re
@@ -1635,8 +1650,10 @@ domain:broadcom.com
 domain:brocaproject.com
 domain:bronto.com
 domain:brotli.org
+domain:browser-updater.yandex.net:@ads
 domain:browser.events.data.msn.cn:@ads,@cn
 domain:browser.events.data.msn.com:@ads
+domain:bs.yandex.ru:@ads
 domain:buck.build
 domain:buckbuild.com
 domain:budatt.com
@@ -1681,6 +1698,7 @@ domain:bybeatsdre.com
 domain:bydrebeats.com
 domain:c-ij.com
 domain:c-msedge.net
+domain:cabconnect.org
 domain:cabletvdirectv.com
 domain:cad-mep.com
 domain:cadcamsystemsinc.com
@@ -1942,6 +1960,10 @@ domain:civilsoftware.net
 domain:civitai.com
 domain:clarity.ms:@ads
 domain:clck.ru
+domain:clck.yandex.com:@ads
+domain:clck.yandex.net:@ads
+domain:clck.yandex.ru:@ads
+domain:clck.yango.com:@ads
 domain:clco.cc
 domain:clearlinux.org
 domain:click-sec.com
@@ -2035,6 +2057,8 @@ domain:cosmosdb.info
 domain:cosmosdb.net
 domain:cotolia.com
 domain:cotweet.com
+domain:counter.yandex.net:@ads
+domain:counter.yandex.ru:@ads
 domain:courier-push-apple.com.akadns.net
 domain:covid19-rx.org
 domain:covid19rx.org
@@ -2477,6 +2501,7 @@ domain:drebyby.com
 domain:dremonsterbeatsoutlets.com
 domain:dreprobeats.com
 domain:dreprofy.com
+domain:driveawaytaxi.org
 domain:drnastran.com
 domain:drweb-av.de
 domain:drweb-av.es
@@ -3192,6 +3217,7 @@ domain:godaddy
 domain:godaddy.com
 domain:godoc.org
 domain:gofile.me
+domain:gogettaxi.org
 domain:gogle.com
 domain:gogole.com
 domain:golang.com
@@ -3472,6 +3498,7 @@ domain:gopivotal.net
 domain:gordonmoore.com
 domain:gostorego.com
 domain:gotcosmos.com
+domain:goup.ai
 domain:governmentengineer.com
 domain:govforce.com
 domain:gpsonextra.net:@cn
@@ -3526,6 +3553,7 @@ domain:hangout
 domain:haplorrhini.com
 domain:happysrv.de
 domain:hashicorp.com
+domain:hayya.ae
 domain:hddirectv.com
 domain:hdinsightservices.cn:@cn
 domain:hdrplusdata.org
@@ -3892,6 +3920,7 @@ domain:imtagram.com
 domain:incentivetravelgifts.com
 domain:indiaipad.com
 domain:infoq.jp
+domain:informer.yandex.ru:@ads
 domain:infraworks.com
 domain:ingads.com
 domain:inkchoice.com
@@ -4691,6 +4720,10 @@ domain:mayauser.net
 domain:mayavisualization.com
 domain:mbeats-tech.com
 domain:mbheadphone.com
+domain:mc.yandex.com:@ads
+domain:mc.yandex.net:@ads
+domain:mc.yandex.ru:@ads
+domain:mc.yango.com:@ads
 domain:mcchcdn.com:@cn
 domain:mcisco.com
 domain:mcrouter.net
@@ -4735,6 +4768,7 @@ domain:metacloud.com
 domain:metamind.io
 domain:meteum.ai
 domain:metrics.duolingo.com:@ads
+domain:metrika.yandex.ru:@ads
 domain:mfg-inspector.com
 domain:mgmt-azure-api.cn:@cn
 domain:michill.jp
@@ -5041,6 +5075,7 @@ domain:mxroute.com
 domain:mxroutedocs.com
 domain:mxroutehelp.com
 domain:mxrouting.net
+domain:my-manager-account.com
 domain:my1stflame.com
 domain:myappleid.com
 domain:myautocad.com
@@ -5412,9 +5447,11 @@ domain:pillbeatsblackfridaysale.com
 domain:pintool.com
 domain:pittpatt.com
 domain:pivotalinitiative.com
+domain:pix.yandex.ru:@ads
 domain:pixapp.net
 domain:pixate.com
 domain:pixel.facebook.com:@ads
+domain:pixel.yandex.net:@ads
 domain:pixlr-o-matic.com
 domain:pixlromatic.com
 domain:pixtronix.com
@@ -5616,6 +5653,7 @@ domain:renovacionoffice.com
 domain:renovacionxboxlive.com
 domain:renshu.com
 domain:repo.new
+domain:report.ap.yandex-net.ru:@ads
 domain:repsneakermall.com
 domain:repswing.com
 domain:researchandcare.org
@@ -6014,6 +6052,7 @@ domain:sunglassessale2014.com
 domain:superearsenjoy.com
 domain:supersrv.de
 domain:supplybestjerseys.com
+domain:support-uber.com
 domain:supportfacebook.com
 domain:surface.com
 domain:sustainablebuildingstudio.com
@@ -6053,6 +6092,9 @@ domain:tamtam.chat
 domain:tandberg-china.com
 domain:tandberg.com
 domain:taxel.media
+domain:taxiaid.org
+domain:taxiguru.org
+domain:taxitax.org
 domain:teamviewer.cn:@cn
 domain:teamviewer.com
 domain:teamviewer.us
@@ -6614,6 +6656,7 @@ domain:xtracloud.net
 domain:xuite.net
 domain:ya.cc
 domain:ya.ru
+domain:yabs.yandex.ru:@ads
 domain:yads.tech:@ads
 domain:yahoo
 domain:yahoo-news.com.hk
@@ -6819,10 +6862,25 @@ domain:yandex.uz
 domain:yandexadexchange.net
 domain:yandexcloud.net
 domain:yandexcom.net
+domain:yandexgo.com
 domain:yandexlyceum.ru
 domain:yandexmetrica.com:@ads
 domain:yandexwebcache.net
 domain:yandexwebcache.org
+domain:yango-ads.com:@ads
+domain:yango-b2b.com
+domain:yango-team.com
+domain:yango-tech.com
+domain:yango.africa
+domain:yango.ao
+domain:yango.bh
+domain:yango.co.il
+domain:yango.com
+domain:yango.fi
+domain:yango.qa
+domain:yango.taxi
+domain:yango.tech
+domain:yangofellowship.com
 domain:yastat.net
 domain:yastatic-net.ru
 domain:yastatic.net
@@ -7054,16 +7112,9 @@ full:activation-v2.geo.kaspersky.com:@cn
 full:activation-v2.kaspersky.com:@cn
 full:adcdownload.apple.com.akadns.net:@cn
 full:adcdownload.apple.com:@cn
-full:adfox.yandex.ru:@ads
-full:adfstat.yandex.ru:@ads
 full:admob-cn.com:@cn
 full:adobeereg.com
-full:ads.yandex.com:@ads
-full:ads.yandex.ru:@ads
-full:adsdk.yandex.ru:@ads
 full:adservice.google.com:@cn
-full:adv.yandex.com:@ads
-full:adv.yandex.ru:@ads
 full:afcs.dell.com:@cn
 full:alt1-mtalk.google.com:@!cn
 full:alt2-mtalk.google.com:@!cn
@@ -7071,7 +7122,6 @@ full:alt3-mtalk.google.com:@!cn
 full:alt4-mtalk.google.com:@!cn
 full:alt5-mtalk.google.com:@!cn
 full:alt6-mtalk.google.com:@!cn
-full:amc.yandex.ru:@ads
 full:amp-api-edge-lb-cn.itunes-apple.com.akadns.net:@cn
 full:amp-api-edge-lb.itunes-apple.com.akadns.net:@cn
 full:amp-api-edge.apps.apple.com:@cn
@@ -7081,13 +7131,10 @@ full:amp-api-updates.apps.apple.com:@cn
 full:amp-api.apps.apple.com:@cn
 full:amp-api.media.apple.com:@cn
 full:amp-api.music.apple.com:@cn
-full:an.yandex.ru:@ads
 full:analytics.google.com:@ads
-full:analytics.mobile.yandex.net:@ads
 full:aod-ssl.itunes.apple.com:@cn
 full:aod.itunes.apple.com:@cn
 full:api-edge.apps.apple.com:@cn
-full:api.appmetrica.yandex.ru:@ads
 full:app-analytics-services.com:@cn
 full:app-measurement-cn.com:@cn
 full:app-measurement.com:@cn
@@ -7112,8 +7159,6 @@ full:bg.v4.a.dl.ws.microsoft.com:@cn
 full:bg4.v4.a.dl.ws.microsoft.com:@cn
 full:bj1.api.bing.com:@cn
 full:bookkeeper.itunes.apple.com:@cn
-full:browser-updater.yandex.net:@ads
-full:bs.yandex.ru:@ads
 full:build.microsoft.com:@cn
 full:c.admob.com:@cn
 full:c.android.clients.google.com:@cn
@@ -7154,8 +7199,6 @@ full:cl4-cn.apple.com:@cn
 full:cl4.apple.com:@cn
 full:cl5-cdn.origin-apple.com.akadns.net:@cn
 full:cl5.apple.com:@cn
-full:clck.yandex.net:@ads
-full:clck.yandex.ru:@ads
 full:clickserve.cc-dt.com:@cn
 full:clickserve.dartsearch.net:@cn
 full:clickserver.googleads.com:@cn
@@ -7176,8 +7219,6 @@ full:configuration.apple.com.akadns.net:@cn
 full:configuration.apple.com:@cn
 full:connectivitycheck.gstatic.com:@cn
 full:content.googleadapis.com:@cn
-full:counter.yandex.net:@ads
-full:counter.yandex.ru:@ads
 full:crashlyticsreports-pa.googleapis.com:@cn
 full:crl-lb.apple.com.akadns.net:@cn
 full:crl.apple.com:@cn
@@ -7331,7 +7372,6 @@ full:img-s-msn-com.akamaized.net
 full:inappcheck-cn.itunes-apple.com.akadns.net:@cn
 full:inappcheck-lb.itunes-apple.com.akadns.net:@cn
 full:inappcheck.itunes.apple.com:@cn
-full:informer.yandex.ru:@ads
 full:ingest.apple-studies.com
 full:init-kt.apple.com:@cn
 full:init-p01md-lb.push-apple.com.akadns.net:@cn
@@ -7395,14 +7435,11 @@ full:logger-dev.corp.google.com:@cn
 full:logger.corp.google.com:@cn
 full:login.corp.google.com:@cn
 full:maps.apple.com:@cn
-full:mc.yandex.com:@ads
-full:mc.yandex.ru:@ads
 full:mdn.mozillademos.org
 full:mdr.ksn.kaspersky-labs.com:@cn
 full:mesu-cdn.apple.com.akadns.net:@cn
 full:mesu-china.apple.com.akadns.net:@cn
 full:mesu.apple.com:@cn
-full:metrika.yandex.ru:@ads
 full:misc-assets.itunes.apple.com:@cn
 full:ml.cdn-apple.com:@cn
 full:monitoring.qpdp1.net:@cn
@@ -7458,8 +7495,6 @@ full:pba0.apple.com:@cn
 full:pd-nk.itunes.apple.com:@cn
 full:pd.itunes.apple.com:@cn
 full:performanceparameters.googleapis.com:@cn
-full:pix.yandex.ru:@ads
-full:pixel.yandex.net:@ads
 full:pki-goog.l.google.com:@cn
 full:play.itunes.apple.com:@cn
 full:play.music.apple.com:@cn
@@ -7497,9 +7532,6 @@ full:redirector.offline-maps.gvt1.com:@cn
 full:redirector.snap.gvt1.com:@cn
 full:redirector.xn--ngstr-lra8j.com:@cn
 full:refresh-bkg.activation-v2.kaspersky.com:@cn
-full:report-partners.appmetrica.yandex.net:@ads
-full:report.ap.yandex-net.ru:@ads
-full:report.appmetrica.yandex.net:@ads
 full:res-1.cdn.office.net:@cn
 full:res.cdn.office.net:@cn
 full:reserve-prime.apple.com:@cn
@@ -7647,7 +7679,6 @@ full:www.recaptcha.net:@cn
 full:www.support.apple.com:@cn
 full:xn--flw351e.com:@cn
 full:xp.apple.com:@cn
-full:yabs.yandex.ru:@ads
 full:youla-web-static.mrgcdn.ru
 regexp:.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 regexp:.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$:@cn

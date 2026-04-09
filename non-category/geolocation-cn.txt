@@ -362,6 +362,7 @@ domain:91.com
 domain:917.com
 domain:91changxie.com
 domain:91danji.com
+domain:91shenfan.com
 domain:91yunxiao.com
 domain:95095.com
 domain:95306.cn
@@ -710,6 +711,7 @@ domain:antutu.com
 domain:antutu.net
 domain:anxia.com
 domain:anycross.com
+domain:anytocopy.com
 domain:anywlan.com
 domain:anzhuo.cn
 domain:ao-x.ac.cn
@@ -781,6 +783,7 @@ domain:aws-icp-domain-manager.cn:@cn
 domain:awsapps.cn:@cn
 domain:awsapps.com.cn:@cn
 domain:awsstatic.cn:@cn
+domain:awstme.top
 domain:azkr2.cn
 domain:b23.tv
 domain:b2bgo.com
@@ -1027,6 +1030,7 @@ domain:boccfc.cn
 domain:bocfullertonbank.com
 domain:bocgi.com
 domain:bocgins.com
+domain:bochaai.com
 domain:bocichina.cn
 domain:bocichina.com
 domain:bocichina.com.cn
@@ -1909,6 +1913,7 @@ domain:danji6.com
 domain:danjuanfunds.com
 domain:dao123.com
 domain:daocloud.io
+domain:daocloud.vip
 domain:daojia.com
 domain:daovoice.io
 domain:data.mistat.india.xiaomi.com:@ads
@@ -2595,6 +2600,7 @@ domain:gamelook.com.cn
 domain:gameloop.com
 domain:gamemei.com
 domain:gamepack.cn
+domain:gamepp.com
 domain:gameres.com
 domain:gamersky.com
 domain:gamewower.com
@@ -2880,6 +2886,7 @@ domain:heytapdownload.com
 domain:heytapimage.com
 domain:heytapmobi.com
 domain:heytea.com
+domain:hezuvip.com
 domain:hf-aw.cn
 domain:hf-aw.com
 domain:hffunds.cn
@@ -3638,6 +3645,7 @@ domain:jyeoo.com
 domain:jyeoo.net
 domain:jyimg.com
 domain:jyzq.cn
+domain:jzagile.com
 domain:jzfz.net
 domain:jzsec.com
 domain:jzt.jd.com:@ads
@@ -3941,6 +3949,7 @@ domain:letvcdn.com
 domain:letvimg.com
 domain:lf126.net
 domain:lf127.net
+domain:lg3000.top
 domain:lgstatic.com
 domain:lhzq.com
 domain:liangxinyao.com
@@ -4548,6 +4557,7 @@ domain:orient-fund.com
 domain:originalimg.com
 domain:originalstatic.com
 domain:originalvod.com
+domain:osbdf.com
 domain:oschina.net
 domain:oshwhub.com
 domain:oss-cn-beijing.aliyuncs.com
@@ -4726,6 +4736,7 @@ domain:qbox.me
 domain:qc188.com
 domain:qcc.com
 domain:qcds.com
+domain:qchannel03.cn
 domain:qcloud-edumall.com
 domain:qcloud.com
 domain:qcloud.la
@@ -4997,6 +5008,7 @@ domain:sclick.baidu.com:@ads
 domain:scm121.cn
 domain:scm121.com
 domain:scoregg.com
+domain:scratch5.com
 domain:scsentry.cn
 domain:scsjb.cn
 domain:sczsxx.com
@@ -5201,6 +5213,7 @@ domain:sososnap.com
 domain:sou.cn
 domain:sou.com
 domain:soufunimg.com
+domain:soulteary.com
 domain:soundcore.com.cn
 domain:souqian.com
 domain:southcn.com
@@ -5576,6 +5589,7 @@ domain:tieyou.com
 domain:tigeek.net.cn
 domain:tikv.org
 domain:timatrix.com.cn
+domain:timbrd.com
 domain:timedoo.com
 domain:timibase.com
 domain:timmerse.com
@@ -5626,6 +5640,7 @@ domain:tools.team
 domain:toplife.com
 domain:topthink.com
 domain:toptown.cn
+domain:topwd.top
 domain:toscdn.com
 domain:tosot.com.cn
 domain:touqikan.com
@@ -6112,6 +6127,7 @@ domain:whalecloud.com
 domain:whccb.com
 domain:whlovehome.com
 domain:wicresoft.com
+domain:wildfirechat.net
 domain:win007.com
 domain:win7china.com
 domain:win8.net
@@ -6214,6 +6230,7 @@ domain:wuuxiang.com
 domain:wuximediaglobal.com
 domain:wuyou.net
 domain:wxcloudrun.com
+domain:wxdw.top
 domain:wxgateway.com
 domain:wxlivecdn.com
 domain:wxsbank.com
@@ -6244,6 +6261,7 @@ domain:xesimg.com
 domain:xf-fund.com
 domain:xfdown.com
 domain:xfyun.cn
+domain:xgzb.top
 domain:xhaiwai.com
 domain:xhby.net
 domain:xhlsgs.com
@@ -6609,6 +6627,7 @@ domain:yximgs.com
 domain:yxwsgame.com
 domain:yy.com
 domain:yyds.co
+domain:yyshub.top
 domain:yystatic.com
 domain:yystv.cn
 domain:yytcdn.com
@@ -6631,6 +6650,7 @@ domain:zbjdev.com
 domain:zbjimg.com
 domain:zcjbgame.com
 domain:zcmbc.com.cn
+domain:zctnet.top
 domain:zczj.com
 domain:zdfans.com
 domain:zdmimg.com

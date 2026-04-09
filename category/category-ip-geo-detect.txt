@@ -108,6 +108,7 @@ domain:myip.wtf
 domain:myipaddress.com
 domain:myiplookup.com
 domain:mylocation.org
+domain:nodedata.io
 domain:osint.sh
 domain:proxycheck.io
 domain:realip.cc

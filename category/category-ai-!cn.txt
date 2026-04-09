@@ -47,6 +47,9 @@ domain:dola.com:@!cn
 domain:duck.ai
 domain:elevenlabs.com
 domain:elevenlabs.io
+domain:envato-static.com
+domain:envato.com
+domain:envatousercontent.com
 domain:gateway.ai.cloudflare.com
 domain:geller-pa.googleapis.com
 domain:gemini.google
@@ -98,6 +101,7 @@ domain:proactivebackend-pa.googleapis.com
 domain:robinfrontend-pa.googleapis.com
 domain:sora.com
 domain:spicywriter.com
+domain:themeforest.net
 domain:trae.ai:@!cn
 domain:turn.livekit.cloud
 domain:windsurf.build

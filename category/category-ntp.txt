@@ -46,14 +46,17 @@ full:ntp-d.nist.gov
 full:ntp-wwv.nist.gov
 full:ntp.aliyun.com:@cn
 full:ntp.tencent.com:@cn
+full:ntp.time.nl
 full:ntp.ubuntu.com
 full:ntp0.ntp-servers.net
 full:ntp1.aliyun.com:@cn
 full:ntp1.ntp-servers.net
 full:ntp1.tencent.com:@cn
+full:ntp1.time.nl
 full:ntp2.aliyun.com:@cn
 full:ntp2.ntp-servers.net
 full:ntp2.tencent.com:@cn
+full:ntp2.time.nl
 full:ntp3.aliyun.com:@cn
 full:ntp3.ntp-servers.net
 full:ntp3.tencent.com:@cn
@@ -67,6 +70,8 @@ full:ntp6.aliyun.com:@cn
 full:ntp6.ntp-servers.net
 full:ntp7.aliyun.com:@cn
 full:ntp7.ntp-servers.net
+full:ntppool1.time.nl
+full:ntppool2.time.nl
 full:time-a-b.nist.gov
 full:time-a-g.nist.gov
 full:time-a-wwv.nist.gov

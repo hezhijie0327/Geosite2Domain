@@ -33,6 +33,8 @@ domain:adsh.m.taobao.com:@ads
 domain:adslot.uc.cn:@ads
 domain:adtrack.quark.cn:@ads
 domain:ae-rus.net:@!cn
+domain:aedns.ru:@!cn
+domain:aeplatform.ru:@!cn
 domain:aestatic.net:@!cn
 domain:ali-health.com
 domain:aliapp.org

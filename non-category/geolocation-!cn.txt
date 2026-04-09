@@ -669,6 +669,8 @@ domain:addthisedge.com
 domain:addtoany.com
 domain:adelaidenow.com.au
 domain:adfox.ru:@ads
+domain:adfox.yandex.ru:@ads
+domain:adfstat.yandex.ru:@ads
 domain:adgoogle.net
 domain:adguard-dns.com
 domain:adguard-dns.io
@@ -824,8 +826,12 @@ domain:ads-api.duolingo.com:@ads
 domain:ads-pixiv.net:@ads
 domain:ads-twitter.com:@ads
 domain:ads.yahoo.com:@ads
+domain:ads.yandex.com:@ads
+domain:ads.yandex.ru:@ads
 domain:ads.yandex:@ads
+domain:ads.yango.com:@ads
 domain:ads.youtube.com:@ads
+domain:adsdk.yandex.ru:@ads
 domain:adsense.com:@ads
 domain:adsensecustomsearchads.com:@ads
 domain:adsenseformobileapps.com:@ads
@@ -899,6 +905,8 @@ domain:adulttoontube.com
 domain:adultvideodump.com
 domain:adultvideotop.com
 domain:adultvirtualworlds.net
+domain:adv.yandex.com:@ads
+domain:adv.yandex.ru:@ads
 domain:advancediddetection.com
 domain:adventofcode.com
 domain:adventuresbydisney.com
@@ -1521,6 +1529,7 @@ domain:amazonworkdocs.cn:@cn
 domain:amazonworkdocs.com
 domain:amazonworkdocs.com.cn:@cn
 domain:amc.com
+domain:amc.yandex.ru:@ads
 domain:amcn.com
 domain:amcnetworks.com
 domain:amcplus.com
@@ -1569,6 +1578,7 @@ domain:amzndns.com
 domain:amzndns.net
 domain:amzndns.org
 domain:amznl.com
+domain:an.yandex.ru:@ads
 domain:anacams.com
 domain:anaconda.cloud
 domain:anaconda.com
@@ -1593,6 +1603,7 @@ domain:analtime.org
 domain:analvids.com
 domain:analytics-alv.google.com:@ads
 domain:analytics.facebook.com:@ads
+domain:analytics.mobile.yandex.net:@ads
 domain:analytics.tiktok.com:@!cn,@ads
 domain:analytics.vpc.duolingo.com:@ads
 domain:analytictech.com
@@ -2080,6 +2091,10 @@ domain:applle.com
 domain:applw.com
 domain:appmedia.jp
 domain:appmediagroup.com
+domain:appmetrica.yandex.com:@ads
+domain:appmetrica.yandex.net:@ads
+domain:appmetrica.yandex.ru:@ads
+domain:appmetrica.yango.com:@ads
 domain:approvedusedbmw.com
 domain:appserviceenvironment.cn:@cn
 domain:appsflayer.com
@@ -4257,6 +4272,7 @@ domain:bromo.com
 domain:bronto.com
 domain:brotli.org
 domain:brourou.com
+domain:browser-updater.yandex.net:@ads
 domain:browser.events.data.msn.cn:@ads,@cn
 domain:browser.events.data.msn.com:@ads
 domain:browser.kagi.com
@@ -4266,6 +4282,7 @@ domain:brutalbdsmtube.com
 domain:brutalfetish.com
 domain:bs-adreview.com
 domain:bs-awh.ne.jp
+domain:bs.yandex.ru:@ads
 domain:bsappapi.com
 domain:bsi.ir
 domain:bsky.app
@@ -4428,6 +4445,7 @@ domain:c-spanvideo.org
 domain:c0930.com
 domain:c4rex.co
 domain:c4slive.com
+domain:cabconnect.org
 domain:cableav.tv
 domain:cableav.xyz
 domain:cabletv.com.hk
@@ -4518,6 +4536,7 @@ domain:canada-beatsbydre.com
 domain:candidforum-videos.com
 domain:candycumcity.com
 domain:candypleasure.com
+domain:canny.io
 domain:canon
 domain:canon-cee.com
 domain:canon-cmos-sensors.com
@@ -5036,6 +5055,10 @@ domain:claudemcpclient.com
 domain:claudeusercontent.com
 domain:clawhub.ai
 domain:clck.ru
+domain:clck.yandex.com:@ads
+domain:clck.yandex.net:@ads
+domain:clck.yandex.ru:@ads
+domain:clck.yango.com:@ads
 domain:clco.cc
 domain:clearasil.cn:@cn
 domain:clearasil.com.cn:@cn
@@ -5371,6 +5394,8 @@ domain:costcobusinessdelivery.com
 domain:cotolia.com
 domain:cotweet.com
 domain:cougarsexmovies.com
+domain:counter.yandex.net:@ads
+domain:counter.yandex.ru:@ads
 domain:coupang.com
 domain:coupangcdn.com
 domain:couplecam.co.uk
@@ -6441,6 +6466,7 @@ domain:dremonsterbeatsoutlets.com
 domain:dreprobeats.com
 domain:dreprofy.com
 domain:dribbble.com
+domain:driveawaytaxi.org
 domain:driverxxx.com
 domain:drivevideo.xyz
 domain:driving.co.uk
@@ -7078,6 +7104,9 @@ domain:entrust.cn
 domain:entrust.com
 domain:entrust.net
 domain:entrustdatacard.com
+domain:envato-static.com
+domain:envato.com
+domain:envatousercontent.com
 domain:eotarchive.org
 domain:epicbrowser.com
 domain:epicgames.com
@@ -8965,6 +8994,7 @@ domain:gofuckmenow.com
 domain:gofundme.com
 domain:gog-statics.com
 domain:gog.com
+domain:gogettaxi.org
 domain:gogle.com
 domain:gogo-load.com
 domain:gogoanime.vc
@@ -9291,6 +9321,7 @@ domain:gotgayporn.com
 domain:gothdporn.com
 domain:gotporn.com
 domain:gotraffic.net
+domain:goup.ai
 domain:gouri.xyz
 domain:governmentengineer.com
 domain:govforce.com
@@ -9523,6 +9554,7 @@ domain:hayabusa.io
 domain:hayabusa.media
 domain:hayday.com
 domain:haydaygame.com
+domain:hayya.ae
 domain:hbabit.com
 domain:hbfile.net
 domain:hbo-europe.com
@@ -10826,6 +10858,7 @@ domain:infocert.it
 domain:infoglobo.com.br
 domain:infolinker.com.tw
 domain:infoq.jp
+domain:informer.yandex.ru:@ads
 domain:informs.org
 domain:infotimes.com.tw
 domain:infowars.com
@@ -11671,6 +11704,21 @@ domain:jiuse6666.com
 domain:jiuse821.com
 domain:jiuse822.com
 domain:jiuse823.com
+domain:jivo.chat
+domain:jivo.ru
+domain:jivochat.co.in
+domain:jivochat.co.za
+domain:jivochat.com
+domain:jivochat.com.br
+domain:jivochat.com.co
+domain:jivochat.com.pe
+domain:jivochat.com.tr
+domain:jivochat.de
+domain:jivochat.es
+domain:jivochat.ng
+domain:jivochat.ru
+domain:jivosite.com
+domain:jivosite.ru
 domain:jiyou520.com
 domain:jiyu-kobo.co.jp
 domain:jizzboom.com
@@ -12965,6 +13013,10 @@ domain:mayijiejie.com
 domain:maying.co
 domain:mbeats-tech.com
 domain:mbheadphone.com
+domain:mc.yandex.com:@ads
+domain:mc.yandex.net:@ads
+domain:mc.yandex.ru:@ads
+domain:mc.yango.com:@ads
 domain:mcafee.com
 domain:mcb.com.mm
 domain:mcchcdn.com:@cn
@@ -13121,6 +13173,7 @@ domain:metartnetwork.com
 domain:metcams.com
 domain:meteum.ai
 domain:metrics.duolingo.com:@ads
+domain:metrika.yandex.ru:@ads
 domain:metro.co.uk
 domain:metropolitana.tokyo
 domain:metrotoons.com
@@ -14023,6 +14076,7 @@ domain:mxshm.site
 domain:my-enema.com
 domain:my-formosa.com
 domain:my-magazine.me
+domain:my-manager-account.com
 domain:my13la.com
 domain:my1stflame.com
 domain:my20dc.com
@@ -15946,10 +16000,12 @@ domain:pise.pw
 domain:pittpatt.com
 domain:pivotalinitiative.com
 domain:piwheels.org
+domain:pix.yandex.ru:@ads
 domain:pixanalytics.com
 domain:pixapp.net
 domain:pixate.com
 domain:pixel.facebook.com:@ads
+domain:pixel.yandex.net:@ads
 domain:pixfs.net
 domain:pixhost.to
 domain:pixinsight.com.tw
@@ -17072,6 +17128,7 @@ domain:rentaride.de
 domain:renzhe.cloud
 domain:repe21.com
 domain:repo.new
+domain:report.ap.yandex-net.ru:@ads
 domain:repotama.com
 domain:repsils.no
 domain:repsneakermall.com
@@ -18788,6 +18845,7 @@ domain:superstation.com.tw
 domain:superuser.com
 domain:supjav.com
 domain:supplybestjerseys.com
+domain:support-uber.com
 domain:supportfacebook.com
 domain:supremacy.com
 domain:supremacy.net
@@ -18963,7 +19021,10 @@ domain:tati-log.com
 domain:tawny-peaks.com
 domain:taxel.media
 domain:taxi69.com
+domain:taxiaid.org
 domain:taxidrivermovie.com
+domain:taxiguru.org
+domain:taxitax.org
 domain:taylorandfrancis.com
 domain:taylorfrancis.com
 domain:tbank-online.com
@@ -19207,6 +19268,7 @@ domain:thelittleslush.com
 domain:theman.in
 domain:themarvelexperiencetour.com
 domain:themathsfactor.com
+domain:themeforest.net
 domain:themercury.com.au
 domain:themessengeradelaide.com.au
 domain:themilfmovies.com
@@ -19959,6 +20021,7 @@ domain:uux68.com
 domain:uverse.com
 domain:uwn.com:@cn
 domain:uwpcommunitytoolkit.com
+domain:uxthemes.com
 domain:v-av.com
 domain:v-has.com
 domain:v.gd
@@ -21811,6 +21874,7 @@ domain:xzxxporn.com
 domain:xzxxtube.com
 domain:ya.cc
 domain:ya.ru
+domain:yabs.yandex.ru:@ads
 domain:yaddal.tv
 domain:yadori.club
 domain:yads.tech:@ads
@@ -22026,10 +22090,25 @@ domain:yandex.uz
 domain:yandexadexchange.net
 domain:yandexcloud.net
 domain:yandexcom.net
+domain:yandexgo.com
 domain:yandexlyceum.ru
 domain:yandexmetrica.com:@ads
 domain:yandexwebcache.net
 domain:yandexwebcache.org
+domain:yango-ads.com:@ads
+domain:yango-b2b.com
+domain:yango-team.com
+domain:yango-tech.com
+domain:yango.africa
+domain:yango.ao
+domain:yango.bh
+domain:yango.co.il
+domain:yango.com
+domain:yango.fi
+domain:yango.qa
+domain:yango.taxi
+domain:yango.tech
+domain:yangofellowship.com
 domain:yantaqu.com
 domain:yaohubaba.com
 domain:yaoimangaonline.com
@@ -22568,17 +22647,10 @@ full:ad-display.diwodiwo.xyz:@ads
 full:adcdownload.apple.com.akadns.net:@cn
 full:adcdownload.apple.com:@cn
 full:adeventtracker.spotify.com:@ads
-full:adfox.yandex.ru:@ads
-full:adfstat.yandex.ru:@ads
 full:admob-cn.com:@cn
 full:adobeereg.com
-full:ads.yandex.com:@ads
-full:ads.yandex.ru:@ads
-full:adsdk.yandex.ru:@ads
 full:adservice.google.com:@cn
 full:adstudio-assets.scdn.co:@ads
-full:adv.yandex.com:@ads
-full:adv.yandex.ru:@ads
 full:afcs.dell.com:@cn
 full:alibaba.cdn.steampipe.steamcontent.com:@cn
 full:alt1-mtalk.google.com:@!cn
@@ -22587,7 +22659,6 @@ full:alt3-mtalk.google.com:@!cn
 full:alt4-mtalk.google.com:@!cn
 full:alt5-mtalk.google.com:@!cn
 full:alt6-mtalk.google.com:@!cn
-full:amc.yandex.ru:@ads
 full:amp-api-edge-lb-cn.itunes-apple.com.akadns.net:@cn
 full:amp-api-edge-lb.itunes-apple.com.akadns.net:@cn
 full:amp-api-edge.apps.apple.com:@cn
@@ -22597,15 +22668,12 @@ full:amp-api-updates.apps.apple.com:@cn
 full:amp-api.apps.apple.com:@cn
 full:amp-api.media.apple.com:@cn
 full:amp-api.music.apple.com:@cn
-full:an.yandex.ru:@ads
 full:analytics.google.com:@ads
-full:analytics.mobile.yandex.net:@ads
 full:angle.com.tw
 full:aod-ssl.itunes.apple.com:@cn
 full:aod.itunes.apple.com:@cn
 full:api-edge.apps.apple.com:@cn
 full:api-p.videomarket.jp
-full:api.appmetrica.yandex.ru:@ads
 full:app-analytics-services.com:@cn
 full:app-measurement-cn.com:@cn
 full:app-measurement.com:@cn
@@ -22634,8 +22702,6 @@ full:blizzard.nefficient.co.kr
 full:bloodhound.spotify.com:@ads
 full:bookkeeper.itunes.apple.com:@cn
 full:browser-intake-datadoghq.com:@ads
-full:browser-updater.yandex.net:@ads
-full:bs.yandex.ru:@ads
 full:build.microsoft.com:@cn
 full:bybit.ada.support
 full:c.admob.com:@cn
@@ -22681,8 +22747,6 @@ full:cl4-cn.apple.com:@cn
 full:cl4.apple.com:@cn
 full:cl5-cdn.origin-apple.com.akadns.net:@cn
 full:cl5.apple.com:@cn
-full:clck.yandex.net:@ads
-full:clck.yandex.ru:@ads
 full:clickserve.cc-dt.com:@cn
 full:clickserve.dartsearch.net:@cn
 full:clickserver.googleads.com:@cn
@@ -22703,8 +22767,6 @@ full:configuration.apple.com.akadns.net:@cn
 full:configuration.apple.com:@cn
 full:connectivitycheck.gstatic.com:@cn
 full:content.googleadapis.com:@cn
-full:counter.yandex.net:@ads
-full:counter.yandex.ru:@ads
 full:crashlyticsreports-pa.googleapis.com:@cn
 full:crl-lb.apple.com.akadns.net:@cn
 full:crl.apple.com:@cn
@@ -22873,7 +22935,6 @@ full:imperial.insendi.com
 full:inappcheck-cn.itunes-apple.com.akadns.net:@cn
 full:inappcheck-lb.itunes-apple.com.akadns.net:@cn
 full:inappcheck.itunes.apple.com:@cn
-full:informer.yandex.ru:@ads
 full:ingest.apple-studies.com
 full:init-kt.apple.com:@cn
 full:init-p01md-lb.push-apple.com.akadns.net:@cn
@@ -22942,8 +23003,6 @@ full:logger.corp.google.com:@cn
 full:login.corp.google.com:@cn
 full:lv.queniujq.cn:@cn
 full:maps.apple.com:@cn
-full:mc.yandex.com:@ads
-full:mc.yandex.ru:@ads
 full:mdn.mozillademos.org
 full:mdr.ksn.kaspersky-labs.com:@cn
 full:medone-education.thieme.com
@@ -22951,7 +23010,6 @@ full:menu-static.gog-statics.com:@cn
 full:mesu-cdn.apple.com.akadns.net:@cn
 full:mesu-china.apple.com.akadns.net:@cn
 full:mesu.apple.com:@cn
-full:metrika.yandex.ru:@ads
 full:misc-assets.itunes.apple.com:@cn
 full:ml.cdn-apple.com:@cn
 full:monitoring.qpdp1.net:@cn
@@ -22967,13 +23025,16 @@ full:np-edge.itunes.apple.com:@cn
 full:ntp-c.colorado.edu
 full:ntp.aliyun.com:@cn
 full:ntp.tencent.com:@cn
+full:ntp.time.nl
 full:ntp0.ntp-servers.net
 full:ntp1.aliyun.com:@cn
 full:ntp1.ntp-servers.net
 full:ntp1.tencent.com:@cn
+full:ntp1.time.nl
 full:ntp2.aliyun.com:@cn
 full:ntp2.ntp-servers.net
 full:ntp2.tencent.com:@cn
+full:ntp2.time.nl
 full:ntp3.aliyun.com:@cn
 full:ntp3.ntp-servers.net
 full:ntp3.tencent.com:@cn
@@ -22987,6 +23048,8 @@ full:ntp6.aliyun.com:@cn
 full:ntp6.ntp-servers.net
 full:ntp7.aliyun.com:@cn
 full:ntp7.ntp-servers.net
+full:ntppool1.time.nl
+full:ntppool2.time.nl
 full:o.pki.goog:@cn
 full:o33249.ingest.sentry.io:@ads
 full:o4504926511693824.ingest.sentry.io:@ads
@@ -23031,8 +23094,6 @@ full:pba0.apple.com:@cn
 full:pd-nk.itunes.apple.com:@cn
 full:pd.itunes.apple.com:@cn
 full:performanceparameters.googleapis.com:@cn
-full:pix.yandex.ru:@ads
-full:pixel.yandex.net:@ads
 full:pki-goog.l.google.com:@cn
 full:play.itunes.apple.com:@cn
 full:play.music.apple.com:@cn
@@ -23071,9 +23132,6 @@ full:redirector.offline-maps.gvt1.com:@cn
 full:redirector.snap.gvt1.com:@cn
 full:redirector.xn--ngstr-lra8j.com:@cn
 full:refresh-bkg.activation-v2.kaspersky.com:@cn
-full:report-partners.appmetrica.yandex.net:@ads
-full:report.ap.yandex-net.ru:@ads
-full:report.appmetrica.yandex.net:@ads
 full:res-1.cdn.office.net:@cn
 full:res.cdn.office.net:@cn
 full:reserve-prime.apple.com:@cn
@@ -23260,7 +23318,6 @@ full:xn--flw351e.com:@cn
 full:xp.apple.com:@cn
 full:xtratime.qcomgeo2.com:@cn
 full:xz.pphimalayanrt.com:@cn
-full:yabs.yandex.ru:@ads
 full:yangzhi.app
 full:youla-web-static.mrgcdn.ru
 regexp:(^|\.)13mei[5-7]\.buzz$
