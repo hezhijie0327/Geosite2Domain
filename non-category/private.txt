@@ -98,6 +98,7 @@ domain:hiwifi.com
 domain:home.arpa
 domain:internal
 domain:invalid
+domain:kis.v2.scr.kaspersky-labs.com
 domain:lan
 domain:leike.cc
 domain:local
@@ -117,6 +118,7 @@ domain:ts.net
 domain:zte.home
 full:asusrouter.com
 full:instant.arubanetworks.com
+full:local.adguard.org
 full:miwifi.com
 full:oasisauth.h3c.com
 full:router.asus.com

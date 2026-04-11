@@ -1,5 +1,7 @@
 domain:5ka.ru
 domain:5post.market
+domain:abonementx5.ru
+domain:ads.x5media.ru:@ads
 domain:auchan.ru
 domain:av.ru
 domain:bristol.ru
@@ -34,6 +36,7 @@ domain:okolo.app
 domain:perekrestok.com
 domain:perekrestok.ru
 domain:rostics.ru
+domain:sentry.x5.ru:@ads
 domain:sushiwok.ru
 domain:uni.rest
 domain:unirest.tech

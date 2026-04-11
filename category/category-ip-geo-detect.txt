@@ -140,5 +140,6 @@ domain:whoisxmlapi.com
 domain:wieistmeineip.de
 domain:wtfismyip.com
 full:checkip.amazonaws.com
+full:ip.comss.net
 full:ipv4-check-perf.radar.cloudflare.com
 full:ipv6-check-perf.radar.cloudflare.com

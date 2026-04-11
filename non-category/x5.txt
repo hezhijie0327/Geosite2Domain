@@ -1,5 +1,7 @@
 domain:5ka.ru
 domain:5post.market
+domain:abonementx5.ru
+domain:ads.x5media.ru:@ads
 domain:chizhik.club
 domain:clubx5.ru
 domain:dialogx5.ru
@@ -13,6 +15,7 @@ domain:myapelsin.ru
 domain:okolo.app
 domain:perekrestok.com
 domain:perekrestok.ru
+domain:sentry.x5.ru:@ads
 domain:x5.ai
 domain:x5.com
 domain:x5.digital

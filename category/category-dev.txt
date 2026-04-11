@@ -114,6 +114,7 @@ domain:fblitho.com
 domain:fbredex.com
 domain:fbrell.com
 domain:fedoraforum.org
+domain:fedorainfracloud.org
 domain:fedoramagazine.org
 domain:fedorapeople.org
 domain:fedoraproject.org
