@@ -35,12 +35,15 @@ domain:116cd.com
 domain:116cd.net
 domain:119you.com
 domain:12306.cn
+domain:12315.cn
+domain:12321.cn
 domain:123245.com
 domain:123254.com
 domain:123294.com
 domain:1234567.com.cn
 domain:123624.com
 domain:123641.com
+domain:12365auto.com
 domain:123842.com
 domain:123860.com
 domain:123912.com
@@ -1563,6 +1566,7 @@ domain:cjol.com
 domain:cjsc.com
 domain:ckd.im
 domain:ckxx.net
+domain:clawhub-mirror.com
 domain:cleargrass.com
 domain:click.gamersky.com:@ads
 domain:click.hunantv.com:@ads
@@ -1732,6 +1736,7 @@ domain:cnweblog.com
 domain:cnzz.com
 domain:cocodiy.com
 domain:code666.com
+domain:codebuddy.cn
 domain:codechina.net
 domain:codeloop.top
 domain:coding.me
@@ -1896,6 +1901,8 @@ domain:da.mgtv.com:@ads
 domain:dadajiasu.com
 domain:dadighost.com
 domain:daguzhe.com
+domain:daheapp.com
+domain:dahebao.cn
 domain:dajiabao.com
 domain:dajie.com
 domain:dajieimg.com
@@ -2613,6 +2620,7 @@ domain:gaoshouyou.com
 domain:gaoxiaojob.com
 domain:gatzs.com.cn
 domain:gcable.com.cn
+domain:gcloudcache.com
 domain:gcloudcs.com
 domain:gcloudcstest.com
 domain:gcloudcstestonly.com
@@ -3025,6 +3033,7 @@ domain:huangyuhui.net
 domain:huanleguang.com
 domain:huanqiu.com
 domain:huanqiucdn.cn
+domain:huasheng.cn
 domain:huashengdaili.com
 domain:huatu.com
 domain:huawei.cn
@@ -3479,6 +3488,7 @@ domain:jianguoyun.com
 domain:jianshu.com
 domain:jianshu.io
 domain:jianshuapi.com
+domain:jianying.com
 domain:jianyuweb.com
 domain:jianzhi8.com
 domain:jiaodong.net
@@ -3757,6 +3767,7 @@ domain:kuaidi100.com
 domain:kuaidilab.com
 domain:kuaiduizuoye.com
 domain:kuaihou.com
+domain:kuaiji.com
 domain:kuaikanmanhua.com
 domain:kuailepipixia.com
 domain:kuaishou.cn
@@ -5149,6 +5160,7 @@ domain:sinopecnews.com.cn
 domain:sinopecsales.com
 domain:sipeed.com
 domain:sjwyx.com
+domain:skillhub.cn
 domain:skimit.net
 domain:skycn.com
 domain:skydweller.cn
@@ -6670,6 +6682,7 @@ domain:zealer.com
 domain:zebracdn.com
 domain:zeekrlife.com
 domain:zgbk.com
+domain:zgbznet.com.cn
 domain:zgcbank.com
 domain:zggbdszt.cn
 domain:zggbdszt.com.cn

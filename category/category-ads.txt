@@ -86,7 +86,7 @@ domain:ads.api.my7v.com:@ads
 domain:ads.huan.tv
 domain:ads.huantest.com
 domain:ads.music.126.net:@ads
-domain:ads.neon.click:@ads
+domain:ads.sber.ru:@ads
 domain:ads.service.kugou.com:@ads
 domain:ads.sina.com:@ads
 domain:ads.sohu.com:@ads
@@ -198,10 +198,8 @@ domain:api.carrotquest.io:@ads
 domain:api.carrottrack.app:@ads
 domain:api.dashly.app:@ads
 domain:api.dashlytrack.app:@ads
-domain:api.e.mindbox.ru:@ads
 domain:api.mindbox.cloud:@ads
 domain:api.mindbox.ru:@ads
-domain:api.s.mindbox.ru:@ads
 domain:app-analytics-services-att.com:@ads
 domain:app-analytics-services.com:@ads
 domain:app-measurement-cn.com:@ads
@@ -309,11 +307,13 @@ domain:doubleclick.cn:@ads
 domain:doubleclick.com:@ads
 domain:doubleclick.net:@ads
 domain:drmcmm.baidu.com:@ads
+domain:dt.dbankcloud.ru:@!cn,@ads
 domain:dualstack-logs.amap.com:@ads
 domain:duiwai.baidu.com:@ads
 domain:dup.baidustatic.com:@ads
 domain:e.kuaishou.cn:@ads
 domain:e.kuaishou.com:@ads
+domain:e.mindbox.ru:@ads
 domain:e.qq.com:@ads
 domain:e.stat.ykimg.com:@ads
 domain:eclick.baidu.com:@ads
@@ -343,6 +343,7 @@ domain:fout.jp:@ads
 domain:fpb.sohu.com:@ads
 domain:g.163.com:@ads
 domain:g.click.taobao.com:@ads
+domain:g.mindbox.ru:@ads
 domain:g1.tagtic.cn
 domain:g3.letv.com:@ads
 domain:gdt.qq.com:@ads
@@ -456,8 +457,10 @@ domain:lu.sogoucdn.com:@ads
 domain:m-adash.m.taobao.com:@ads
 domain:m.aty.sohu.com:@ads
 domain:mail-ads.google.com:@ads
+domain:marketing-info.wildberries.ru:@ads
 domain:marketing.alibaba.com:@ads
 domain:marketingplatform.google.com:@ads
+domain:marketplace-sentry.wb.ru:@ads
 domain:mbdlog.iqiyi.com:@ads
 domain:mc.yandex.com:@ads
 domain:mc.yandex.net:@ads
@@ -466,6 +469,7 @@ domain:mc.yango.com:@ads
 domain:mcs.snssdk.com:@ads
 domain:mdt.qq.com:@ads
 domain:mediav.com:@ads
+domain:metrics.21-school.ru:@ads
 domain:metrics.duolingo.com:@ads
 domain:metrika.yandex.ru:@ads
 domain:miao.baidu.com:@ads
@@ -500,6 +504,7 @@ domain:najva.com
 domain:nbsdk-baichuan.alicdn.com:@ads
 domain:nbsdk-baichuan.taobao.com:@ads
 domain:nelreports.net:@ads
+domain:neon.click:@ads
 domain:new-aaid.umeng.com.gds.alibabadns.com:@ads
 domain:new-aaid.umeng.com:@ads
 domain:new-adv.ozon.ru:@ads
@@ -568,6 +573,7 @@ domain:rmonitor.qq.com:@ads
 domain:rs.sinajs.cn:@ads
 domain:s-adashx.ut.youku.com:@ads
 domain:s.360.cn:@ads
+domain:s.mindbox.ru:@ads
 domain:s.so.360.cn:@ads
 domain:s.union.360.cn:@ads
 domain:s4yxaqyq95.com

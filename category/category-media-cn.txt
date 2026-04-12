@@ -72,6 +72,8 @@ domain:cyzone.cn
 domain:cztv.com
 domain:cztvcdn.com
 domain:cztvcloud.com
+domain:daheapp.com
+domain:dahebao.cn
 domain:danjuanfunds.com
 domain:dgtle.com
 domain:dianzhenkeji.com

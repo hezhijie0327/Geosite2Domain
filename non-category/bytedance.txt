@@ -284,6 +284,7 @@ domain:fqnovelop.com
 domain:fqnovelpic.com
 domain:fqnovelstatic.com
 domain:fqnovelvod.com
+domain:gcloudcache.com
 domain:getfeishu.cn
 domain:getfeishu.com
 domain:getsays.cn
@@ -350,6 +351,7 @@ domain:ivolces.com
 domain:ixgvideo.com
 domain:ixigua.com
 domain:ixiguavideo.com
+domain:jianying.com
 domain:jinritemai.com
 domain:jokecommunity.cn
 domain:jokecommunity.com

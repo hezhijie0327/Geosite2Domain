@@ -31,6 +31,7 @@ domain:123254.com
 domain:123294.com
 domain:123624.com
 domain:123641.com
+domain:12365auto.com
 domain:123842.com
 domain:123860.com
 domain:123912.com
@@ -1261,6 +1262,7 @@ domain:cjol.com
 domain:cjsc.com
 domain:ckd.im
 domain:ckxx.net
+domain:clawhub-mirror.com
 domain:cleargrass.com
 domain:click.gamersky.com:@ads
 domain:click.hunantv.com:@ads
@@ -1513,6 +1515,7 @@ domain:da.mgtv.com:@ads
 domain:dadajiasu.com
 domain:dadighost.com
 domain:daguzhe.com
+domain:daheapp.com
 domain:dajiabao.com
 domain:dajie.com
 domain:dajieimg.com
@@ -2107,6 +2110,7 @@ domain:gaode.com
 domain:gaodun.com
 domain:gaoshouyou.com
 domain:gaoxiaojob.com
+domain:gcloudcache.com
 domain:gcloudcs.com
 domain:gcloudcstest.com
 domain:gcloudcstestonly.com
@@ -2797,6 +2801,7 @@ domain:jianguoyun.com
 domain:jianshu.com
 domain:jianshu.io
 domain:jianshuapi.com
+domain:jianying.com
 domain:jianyuweb.com
 domain:jianzhi8.com
 domain:jiaodong.net
@@ -3020,6 +3025,7 @@ domain:kuaidi100.com
 domain:kuaidilab.com
 domain:kuaiduizuoye.com
 domain:kuaihou.com
+domain:kuaiji.com
 domain:kuaikanmanhua.com
 domain:kuailepipixia.com
 domain:kuaishou.com

@@ -160,9 +160,11 @@ domain:dbankcdn.cn
 domain:dbankcdn.com
 domain:dbankcloud.cn
 domain:dbankcloud.com
+domain:dbankcloud.ru:@!cn
 domain:dbankedge.cn
 domain:dbankedge.net
 domain:devui.design
+domain:dt.dbankcloud.ru:@!cn,@ads
 domain:eduapaashwc.com
 domain:eu-central-201.myhuaweicloud.com:@!cn
 domain:eu-central-202.myhuaweicloud.com:@!cn

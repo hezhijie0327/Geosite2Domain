@@ -480,10 +480,8 @@ domain:api.carrotquest.io:@ads
 domain:api.carrottrack.app:@ads
 domain:api.dashly.app:@ads
 domain:api.dashlytrack.app:@ads
-domain:api.e.mindbox.ru:@ads
 domain:api.mindbox.cloud:@ads
 domain:api.mindbox.ru:@ads
-domain:api.s.mindbox.ru:@ads
 domain:apigee.com
 domain:apihub-internal.cn:@cn
 domain:apisof.net
@@ -2574,6 +2572,7 @@ domain:dynamoreach.com
 domain:dzen.ru
 domain:dzeninfra.ru
 domain:e-estate.jp
+domain:e.mindbox.ru:@ads
 domain:earphonescheapest.com
 domain:earpod.net
 domain:earthdell.com
@@ -3096,6 +3095,7 @@ domain:g-tun.com
 domain:g.cn:@cn
 domain:g.co
 domain:g.dev
+domain:g.mindbox.ru:@ads
 domain:g.page
 domain:gacebook.com
 domain:gaikaex.com
@@ -3633,6 +3633,10 @@ domain:hewlettpackard.enterprises
 domain:hey.boo
 domain:heywire.com
 domain:hf-iphone.com
+domain:hh.by
+domain:hh.kz
+domain:hh.ru
+domain:hhcdn.ru
 domain:hhvm.com
 domain:hifacebook.info
 domain:highbolt.net
@@ -5661,6 +5665,7 @@ domain:qwant.fr
 domain:qwant.it
 domain:qwapi.com:@ads
 domain:r.bing.com:@cn
+domain:rabota.by
 domain:radeon.com
 domain:radian6.com
 domain:rapidprototyping-cadcam.com
@@ -5739,6 +5744,7 @@ domain:s-msedge.net
 domain:s-msft.com
 domain:s-msn.com
 domain:s-rewards.hk
+domain:s.mindbox.ru:@ads
 domain:s2stagehance.com
 domain:s81c.com
 domain:saffrontech.com
@@ -5840,6 +5846,7 @@ domain:services-exchange.com
 domain:serviceshp.com
 domain:servicetalk.io
 domain:serving-sys.com:@ads
+domain:setka.ru
 domain:sfbassets.com
 domain:sfbassets.net
 domain:sfdcstatic.com
@@ -6152,6 +6159,7 @@ domain:tail-f.com
 domain:tailf.com
 domain:tailwindtraders.com
 domain:takegoto.com
+domain:talantix.ru
 domain:tamtam.chat
 domain:tandberg-china.com
 domain:tandberg.com
@@ -7146,6 +7154,7 @@ domain:yusercontent.com
 domain:z.cn:@cn
 domain:z.com
 domain:zappos
+domain:zarplata.ru
 domain:zdxbeta.net
 domain:zdxcloud.net
 domain:zeibit.ai

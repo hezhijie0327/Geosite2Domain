@@ -42,6 +42,7 @@ domain:bilivideo.net
 domain:dreamcast.hk:@!cn
 domain:hdslb.com
 domain:hdslb.org
+domain:huasheng.cn
 domain:im9.com
 domain:maoercdn.com
 domain:mincdn.com

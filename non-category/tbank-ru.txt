@@ -57,6 +57,7 @@ domain:sage-observability.tech
 domain:sgcheck.ru
 domain:t-access.ru
 domain:t-bank-app.ru
+domain:t-bank-app.su
 domain:t-bank.by
 domain:t-calls.ru
 domain:t-capital-funds.ru

@@ -6,6 +6,8 @@ domain:botvip.cn
 domain:butterfly-static.cn
 domain:butterflyai.cn
 domain:chatglm.cn
+domain:clawhub-mirror.com
+domain:codebuddy.cn
 domain:coze.cn
 domain:coze.site
 domain:cozebaas.cn
@@ -50,6 +52,7 @@ domain:qwen.ai
 domain:qwenlm.ai
 domain:rwkv.cn
 domain:rwkv.com
+domain:skillhub.cn
 domain:tcwqqdy.guru
 domain:tiangong.cn
 domain:tongyi.aliyun.com
@@ -64,6 +67,7 @@ domain:xinghuo.xfyun.cn
 domain:xingyeai.com
 domain:yiyan.baidu.com
 domain:yoma.cn
+domain:yuanqi.tencent.com
 domain:z.ai
 domain:zhipuai.cn
 domain:zhipucn.com

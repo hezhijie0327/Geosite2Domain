@@ -352,6 +352,7 @@ domain:hnbntv.com
 domain:hongshu.com
 domain:hongxiu.com
 domain:hotread.com
+domain:huasheng.cn
 domain:hunaniptv.com
 domain:hunantv.com
 domain:huoshan.com
