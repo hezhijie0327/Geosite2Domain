@@ -1,3 +1,5 @@
+domain:1l-hit.mail.ru:@ads
+domain:1l-hit.vkplay.ru:@ads
 domain:2mdn-cn.net:@ads
 domain:2mdn.net:@ads
 domain:51.la
@@ -20,6 +22,7 @@ domain:ad.games.dmm.com:@ads
 domain:ad.hpplay.cn
 domain:ad.intl.xiaomi.com:@ads
 domain:ad.m.iqiyi.com:@ads
+domain:ad.mail.ru:@ads
 domain:ad.mi.com:@ads
 domain:ad.mobile.youku.com:@ads
 domain:ad.ozone.ru:@ads
@@ -34,6 +37,7 @@ domain:ad.wang502.com
 domain:ad.weixin.qq.com:@ads
 domain:ad.xiaomi.com:@ads
 domain:ad1.xiaomi.com:@ads
+domain:ad4.mail.ru:@ads
 domain:adash-c.m.taobao.com:@ads
 domain:adash-c.ut.taobao.com:@ads
 domain:adash-emas.cn-hangzhou.aliyuncs.com:@ads
@@ -50,6 +54,7 @@ domain:adashx4yt.m.taobao.com:@ads
 domain:adashxgc.ut.taobao.com:@ads
 domain:adbehavior.ximalaya.com:@ads
 domain:adbkwai.com:@ads
+domain:adblogger.vk.com:@ads
 domain:adbox.sina.com.cn:@ads
 domain:adbutter.net
 domain:adc.hpplay.cn
@@ -76,6 +81,7 @@ domain:adpm.app.qq.com:@ads
 domain:adq.chinaso.com
 domain:ads-api.duolingo.com:@ads
 domain:ads-gate.wildberries.ru:@ads
+domain:ads-integration.rustore.ru:@ads
 domain:ads-media.wildberries.ru:@ads
 domain:ads-pixiv.net:@ads
 domain:ads-twitter.com:@ads
@@ -83,9 +89,12 @@ domain:ads-union.jd.com:@ads
 domain:ads-uo.api.leiniao.com:@ads
 domain:ads-ut.api.leiniao.com:@ads
 domain:ads.api.my7v.com:@ads
+domain:ads.dahlmessenger.com:@ads
 domain:ads.huan.tv
 domain:ads.huantest.com
+domain:ads.icq.com:@ads
 domain:ads.music.126.net:@ads
+domain:ads.rustore.ru:@ads
 domain:ads.sber.ru:@ads
 domain:ads.service.kugou.com:@ads
 domain:ads.sina.com:@ads
@@ -94,6 +103,9 @@ domain:ads.trafficjunky.net
 domain:ads.uc.cn:@ads
 domain:ads.union.jd.com:@ads
 domain:ads.unitychina.cn:@ads
+domain:ads.viqeo.tv:@ads
+domain:ads.vk.com:@ads
+domain:ads.vk.ru:@ads
 domain:ads.wildberries.ru:@ads
 domain:ads.wteam.xyz
 domain:ads.x5media.ru:@ads
@@ -103,6 +115,10 @@ domain:ads.yandex.ru:@ads
 domain:ads.yandex:@ads
 domain:ads.yango.com:@ads
 domain:ads.youtube.com:@ads
+domain:adsadvisor.io:@ads
+domain:adsapp.dahlmessenger.com:@ads
+domain:adsapp.stage.telega.info:@ads
+domain:adsapp.telega.info:@ads
 domain:adscdn.baidu.com:@ads
 domain:adsclick.qq.com:@ads
 domain:adsdk.yandex.ru:@ads
@@ -136,6 +152,7 @@ domain:adv-sv-show.focus.cn:@ads
 domain:adv-sv-stat.focus.cn:@ads
 domain:adv.app.qq.com:@ads
 domain:adv.ozon.ru:@ads
+domain:adv.rustore.ru:@ads
 domain:adv.sec.intl.miui.com:@ads
 domain:adv.sec.miui.com:@ads
 domain:adv.yandex.com:@ads
@@ -169,8 +186,10 @@ domain:alog.umeng.com:@ads
 domain:alog.umengcloud.com:@ads
 domain:alogs.umeng.com:@ads
 domain:alogus.umeng.com:@ads
+domain:alt-r.my.com:@ads
 domain:amazon-adsystem.com:@ads
 domain:amc.yandex.ru:@ads
+domain:an.mail.ru:@ads
 domain:an.yandex.ru:@ads
 domain:analytics-adv.ozon.ru:@ads
 domain:analytics-alv.google.com:@ads
@@ -181,6 +200,8 @@ domain:analytics.facebook.com:@ads
 domain:analytics.mobile.yandex.net:@ads
 domain:analytics.tiktok.com:@!cn,@ads
 domain:analytics.umetrip.com
+domain:analytics.vk.com:@ads
+domain:analytics.vk.ru:@ads
 domain:analytics.vpc.duolingo.com:@ads
 domain:analytics.wildberries.ru:@ads
 domain:api-adservices.apple.com:@ads
@@ -211,6 +232,7 @@ domain:appmetrica.yandex.com:@ads
 domain:appmetrica.yandex.net:@ads
 domain:appmetrica.yandex.ru:@ads
 domain:appmetrica.yango.com:@ads
+domain:apptracer.ru:@ads
 domain:ar.umeng.com:@ads
 domain:ark.letv.com:@ads
 domain:aspect-upush.umeng.com:@ads
@@ -221,6 +243,7 @@ domain:atm.youku.com:@ads
 domain:atom-data.io
 domain:atrace.chelaile.net.cn
 domain:audid.umeng.com:@ads
+domain:b2.mail.ru:@ads
 domain:badjs.weixinbridge.com:@ads
 domain:baichuan-sdk.alicdn.com:@ads
 domain:baifen.music.baidu.com:@ads
@@ -238,6 +261,7 @@ domain:bluekai.com:@ads
 domain:browser-updater.yandex.net:@ads
 domain:browser.events.data.msn.cn:@ads,@cn
 domain:browser.events.data.msn.com:@ads
+domain:bs.mail.ru:@ads
 domain:bs.yandex.ru:@ads
 domain:btrace.qq.com:@ads
 domain:bugly.qq.com:@ads
@@ -264,6 +288,7 @@ domain:clck.yango.com:@ads
 domain:click.ali213.net
 domain:click.gamersky.com:@ads
 domain:click.hunantv.com:@ads
+domain:click.rustore.ru:@ads
 domain:click.uve.mobile.sina.cn:@ads
 domain:click.uve.weibo.com:@ads
 domain:clickstream.sberbank.ru:@ads
@@ -289,6 +314,7 @@ domain:cretgate.com
 domain:cstm.baidu.com:@ads
 domain:ctobsnssdk.com:@ads
 domain:cupid.iqiyi.com:@ads
+domain:cxhub.ru:@ads
 domain:da.hunantv.com:@ads
 domain:da.mgtv.com:@ads
 domain:das-rpt-log.ucloud.cn
@@ -438,6 +464,7 @@ domain:leanplum.com
 domain:lianmeng.360.cn:@ads
 domain:log-upload-os.hoyoverse.com:@ads
 domain:log-upload.mihoyo.com:@ads
+domain:log.dzen.ru:@ads
 domain:log.hunantv.com:@ads
 domain:log.mix.sina.com.cn:@ads
 domain:log.sina.cn:@ads
@@ -471,6 +498,7 @@ domain:mdt.qq.com:@ads
 domain:mediav.com:@ads
 domain:metrics.21-school.ru:@ads
 domain:metrics.duolingo.com:@ads
+domain:metrics.viqeo.tv:@ads
 domain:metrika.yandex.ru:@ads
 domain:miao.baidu.com:@ads
 domain:miaowu.baidu.com:@ads
@@ -494,12 +522,16 @@ domain:monitor.uu.qq.com:@ads
 domain:mopub.com
 domain:mountain.zhidao.baidu.com:@ads
 domain:mpush.qq.com:@ads
+domain:ms.dzen.ru:@ads
+domain:ms.vk.com:@ads
+domain:ms.vk.ru:@ads
 domain:msads.net:@ads
 domain:msg.video.qiyi.com:@ads
 domain:msg.youku.com:@ads
 domain:msg2.video.qiyi.com:@ads
 domain:mtrace.qq.com:@ads
 domain:mvad.com:@ads
+domain:myadx.net:@ads
 domain:najva.com
 domain:nbsdk-baichuan.alicdn.com:@ads
 domain:nbsdk-baichuan.taobao.com:@ads
@@ -543,6 +575,7 @@ domain:pimlog.baidu.com:@ads
 domain:pingjs.qq.com:@ads
 domain:pix.yandex.ru:@ads
 domain:pixel.facebook.com:@ads
+domain:pixel.rustore.ru:@ads
 domain:pixel.yandex.net:@ads
 domain:pl.youku.com:@ads
 domain:plbslog.umeng.com:@ads
@@ -559,9 +592,17 @@ domain:qpb1.sohu.com:@ads
 domain:qqdata.ab.qq.com:@ads
 domain:questions-adv.ozon.ru:@ads
 domain:qwapi.com:@ads
+domain:r.mail.ru:@ads
+domain:r.my.com:@ads
+domain:r0.mail.ru:@ads
+domain:r0.mradx.net:@ads
+domain:r1.mail.ru:@ads
+domain:radar.imgsmail.ru:@ads
 domain:reachmax.cn
 domain:realsrv.com
 domain:reke.at.sohu.com:@ads
+domain:reklama.mail.ru:@ads
+domain:relap.mail.ru:@ads
 domain:report.ap.yandex-net.ru:@ads
 domain:report.qqweb.qq.com:@ads
 domain:report.tencentmusic.com:@ads
@@ -570,6 +611,7 @@ domain:resolve.umeng.com:@ads
 domain:retcode.taobao.com:@ads
 domain:reyun.com
 domain:rmonitor.qq.com:@ads
+domain:rs.mail.ru:@ads
 domain:rs.sinajs.cn:@ads
 domain:s-adashx.ut.youku.com:@ads
 domain:s.360.cn:@ads
@@ -585,13 +627,18 @@ domain:sbermarketing.ru:@ads
 domain:sclick.baidu.com:@ads
 domain:sdkclick.mobile.sina.cn:@ads
 domain:sensors.umetrip.com.cn
+domain:sentry-ng.g.smailru.net:@ads
 domain:sentry.d.mi.com:@ads
 domain:sentry.d.xiaomi.net:@ads
+domain:sentry.dev-my.com:@ads
+domain:sentry.dev-my.games:@ads
 domain:sentry.mindbox.ru:@ads
 domain:sentry.music.163.com:@ads
 domain:sentry.ozon.ru:@ads
 domain:sentry.popmechanic.ru:@ads
+domain:sentry.rustore.ru:@ads
 domain:sentry.sberauto.com:@ads
+domain:sentry.viqeo.tv:@ads
 domain:sentry.wb.ru:@ads
 domain:sentry.x5.ru:@ads
 domain:serving-sys.com:@ads
@@ -608,6 +655,7 @@ domain:spcode.baidu.com:@ads
 domain:splash-ads.cdn.unity.cn:@ads
 domain:splash-ads.unitychina.cn:@ads
 domain:ssp.api.tappx.com
+domain:stacks.vk-portal.net:@ads
 domain:stat.chinaso.com
 domain:stat.m.jd.com:@ads
 domain:stat.y.qq.com:@ads
@@ -616,10 +664,19 @@ domain:static.hotjar.com
 domain:static.javhd.com
 domain:static.sensorsdata.cn
 domain:statis.api.3g.youku.com:@ads
+domain:stats.dahlmessenger.com:@ads
+domain:stats.dev.telega.info:@ads
 domain:stats.music.xiaomi.com:@ads
+domain:stats.rustore.ru:@ads
+domain:stats.telega.info:@ads
+domain:stats.vk-portal.net:@ads
 domain:syh.zybang.com:@ads
+domain:t.mail.ru:@ads
 domain:tajs.qq.com:@ads
 domain:tapsell.ir
+domain:target.my.com:@ads
+domain:target.vk.com:@ads
+domain:target.vk.ru:@ads
 domain:tcbox.baidu.com:@ads
 domain:tce.alicdn.com:@ads
 domain:tcss.qq.com:@ads
@@ -633,12 +690,16 @@ domain:tmead.y.qq.com:@ads
 domain:tmeadcomm.y.qq.com:@ads
 domain:tns.simba.taobao.com:@ads
 domain:toboads.com
+domain:top-fwz1.mail.ru:@ads
+domain:top-staging.mail.ru:@ads
 domain:tpstelemetry.tencent.com:@ads
 domain:trace.qq.com:@ads
 domain:tracing-http.megamarket.tech:@ads
 domain:track.lc.quark.cn:@ads
 domain:track.sohu.com:@ads
+domain:tracker-api.my.com:@ads
 domain:tracker.ai.xiaomi.com:@ads
+domain:tracker.my.com:@ads
 domain:tracker.xiaomixiaoai.com:@ads
 domain:tracking.miui.com:@ads
 domain:tracking.ocourier.ru:@ads
@@ -667,6 +728,7 @@ domain:v6-adashx.ut.ele.me:@ads
 domain:v6-adashx.ut.taobao.com:@ads
 domain:v6-adashx.ut.youku.com:@ads
 domain:visor.sberbank.ru:@ads
+domain:vk-analytics.ru:@ads
 domain:w.cnzz.com:@ads
 domain:wangmeng.baidu.com:@ads
 domain:wapwbclick.mobile.sina.cn:@ads
@@ -674,6 +736,7 @@ domain:wbclick.mobile.sina.cn:@ads
 domain:web-analytics.wildberries.ru:@ads
 domain:webvisor.com:@ads
 domain:webvisor.org:@ads
+domain:whiteline.mail.ru:@ads
 domain:wit.qq.com:@ads
 domain:wkctj.baidu.com:@ads
 domain:wm.baidu.com:@ads
@@ -687,6 +750,7 @@ domain:xapi.ozon.com:@ads
 domain:xapi.ozon.kz:@ads
 domain:xapi.ozon.ru:@ads
 domain:xapi.ozonru.me:@ads
+domain:xray.mail.ru:@ads
 domain:xy-log.tagtic.cn
 domain:yabs.yandex.ru:@ads
 domain:yads.tech:@ads

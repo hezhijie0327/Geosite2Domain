@@ -38,9 +38,11 @@ domain:ldstatic.com
 domain:lih.kg
 domain:lihkg.com
 domain:linux.do
+domain:log.dzen.ru:@ads
 domain:maintracker.org
 domain:mewe.com
 domain:mobile01.com
+domain:ms.dzen.ru:@ads
 domain:nodeget.com
 domain:nodeimage.com
 domain:nodequality.com

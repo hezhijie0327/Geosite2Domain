@@ -9,6 +9,7 @@ domain:et001.com
 domain:fhyx.com
 domain:fnjiasu.com
 domain:funjsq.com
+domain:gangwan.com
 domain:ggkuai.com
 domain:gijsq.com
 domain:golink.com
@@ -21,9 +22,13 @@ domain:jiasu.bohe.com
 domain:kk1.vip
 domain:leigod.cn
 domain:leigod.com
+domain:leigodjsq.com
 domain:liuxing.com
 domain:lorhf.com
+domain:ls66.cn
 domain:lxjiasu.com
+domain:nn.com
+domain:nnbooster.com
 domain:oojsq.com
 domain:qiyou.cn
 domain:rmbgame.net
@@ -31,7 +36,9 @@ domain:steam302.xyz
 domain:steampp.net
 domain:tmjiasuqi.com
 domain:uu.163.com
+domain:waifushangcheng.com
 domain:xunyou.com
 domain:xunyou.mobi
+domain:xxghh.biz
 domain:yebaojiasu.com
 domain:yuelun.com

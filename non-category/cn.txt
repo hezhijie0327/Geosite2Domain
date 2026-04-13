@@ -2103,6 +2103,7 @@ domain:gamepp.com
 domain:gameres.com
 domain:gamersky.com
 domain:gamewower.com
+domain:gangwan.com
 domain:ganji.com
 domain:ganjiangvpn.com
 domain:ganjistatic1.com
@@ -3163,6 +3164,7 @@ domain:lecloudapi.com
 domain:ledu.com
 domain:leetcode-cn.com
 domain:leigod.com
+domain:leigodjsq.com
 domain:leikeji.com
 domain:leiniao.com
 domain:leiphone.com
@@ -3590,6 +3592,8 @@ domain:nihaoafrica.org
 domain:ningtingche.com
 domain:nlark.com
 domain:nmrdata.com
+domain:nn.com
+domain:nnbooster.com
 domain:nnthink.com
 domain:nomuraoi-sec.com
 domain:novelfm.com
@@ -4881,6 +4885,7 @@ domain:vvstc.com
 domain:vxo7tu.com
 domain:vzuu.com
 domain:w.cnzz.com:@ads
+domain:waifushangcheng.com
 domain:wali.com
 domain:wallstcn.com
 domain:wallstreetcn.com
@@ -5199,6 +5204,7 @@ domain:xunlei.com
 domain:xunyou.com
 domain:xunyou.mobi
 domain:xwbank.com
+domain:xxghh.biz
 domain:xxsy.net
 domain:xxtmail.com
 domain:xycdn.com

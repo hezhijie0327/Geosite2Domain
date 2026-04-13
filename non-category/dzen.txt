@@ -1,2 +1,4 @@
 domain:dzen.ru
 domain:dzeninfra.ru
+domain:log.dzen.ru:@ads
+domain:ms.dzen.ru:@ads

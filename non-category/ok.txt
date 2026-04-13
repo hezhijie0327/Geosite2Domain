@@ -1,5 +1,11 @@
-domain:mycdn.me
+domain:apiok.ru
+domain:insideok.ru
+domain:odkl.ru
+domain:odnoklassniki.ru
+domain:ok.me
 domain:ok.ru
 domain:okcdn.ru
+domain:okl.lt
+domain:oktech.ru
 full:st-ok-pts.cdn-vk.ru
 full:st-ok.cdn-vk.ru
