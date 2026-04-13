@@ -75,6 +75,7 @@ domain:gmo.media
 domain:gmoask.jp
 domain:gmobb.jp
 domain:gmocloud.com
+domain:gmopg.jp
 domain:gmosign.com
 domain:gmossp.jp
 domain:good-apps.jp

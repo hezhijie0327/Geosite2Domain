@@ -9042,6 +9042,7 @@ domain:gmobb.jp
 domain:gmocloud.com
 domain:gmodules.com
 domain:gmoney.org
+domain:gmopg.jp
 domain:gmosign.com
 domain:gmossp-sp.jp:@ads
 domain:gmossp.jp

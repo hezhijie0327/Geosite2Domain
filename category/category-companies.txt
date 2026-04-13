@@ -3235,6 +3235,7 @@ domain:gmoask.jp
 domain:gmobb.jp
 domain:gmocloud.com
 domain:gmodules.com
+domain:gmopg.jp
 domain:gmosign.com
 domain:gmossp.jp
 domain:go-lang.com
