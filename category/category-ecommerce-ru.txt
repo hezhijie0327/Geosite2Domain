@@ -77,9 +77,6 @@ domain:rwbautomation.tech
 domain:rwbgeo.ru
 domain:sentry.ozon.ru:@ads
 domain:sentry.wb.ru:@ads
-domain:tracking.ocourier.ru:@ads
-domain:tracking.ozon-dostavka.ru:@ads
-domain:tracking.ozon.ru:@ads
 domain:vamzakaz.ru
 domain:velberis.ru
 domain:vildberis.ru

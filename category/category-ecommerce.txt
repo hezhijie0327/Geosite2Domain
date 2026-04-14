@@ -1119,9 +1119,6 @@ domain:theopportunityproject.org
 domain:tiendabestbuy.com
 domain:toget.com.tw
 domain:towerauction.com
-domain:tracking.ocourier.ru:@ads
-domain:tracking.ozon-dostavka.ru:@ads
-domain:tracking.ozon.ru:@ads
 domain:unbrandedproducts.com
 domain:vamo.com
 domain:vamzakaz.ru

@@ -48,9 +48,6 @@ domain:prodvizhenie-adv.ozon.ru:@ads
 domain:questions-adv.ozon.ru:@ads
 domain:rocketozon.by
 domain:sentry.ozon.ru:@ads
-domain:tracking.ocourier.ru:@ads
-domain:tracking.ozon-dostavka.ru:@ads
-domain:tracking.ozon.ru:@ads
 domain:xapi.ozon.by:@ads
 domain:xapi.ozon.com.by:@ads
 domain:xapi.ozon.com.kz:@ads

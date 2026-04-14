@@ -21,6 +21,7 @@ domain:appcenter.ms
 domain:apple-cloudkit.com
 domain:apple-mapkit.com
 domain:appleswift.com
+domain:archlinux.de
 domain:archlinux.org
 domain:archlinuxarm.org
 domain:archlinuxcn.org

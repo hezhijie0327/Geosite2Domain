@@ -10,7 +10,10 @@ domain:learnbits.me
 domain:legittorrents.info
 domain:megatorrents.kg
 domain:mvgroup.org
+domain:nnm-club.cc
+domain:nnm-club.info
 domain:peckservers.com
+domain:searchtor.to
 domain:shnflac.net
 domain:siambt.com
 domain:thegeeks.bz
@@ -70,7 +73,6 @@ full:bt.edwardk.info
 full:bt.firebit.org
 full:bt.hliang.com
 full:bt.ktrackers.com
-full:bt.nnm-club.info
 full:bt.okmp3.ru
 full:bt.poletracker.org
 full:bt.ptlsp.com
@@ -79,13 +81,12 @@ full:bt.rghost.net
 full:bt.sc-ol.com
 full:bt.unionpeer.org
 full:bt.zlofenix.org
-full:bt02.nnm-club.cc
-full:bt02.nnm-club.info
 full:bt1.archive.org
 full:bt1.xxxxbt.cc
 full:bt2.54new.com
 full:bt2.archive.org
 full:bt2.edwardk.info
+full:bt4.t-ru.org
 full:btfile.sdo.com
 full:btracker.top
 full:bttracker.debian.org
@@ -140,7 +141,6 @@ full:moonburrow.club
 full:movies.zsw.ca
 full:music-torrent.net
 full:new-line.net
-full:nnmclub.to
 full:nyaa.tracker.wf
 full:odd-hd.fr
 full:oh.fuuuuuck.com
@@ -164,14 +164,7 @@ full:openbittorrent.com
 full:opentor.org
 full:opentracker.acgnx.com
 full:opentracker.acgnx.se
-full:opentracker.dg2.i2p
-full:opentracker.eeptorrent.i2p
-full:opentracker.fattydove.i2p
-full:opentracker.i2p.rocks
 full:opentracker.io
-full:opentracker.r4sas.i2p
-full:opentracker.simp.i2p
-full:opentracker.skank.i2p
 full:opentrackr.org
 full:oscar.reyesleon.xyz
 full:p2p.0g.cx
@@ -186,7 +179,6 @@ full:public.demonoid.ch
 full:public.tracker.vraphim.com
 full:pubt.net
 full:qg.lorzl.gq
-full:qimlze77z7w32lx2ntnwkuqslrzlsqy7774v3urueuarafyqik5a.b32.i2p
 full:retracker.ip.ncnet.ru
 full:retracker.lanta.me
 full:retracker.local
@@ -203,7 +195,6 @@ full:share.dmhy.org
 full:share.hkg-fansub.info
 full:shubt.net
 full:siambit.com
-full:sigmatracker.i2p
 full:su-data.com
 full:sugoi.pomf.se
 full:sukebei.tracker.wf
@@ -415,7 +406,6 @@ full:tracker2.ctix.cn
 full:tracker2.dler.com
 full:tracker2.dler.org
 full:tracker2.itzmx.com
-full:tracker2.postman.i2p
 full:tracker2.torrentino.com
 full:tracker3.dler.org
 full:tracker3.itzmx.com
@@ -437,7 +427,6 @@ full:xbtrutor.com
 full:xtremewrestlingtorrents.net
 full:y.paranoid.agency
 full:y.t-1.org
-full:yggtracker.i2p.rocks
 full:yolo.liberbear.com
 full:z.paranoid.agency
 full:zupix.online
