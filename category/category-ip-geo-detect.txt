@@ -36,6 +36,7 @@ domain:icanhazip.com
 domain:ident.me
 domain:ifconfig.co
 domain:ifconfig.es
+domain:ifconfig.io
 domain:ifconfig.me
 domain:ip-adress.com
 domain:ip-api.com
