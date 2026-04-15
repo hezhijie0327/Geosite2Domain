@@ -1400,6 +1400,7 @@ domain:alpherafs.ie
 domain:alpherafs.in
 domain:alpherafs.my
 domain:alpinelinux.org
+domain:alt-ad.mail.ru:@ads
 domain:alt.com
 domain:altera.co.jp
 domain:altera.com

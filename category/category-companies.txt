@@ -333,6 +333,7 @@ domain:alivevm.com
 domain:alivevmax.com
 domain:alivevue.com
 domain:alphassl.com:@cn
+domain:alt-ad.mail.ru:@ads
 domain:altera.co.jp
 domain:altera.com
 domain:alteraforum.com

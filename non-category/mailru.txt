@@ -3,6 +3,7 @@ domain:ads.viqeo.tv:@ads
 domain:adsadvisor.io:@ads
 domain:adv.vk.com:@ads
 domain:algoritmika.org
+domain:alt-ad.mail.ru:@ads
 domain:analytics.vk.com:@ads
 domain:aodahl.com
 domain:apiok.ru

@@ -185,6 +185,7 @@ domain:alog.umeng.com:@ads
 domain:alog.umengcloud.com:@ads
 domain:alogs.umeng.com:@ads
 domain:alogus.umeng.com:@ads
+domain:alt-ad.mail.ru:@ads
 domain:amazon-adsystem.com:@ads
 domain:amc.yandex.ru:@ads
 domain:an.yandex.ru:@ads
