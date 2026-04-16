@@ -1,8 +1,3 @@
-domain:api-js.mindbox.ru:@ads
-domain:api-ru.mindbox.cloud:@ads
-domain:api-staging.mindbox.ru:@ads
-domain:api.mindbox.cloud:@ads
-domain:api.mindbox.ru:@ads
 domain:botmechanic.io
 domain:ceosummit.ru
 domain:e.mindbox.ru:@ads
@@ -17,6 +12,11 @@ domain:mindbox.so
 domain:popmechanic.io
 domain:popmechanic.ru
 domain:s.mindbox.ru:@ads
-domain:sentry.mindbox.ru:@ads
-domain:sentry.popmechanic.ru:@ads
 domain:summitceo.ru
+full:api-js.mindbox.ru:@ads
+full:api-ru.mindbox.cloud:@ads
+full:api-staging.mindbox.ru:@ads
+full:api.mindbox.cloud:@ads
+full:api.mindbox.ru:@ads
+full:sentry.mindbox.ru:@ads
+full:sentry.popmechanic.ru:@ads

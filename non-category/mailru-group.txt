@@ -10,6 +10,7 @@ domain:apiok.ru
 domain:appsmail.ru
 domain:apptracer.ru:@ads
 domain:armgs.team
+domain:attachmail.ru
 domain:attachmy.com
 domain:bargipsy.com
 domain:bizmrg.com
@@ -158,6 +159,7 @@ domain:tracker-api.my.com:@ads
 domain:tracker.my.com:@ads
 domain:tusco.ru
 domain:uchi.ru
+domain:uma.media
 domain:umschool.net
 domain:userapi.com
 domain:userapi.ru
@@ -212,6 +214,7 @@ domain:vkuservideo.net
 domain:vkuservideo.ru
 domain:vkvideo.ru
 domain:vmailru.net
+domain:xmail.ru
 domain:xn-----6kc7adj0c9esa.com
 domain:xn----7sbaba0dc6cdn7cxcj.com
 domain:xn----7sbabae2a0bnvtsfr4loc.com

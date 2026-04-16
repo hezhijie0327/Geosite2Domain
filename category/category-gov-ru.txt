@@ -88,7 +88,6 @@ domain:ryazan.ru
 domain:sakhalin.ru
 domain:samara.ru
 domain:saratov.ru
-domain:sev.ru
 domain:sevastopol.ru
 domain:simbirsk.ru
 domain:smolensk.ru

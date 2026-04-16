@@ -9,8 +9,10 @@ domain:kinopoisk.ru
 domain:kinorium.com
 domain:okko.sport
 domain:okko.tv
+domain:okkoapi.tv
 domain:playfamily.ru
 domain:premier.one
+domain:promodj.com
 domain:restream-media.net
 domain:rtbcdn.ru
 domain:rutube.ru

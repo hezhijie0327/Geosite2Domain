@@ -10,8 +10,8 @@ domain:2gis.ge
 domain:2gis.kg
 domain:2gis.kz
 domain:2gis.ru
+domain:2gis.tech
 domain:2gis.tj
-domain:2gis.ua
 domain:2gis.uz
 domain:2w.ru
 domain:4c.ru
@@ -55,13 +55,13 @@ domain:eapteka.ru
 domain:electronicsignature.ru
 domain:enterly.ru
 domain:era-invest.ru
-domain:error-tracking.megamarket.tech:@ads
 domain:etna.ai
 domain:gainstech.ru
 domain:gazprombank.com
 domain:gazprombank.investments
 domain:gazprombank.ru
 domain:getsynapse.io
+domain:gid.ru
 domain:giga.chat
 domain:gitverse.ru
 domain:gosdolgi.ru
@@ -98,7 +98,6 @@ domain:malotogo.ru
 domain:max-tcs.ru
 domain:megamarket.ru
 domain:megamarket.tech
-domain:metrics.21-school.ru:@ads
 domain:mfk-t-finance.ru
 domain:mkb.ru
 domain:mtsdengi.ru
@@ -107,6 +106,7 @@ domain:myapelsin.ru
 domain:neon.click:@ads
 domain:okko.sport
 domain:okko.tv
+domain:okkoapi.tv
 domain:otello.ru
 domain:payecom.ru
 domain:payment.ru
@@ -161,7 +161,6 @@ domain:sberspasibo.ru
 domain:sbertech.ru
 domain:sbertroika.ru
 domain:sbrf.ru
-domain:sentry.sberauto.com:@ads
 domain:sgcheck.ru
 domain:spasibo.digital
 domain:spasibo.market
@@ -213,10 +212,8 @@ domain:tmiaf.ru
 domain:tochka-tech.com
 domain:tochka.com
 domain:tpension.ru
-domain:tracing-http.megamarket.tech:@ads
 domain:travel-tec.ru
 domain:unidraw.io
-domain:visor.sberbank.ru:@ads
 domain:vtb.ru
 domain:xn----7sbhmncai5a0arm7c1e.xn--p1ai
 domain:xn----8sbkfzespdwig.xn--p1ai
@@ -228,4 +225,9 @@ domain:xn--d1abkf4ap.fun
 domain:xn--h1ao.site
 domain:zvuk-b2b.com
 domain:zvuk.com
+full:error-tracking.megamarket.tech:@ads
+full:metrics.21-school.ru:@ads
 full:sberpro.vedomosti.ru
+full:sentry.sberauto.com:@ads
+full:tracing-http.megamarket.tech:@ads
+full:visor.sberbank.ru:@ads

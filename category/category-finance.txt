@@ -11,8 +11,8 @@ domain:2gis.ge
 domain:2gis.kg
 domain:2gis.kz
 domain:2gis.ru
+domain:2gis.tech
 domain:2gis.tj
-domain:2gis.ua
 domain:2gis.uz
 domain:2w.ru
 domain:4c.ru
@@ -93,7 +93,6 @@ domain:electronicsignature.ru
 domain:enbank.ir
 domain:enterly.ru
 domain:era-invest.ru
-domain:error-tracking.megamarket.tech:@ads
 domain:etna.ai
 domain:fibank.bg
 domain:firstprivatebank.com.mm
@@ -120,6 +119,7 @@ domain:gazprombank.ru
 domain:gbank.com.mm
 domain:getsynapse.io
 domain:ghbi.ir
+domain:gid.ru
 domain:giga.chat
 domain:gitverse.ru
 domain:gosdolgi.ru
@@ -280,7 +280,6 @@ domain:meb.gov.mm
 domain:mebank.ir
 domain:megamarket.ru
 domain:megamarket.tech
-domain:metrics.21-school.ru:@ads
 domain:mfk-t-finance.ru
 domain:micb.gov.mm
 domain:michinokubank.co.jp
@@ -316,6 +315,7 @@ domain:oitabank.co.jp
 domain:okinawabank.co.jp
 domain:okko.sport
 domain:okko.tv
+domain:okkoapi.tv
 domain:otello.ru
 domain:parsian-bank.com
 domain:payecom.ru
@@ -393,7 +393,6 @@ domain:schwab.com.hk
 domain:schwab.com.sg
 domain:schwabassetmanagement.com
 domain:schwabplan.com
-domain:sentry.sberauto.com:@ads
 domain:sevenbank.co.jp
 domain:sgcheck.ru
 domain:shahr-bank.ir
@@ -473,7 +472,6 @@ domain:tomibank.co.jp
 domain:tottoribank.co.jp
 domain:toyobank.co.jp
 domain:tpension.ru
-domain:tracing-http.megamarket.tech:@ads
 domain:tradingview.com
 domain:transferwise.com
 domain:travel-tec.ru
@@ -481,7 +479,6 @@ domain:tsukubabank.co.jp
 domain:tuncommercialbank.com
 domain:uab.com.mm
 domain:unidraw.io
-domain:visor.sberbank.ru:@ads
 domain:vtb.ru
 domain:waveomoney.com.mm
 domain:wbrks.com
@@ -502,6 +499,11 @@ domain:yomabank.com
 domain:ysx-mm.com
 domain:zvuk-b2b.com
 domain:zvuk.com
+full:error-tracking.megamarket.tech:@ads
+full:metrics.21-school.ru:@ads
 full:sberpro.vedomosti.ru
+full:sentry.sberauto.com:@ads
 full:standchartbank.sc.omtrdc.net
 full:standchartbank.tt.omtrdc.net
+full:tracing-http.megamarket.tech:@ads
+full:visor.sberbank.ru:@ads

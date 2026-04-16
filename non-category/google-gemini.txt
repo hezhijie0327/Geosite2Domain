@@ -23,6 +23,7 @@ domain:opal.google
 domain:opal.google.com
 domain:proactivebackend-pa.googleapis.com
 domain:robinfrontend-pa.googleapis.com
+domain:stitch.withgoogle.com
 full:ai.google.dev
 full:alkalicore-pa.clients6.google.com
 full:alkalimakersuite-pa.clients6.google.com

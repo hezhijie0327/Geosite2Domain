@@ -928,6 +928,7 @@ domain:offworldindustries.net
 domain:ofiii.com
 domain:okko.sport
 domain:okko.tv
+domain:okkoapi.tv
 domain:olehd.com
 domain:olelive.com
 domain:olemovienews.com
@@ -1026,6 +1027,7 @@ domain:prismlauncher.org
 domain:prod.service.minerva.devices.a2z.com
 domain:product.co.jp
 domain:projectapex.com
+domain:promodj.com
 domain:protondb.com
 domain:pscdn.co
 domain:ptzwx.com
