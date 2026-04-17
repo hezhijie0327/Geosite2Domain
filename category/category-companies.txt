@@ -4788,6 +4788,8 @@ domain:management-azure-devices-int.net
 domain:management-azure-devices-provisioning.cn:@cn
 domain:management-azure-devices.cn:@cn
 domain:management-azure-devices.net
+domain:manus.im
+domain:manuscdn.com
 domain:map-software.com
 domain:mapguide.com
 domain:mappingonline.com
