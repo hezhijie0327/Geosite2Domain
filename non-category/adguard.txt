@@ -9,6 +9,7 @@ domain:adguard.info
 domain:adguard.io
 domain:adguard.org
 domain:adguardaccount.com
+domain:adguardcdn.com
 domain:adguardvpn.com
 domain:adtidy.net
 domain:adtidy.org
