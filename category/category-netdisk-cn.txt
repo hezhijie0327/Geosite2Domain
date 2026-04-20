@@ -37,6 +37,7 @@ domain:cowtransfer.com
 domain:ctfile.com
 domain:feimaoyun.com
 domain:filez.com
+domain:guangyapan.com
 domain:ilanzou.com
 domain:jianguoyun.com
 domain:lanosso.com

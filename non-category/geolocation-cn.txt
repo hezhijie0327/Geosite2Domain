@@ -90,6 +90,7 @@ domain:17u.cn
 domain:17u.net
 domain:17usoft.com
 domain:17usoft.net
+domain:17van.com
 domain:17zuoye.cn
 domain:17zuoye.com
 domain:17zuoye.net
@@ -420,6 +421,7 @@ domain:acctdns.com
 domain:acctdns.net
 domain:accuratead.cn
 domain:accxiaoheihe.com
+domain:acepanel.net
 domain:acetaffy.club
 domain:acfun.cn
 domain:acfun.net
@@ -545,9 +547,11 @@ domain:ahitv.com
 domain:aicdn.com
 domain:aichaoxing.com
 domain:aichongzoo.cn
+domain:aidream.website
 domain:aiemy.com
 domain:aiganggu.com
 domain:aigc-cloud.com
+domain:aigodlike.com
 domain:aihst8.com
 domain:aihuishou.com
 domain:aiketour.com
@@ -853,6 +857,7 @@ domain:baofeng.net
 domain:baomitu.com
 domain:baoxianshichang.com
 domain:baseopendev.com
+domain:batchat.com
 domain:battlecare.net
 domain:baydn.com
 domain:bazai.com
@@ -1462,6 +1467,7 @@ domain:chesicc.com.cn
 domain:chesicc.net
 domain:chesicc.net.cn
 domain:chesicc.org.cn
+domain:chessease.net
 domain:cheyisou.com
 domain:chicalot.cn
 domain:china-chair.com
@@ -1538,6 +1544,7 @@ domain:chuapp.com
 domain:chugou360.com
 domain:chuimg.com
 domain:chujingapp.com
+domain:chushi.cool
 domain:chushou.tv
 domain:chuyu.me
 domain:cib-fund.com.cn
@@ -1752,6 +1759,7 @@ domain:coloros.net
 domain:computeinit.com
 domain:comsenz.com
 domain:conac.cn
+domain:cone-x.com
 domain:contentchina.com
 domain:cookicut.com
 domain:coolab.top
@@ -2047,6 +2055,7 @@ domain:dingxiang-inc.com
 domain:diopic.net
 domain:discuz.net
 domain:discuz.org
+domain:divoiotcloud.com
 domain:diyiyou.com
 domain:dj99.com
 domain:djdjapp.com
@@ -2239,6 +2248,7 @@ domain:e.kuaishou.com:@ads
 domain:e.qq.com:@ads
 domain:e.stat.ykimg.com:@ads
 domain:e0n.cn
+domain:eagsen.com
 domain:easec.com.cn
 domain:easesale.com
 domain:easiu.com
@@ -2327,6 +2337,7 @@ domain:essence.com.cn
 domain:essurl.com
 domain:et-api.com
 domain:et001.com
+domain:et0731.com
 domain:etao.com
 domain:ets100.com
 domain:euads-o.api.leiniao.com:@ads
@@ -2334,7 +2345,9 @@ domain:eufycn.com
 domain:eufymake.com.cn
 domain:everbright.com
 domain:ewww.com.cn
+domain:excelbbx.net
 domain:excelhome.net
+domain:exiliumgf.com
 domain:exmailgz.com
 domain:expreview.com
 domain:extfans.com
@@ -2768,6 +2781,7 @@ domain:guanaitong.com
 domain:guancha.cn
 domain:guanggaoad.youku.com:@ads
 domain:guanggaotongapp.cn
+domain:guangyapan.com
 domain:guanhaobio.com
 domain:guanyierp.com
 domain:guazi.com
@@ -2789,6 +2803,7 @@ domain:guoxuemi.com
 domain:gupzs.com
 domain:gushiwen.org
 domain:guzhangting.com
+domain:gvgoo.com
 domain:gw.com.cn
 domain:gwdang.com
 domain:gwm.com.cn
@@ -3141,6 +3156,7 @@ domain:hxb.com.cn
 domain:hxfy888.com
 domain:hxsd.com
 domain:hxzq.cn
+domain:hybiome.com
 domain:hypercachenet.com
 domain:hytung.cn
 domain:hzdtv.tv
@@ -3248,6 +3264,7 @@ domain:ihuoshanstatic.com
 domain:ihuoshanvod.com
 domain:ihykb.com
 domain:ijiandao.com
+domain:ijingyi.com
 domain:ijinshan.com
 domain:ikafan.com
 domain:ikanchai.com
@@ -3473,6 +3490,7 @@ domain:jdl.com.cn
 domain:jdlike.cn
 domain:jdpay.com
 domain:jdpaydns.com
+domain:jduoduo.com
 domain:jdwl.com
 domain:jdx.com
 domain:jet-ego.com
@@ -3486,6 +3504,7 @@ domain:jhzq.com.cn
 domain:jia.com
 domain:jiameng.com
 domain:jianbihua.com
+domain:jiangningwater.com
 domain:jianguoyun.com
 domain:jianshu.com
 domain:jianshu.io
@@ -3517,6 +3536,7 @@ domain:jinantimes.com.cn
 domain:jindidata.com
 domain:jingdong.com
 domain:jingdongjinrong.com
+domain:jingheiot.com
 domain:jinglingbiaozhu.com
 domain:jingpinhui.com
 domain:jingxi.com
@@ -3602,6 +3622,7 @@ domain:jsctyiptv.cn
 domain:jsdmirror.com
 domain:jsehealth.com
 domain:jsfund.cn
+domain:jsj.top
 domain:jslife.net
 domain:jsrdgg.com
 domain:jsterp.cn
@@ -3668,6 +3689,8 @@ domain:kaadas.com
 domain:kafan.cn
 domain:kaifayun.com
 domain:kaifubiao.com
+domain:kaihong.com
+domain:kaipanhong.com
 domain:kaipuyun.cn
 domain:kaipuyun.com
 domain:kaipuyun.com.cn
@@ -3982,6 +4005,7 @@ domain:liepin.com
 domain:lietou-static.com
 domain:lietou.com
 domain:lieyunwang.com
+domain:lightmake.site
 domain:lightonus.com
 domain:likuso.com
 domain:limestart.cn
@@ -4145,6 +4169,7 @@ domain:mayihr.com
 domain:mayshijia.com
 domain:mbalib.com
 domain:mbdlog.iqiyi.com:@ads
+domain:mblyun.com
 domain:mcadn.cn
 domain:mcbaas.work
 domain:mcbang.com
@@ -4188,6 +4213,7 @@ domain:meitustat.com
 domain:meiwulist.com
 domain:meizu.cn
 domain:meizu.com
+domain:meloong.com
 domain:mengtuoshi.wang
 domain:merach.com
 domain:meta.law
@@ -4219,6 +4245,7 @@ domain:midea.com.cn
 domain:mideaepayuat.com
 domain:miercn.com
 domain:mifile.cn
+domain:mifon.com
 domain:migames.com
 domain:migu.cn
 domain:migucloud.com
@@ -4666,6 +4693,7 @@ domain:phpwind.net
 domain:piaoliang.com
 domain:picpic-ai.cn
 domain:picself.cn
+domain:piedaochuan.top
 domain:pigai.org
 domain:pimlog.baidu.com:@ads
 domain:pinduoduo.com
@@ -5080,6 +5108,7 @@ domain:shanbay.com
 domain:shang360.com
 domain:shangc.net
 domain:shanghairc.com
+domain:shanghongbei.com
 domain:shangshi360.com
 domain:shangyexinzhi.com
 domain:shangzhibo.tv
@@ -5369,8 +5398,10 @@ domain:taikang.com
 domain:taikanglife.com
 domain:taikangzhijia.com
 domain:taipingfund.com.cn
+domain:tajiduo.com
 domain:tajs.qq.com:@ads
 domain:takungpao.com
+domain:talk-cloud.net
 domain:talkingdata.com
 domain:talkinggame.com
 domain:tamaegis.com
@@ -5573,6 +5604,7 @@ domain:thinkpad.com
 domain:thinkprinter.cn
 domain:thinkprinter.com.cn
 domain:thinkprinter.net
+domain:thmnet.com
 domain:ths123.com
 domain:thsi.cn
 domain:thtf.com.cn
@@ -5585,6 +5617,7 @@ domain:tiangong.cn
 domain:tianjimedia.com
 domain:tianjin-air.com
 domain:tianlailive.com
+domain:tianlala.com
 domain:tianpeng.com
 domain:tianqi.com
 domain:tianqistatic.com
@@ -5650,6 +5683,7 @@ domain:tokyotrial.cn
 domain:tom.com
 domain:tongdun.net
 domain:tongfangpc.com
+domain:tongkask.com
 domain:tongtaiamc.com
 domain:tongxianghuicn.com
 domain:tongxuepie.com
@@ -5895,6 +5929,7 @@ domain:vamaker.com
 domain:vancl.com
 domain:vanclimg.com
 domain:vanho.cn
+domain:vanjee.net
 domain:vaptcha.com
 domain:vaptcha.net
 domain:variflight.com
@@ -6266,6 +6301,7 @@ domain:xa-bank.com
 domain:xafc.com
 domain:xbext.com
 domain:xbiao.com
+domain:xboxfan.com
 domain:xcc.cn
 domain:xcsc.com
 domain:xd.cn
@@ -6550,6 +6586,7 @@ domain:youyitms.com
 domain:youyiwms.com
 domain:youzan.com
 domain:youzanyun.com
+domain:youzhiyouxing.com
 domain:youzu.com
 domain:yowhale.com
 domain:yoyojie.com
@@ -6655,6 +6692,7 @@ domain:yzcdn.cn
 domain:yzwb.net
 domain:yzyxgame.com
 domain:z-bank.com
+domain:z-tek.com
 domain:z.ai
 domain:z.gds.cnzz.com:@ads
 domain:z28j.com
@@ -6726,6 +6764,7 @@ domain:zhidemai.com
 domain:zhiding.cn
 domain:zhiding.com.cn
 domain:zhidx.com
+domain:zhiexa.com
 domain:zhifang.com
 domain:zhihang100.com
 domain:zhihu-web-analytics.zhihu.com:@ads
@@ -6852,6 +6891,7 @@ domain:zybang.com
 domain:zygbdszt.net.cn
 domain:zyh365.com
 domain:zyhe.com.cn
+domain:zysou.com
 domain:zz.bdstatic.com:@ads
 domain:zzdtec.com
 domain:zztfly.com

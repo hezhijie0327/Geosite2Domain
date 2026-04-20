@@ -70,6 +70,7 @@ domain:jinrishici.com
 domain:juejin.cn
 domain:juejin.im
 domain:kaifayun.com
+domain:kaihong.com
 domain:linglong.space
 domain:linyaps.org.cn
 domain:mindspore.cn

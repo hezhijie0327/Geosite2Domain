@@ -11,6 +11,7 @@ domain:epicgames.com
 domain:epicgames.dev
 domain:epicgamescdn.com
 domain:fab.com
+domain:fortnite-vod.akamaized.net
 domain:fortnite.com
 domain:hyprsense.com
 domain:paragon.com

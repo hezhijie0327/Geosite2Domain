@@ -1,0 +1,7 @@
+domain:eligens.cl
+domain:eligens.com.br
+domain:eligens.io
+domain:genetic-technologies.am
+domain:genotek.am
+domain:genotek.health
+domain:genotek.ru

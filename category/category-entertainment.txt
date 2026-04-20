@@ -442,6 +442,7 @@ domain:flightsimulator.com
 domain:flipnotestudio.com
 domain:forgecdn.net
 domain:forthethrone.com
+domain:fortnite-vod.akamaized.net
 domain:fortnite.com
 domain:forza.net
 domain:forzamotorsport.net
