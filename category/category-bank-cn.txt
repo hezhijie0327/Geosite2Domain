@@ -6,6 +6,7 @@ domain:95588.com
 domain:95588.com.cn
 domain:abchina.com
 domain:bank-of-china.com
+domain:bankcomm.cn
 domain:bankcomm.com
 domain:bankofbeijing.com.cn
 domain:bankofchina.com

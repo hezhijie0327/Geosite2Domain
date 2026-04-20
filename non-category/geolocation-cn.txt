@@ -843,6 +843,7 @@ domain:bambulab.com
 domain:bamenzhushou.com
 domain:bangongziyuan.com
 domain:bank-of-china.com
+domain:bankcomm.cn
 domain:bankcomm.com
 domain:bankofbeijing.com.cn
 domain:bankofchina.com
