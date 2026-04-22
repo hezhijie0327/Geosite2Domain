@@ -32,6 +32,7 @@ domain:comfyci.org
 domain:comfyregistry.org
 domain:copilot.microsoft.com
 domain:coze.com:@!cn
+domain:crewai.com
 domain:crixet.com
 domain:cursor-cdn.com
 domain:cursor.com
@@ -71,7 +72,9 @@ domain:jules.google.com
 domain:kiro.dev
 domain:labs.google
 domain:labs.google.com
+domain:langchain.com
 domain:liveperson.net
+domain:lmstudio.ai
 domain:lovart.ai
 domain:lpsnmedia.net
 domain:makersuite.google.com
@@ -85,6 +88,7 @@ domain:notebooklm.google
 domain:notebooklm.google.com
 domain:oaistatic.com
 domain:oaiusercontent.com
+domain:ollama.com
 domain:opal.google
 domain:opal.google.com
 domain:openai.com

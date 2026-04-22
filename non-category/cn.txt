@@ -3228,6 +3228,8 @@ domain:liaoxuefeng.com
 domain:liba.com
 domain:libaclub.com
 domain:liblib.art
+domain:liblib.cloud
+domain:liblib.tv
 domain:libvideo.com
 domain:liepin.com
 domain:lietou-static.com
@@ -4370,6 +4372,7 @@ domain:taou.com
 domain:tapapks.com
 domain:tapimg.com
 domain:tapimg.net
+domain:tapnow.top
 domain:taptap.com
 domain:taptapdada.com
 domain:tbcache.com

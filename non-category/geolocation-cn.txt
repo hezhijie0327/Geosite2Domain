@@ -1064,7 +1064,6 @@ domain:bosc.cn
 domain:boscam.com.cn
 domain:bosera.com
 domain:bosszhipin.com
-domain:botvip.cn
 domain:bouffalolab.com
 domain:boxdouyin.com
 domain:bplslb.com
@@ -3999,6 +3998,8 @@ domain:liaoxuefeng.com
 domain:liba.com
 domain:libaclub.com
 domain:liblib.art
+domain:liblib.cloud
+domain:liblib.tv
 domain:libvideo.com
 domain:liebao.cn
 domain:liepin.com
@@ -5422,6 +5423,7 @@ domain:tapapks.com
 domain:tapd.cn
 domain:tapimg.com
 domain:tapimg.net
+domain:tapnow.top
 domain:taptap.cn
 domain:taptap.com
 domain:taptapdada.com

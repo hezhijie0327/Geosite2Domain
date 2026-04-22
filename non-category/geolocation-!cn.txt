@@ -5492,6 +5492,7 @@ domain:creatwhatsnext.com
 domain:crececonebay.com
 domain:creditcardsbay.com
 domain:creditkarma.com
+domain:crewai.com
 domain:cricketcountry.com
 domain:crit-staging.com
 domain:critiquebrainz.org
@@ -12348,6 +12349,7 @@ domain:ladyboypornonly.com
 domain:lagranepoca.com
 domain:lanasbigboobs.com
 domain:landofhope.tv
+domain:langchain.com
 domain:langsuirs.com
 domain:lanik.us
 domain:lanmdh.net
@@ -12607,6 +12609,7 @@ domain:lmebooks.com
 domain:lmm167.shop
 domain:lmmbtc.com
 domain:lms01.com
+domain:lmstudio.ai
 domain:lnkd.in
 domain:lnstagram-help.com
 domain:loanbuilder.com
@@ -15430,6 +15433,7 @@ domain:olevod.io
 domain:olevod.tv
 domain:olevodtv.com
 domain:oli-school.com
+domain:ollama.com
 domain:omafotze.com
 domain:omakase.in
 domain:omaps.app

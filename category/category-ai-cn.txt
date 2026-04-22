@@ -2,7 +2,6 @@ domain:aispeech.com
 domain:askdiandian.com
 domain:baichuan-ai.com
 domain:bigmodel.cn
-domain:botvip.cn
 domain:butterfly-static.cn
 domain:butterflyai.cn
 domain:chatglm.cn
@@ -27,6 +26,8 @@ domain:hi-butterfly.cn
 domain:hunyuan.tencent.com
 domain:kimi.com
 domain:liblib.art
+domain:liblib.cloud
+domain:liblib.tv
 domain:maoxiangai.com
 domain:marscode.cn
 domain:marscode.com.cn
@@ -53,6 +54,7 @@ domain:qwenlm.ai
 domain:rwkv.cn
 domain:rwkv.com
 domain:skillhub.cn
+domain:tapnow.top
 domain:tcwqqdy.guru
 domain:tiangong.cn
 domain:tongyi.aliyun.com
