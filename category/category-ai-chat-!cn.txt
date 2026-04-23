@@ -1,3 +1,4 @@
+domain:agentclientprotocol.com
 domain:ai.studio
 domain:aicode.googleapis.com
 domain:aida.googleapis.com
