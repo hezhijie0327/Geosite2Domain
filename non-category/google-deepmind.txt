@@ -1,4 +1,5 @@
 domain:ai.studio
+domain:aicode.googleapis.com
 domain:aida.googleapis.com
 domain:aisandbox-pa.googleapis.com
 domain:aistudio.google.com

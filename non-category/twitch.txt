@@ -4,6 +4,7 @@ domain:live-video.net
 domain:ttvnw.net
 domain:twitch.tv
 domain:twitchcdn.net
+domain:twitchcon.com
 domain:twitchsvc.net
 full:d1g1f25tn8m2e6.cloudfront.net
 full:d1m7jfoe9zdc1j.cloudfront.net

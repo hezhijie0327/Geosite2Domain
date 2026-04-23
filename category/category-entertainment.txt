@@ -1331,6 +1331,7 @@ domain:tvigle.ru
 domain:twinmotion.com
 domain:twitch.tv
 domain:twitchcdn.net
+domain:twitchcon.com
 domain:twitchsvc.net
 domain:ubi.com
 domain:ubisoft.com

@@ -16271,6 +16271,7 @@ domain:placemyad.com.au
 domain:placesdocs.com
 domain:planetminecraft.com
 domain:planetsuzy.org
+domain:plannotator.ai
 domain:plansondemand.com
 domain:plantsvszombies2.com
 domain:plasticlabs.com
@@ -20177,6 +20178,7 @@ domain:twister.net.co
 domain:twistys.com
 domain:twitch.tv
 domain:twitchcdn.net
+domain:twitchcon.com
 domain:twitchsvc.net
 domain:twitcomike.jp
 domain:twitpic.com
