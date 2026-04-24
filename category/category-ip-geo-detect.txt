@@ -150,3 +150,4 @@ full:checkip.dyndns.org
 full:ip.comss.net
 full:ipv4-check-perf.radar.cloudflare.com
 full:ipv6-check-perf.radar.cloudflare.com
+full:whatismyip.akamai.com
