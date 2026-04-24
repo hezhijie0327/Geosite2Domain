@@ -48,6 +48,7 @@ domain:ip.hetzner.com
 domain:ip.mail.ru
 domain:ip.me
 domain:ip.nic.ru
+domain:ip.pe.kr
 domain:ip.sb
 domain:ip.tyk.nu
 domain:ip2c.org
