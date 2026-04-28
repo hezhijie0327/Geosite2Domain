@@ -304,6 +304,7 @@ domain:91changxie.com
 domain:91danji.com
 domain:91shenfan.com
 domain:91yunxiao.com
+domain:95015.com
 domain:95095.com
 domain:95311.com
 domain:95504test.com
@@ -626,6 +627,7 @@ domain:apabi.com
 domain:apcdns.net
 domain:apdcdn.com
 domain:apdcdn.net
+domain:api-building.fun
 domain:apidns.kwd.inkuai.com:@ads
 domain:apifox.com
 domain:apigwtencent.com
@@ -728,6 +730,8 @@ domain:bank-of-china.com
 domain:bankcomm.com
 domain:bankofchina.com
 domain:banmaaike.com
+domain:banxiaoer.com
+domain:banxiaoer.net
 domain:baofeng.com
 domain:baofeng.net
 domain:baomitu.com
@@ -906,6 +910,7 @@ domain:btime.com
 domain:btrace.qq.com:@ads
 domain:bugly.qq.com:@ads
 domain:build9s.io
+domain:building.fun
 domain:buke999.com
 domain:burningvocabulary.com
 domain:bvfcdn.com
@@ -1439,7 +1444,14 @@ domain:coolsite.vip
 domain:cowcs.com
 domain:cowlevel.net
 domain:cowtransfer.com
+domain:coze-dns-01.com
+domain:coze.email
 domain:coze.site
+domain:cozeapp.net
+domain:cozebuild.com
+domain:cozecdn.com
+domain:cozedeploy.com
+domain:cozesdk.com
 domain:cpatrk.net
 domain:cppblog.com
 domain:cpppf.org
@@ -1557,6 +1569,7 @@ domain:dbank.com
 domain:dbankcdn.com
 domain:dbankcloud.com
 domain:dbankedge.net
+domain:dbbuilding.fun
 domain:dc.letv.com:@ads
 domain:dcarapi.com
 domain:dcarimg.com
@@ -1707,6 +1720,7 @@ domain:dotserver.douyucdn.cn:@ads
 domain:douban.com
 domain:douban.fm
 domain:doubanio.com
+domain:doubao-dev.com
 domain:doubao.com
 domain:doubaocdn.com
 domain:doubo03.com
@@ -2223,6 +2237,7 @@ domain:guaiguai.com
 domain:guaiku.com
 domain:guanaitong.com
 domain:guanggaoad.youku.com:@ads
+domain:guangyacdn.com
 domain:guangyapan.com
 domain:guanhaobio.com
 domain:guanyierp.com
@@ -2645,6 +2660,7 @@ domain:inkuai.com
 domain:inkwai.com
 domain:inspirecloud.com
 domain:insta360.com
+domain:instreet.com
 domain:inte.sogou.com:@ads
 domain:inte.sogoucdn.com:@ads
 domain:intsig.com
@@ -3654,6 +3670,8 @@ domain:nzbdw.com
 domain:nzsiteres.com
 domain:nzwgs.com
 domain:oadz.com
+domain:obriccloud.com
+domain:obricclouddw.com
 domain:oc.umeng.com:@ads
 domain:oceancloudapi.com
 domain:ocwms.com
@@ -3907,6 +3925,8 @@ domain:qiangbus.com
 domain:qianjia.com
 domain:qianlima.com
 domain:qianwen.com
+domain:qianxin.com
+domain:qianxincdn.com
 domain:qianxun.com
 domain:qianyierp.com
 domain:qianzhan.com
@@ -4089,6 +4109,7 @@ domain:searchtoutiaolive.com
 domain:seasungames.com
 domain:sec-wiki.com
 domain:secec.com
+domain:seclab.online
 domain:secrss.com
 domain:seeed.cc
 domain:segmentfault.com
@@ -4130,6 +4151,7 @@ domain:shanxijianzhuzizhi.com
 domain:shareintelli.com
 domain:sharejs.com
 domain:shebiaotm.com
+domain:shellpub.com
 domain:shelter-china.com
 domain:shelterdome.net
 domain:shengdaosoft.com
@@ -4515,6 +4537,7 @@ domain:thinkcloudlab.com
 domain:thinkpad.com
 domain:thinkprinter.net
 domain:thmnet.com
+domain:threatbook.com
 domain:ths123.com
 domain:thundercdn.com
 domain:thunderurl.com
@@ -4527,6 +4550,7 @@ domain:tianlala.com
 domain:tianpeng.com
 domain:tianqi.com
 domain:tianqistatic.com
+domain:tianshucup.com
 domain:tianxiajiameng.com
 domain:tianyancha.com
 domain:tiapi.net

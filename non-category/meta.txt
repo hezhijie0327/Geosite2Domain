@@ -463,8 +463,6 @@ domain:lnstagram-help.com
 domain:login-account.net
 domain:m.me
 domain:makeitopen.com
-domain:manus.im
-domain:manuscdn.com
 domain:markzuckerberg.com
 domain:mcrouter.net
 domain:mcrouter.org

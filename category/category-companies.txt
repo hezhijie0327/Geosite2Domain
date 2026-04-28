@@ -4788,8 +4788,6 @@ domain:management-azure-devices-int.net
 domain:management-azure-devices-provisioning.cn:@cn
 domain:management-azure-devices.cn:@cn
 domain:management-azure-devices.net
-domain:manus.im
-domain:manuscdn.com
 domain:map-software.com
 domain:mapguide.com
 domain:mappingonline.com
@@ -7987,6 +7985,7 @@ full:tp.louisvuitton.com:@cn
 full:uberproxy-debug4.corp.google.com:@cn
 full:uberproxy.corp.google.com:@cn
 full:uberproxy6.corp.google.com:@cn
+full:universal-activity-service.itunes.apple.com:@cn
 full:update.crashlytics.com:@cn
 full:update.googleapis.com:@cn
 full:updates-http.cdn-apple.com.akadns.net:@cn

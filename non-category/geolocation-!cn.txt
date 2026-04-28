@@ -23894,6 +23894,7 @@ full:uberproxy-debug4.corp.google.com:@cn
 full:uberproxy.corp.google.com:@cn
 full:uberproxy6.corp.google.com:@cn
 full:ubisoft.siteintercept.qualtrics.com
+full:universal-activity-service.itunes.apple.com:@cn
 full:update.crashlytics.com:@cn
 full:update.googleapis.com:@cn
 full:updates-http.cdn-apple.com.akadns.net:@cn

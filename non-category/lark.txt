@@ -77,7 +77,6 @@ domain:larksuiteimg-pre.com
 domain:larksuiteimg.com
 domain:larkvc.com
 domain:meegobeta.com
-domain:oceancloudapi.com
 domain:okr.cn
 domain:okr.com
 domain:okr.com.cn

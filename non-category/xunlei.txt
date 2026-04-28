@@ -1,6 +1,8 @@
 domain:00cdn.com
 domain:88cdn.com
 domain:8uri.cn
+domain:guangyacdn.com
+domain:guangyapan.com
 domain:kanimg.com
 domain:p2cdn.com
 domain:sandai.net

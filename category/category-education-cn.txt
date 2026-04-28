@@ -8,6 +8,8 @@ domain:applysquare.net
 domain:baicizhan.com
 domain:baicizhan.org
 domain:banmaaike.com
+domain:banxiaoer.com
+domain:banxiaoer.net
 domain:baydn.com
 domain:bczcdn.com
 domain:bczeducation.cn

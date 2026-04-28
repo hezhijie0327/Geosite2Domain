@@ -1758,6 +1758,7 @@ full:sylvan.apple.com:@cn
 full:sync.itunes.apple.com:@cn
 full:tf-feedback.itunes.apple.com:@cn
 full:tj-pod1-smp-device.apple.com:@cn
+full:universal-activity-service.itunes.apple.com:@cn
 full:updates-http.cdn-apple.com.akadns.net:@cn
 full:updates-http.cdn-apple.com:@cn
 full:updates.cdn-apple.com:@cn

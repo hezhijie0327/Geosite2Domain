@@ -22,6 +22,7 @@ domain:amemv.com
 domain:amemv.net
 domain:analytics.tiktok.com:@!cn,@ads
 domain:anycross.com
+domain:api-building.fun
 domain:arco.design
 domain:awemeughun.com
 domain:awemeuglang.com
@@ -62,6 +63,7 @@ domain:blmpb.com
 domain:boxdouyin.com
 domain:bplslb.com
 domain:bpltm.com
+domain:building.fun
 domain:butterfly-static.cn
 domain:butterflyai.cn
 domain:bvfcdn.com
@@ -189,13 +191,24 @@ domain:ciciai.com:@!cn
 domain:ciciaicdn.com:@!cn
 domain:cloudendpoint.cn
 domain:cookicut.com
+domain:coze-dns-01.com
 domain:coze.cn
 domain:coze.com:@!cn
+domain:coze.email
 domain:coze.site
+domain:cozeapp.net
 domain:cozebaas.cn
+domain:cozebuild.com
+domain:cozecdn.com
+domain:cozedeploy.com
 domain:cozefn.cn
 domain:cozeide.cn
+domain:cozesdk.com
+domain:cozetest.cn
+domain:cozetest2.cn
+domain:cozetest3.cn
 domain:ctobsnssdk.com:@ads
+domain:dbbuilding.fun
 domain:dcarapi.com
 domain:dcarimg.com
 domain:dcarlive.com
@@ -206,6 +219,7 @@ domain:dig.bdurl.net:@ads
 domain:dola.com:@!cn
 domain:dongchedi.com
 domain:dongchediapp.com
+domain:doubao-dev.com
 domain:doubao.com
 domain:doubaocdn.com
 domain:doubo03.com
@@ -344,6 +358,7 @@ domain:ihuoshanvod.com
 domain:iluckysf.net
 domain:inspirecloud.cn
 domain:inspirecloud.com
+domain:instreet.com
 domain:isealsuite.com
 domain:itmanager.club
 domain:itoutiaoliving.com
@@ -424,6 +439,8 @@ domain:novelfm.com
 domain:novelfmpic.com
 domain:novelfmstatic.com
 domain:novelfmvod.com
+domain:obriccloud.com
+domain:obricclouddw.com
 domain:oceancloudapi.com
 domain:okr.cn
 domain:okr.com
