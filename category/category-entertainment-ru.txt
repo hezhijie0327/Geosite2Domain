@@ -7,6 +7,7 @@ domain:ivi.ru
 domain:kinopoisk-ru.clstorage.net
 domain:kinopoisk.ru
 domain:kinorium.com
+domain:more.tv
 domain:okko.sport
 domain:okko.tv
 domain:okkoapi.tv
@@ -14,6 +15,7 @@ domain:playfamily.ru
 domain:premier.one
 domain:promodj.com
 domain:restream-media.net
+domain:restream.ru
 domain:rtbcdn.ru
 domain:rutube.ru
 domain:rutubelist.ru
@@ -22,4 +24,5 @@ domain:start.ru
 domain:trbcdn.net
 domain:tvigle.ru
 domain:viju.ru
+domain:wink.am
 domain:wink.ru

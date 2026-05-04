@@ -779,6 +779,7 @@ domain:moepedia.net
 domain:mojang.com
 domain:molesports.com
 domain:moov.hk
+domain:more.tv
 domain:motionpictureser.com
 domain:movenetworks.com
 domain:movetv.com
@@ -1068,6 +1069,7 @@ domain:registerhulu.com
 domain:renovacionxboxlive.com
 domain:repotama.com
 domain:restream-media.net
+domain:restream.ru
 domain:revuestarlight.com
 domain:rewrite-anime.tv
 domain:rgpub.io
@@ -1407,6 +1409,7 @@ domain:wiisportsresort.com
 domain:wiiugamepad.com
 domain:wiivc.net
 domain:wimpmusic.com
+domain:wink.am
 domain:wink.ru
 domain:winticket.jp
 domain:withyoutube.com

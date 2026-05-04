@@ -536,6 +536,7 @@ domain:a-bank.jp
 domain:a-hentai.tv
 domain:a-msedge.net
 domain:a-teenz.com
+domain:a.mts.ru:@ads
 domain:a0pple.net
 domain:a1av.xyz
 domain:a2z.com
@@ -1684,6 +1685,8 @@ domain:antenna.co.kr
 domain:anthemgame.com
 domain:anthemthegame.com
 domain:anthropic.com
+domain:antiphishing.nl
+domain:antiphishing.ru
 domain:anudetube.com
 domain:anxiangxing.com
 domain:anybunny.org
@@ -2645,6 +2648,7 @@ domain:azatliq.org
 domain:azattyk.org
 domain:azattyq.org
 domain:azatutyun.am
+domain:azbukainterneta.ru
 domain:azchcdna.com:@cn
 domain:azchcdnb.com:@cn
 domain:azchcdnc.com:@cn
@@ -2744,6 +2748,7 @@ domain:b-ok.asia
 domain:b-ok.cc
 domain:b-ok.global
 domain:b-ok.org
+domain:b2c-digest.ru
 domain:b2clogin.cn:@cn
 domain:b3boos.com
 domain:b3itech.cn:@cn
@@ -2797,6 +2802,7 @@ domain:baltimorebmw.com
 domain:bamgrid.com
 domain:bamtoki.com
 domain:banan.tv
+domain:bananacall.ru
 domain:banatfun.com
 domain:band.us
 domain:bandag.cc
@@ -3200,6 +3206,8 @@ domain:beeg.rest
 domain:beegfree.com
 domain:beejp.net
 domain:beeline.tv
+domain:beesbfl.ru
+domain:beescrm.ru
 domain:beforeigners.com
 domain:befuck.com
 domain:befuck.net
@@ -3407,6 +3415,7 @@ domain:bimbim.com
 domain:bimbolive.com
 domain:bimglue.com
 domain:bimlibrary.com
+domain:bimsaas.ru
 domain:bimseeker.com
 domain:bimsource.com
 domain:bimworld.com
@@ -4518,6 +4527,7 @@ domain:calgoncarbon-china.com
 domain:calgoncarbon.com
 domain:calgonit.com
 domain:callabitch.org
+domain:callbackkiller.com
 domain:callersbane.com
 domain:callhulu.com
 domain:cam-duct.com
@@ -4723,6 +4733,7 @@ domain:cavporn.com
 domain:cbart.net
 domain:cbbank.com.mm
 domain:cbi.ir
+domain:cbkiller.com
 domain:cbm.com.mm
 domain:cbn.com.br
 domain:cbs.com
@@ -4812,6 +4823,8 @@ domain:cerdas.com
 domain:cerebras.ai
 domain:cern
 domain:cern.ch
+domain:cert-gib.com
+domain:cert-gib.ru
 domain:certificat2.com
 domain:certificate-transparency.org
 domain:certinomis.com
@@ -5613,6 +5626,7 @@ domain:cyber-bay.cn:@cn
 domain:cyber-bay.com.cn:@cn
 domain:cyber-bay.info
 domain:cyber-bay.org
+domain:cybercrimecon.com
 domain:cybermondaybeats4sale.com
 domain:cybersport.ru
 domain:cybertrust.co.jp
@@ -7066,6 +7080,9 @@ domain:elevenlabs.com
 domain:elevenlabs.io
 domain:elgaronline.com
 domain:elifesciences.org
+domain:eligens.cl
+domain:eligens.com.br
+domain:eligens.io
 domain:elite.com
 domain:elitebabes.com
 domain:eliteindianporn.com
@@ -7180,6 +7197,15 @@ domain:entrustdatacard.com
 domain:envato-static.com
 domain:envato.com
 domain:envatousercontent.com
+domain:envybox.company
+domain:envybox.family
+domain:envybox.io
+domain:envybox.kg
+domain:envybox.su
+domain:envycdp.com
+domain:envycdp.ru
+domain:envycrm.com
+domain:envyday.ru
 domain:eotarchive.org
 domain:epicbrowser.com
 domain:epicevents.gg
@@ -7443,6 +7469,9 @@ domain:f-droid.com
 domain:f-droid.org
 domain:f-secure.com
 domain:f5pf.com
+domain:f6.dev
+domain:f6.ru
+domain:f6.security
 domain:f6988.com
 domain:f8.com
 domain:f95zone.to
@@ -7463,6 +7492,8 @@ domain:facbool.com
 domain:facboox.com
 domain:faccebook.com
 domain:faccebookk.com
+domain:facct.email
+domain:facct.ru
 domain:facdbook.com
 domain:facdebook.com
 domain:face-book.com
@@ -8585,6 +8616,7 @@ domain:futuholdings.com
 domain:futunited.com
 domain:futuniuniu.com:@cn
 domain:futunn.com:@cn
+domain:future-cs.ru
 domain:futureofbritishmanufacturing.com
 domain:futureofbusinesssurvey.org
 domain:futureofmaktingthings.com
@@ -8599,6 +8631,10 @@ domain:fxnetworks.com
 domain:fxporn.net
 domain:fzdm.com
 domain:fzdshare.net
+domain:g-ib.ae
+domain:g-ib.ru
+domain:g-ib.sg
+domain:g-ib.us
 domain:g-technology.com
 domain:g-tun.com
 domain:g-tvapp.com
@@ -8784,11 +8820,17 @@ domain:gemini.com
 domain:gemini.yahoo.com:@ads
 domain:gen.lib.rus.ec
 domain:gendai.net
+domain:genetic-technologies.am
 domain:geneticconstructor.com
 domain:geng8cn.xyz
 domain:gengba-av.mom
 domain:gengba.cc
 domain:genkai-hounyo.com
+domain:genotek.am
+domain:genotek.es
+domain:genotek.eu
+domain:genotek.health
+domain:genotek.ru
 domain:genshin-porn.com
 domain:genshinh.com
 domain:genshinimpact.com
@@ -8896,6 +8938,10 @@ domain:ghettotube.com
 domain:ghostarchive.org
 domain:ghostgames.com
 domain:giantessbooru.com
+domain:gib-global.com
+domain:gib.sg
+domain:gibdev.net
+domain:gibtds.ru
 domain:gid.ru
 domain:giffgaff.com
 domain:giffgaff.design
@@ -9483,7 +9529,18 @@ domain:gridaware.app
 domain:grok.com
 domain:grooby.com
 domain:groq.com
+domain:group-ib.ae
+domain:group-ib.co.uk
+domain:group-ib.com
+domain:group-ib.de
+domain:group-ib.eu
+domain:group-ib.ru
+domain:group-ib.sg
+domain:group-ib.us
 domain:groupfun.com
+domain:groupib.ae
+domain:groupib.sg
+domain:groupib.us
 domain:groups.com
 domain:grss-ieee.org
 domain:grupobmw.com
@@ -10680,6 +10737,9 @@ domain:idarkdoll.com
 domain:idea-server.com
 domain:ideal-teens.com
 domain:ideapocket.com
+domain:ideco.dev
+domain:ideco.ru
+domain:idecosoftware.ru
 domain:idelreal.org
 domain:identrust.co.uk
 domain:identrust.com
@@ -11026,6 +11086,7 @@ domain:inlethd.com
 domain:inmediahk.net
 domain:innovations-i.com
 domain:inoreader.com
+domain:inplat.ru
 domain:inporn.com
 domain:inquirer.net
 domain:inshot.cc
@@ -12189,6 +12250,7 @@ domain:kijijiraps.ca
 domain:kijji.ca
 domain:kijjiji.ca
 domain:kikdirty.com
+domain:killercb.ru
 domain:kilmeadeandfriends.com
 domain:kimchi.tv
 domain:kimogirl.cc
@@ -12240,6 +12302,7 @@ domain:kinkyfamily.com
 domain:kinkypeepz.com
 domain:kinopoisk.ru
 domain:kinorium.com
+domain:kion.ru
 domain:kir2kos.net
 domain:kirbysepicyarn.com
 domain:kirbysuperstarultra.com
@@ -13282,6 +13345,9 @@ domain:mega.io
 domain:mega.nz
 domain:megacamz.com
 domain:megafilmporno.com
+domain:megafon.com
+domain:megafon.ru
+domain:megafonpro.ru
 domain:megalodon.jp
 domain:megamarket.ru
 domain:megamarket.tech
@@ -13355,6 +13421,7 @@ domain:mexcsensors.com
 domain:mfg-inspector.com
 domain:mfk-t-finance.ru
 domain:mfmf.club
+domain:mgfn.ru
 domain:mgmt-azure-api.cn:@cn
 domain:mgo-images.com
 domain:mgo.com
@@ -14064,6 +14131,7 @@ domain:moomootrustee.com
 domain:moov.hk
 domain:moozporn.com
 domain:morazzia.com
+domain:more.tv
 domain:moreheadphones.com
 domain:morewithautodesk.com
 domain:morganclaypool.com
@@ -14202,7 +14270,11 @@ domain:msunlimitedcloudsummit.com
 domain:mt.lv
 domain:mt0011.site
 domain:mtao.fun
+domain:mts-ws.net
+domain:mts.ru
+domain:mtsbank.ru
 domain:mtsdengi.ru
+domain:mtsmedia.ru
 domain:mtt.org
 domain:mtvnservices.com
 domain:mubi.com
@@ -14320,6 +14392,7 @@ domain:mydirectvchannels.com
 domain:mydirtyhobby.com
 domain:myds.me
 domain:myebay.com
+domain:myenvy.ru
 domain:myfappening.org
 domain:myfavoritearcade.com
 domain:myfbfans.com
@@ -14382,6 +14455,7 @@ domain:mymicrosoft.com
 domain:myminisexdoll.com
 domain:myminiso.com
 domain:mymmode.com
+domain:mymts.ru
 domain:mymusclevideo.com
 domain:mynavi.jp
 domain:mynetname.net
@@ -15334,6 +15408,7 @@ domain:oath.cloud
 domain:oath.com
 domain:oauthz.com
 domain:objectarx.com
+domain:obs.mts.ru:@ads
 domain:observable.net
 domain:obsrvbl.com
 domain:obutsumania.com
@@ -15452,6 +15527,7 @@ domain:omorashi.jp
 domain:omorashi.org
 domain:omscr.com
 domain:omtrdc.net
+domain:on-media.ru
 domain:on.cc
 domain:on.here
 domain:on2.com
@@ -17102,6 +17178,7 @@ domain:quipelements.com
 domain:quixel.com
 domain:quixel.se
 domain:quiz.directory
+domain:quizlink.ru
 domain:qumingwz.com
 domain:quora.com
 domain:quoracdn.net
@@ -17381,6 +17458,7 @@ domain:rentaride.de
 domain:renzhe.cloud
 domain:repe21.com
 domain:repo.new
+domain:report-megafon.ru
 domain:repotama.com
 domain:repsils.no
 domain:repsneakermall.com
@@ -17401,6 +17479,7 @@ domain:resoubang.buzz
 domain:respawnbyrazer.com
 domain:restnproducts.ru
 domain:restream-media.net
+domain:restream.ru
 domain:rethink.net
 domain:retimer.com
 domain:retroclassicporn.com
@@ -17528,6 +17607,7 @@ domain:rosbank.ru
 domain:rosemarydoll.com
 domain:roshy.tv
 domain:rostaxi.org
+domain:rostelecom.ru
 domain:rou.video
 domain:roudao6.buzz
 domain:roudaosp.cc
@@ -17561,6 +17641,7 @@ domain:rsshub.app
 domain:rssing.com
 domain:rstatic.net
 domain:rt.com
+domain:rt.ru
 domain:rtbcdn.ru
 domain:rthk.hk
 domain:rtings.com
@@ -17633,6 +17714,7 @@ domain:s2csntp.miz.nao.ac.jp
 domain:s2stagehance.com
 domain:s81c.com
 domain:s8ds5gfm.xyz
+domain:saas-support.com
 domain:saasexch.cc
 domain:saasexch.co
 domain:saasexch.com
@@ -17795,6 +17877,7 @@ domain:scaleflex.com
 domain:scaleform.com
 domain:scandalplanet.com
 domain:scanlover.com
+domain:scartel.ru
 domain:scat-enema.com
 domain:scat-japan.com
 domain:scat-shop.net
@@ -19296,6 +19379,7 @@ domain:t-tolk.ru
 domain:t.co
 domain:t.finance
 domain:t.me
+domain:t2.ru
 domain:t66y.com
 domain:taboola.com
 domain:tabooporn.tv
@@ -19433,6 +19517,7 @@ domain:tegrazone.jp
 domain:tegrazone.kr
 domain:tehnodom.com
 domain:tejaratbank.ir
+domain:tele2.ru
 domain:telebay.com
 domain:telega.info
 domain:telega.me
@@ -20153,6 +20238,7 @@ domain:tvigle.ru
 domain:tvmedia.net.au
 domain:tvmost.com.hk
 domain:tvnaviweb.jp
+domain:tvoyodbo.online
 domain:tvpromise.com
 domain:tw985.com
 domain:twavking.com
@@ -21558,6 +21644,7 @@ domain:whichav.video
 domain:whimn.com.au
 domain:whisolutions.com
 domain:whispersystems.org
+domain:whitesaas.com
 domain:whitexxxtube.com
 domain:who.int
 domain:wholecitiesfoundation.org
@@ -21700,6 +21787,7 @@ domain:windsurf.com
 domain:windy.com
 domain:winhec.com
 domain:winhec.net
+domain:wink.am
 domain:wink.ru
 domain:winning11.com
 domain:wintermute.com
@@ -22055,13 +22143,17 @@ domain:xn--74q434dwff.com
 domain:xn--74q434dwff.net
 domain:xn--7hv594h.com
 domain:xn--7hvy28f.cn:@cn
+domain:xn--80a9a4b.xn--p1ai
 domain:xn--80aafgovrgbc7am.xn--p1ai
 domain:xn--80acbjgmges7ca.xn--p1ai
 domain:xn--80acbjgsdq2cl.xn--p1ai
+domain:xn--80aj3b.xn--p1ai
 domain:xn--80aqcf7a6do.com
+domain:xn--80arpq.xn--p1ai
 domain:xn--80asgb.xn--p1ai
 domain:xn--8uq428d76d.tokyo
 domain:xn--90ab.com
+domain:xn--90absjljw3g.xn--p1ai
 domain:xn--90aifd0az.shop
 domain:xn--90aifd0azb.xn--p1acf
 domain:xn--90wwvt03e.com
@@ -22707,6 +22799,8 @@ domain:yostar.cn:@cn
 domain:yostar.co.jp
 domain:yostar.net
 domain:yostarplat.com
+domain:yota.ru
+domain:yotagamer.ru
 domain:youassporn.com
 domain:youav.com
 domain:youflix.is
@@ -23804,6 +23898,7 @@ full:sentry-ng.g.smailru.net:@ads
 full:sentry.dev-my.com:@ads
 full:sentry.dev-my.games:@ads
 full:sentry.hetzner.company:@ads
+full:sentry.iptv.rt.ru:@ads
 full:sentry.mindbox.ru:@ads
 full:sentry.ozon.ru:@ads
 full:sentry.popmechanic.ru:@ads

@@ -5,6 +5,7 @@ domain:51y5.net
 domain:a.adtng.com
 domain:a.alimama.cn:@ads
 domain:a.market.xiaomi.com:@ads
+domain:a.mts.ru:@ads
 domain:a.youdao.com:@ads
 domain:aaid.umeng.com:@ads
 domain:aaxads.com
@@ -471,6 +472,7 @@ domain:new-aaid.umeng.com.gds.alibabadns.com:@ads
 domain:new-aaid.umeng.com:@ads
 domain:nsclick.baidu.com:@ads
 domain:nsclickvideo.baidu.com:@ads
+domain:obs.mts.ru:@ads
 domain:oc.umeng.com:@ads
 domain:oct.pocoiq.cn
 domain:onesignal.com
@@ -783,6 +785,7 @@ full:sentry-ng.g.smailru.net:@ads
 full:sentry.dev-my.com:@ads
 full:sentry.dev-my.games:@ads
 full:sentry.hetzner.company:@ads
+full:sentry.iptv.rt.ru:@ads
 full:sentry.kontur.host:@ads
 full:sentry.mindbox.ru:@ads
 full:sentry.ozon.ru:@ads

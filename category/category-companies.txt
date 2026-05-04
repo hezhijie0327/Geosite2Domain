@@ -100,6 +100,7 @@ domain:5beatsbydre.com
 domain:5lml.com
 domain:8008206616.com
 domain:a-msedge.net
+domain:a.mts.ru:@ads
 domain:a0pple.net
 domain:a2z.com
 domain:a2z.org.cn:@cn
@@ -459,6 +460,8 @@ domain:animary.jp
 domain:ankarazirvesi2018.com
 domain:annstores.net
 domain:antenna.co.kr
+domain:antiphishing.nl
+domain:antiphishing.ru
 domain:anydesk.com
 domain:aodahl.com
 domain:aokwholesale.net
@@ -1114,6 +1117,7 @@ domain:awsthinkbox.com
 domain:awstrack.me
 domain:awstrust.com
 domain:awswaf.com
+domain:azbukainterneta.ru
 domain:azchcdna.com:@cn
 domain:azchcdnb.com:@cn
 domain:azchcdnc.com:@cn
@@ -1203,11 +1207,13 @@ domain:azureserviceprofiler.com
 domain:azuresmartspaces.net
 domain:azurestackvalidation.com
 domain:azurewebsites.net
+domain:b2c-digest.ru
 domain:b2clogin.cn:@cn
 domain:b3itech.cn:@cn
 domain:babes.com
 domain:badaas.com
 domain:bag-glasses1.com
+domain:bananacall.ru
 domain:band.us
 domain:bandgirlz.com
 domain:bandpage.com
@@ -1490,6 +1496,8 @@ domain:beatswirelesscheap.com
 domain:beatswirelesscuffie.com
 domain:beatthatquote.com
 domain:beddit.tv
+domain:beesbfl.ru
+domain:beescrm.ru
 domain:beget.com
 domain:beget.ru
 domain:begin-trade.com
@@ -1523,6 +1531,7 @@ domain:bim3dcontent.com
 domain:bimadsk.com
 domain:bimglue.com
 domain:bimlibrary.com
+domain:bimsaas.ru
 domain:bimseeker.com
 domain:bimsource.com
 domain:bimworld.com
@@ -1723,6 +1732,7 @@ domain:cadoverlay.com
 domain:cadren.com
 domain:caice.com
 domain:calendarserver.org
+domain:callbackkiller.com
 domain:callersbane.com
 domain:cam-duct.com
 domain:camduct.com
@@ -1828,6 +1838,7 @@ domain:casquemonsterbeats.com
 domain:casquemonsterbeatsbydre2013.com
 domain:casquesbeatsaudio.com
 domain:catalina.hk
+domain:cbkiller.com
 domain:cciernslabs.com
 domain:cciesecuritylabs.com
 domain:ccievoicelabs.com
@@ -1850,6 +1861,8 @@ domain:centrino.com
 domain:centrino.net
 domain:ceosummit.ru
 domain:ceramics-cadcam.com
+domain:cert-gib.com
+domain:cert-gib.ru
 domain:certificate-transparency.org
 domain:cfblob.com
 domain:cfd-tv.com
@@ -2127,6 +2140,7 @@ domain:customizedbeatbydre.com
 domain:customizedbeatsbydre.com
 domain:customizedbeatsdre.com
 domain:cxhub.ru:@ads
+domain:cybercrimecon.com
 domain:cybermondaybeats4sale.com
 domain:cybersport.ru
 domain:dacebook.com
@@ -2157,6 +2171,7 @@ domain:daumcdn.net
 domain:daumkakao.io
 domain:daumpcbang.com
 domain:david-laserscanner.com
+domain:dbo-dengi.online
 domain:dcg.microsoft.com:@cn
 domain:dclk
 domain:dctbeatsbydre.com
@@ -2605,6 +2620,9 @@ domain:ekiten.jp
 domain:elama.ru
 domain:elasticbeanstalk.com
 domain:elderscrolls.com
+domain:eligens.cl
+domain:eligens.com.br
+domain:eligens.io
 domain:emac.co.in
 domain:emac.in
 domain:emagic.de
@@ -2619,6 +2637,15 @@ domain:engkoo.com:@cn
 domain:enpay.co.jp
 domain:enpirion.com
 domain:enterprisepaging.com
+domain:envybox.company
+domain:envybox.family
+domain:envybox.io
+domain:envybox.kg
+domain:envybox.su
+domain:envycdp.com
+domain:envycdp.ru
+domain:envycrm.com
+domain:envyday.ru
 domain:epicevents.gg
 domain:episodic.com
 domain:eprintsw.com
@@ -2650,6 +2677,9 @@ domain:expresswifi.com
 domain:extensions4revit.com
 domain:extensionworkshop.com
 domain:extremetube.com
+domain:f6.dev
+domain:f6.ru
+domain:f6.security
 domain:f8.com
 domain:faacebok.com
 domain:faacebook.com
@@ -2662,6 +2692,8 @@ domain:facbool.com
 domain:facboox.com
 domain:faccebook.com
 domain:faccebookk.com
+domain:facct.email
+domain:facct.ru
 domain:facdbook.com
 domain:facdebook.com
 domain:face-book.com
@@ -3098,9 +3130,14 @@ domain:fundraisingwithfacebook.com
 domain:funnyfacebook.org
 domain:fusionlifecycle.com
 domain:fusionproductionapps.com
+domain:future-cs.ru
 domain:futureofbritishmanufacturing.com
 domain:futureofbusinesssurvey.org
 domain:futureofmaktingthings.com
+domain:g-ib.ae
+domain:g-ib.ru
+domain:g-ib.sg
+domain:g-ib.us
 domain:g-technology.com
 domain:g-tun.com
 domain:g.cn:@cn
@@ -3139,7 +3176,13 @@ domain:geforce.com
 domain:geforce.com.tw
 domain:gemfire.net
 domain:gemini.yahoo.com:@ads
+domain:genetic-technologies.am
 domain:geneticconstructor.com
+domain:genotek.am
+domain:genotek.es
+domain:genotek.eu
+domain:genotek.health
+domain:genotek.ru
 domain:geodesummit.com
 domain:geoport.com
 domain:geospatialimaging.com
@@ -3171,6 +3214,10 @@ domain:ggpht.cn:@cn
 domain:ggpht.com
 domain:gh.io
 domain:ghcr.io
+domain:gib-global.com
+domain:gib.sg
+domain:gibdev.net
+domain:gibtds.ru
 domain:giffgaff.com
 domain:giffgaff.design
 domain:gigabyte.cn:@cn
@@ -3572,6 +3619,17 @@ domain:greenlakeaas.com
 domain:greenlakehybridcloud.com
 domain:greenplum.net
 domain:gridaware.app
+domain:group-ib.ae
+domain:group-ib.co.uk
+domain:group-ib.com
+domain:group-ib.de
+domain:group-ib.eu
+domain:group-ib.ru
+domain:group-ib.sg
+domain:group-ib.us
+domain:groupib.ae
+domain:groupib.sg
+domain:groupib.us
 domain:groups.com
 domain:gsrc.io
 domain:gstatic.cn:@cn
@@ -3962,6 +4020,9 @@ domain:icqtoday.com
 domain:icqtutor.com
 domain:icqvideo.com
 domain:idea-server.com
+domain:ideco.dev
+domain:ideco.ru
+domain:idecosoftware.ru
 domain:ids-apple.com
 domain:idvd.eu
 domain:idx.dev
@@ -4022,6 +4083,7 @@ domain:infraworks.com
 domain:ingads.com
 domain:inkchoice.com
 domain:inlethd.com
+domain:inplat.ru
 domain:inshot.cc
 domain:inshot.com
 domain:inshotapp.com
@@ -4572,6 +4634,7 @@ domain:keytransparency.org
 domain:kgslb.com
 domain:kickshatchannel.com
 domain:kidgrid.tv
+domain:killercb.ru
 domain:kindle
 domain:kindle.cn:@cn
 domain:kindle.co.jp
@@ -4594,6 +4657,7 @@ domain:kindleoasisnews.com
 domain:kindleproject.com
 domain:kingstagram.com
 domain:kinopoisk.ru
+domain:kion.ru
 domain:kireipass.jp
 domain:klik.me
 domain:knightspeak.com
@@ -4855,6 +4919,9 @@ domain:meet.new
 domain:meetfasttrack.com
 domain:meetsmartbook.com
 domain:meetyourdevices.com
+domain:megafon.com
+domain:megafon.ru
+domain:megafonpro.ru
 domain:megamon.co.kr
 domain:megasrv.de
 domain:melon.com
@@ -4881,6 +4948,7 @@ domain:metrika.yandex.com:@ads
 domain:metrika.yandex.net:@ads
 domain:metrika.yandex.ru:@ads
 domain:mfg-inspector.com
+domain:mgfn.ru
 domain:mgmt-azure-api.cn:@cn
 domain:michill.jp
 domain:microbit.org
@@ -5118,6 +5186,7 @@ domain:monstersdebea.com
 domain:monstershopcheapbeats.net
 domain:moodstocks.com
 domain:moov.hk
+domain:more.tv
 domain:moreheadphones.com
 domain:morewithautodesk.com
 domain:morphcharts.com
@@ -5192,6 +5261,11 @@ domain:msturing.org
 domain:msudalosti.com
 domain:msunlimitedcloudsummit.com
 domain:mt.lv
+domain:mts-ws.net
+domain:mts.ru
+domain:mtsbank.ru
+domain:mtsdengi.ru
+domain:mtsmedia.ru
 domain:mudbox3d.com
 domain:multiplydiversity.com
 domain:musickit.net
@@ -5221,6 +5295,7 @@ domain:mydirectgroove.com
 domain:mydirectvchannels.com
 domain:mydirtyhobby.com
 domain:myds.me
+domain:myenvy.ru
 domain:myfbfans.com
 domain:myferrariheadphones.com
 domain:myfirstflame.com
@@ -5232,6 +5307,7 @@ domain:mylcloud.net
 domain:mymapportal.com
 domain:mymicrosoft.com
 domain:mymmode.com
+domain:mymts.ru
 domain:mynetname.net
 domain:myoctocat.com
 domain:myproseries.com
@@ -5402,6 +5478,7 @@ domain:oath.cloud
 domain:oath.com
 domain:oauthz.com
 domain:objectarx.com
+domain:obs.mts.ru:@ads
 domain:observable.net
 domain:obsrvbl.com
 domain:octocaptcha.com
@@ -5450,6 +5527,7 @@ domain:omekinteractive.com
 domain:omnitek.tv
 domain:omniture.com
 domain:omtrdc.net
+domain:on-media.ru
 domain:on.here
 domain:on2.com
 domain:onamae-desktop.com
@@ -5750,6 +5828,7 @@ domain:quicktime.eu
 domain:quicktime.net
 domain:quicktime.tv
 domain:quiksee.com
+domain:quizlink.ru
 domain:quotable.com
 domain:qwant.com
 domain:qwant.de
@@ -5800,6 +5879,7 @@ domain:renovacionoffice.com
 domain:renovacionxboxlive.com
 domain:renshu.com
 domain:repo.new
+domain:report-megafon.ru
 domain:repsneakermall.com
 domain:repswing.com
 domain:researchandcare.org
@@ -5811,6 +5891,8 @@ domain:researchkit.net
 domain:researchkit.org
 domain:researchkit.tv
 domain:respawnbyrazer.com
+domain:restream-media.net
+domain:restream.ru
 domain:retimer.com
 domain:revenue-performance-management.com
 domain:revit.com
@@ -5825,8 +5907,10 @@ domain:rocksdb.com
 domain:rocksdb.net
 domain:rocksdb.org
 domain:rostaxi.org
+domain:rostelecom.ru
 domain:route53.cn:@cn
 domain:routerboard.com
+domain:rt.ru
 domain:ruhub.tv
 domain:run.app
 domain:russiandesigncup.ru
@@ -5846,6 +5930,7 @@ domain:s-rewards.hk
 domain:s.mindbox.ru:@ads
 domain:s2stagehance.com
 domain:s81c.com
+domain:saas-support.com
 domain:saffrontech.com
 domain:sagemaker.com.cn:@cn
 domain:sahabatsetiasmartone.com
@@ -5902,6 +5987,7 @@ domain:savoycomputing.com
 domain:saynow.com
 domain:sc-cdn.net
 domain:scaleform.com
+domain:scartel.ru
 domain:scene7.com
 domain:schemer.com
 domain:scnshop.cc
@@ -6264,6 +6350,7 @@ domain:szcheapmonsterheadphones.com
 domain:szwinnertechnology.com
 domain:t-msedge.net
 domain:t-splines.com
+domain:t2.ru
 domain:tail-f.com
 domain:tailf.com
 domain:tailwindtraders.com
@@ -6293,6 +6380,7 @@ domain:tegrazone.com
 domain:tegrazone.jp
 domain:tegrazone.kr
 domain:tehnodom.com
+domain:tele2.ru
 domain:telega.info
 domain:telega.me
 domain:telerik.com
@@ -6407,6 +6495,7 @@ domain:turbopages.org
 domain:turbotax.com
 domain:tusco.ru
 domain:tvappstore.net
+domain:tvoyodbo.online
 domain:tvpromise.com
 domain:twcstorage.ru
 domain:tweakadmin.com
@@ -6760,6 +6849,7 @@ domain:whatsapp.org
 domain:whatsapp.tv
 domain:whatsappbrand.com
 domain:wheelpop.com
+domain:whitesaas.com
 domain:wholecitiesfoundation.org
 domain:wholefoods.com
 domain:wholefoodsmarket.co.uk
@@ -6797,6 +6887,8 @@ domain:windowsuem.com
 domain:windowsupdate.com
 domain:winhec.com
 domain:winhec.net
+domain:wink.am
+domain:wink.ru
 domain:wipower.com
 domain:wirelessreach.com
 domain:wise-research.com
@@ -6881,8 +6973,12 @@ domain:xn--6eup7j.com
 domain:xn--6eup7j.net
 domain:xn--74q434dwff.com
 domain:xn--74q434dwff.net
+domain:xn--80a9a4b.xn--p1ai
+domain:xn--80aj3b.xn--p1ai
 domain:xn--80aqcf7a6do.com
+domain:xn--80arpq.xn--p1ai
 domain:xn--80asgb.xn--p1ai
+domain:xn--90absjljw3g.xn--p1ai
 domain:xn--9kr7l.com
 domain:xn--9trs65b.com
 domain:xn--cckwcxetd
@@ -7155,6 +7251,8 @@ domain:yimg.jp
 domain:ymail.com
 domain:yogalayout.com
 domain:yopornshop.com
+domain:yota.ru
+domain:yotagamer.ru
 domain:youla.io
 domain:youla.ru
 domain:youporn.com
@@ -7903,6 +8001,7 @@ full:sentry-ng.g.smailru.net:@ads
 full:sentry.dev-my.com:@ads
 full:sentry.dev-my.games:@ads
 full:sentry.hetzner.company:@ads
+full:sentry.iptv.rt.ru:@ads
 full:sentry.mindbox.ru:@ads
 full:sentry.popmechanic.ru:@ads
 full:sentry.rustore.ru:@ads

@@ -1,3 +1,0 @@
-domain:gismeteo.net
-domain:gismeteo.ru
-domain:gismeteo.st
