@@ -113,10 +113,12 @@ domain:tongxuepie.com
 domain:unipus.cn
 domain:weilaiyunxiao.com
 domain:winyoungreading.com
+domain:wjwai.com
 domain:x-cloud.cc
 domain:xesimg.com
 domain:xiaoyuankousuan.com
 domain:xir.cn
+domain:xiyouyingyu.com
 domain:xkw.com
 domain:xueersi.com
 domain:xuetangx.com
@@ -140,4 +142,5 @@ domain:zhan.com
 domain:zhihuishu.com
 domain:zjzs.net
 domain:zxxk.com
+domain:zysn.net
 full:study.163.com

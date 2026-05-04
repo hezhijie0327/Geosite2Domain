@@ -63,6 +63,7 @@ domain:cooldock.com
 domain:cqcb.com
 domain:cqhlw.cn
 domain:cqliving.com
+domain:cqn.com.cn
 domain:cqnews.net
 domain:cqsjb.com
 domain:cs.com.cn
@@ -174,6 +175,7 @@ domain:minapp.com
 domain:mydrivers.com
 domain:nanyuenews.com
 domain:nbd.com.cn
+domain:neweekly.com.cn
 domain:news.cn
 domain:ofweek.com
 domain:olympicchannelchina.cn

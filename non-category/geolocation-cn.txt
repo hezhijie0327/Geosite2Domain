@@ -424,6 +424,7 @@ domain:accuratead.cn
 domain:accxiaoheihe.com
 domain:acepanel.net
 domain:acetaffy.club
+domain:acftu.org
 domain:acfun.cn
 domain:acfun.net
 domain:acfunchina.cn
@@ -1804,6 +1805,7 @@ domain:cqccn.com
 domain:cqctyiptv.cn
 domain:cqhlw.cn
 domain:cqliving.com
+domain:cqn.com.cn
 domain:cqnews.net
 domain:cqsjb.com
 domain:cqvip.com
@@ -3730,6 +3732,7 @@ domain:kaopu001.com
 domain:kata.com.cn
 domain:kc9.cn
 domain:kcbebank.com
+domain:kcdnvip.com
 domain:kd100.com
 domain:kdocs.cn
 domain:kdslife.com
@@ -4265,6 +4268,7 @@ domain:midea.cn
 domain:midea.com
 domain:midea.com.cn
 domain:mideaepayuat.com
+domain:mieco.net
 domain:miercn.com
 domain:mifile.cn
 domain:mifon.com
@@ -4484,6 +4488,7 @@ domain:new-aaid.umeng.com:@ads
 domain:newasp.net
 domain:newbandeng.com
 domain:newcoder.com
+domain:neweekly.com.cn
 domain:newniu.com
 domain:news.cn
 domain:news.yxrb.net
@@ -4514,6 +4519,7 @@ domain:nnthink.com
 domain:noi.cn
 domain:noknok.cn
 domain:nomuraoi-sec.com
+domain:nongfuspring.com
 domain:novelfm.com
 domain:novelfmpic.com
 domain:novelfmstatic.com
@@ -4993,6 +4999,7 @@ domain:realcybertron.com
 domain:realme.com
 domain:realmebbs.com
 domain:realmemobile.com
+domain:redcross.org.cn
 domain:redelight.cn
 domain:redmagic.com
 domain:reke.at.sohu.com:@ads
@@ -6017,6 +6024,7 @@ domain:vipexam.org
 domain:vipmro.com
 domain:vipmro.net
 domain:vipstatic.com
+domain:viviv.com
 domain:vivo.cn
 domain:vivo.com
 domain:vivo.com.cn
@@ -6123,6 +6131,7 @@ domain:vvstc.com
 domain:vxo7tu.com
 domain:vzuu.com
 domain:w.cnzz.com:@ads
+domain:wahaha.com.cn
 domain:waifushangcheng.com
 domain:wali.com
 domain:wallstcn.com
@@ -6212,6 +6221,7 @@ domain:wfdata.club
 domain:wggames.cn
 domain:whalecloud.com
 domain:whccb.com
+domain:whhhealth.com
 domain:whlovehome.com
 domain:wicresoft.com
 domain:wildfirechat.net
@@ -6230,6 +6240,7 @@ domain:winyoungreading.com
 domain:wishdown.com
 domain:wit.qq.com:@ads
 domain:wiwide.com
+domain:wjwai.com
 domain:wjx.cn
 domain:wjx.com
 domain:wjx.top
@@ -6447,6 +6458,7 @@ domain:xiu8.com
 domain:xiucai.com
 domain:xiumi.us
 domain:xiumius.com
+domain:xiyouyingyu.com
 domain:xiziwang.net
 domain:xjietiao.com
 domain:xjoycity.com
@@ -6630,6 +6642,7 @@ domain:yrz.name
 domain:ys7.com
 domain:ysjf.com
 domain:yslyhr.com
+domain:yst.com.cn
 domain:ystbds.com
 domain:ysten.com
 domain:yt0.cc
@@ -6924,6 +6937,7 @@ domain:zybang.com
 domain:zygbdszt.net.cn
 domain:zyh365.com
 domain:zyhe.com.cn
+domain:zysn.net
 domain:zysou.com
 domain:zz.bdstatic.com:@ads
 domain:zzdtec.com

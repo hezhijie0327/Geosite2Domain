@@ -21,6 +21,7 @@ domain:mi-idc.com
 domain:mi-img.com
 domain:mi.com
 domain:miaibox.com
+domain:mieco.net
 domain:mifile.cn
 domain:migames.com
 domain:mijia.tech

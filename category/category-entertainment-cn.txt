@@ -646,6 +646,7 @@ domain:ultracachenode.com
 domain:v6-adashx.ut.youku.com:@ads
 domain:vgtime.com
 domain:videoxiaoyouxi.com
+domain:viviv.com
 domain:vrzwk.cn
 domain:vrzwk.com
 domain:vrzwk.net

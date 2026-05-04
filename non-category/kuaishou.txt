@@ -17,6 +17,7 @@ domain:kuaishouzt.com
 domain:kwaicdn.com
 domain:kwaizt.com
 domain:kwimgs.com
+domain:viviv.com
 domain:wsukwai.com
 domain:yximgs.com
 full:log-sdk.gifshow.com:@ads

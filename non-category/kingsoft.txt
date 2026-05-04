@@ -7,6 +7,7 @@ domain:duba.com
 domain:duba.net
 domain:iciba.com
 domain:ijinshan.com
+domain:kcdnvip.com
 domain:kdocs.cn
 domain:kimg.cn
 domain:kingsoft-office-service.com

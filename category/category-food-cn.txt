@@ -21,4 +21,8 @@ domain:lppzimg.com
 domain:luckincoffeecdn.com
 domain:meican.com
 domain:meicanstatic.com
+domain:nongfuspring.com
+domain:wahaha.com.cn
+domain:whhhealth.com
+domain:yst.com.cn
 domain:yyds.co

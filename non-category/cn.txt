@@ -351,6 +351,7 @@ domain:acctdns.net
 domain:accxiaoheihe.com
 domain:acepanel.net
 domain:acetaffy.club
+domain:acftu.org
 domain:acfun.net
 domain:acfunchina.com
 domain:acfunchina.net
@@ -3001,6 +3002,7 @@ domain:kaola.com
 domain:kaolacdn.com
 domain:kaopu001.com
 domain:kcbebank.com
+domain:kcdnvip.com
 domain:kd100.com
 domain:kdslife.com
 domain:ke.com
@@ -3447,6 +3449,7 @@ domain:miaozhen.com
 domain:midasbuy.com
 domain:midea.com
 domain:mideaepayuat.com
+domain:mieco.net
 domain:miercn.com
 domain:mifon.com
 domain:migames.com
@@ -3641,6 +3644,7 @@ domain:nn.com
 domain:nnbooster.com
 domain:nnthink.com
 domain:nomuraoi-sec.com
+domain:nongfuspring.com
 domain:novelfm.com
 domain:novelfmpic.com
 domain:novelfmstatic.com
@@ -4852,6 +4856,7 @@ domain:vipexam.org
 domain:vipmro.com
 domain:vipmro.net
 domain:vipstatic.com
+domain:viviv.com
 domain:vivo.com
 domain:vmall.com
 domain:vmallres.com
@@ -5017,6 +5022,7 @@ domain:wf.pub
 domain:wfdata.club
 domain:whalecloud.com
 domain:whccb.com
+domain:whhhealth.com
 domain:whlovehome.com
 domain:wicresoft.com
 domain:wildfirechat.net
@@ -5034,6 +5040,7 @@ domain:winyoungreading.com
 domain:wishdown.com
 domain:wit.qq.com:@ads
 domain:wiwide.com
+domain:wjwai.com
 domain:wjx.com
 domain:wjx.top
 domain:wkctj.baidu.com:@ads
@@ -5205,6 +5212,7 @@ domain:xiu8.com
 domain:xiucai.com
 domain:xiumi.us
 domain:xiumius.com
+domain:xiyouyingyu.com
 domain:xiziwang.net
 domain:xjietiao.com
 domain:xjoycity.com
@@ -5612,6 +5620,7 @@ domain:zxhgroup.com
 domain:zxxk.com
 domain:zybang.com
 domain:zyh365.com
+domain:zysn.net
 domain:zysou.com
 domain:zz.bdstatic.com:@ads
 domain:zzdtec.com
