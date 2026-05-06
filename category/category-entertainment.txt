@@ -1258,6 +1258,7 @@ domain:supermariorun.com
 domain:superpapermario.com
 domain:supersmashbros.cn:@cn
 domain:supersmashbros.com.cn:@cn
+domain:supr.cl
 domain:supremacy.com
 domain:supremacy.net
 domain:swjedifallenorder.com

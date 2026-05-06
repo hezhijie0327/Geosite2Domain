@@ -226,4 +226,6 @@ domain:yzyxgame.com
 domain:zcjbgame.com
 domain:zhuoyou.com
 domain:zhuoyuegame.com
+full:end-api.shallow.ink
+full:end.shallow.ink
 regexp:^.+-mihayo\.akamaized\.net$:@cn

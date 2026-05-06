@@ -256,7 +256,6 @@ domain:collector.github.com:@ads
 domain:collector.xhamster.com:@ads
 domain:contentabc.com
 domain:contextual.media.net:@ads
-domain:copilot-telemetry.githubusercontent.com:@ads
 domain:counter.yandex.ru:@ads
 domain:cpmstar.com:@ads
 domain:cpro.baidu.com:@ads
@@ -786,6 +785,8 @@ full:clck.yandex.com:@ads
 full:clck.yandex.net:@ads
 full:clck.yango.com:@ads
 full:click.rustore.ru:@ads
+full:copilot-telemetry-service.githubusercontent.com:@ads
+full:copilot-telemetry.githubusercontent.com:@ads
 full:disney.my.sentry.io:@ads
 full:error-tracking.megamarket.tech:@ads
 full:google-analytics-suite.ozon.ru:@ads

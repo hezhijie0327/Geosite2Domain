@@ -19,3 +19,4 @@ domain:supercellcreators.com
 domain:supercellgames.com
 domain:supercellid.com
 domain:supercellstore.com
+domain:supr.cl

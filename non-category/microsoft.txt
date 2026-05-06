@@ -160,7 +160,6 @@ domain:cn.bing.net:@cn
 domain:cn.mm.bing.net:@cn
 domain:codethemicrobit.com
 domain:collector.github.com:@ads
-domain:copilot-telemetry.githubusercontent.com:@ads
 domain:cortanaanalytics.com
 domain:cortanaskills.com
 domain:cosmosdb.info
@@ -626,6 +625,8 @@ full:bj1.api.bing.com:@cn
 full:build.microsoft.com:@cn
 full:cdn.marketplaceimages.windowsphone.com:@cn
 full:cn.windowssearch.com:@cn
+full:copilot-telemetry-service.githubusercontent.com:@ads
+full:copilot-telemetry.githubusercontent.com:@ads
 full:ctldl.windowsupdate.com:@cn
 full:default.exp-tas.com
 full:devblogs.microsoft.com:@cn
@@ -638,6 +639,11 @@ full:f.c2r.ts.cdn.office.net:@cn
 full:fs.microsoft.com:@cn
 full:github-api.arkoselabs.com
 full:github-cloud.s3.amazonaws.com
+full:github-production-release-asset-2e65be.s3.amazonaws.com
+full:github-production-repository-file-5c1aeb.s3.amazonaws.com
+full:github-production-repository-image-32fea6.s3.amazonaws.com
+full:github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
+full:github-production-user-asset-6210df.s3.amazonaws.com
 full:img-prod-cms-rt-microsoft-com.akamaized.net
 full:img-s-msn-com.akamaized.net
 full:learn.microsoft.com:@cn
@@ -664,4 +670,3 @@ full:vz.download.prss.microsoft.com:@cn
 full:wscont1.apps.microsoft.com:@cn
 full:wscont2.apps.microsoft.com:@cn
 full:www.microsoft.com:@cn
-regexp:^github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com$

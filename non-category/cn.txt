@@ -681,6 +681,7 @@ domain:awsapps.cn:@cn
 domain:awsapps.com.cn:@cn
 domain:awsstatic.cn:@cn
 domain:awstme.top
+domain:azz.net
 domain:b23.tv
 domain:b2bgo.com
 domain:b2byao.com
@@ -1993,7 +1994,6 @@ domain:flycua.com
 domain:flyme.com
 domain:flymeauto.com
 domain:fm365.com
-domain:fm3838.com
 domain:fnjiasu.com
 domain:fnnas.com
 domain:fnnas.net
@@ -2512,6 +2512,7 @@ domain:huoshanvod.com
 domain:huoshanxiaoshipin.net
 domain:huoshanzhibo.com
 domain:huoshanzhibo.net
+domain:huotan.net
 domain:hupu.com
 domain:hupucdn.com
 domain:hupun.com
@@ -3182,7 +3183,6 @@ domain:larksuiteimg-boe.com
 domain:larksuiteimg-pre.com
 domain:larksuiteimg.com
 domain:larkvc.com
-domain:larsonlimited.com
 domain:lascn.net
 domain:latepost.com
 domain:lawxp.com
@@ -5585,7 +5585,6 @@ domain:zmifi.com
 domain:znds.com
 domain:zofund.com
 domain:zongheng.com
-domain:zoom3g.com
 domain:zpb365.com
 domain:zs-jlc.com
 domain:zsxq.com
@@ -5631,6 +5630,8 @@ full:ads5-normal-hl.zijieapi.com:@ads
 full:ads5-normal.zijieapi.com:@ads
 full:apilog-web.acfun.cn:@ads
 full:ctdsb.clouddiffuse.xyz
+full:end-api.shallow.ink
+full:end.shallow.ink
 full:izattime.qcomgeo2.com:@cn
 full:log-sdk.gifshow.com:@ads
 full:log3-applog-hl.fqnovel.com:@ads

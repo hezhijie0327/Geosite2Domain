@@ -727,6 +727,8 @@ full:ads3-normal.zijieapi.com:@ads
 full:ads5-normal-hl.zijieapi.com:@ads
 full:ads5-normal.zijieapi.com:@ads
 full:apilog-web.acfun.cn:@ads
+full:end-api.shallow.ink
+full:end.shallow.ink
 full:log-sdk.gifshow.com:@ads
 full:log3-applog-hl.fqnovel.com:@ads
 full:log3-applog.fqnovel.com:@ads

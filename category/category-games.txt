@@ -756,6 +756,7 @@ domain:supermariorun.com
 domain:superpapermario.com
 domain:supersmashbros.cn:@cn
 domain:supersmashbros.com.cn:@cn
+domain:supr.cl
 domain:supremacy.com
 domain:supremacy.net
 domain:swjedifallenorder.com
@@ -951,6 +952,8 @@ full:dlgarenanow-a.akamaihd.net
 full:dlmobilegarena-a.akamaihd.net
 full:ea.tt.omtrdc.net
 full:eaassets-a.akamaihd.net
+full:end-api.shallow.ink
+full:end.shallow.ink
 full:f3b7q2p3.ssl.hwcdn.net
 full:flightsimulator.azureedge.net
 full:gamedownloads-rockstargames-com.akamaized.net

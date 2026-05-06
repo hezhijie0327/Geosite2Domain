@@ -76,6 +76,7 @@ domain:ipfind.io
 domain:ipfinder.io
 domain:ipgeo.vercel.app
 domain:ipgeolocation.io
+domain:ipify.cn:@cn
 domain:ipify.org
 domain:ipinfo.io
 domain:ipip.net
@@ -92,7 +93,9 @@ domain:ipregistry.co
 domain:iproyal.com
 domain:ipstack.com
 domain:ipv4-internet.yandex.net
+domain:ipv4.internet.yandex.net
 domain:ipv6-internet.yandex.net
+domain:ipv6.internet.yandex.net
 domain:ipverify.com
 domain:ipw.cn:@cn
 domain:ipwho.is

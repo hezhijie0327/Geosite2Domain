@@ -7,6 +7,7 @@ domain:aistudio.google.com
 domain:anthropic.com
 domain:antigravity-unleash.goog
 domain:antigravity.google
+domain:anythingllm.com
 domain:bard.google.com
 domain:cerebras.ai
 domain:chat.com
@@ -98,6 +99,7 @@ domain:openai.com.cdn.cloudflare.net
 domain:openart.ai
 domain:openclaw.ai
 domain:openrouter.ai
+domain:openspec.dev
 domain:oystermercury.top
 domain:perplexity.ai
 domain:perplexity.com
@@ -127,6 +129,11 @@ full:antigravity.googleapis.com
 full:browser-intake-datadoghq.com:@ads
 full:cloudaicompanion.googleapis.com
 full:cloudcode-pa.googleapis.com
+full:copilot-proxy.githubusercontent.com
+full:copilot-telemetry-service.githubusercontent.com:@ads
+full:copilot-telemetry.githubusercontent.com:@ads
+full:copilot-workspace.githubnext.com
+full:copilotprodattachments.blob.core.windows.net
 full:daily-cloudcode-pa.googleapis.com
 full:notebooklm-pa.googleapis.com
 full:notebooklm.googleapis.com

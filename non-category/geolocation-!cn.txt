@@ -1698,6 +1698,7 @@ domain:anypornhd.com
 domain:anypornsexxx.com
 domain:anysex.com
 domain:anyshemale.com
+domain:anythingllm.com
 domain:anyxxx.me
 domain:anyxxx.pro
 domain:ao3.org
@@ -4526,6 +4527,7 @@ domain:calgon.tv
 domain:calgoncarbon-china.com
 domain:calgoncarbon.com
 domain:calgonit.com
+domain:calibre-ebook.com
 domain:callabitch.org
 domain:callbackkiller.com
 domain:callersbane.com
@@ -5418,7 +5420,6 @@ domain:coomer.su
 domain:coova.com
 domain:coova.net
 domain:coova.org
-domain:copilot-telemetry.githubusercontent.com:@ads
 domain:copro.pw
 domain:copy-manga.com
 domain:copy20.com
@@ -10638,6 +10639,7 @@ domain:ibookpartner.com
 domain:ibooksauthor.com
 domain:ibradome.com
 domain:icashpassport.com.mx
+domain:iccf.com
 domain:icegay.tv
 domain:icegaytube.tv
 domain:iceporn.com
@@ -15538,6 +15540,7 @@ domain:onamae.com
 domain:onani-daisuki.com
 domain:onbeatsbydresale.com
 domain:oncars.in
+domain:ondigitalocean.com
 domain:one.one.one
 domain:one889.app
 domain:oneapi.com
@@ -15640,6 +15643,7 @@ domain:opensea.io
 domain:opensource.guide
 domain:opensourceinsight.dev
 domain:opensourceinsights.dev
+domain:openspec.dev
 domain:openssl.org
 domain:openstreetmap.com
 domain:openstreetmap.net
@@ -19242,6 +19246,7 @@ domain:supjav.com
 domain:supplybestjerseys.com
 domain:support-uber.com
 domain:supportfacebook.com
+domain:supr.cl
 domain:supremacy.com
 domain:supremacy.net
 domain:sureporn.com
@@ -20255,6 +20260,8 @@ domain:twi-videos.net
 domain:twidouga.net
 domain:twidouga.tv
 domain:twifuli.com
+domain:twilio.com
+domain:twilio.jp
 domain:twimg.com
 domain:twinkboyfriends.tv
 domain:twinkspornos.com
@@ -20307,6 +20314,7 @@ domain:typesquare.com
 domain:typography.com
 domain:tyre-cadcam.com
 domain:tyrecadcam.com
+domain:tytch.com
 domain:tytng189.com
 domain:tytporno.online
 domain:u.nu
@@ -20469,7 +20477,9 @@ domain:userapi.com
 domain:userapi.ru
 domain:usercentrics.eu
 domain:usercontent.dev
+domain:userdrive.org
 domain:userpxt.io
+domain:usersdrive.com
 domain:usertrust.com
 domain:usvimosquito.com
 domain:usvimosquitoproject.com
@@ -23446,6 +23456,8 @@ full:configuration.apple.com.akadns.net:@cn
 full:configuration.apple.com:@cn
 full:connectivitycheck.gstatic.com:@cn
 full:content.googleadapis.com:@cn
+full:copilot-telemetry-service.githubusercontent.com:@ads
+full:copilot-telemetry.githubusercontent.com:@ads
 full:crashlyticsreports-pa.googleapis.com:@cn
 full:crl-lb.apple.com.akadns.net:@cn
 full:crl.apple.com:@cn
@@ -24204,7 +24216,6 @@ regexp:^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
 regexp:^epicgames-download\d-\d+\.file\.myqcloud\.com$:@cn
 regexp:^epicgames-download\d\.akamaized\.net$
 regexp:^ewcdn[0-9]+\.nowe\.com$
-regexp:^github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com$
 regexp:^gog-cdn-.+\.footprint\.net$:@cn
 regexp:^hses[1-7]?\.akamaized\.net$
 regexp:^images(-\d)?\.gog-statics\.com$:@cn
