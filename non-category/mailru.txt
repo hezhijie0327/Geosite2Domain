@@ -86,6 +86,8 @@ domain:inbox.ru
 domain:insideok.ru
 domain:internet.ru
 domain:it-territory.com
+domain:justveryok.com
+domain:keyboardmen.com
 domain:knightspeak.com
 domain:koddobra.ru
 domain:lerna.ru
@@ -118,7 +120,15 @@ domain:mycdn.me
 domain:mytopf.com
 domain:mytrk.link
 domain:odkl.ru
+domain:odnoklasniki.by
+domain:odnoklasniki.ua
+domain:odnoklassniki.am
+domain:odnoklassniki.by
+domain:odnoklassniki.co.ee
+domain:odnoklassniki.eu
+domain:odnoklassniki.lv
 domain:odnoklassniki.ru
+domain:odnoklassniki.tj
 domain:ok.me
 domain:ok.ru
 domain:okcdn.ru
@@ -128,6 +138,7 @@ domain:oneme.ru
 domain:pixonic.com
 domain:prod-my.games
 domain:r.mail.ru:@ads
+domain:rabbitcounter.com
 domain:radar.imgsmail.ru:@ads
 domain:relap.mail.ru:@ads
 domain:ruhub.tv
@@ -135,6 +146,7 @@ domain:russiandesigncup.ru
 domain:rustore.ru
 domain:rustore.team
 domain:rustore.tv
+domain:sayeasy.eu
 domain:sferum-dev.ru
 domain:sferum.ru
 domain:skbx.pro

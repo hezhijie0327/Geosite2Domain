@@ -120,6 +120,7 @@ domain:vrn.ru
 domain:vyatka.ru
 domain:xn--80acgfbsl1azdqr.xn--p1ai
 domain:xn--80ajghhoc2aj1c8b.xn--p1ai
+domain:xn--b1afabzvcegckfhg.xn--p1ai
 domain:yakutia.ru
 domain:yamal.ru
 domain:yaroslavl.ru

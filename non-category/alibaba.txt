@@ -85,6 +85,7 @@ domain:alimmdn.com
 domain:alios.cn
 domain:alipan.com
 domain:alipay
+domain:alipay-eco.com
 domain:alipay.cn
 domain:alipay.com
 domain:alipay.com.cn

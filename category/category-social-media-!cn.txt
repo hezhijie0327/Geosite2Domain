@@ -496,7 +496,15 @@ domain:newsfeed.com
 domain:nextstop.com
 domain:nijimiss.moe
 domain:odkl.ru
+domain:odnoklasniki.by
+domain:odnoklasniki.ua
+domain:odnoklassniki.am
+domain:odnoklassniki.by
+domain:odnoklassniki.co.ee
+domain:odnoklassniki.eu
+domain:odnoklassniki.lv
 domain:odnoklassniki.ru
+domain:odnoklassniki.tj
 domain:oekakiskey.com
 domain:ok.me
 domain:ok.ru

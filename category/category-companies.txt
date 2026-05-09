@@ -4552,6 +4552,7 @@ domain:jkbeats.com
 domain:jos.com
 domain:jsati.com
 domain:jsatmobile.com
+domain:justveryok.com
 domain:jwide.co.kr
 domain:jword.jp
 domain:jwt.ms
@@ -4626,6 +4627,7 @@ domain:kaydara.com
 domain:keepyourcad.com
 domain:keezmovies.com
 domain:kemptechnologies.com
+domain:keyboardmen.com
 domain:keyhole.com
 domain:keytransparency.com
 domain:keytransparency.foo
@@ -5496,7 +5498,15 @@ domain:oculusforbusiness.com
 domain:oculusrift.com
 domain:oculusvr.com
 domain:odkl.ru
+domain:odnoklasniki.by
+domain:odnoklasniki.ua
+domain:odnoklassniki.am
+domain:odnoklassniki.by
+domain:odnoklassniki.co.ee
+domain:odnoklassniki.eu
+domain:odnoklassniki.lv
 domain:odnoklassniki.ru
+domain:odnoklassniki.tj
 domain:offerairjordanlebron.com
 domain:office
 domain:office.com
@@ -5837,6 +5847,7 @@ domain:qwant.it
 domain:qwapi.com:@ads
 domain:r.bing.com:@cn
 domain:r.mail.ru:@ads
+domain:rabbitcounter.com
 domain:rabota.by
 domain:radar.imgsmail.ru:@ads
 domain:radeon.com
@@ -5984,6 +5995,7 @@ domain:sankie.net
 domain:sanvaras.com
 domain:savethedate.foo
 domain:savoycomputing.com
+domain:sayeasy.eu
 domain:saynow.com
 domain:sc-cdn.net
 domain:scaleform.com

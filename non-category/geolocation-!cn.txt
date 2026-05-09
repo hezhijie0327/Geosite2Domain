@@ -12082,6 +12082,7 @@ domain:justporno.sex
 domain:justporno.tv
 domain:justswallows.com
 domain:justusboys.com
+domain:justveryok.com
 domain:juyangbee.xyz
 domain:juyangto.info
 domain:juzi-js.shop
@@ -12221,6 +12222,7 @@ domain:kenyaraha.net
 domain:kernel.org
 domain:keybase.io
 domain:keybaseapi.com
+domain:keyboardmen.com
 domain:keyhole.com
 domain:keyporntube.com
 domain:keytransparency.com
@@ -13255,6 +13257,7 @@ domain:mcchcdn.com:@cn
 domain:mcd-holdings.co.jp
 domain:mcd.cn:@cn
 domain:mcd.com
+domain:mcdchina.net:@cn
 domain:mcdelivery.co.id
 domain:mcdelivery.co.in
 domain:mcdelivery.co.kr
@@ -15435,7 +15438,15 @@ domain:oculusforbusiness.com
 domain:oculusrift.com
 domain:oculusvr.com
 domain:odkl.ru
+domain:odnoklasniki.by
+domain:odnoklasniki.ua
+domain:odnoklassniki.am
+domain:odnoklassniki.by
+domain:odnoklassniki.co.ee
+domain:odnoklassniki.eu
+domain:odnoklassniki.lv
 domain:odnoklassniki.ru
+domain:odnoklassniki.tj
 domain:odysee.com
 domain:oecd-ilibrary.org
 domain:oed.com
@@ -17210,6 +17221,7 @@ domain:r18lu-avi.shop
 domain:r18lu.com
 domain:r2.dev
 domain:r34porn.net
+domain:rabbitcounter.com
 domain:rabbitscams.com
 domain:rabbitscams.sex
 domain:rabbitsreviews.com
@@ -17833,6 +17845,7 @@ domain:savitabhabhi.vip
 domain:savitahd.net
 domain:savoycomputing.com
 domain:savvyshopper.net.au
+domain:sayeasy.eu
 domain:saynow.com
 domain:sb-cd.com
 domain:sb-mobile.jp

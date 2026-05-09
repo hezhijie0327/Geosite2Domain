@@ -7,6 +7,7 @@ domain:happymealdigital.com
 domain:mcd-holdings.co.jp
 domain:mcd.cn:@cn
 domain:mcd.com
+domain:mcdchina.net:@cn
 domain:mcdelivery.co.id
 domain:mcdelivery.co.in
 domain:mcdelivery.co.kr

@@ -175,6 +175,7 @@ domain:3elife.net
 domain:3h3.com
 domain:3songshu.com
 domain:3yx.com
+domain:4008-517-517.cn:@cn
 domain:40407.com
 domain:423down.com
 domain:4399.com
@@ -541,6 +542,7 @@ domain:alimei.com
 domain:alimmdn.com
 domain:alipan.com
 domain:alipay
+domain:alipay-eco.com
 domain:alipay.com
 domain:alipaydns.com
 domain:alipaylog.com
@@ -2319,6 +2321,7 @@ domain:hc-cdn.com
 domain:hc-sre.com
 domain:hczq.com
 domain:hdfimg.com
+domain:hdlcdns.com
 domain:hdns.ksyun.com:@ads
 domain:hdslb.com
 domain:hdslb.org
@@ -2533,6 +2536,7 @@ domain:hweventgrid.com
 domain:hwocloud.com
 domain:hwshu.com
 domain:hwtrip.com
+domain:hwwt8.com
 domain:hxfy888.com
 domain:hxsd.com
 domain:hybiome.com
@@ -3027,6 +3031,7 @@ domain:kingdee.com
 domain:kinghomechina.com
 domain:kingsoft-office-service.com
 domain:kingsoft.com
+domain:kiwa-tech.com
 domain:kiyuu.club
 domain:kjcdn.com
 domain:kjwugx.com
@@ -3298,6 +3303,7 @@ domain:log.umtrack.com:@ads
 domain:log.v2.hunantv.com:@ads
 domain:log.zijieapi.com:@ads
 domain:log2.sina.cn:@ads
+domain:logger.qmai.cn:@ads
 domain:logiseasy.com
 domain:logs.amap.com:@ads
 domain:logupdate.avlyun.sec.miui.com:@ads
@@ -3391,7 +3397,10 @@ domain:mblyun.com
 domain:mcbaas.work
 domain:mcbang.com
 domain:mcbbs.net
+domain:mcd.cn:@cn
+domain:mcdchina.net:@cn
 domain:mcdemo.show
+domain:mcdonalds.com.cn:@cn
 domain:mchost.guru
 domain:mcs.snssdk.com:@ads
 domain:mdeer.com
@@ -3560,6 +3569,8 @@ domain:muzhiwan.com
 domain:mvad.com:@ads
 domain:mwcdns.com
 domain:mwcloudcdn.com
+domain:mxbc.com
+domain:mxbc.net
 domain:mxhichina.com
 domain:my-qcloud.com
 domain:my4399.com
@@ -3980,6 +3991,7 @@ domain:qizuang.com
 domain:ql1d.com
 domain:qlivecdn.com
 domain:qm989.com
+domain:qmai.com
 domain:qmniu.com
 domain:qnsdk.com
 domain:qnssl.com
@@ -4198,6 +4210,7 @@ domain:shuoshuokong.com
 domain:shuqi.com
 domain:shuqireader.com
 domain:shutcm.com
+domain:shuxinyc.com
 domain:shyhhema.com
 domain:shyxhy.com
 domain:shzq.com
@@ -4660,7 +4673,10 @@ domain:track.lc.quark.cn:@ads
 domain:track.sohu.com:@ads
 domain:tracker.ai.xiaomi.com:@ads
 domain:tracker.xiaomixiaoai.com:@ads
+domain:tracking.mcdonalds.com.cn:@ads
 domain:tracking.miui.com:@ads
+domain:trackingprd.hwwt8.com:@ads
+domain:trackserver.shuxinyc.com:@ads
 domain:tracup.com
 domain:trae.guru
 domain:travelsky.com
@@ -5426,6 +5442,7 @@ domain:yuelun.com
 domain:yuewen.com
 domain:yufuid.com
 domain:yufuid.net
+domain:yumchina.com
 domain:yunaq.com
 domain:yunba.io
 domain:yunda56.com

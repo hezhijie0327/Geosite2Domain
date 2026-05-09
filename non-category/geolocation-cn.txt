@@ -213,6 +213,7 @@ domain:3songshu.com
 domain:3type.cn
 domain:3yx.com
 domain:40017.cn
+domain:4008-517-517.cn:@cn
 domain:40407.com
 domain:423down.com
 domain:42r.cn
@@ -627,6 +628,7 @@ domain:alimmdn.com
 domain:alios.cn
 domain:alipan.com
 domain:alipay
+domain:alipay-eco.com
 domain:alipay.cn
 domain:alipay.com
 domain:alipay.com.cn
@@ -1026,6 +1028,7 @@ domain:bjinfobank.com
 domain:bjyouth.net
 domain:bkapigw.com
 domain:bkapps.com
+domain:bkchina.cn
 domain:bkclouds.cc
 domain:bktencent.com
 domain:blackdragon.com
@@ -2055,6 +2058,7 @@ domain:diandianqi.com
 domain:dianping.com
 domain:dianwannan.com
 domain:dianzhenkeji.com
+domain:dicos.com.cn
 domain:dida365.com
 domain:didi.cn
 domain:didialift.com
@@ -2895,6 +2899,7 @@ domain:hc-cdn.com
 domain:hc-sre.com
 domain:hczq.com
 domain:hdfimg.com
+domain:hdlcdns.com
 domain:hdns.ksyun.com:@ads
 domain:hdslb.com
 domain:hdslb.org
@@ -3002,6 +3007,8 @@ domain:honor.com
 domain:honor.com.cn
 domain:honorfile.com
 domain:hoopchina.com.cn
+domain:hophing.cn
+domain:hophing.com.cn
 domain:hotread.com
 domain:houdao.com
 domain:houyicaiji.com
@@ -3173,6 +3180,7 @@ domain:hwht.cn
 domain:hwocloud.com
 domain:hwshu.com
 domain:hwtrip.com
+domain:hwwt8.com
 domain:hx168.com.cn
 domain:hxb.com.cn
 domain:hxfy888.com
@@ -3749,6 +3757,7 @@ domain:kesong.co
 domain:ketangpai.com
 domain:kexinshe.com
 domain:kf5.com
+domain:kfc.com.cn
 domain:kfcbest.com
 domain:kfomn.cn
 domain:kfzimg.com
@@ -3762,6 +3771,7 @@ domain:kingdee.com
 domain:kinghomechina.com
 domain:kingsoft-office-service.com
 domain:kingsoft.com
+domain:kiwa-tech.com
 domain:kiyuu.club
 domain:kjcdn.com
 domain:kjwugx.com
@@ -4081,6 +4091,7 @@ domain:log.umtrack.com:@ads
 domain:log.v2.hunantv.com:@ads
 domain:log.zijieapi.com:@ads
 domain:log2.sina.cn:@ads
+domain:logger.qmai.cn:@ads
 domain:logiseasy.com
 domain:logs.amap.com:@ads
 domain:logupdate.avlyun.sec.miui.com:@ads
@@ -4199,7 +4210,10 @@ domain:mcadn.cn
 domain:mcbaas.work
 domain:mcbang.com
 domain:mcbbs.net
+domain:mcd.cn:@cn
+domain:mcdchina.net:@cn
 domain:mcdemo.show
+domain:mcdonalds.com.cn:@cn
 domain:mchost.guru
 domain:mcmod.cn
 domain:mcprev.cn
@@ -4400,6 +4414,8 @@ domain:muzhiwan.com
 domain:mvad.com:@ads
 domain:mwcdns.com
 domain:mwcloudcdn.com
+domain:mxbc.com
+domain:mxbc.net
 domain:mxhichina.com
 domain:my-qcloud.com
 domain:my4399.com
@@ -4928,6 +4944,9 @@ domain:qlisten.cn
 domain:qlivecdn.com
 domain:qlogo.cn
 domain:qm989.com
+domain:qmai.cn
+domain:qmai.com
+domain:qmimg.cn
 domain:qmniu.com
 domain:qnsdk.com
 domain:qnssl.com
@@ -5202,6 +5221,7 @@ domain:shuoshuokong.com
 domain:shuqi.com
 domain:shuqireader.com
 domain:shutcm.com
+domain:shuxinyc.com
 domain:shyhhema.com
 domain:shyxhy.com
 domain:shzq.com
@@ -5788,7 +5808,10 @@ domain:track.lc.quark.cn:@ads
 domain:track.sohu.com:@ads
 domain:tracker.ai.xiaomi.com:@ads
 domain:tracker.xiaomixiaoai.com:@ads
+domain:tracking.mcdonalds.com.cn:@ads
 domain:tracking.miui.com:@ads
+domain:trackingprd.hwwt8.com:@ads
+domain:trackserver.shuxinyc.com:@ads
 domain:tracup.com
 domain:trae.cn
 domain:trae.com.cn
@@ -6688,6 +6711,7 @@ domain:yufuid.com
 domain:yufuid.com.cn
 domain:yufuid.net
 domain:yuketang.cn
+domain:yumchina.com
 domain:yunaq.com
 domain:yunba.io
 domain:yunda56.com

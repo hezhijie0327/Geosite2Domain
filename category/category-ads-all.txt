@@ -434,6 +434,7 @@ domain:log.umtrack.com:@ads
 domain:log.v2.hunantv.com:@ads
 domain:log.zijieapi.com:@ads
 domain:log2.sina.cn:@ads
+domain:logger.qmai.cn:@ads
 domain:logs.amap.com:@ads
 domain:logs.chelaile.net.cn
 domain:logupdate.avlyun.sec.miui.com:@ads
@@ -648,7 +649,10 @@ domain:tracker-api.my.com:@ads
 domain:tracker.ai.xiaomi.com:@ads
 domain:tracker.my.com:@ads
 domain:tracker.xiaomixiaoai.com:@ads
+domain:tracking.mcdonalds.com.cn:@ads
 domain:tracking.miui.com:@ads
+domain:trackingprd.hwwt8.com:@ads
+domain:trackserver.shuxinyc.com:@ads
 domain:trafficfactory.biz
 domain:tsyndicate.com
 domain:tubemogul.com:@ads
