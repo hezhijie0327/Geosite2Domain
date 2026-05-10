@@ -1,5 +1,6 @@
 domain:careerjournal.com
 domain:collegejournal.com
+domain:getwsj.com
 domain:opinionjournal.com
 domain:realestatejournal.com
 domain:startupjournal.com

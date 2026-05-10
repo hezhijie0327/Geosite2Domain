@@ -8906,6 +8906,7 @@ domain:gettyimages.no
 domain:gettyimages.pt
 domain:gettyimages.se
 domain:getws1.com
+domain:getwsj.com
 domain:getwsone.com
 domain:getzola.org
 domain:gfacecbook.com

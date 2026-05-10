@@ -31,6 +31,7 @@ domain:escape.com.au
 domain:flatmates.com.au
 domain:fnlondon.com
 domain:geelongadvertiser.com.au
+domain:getwsj.com
 domain:goldcoastbulletin.com.au
 domain:hackday.com.au
 domain:harperacademic.com

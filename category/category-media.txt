@@ -582,6 +582,7 @@ domain:gendai.net
 domain:geraldoatlarge.com
 domain:getnews.jp
 domain:gettr.com
+domain:getwsj.com
 domain:gfashion.com
 domain:gisplanning.com
 domain:glasamerike.net
