@@ -11756,6 +11756,7 @@ domain:javdoe.to
 domain:javdove.com
 domain:javdove8.xyz
 domain:javextreme.net
+domain:javfc2.xyz
 domain:javfilms.com
 domain:javfor.me
 domain:javforme.ninja
