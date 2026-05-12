@@ -15,6 +15,8 @@ domain:100bt.com
 domain:100offer.com
 domain:10155.com
 domain:10jqka.com.cn
+domain:11183.com.cn
+domain:11185.cn
 domain:11467.com
 domain:114blog.com
 domain:114chn.com
@@ -388,6 +390,7 @@ domain:998.com
 domain:999d.com
 domain:99danji.com
 domain:99fund.com
+domain:99jiasu.net
 domain:99uri.cn
 domain:99uri.com
 domain:9coof.cn
@@ -774,6 +777,7 @@ domain:astral-vector.com
 domain:atanx.alicdn.com:@ads
 domain:atanx2.alicdn.com:@ads
 domain:atatech.org
+domain:atianqi.com
 domain:atm.youku.com:@ads
 domain:audid.umeng.com:@ads
 domain:aurorapush.cn
@@ -864,6 +868,8 @@ domain:baofeng.com
 domain:baofeng.net
 domain:baomitu.com
 domain:baoxianshichang.com
+domain:baozou.com
+domain:baozoumanhua.com
 domain:baseopendev.com
 domain:batchat.com
 domain:battlecare.net
@@ -1489,6 +1495,7 @@ domain:chinaaet.com
 domain:chinaamc.com
 domain:chinabank.com.cn
 domain:chinabooktrading.com
+domain:chinabyte.com
 domain:chinacache.com
 domain:chinacache.net
 domain:chinachugui.com
@@ -1510,6 +1517,12 @@ domain:chinanews.com
 domain:chinanews.com.cn
 domain:chinaott.com
 domain:chinapay.com
+domain:chinapost-life.com
+domain:chinapost.cn
+domain:chinapost.com.cn
+domain:chinapostdaily.com.cn
+domain:chinapostnews.cn
+domain:chinapostnews.com.cn
 domain:chinapp.net
 domain:chinapubmed.net
 domain:chinaso.com
@@ -1537,6 +1550,7 @@ domain:chinesemooc.org
 domain:chiphell.com
 domain:chn.cn
 domain:chndoi.org
+domain:chnppmuseum.com
 domain:chntel.com
 domain:chongbuluo.com
 domain:chongdiantou.com
@@ -1559,6 +1573,7 @@ domain:chushou.tv
 domain:chuyu.me
 domain:cib-fund.com.cn
 domain:cib.com.cn
+domain:cibn.cc
 domain:cibntv.net
 domain:cicc.com
 domain:ciccwm.com
@@ -1741,6 +1756,7 @@ domain:cnlogs.umengcloud.com:@ads
 domain:cnmooc.org
 domain:cnms.net.cn
 domain:cnmstl.net
+domain:cnpsec.com
 domain:cnr.cn
 domain:cns.com.cn
 domain:cnsciedu.com
@@ -1803,6 +1819,8 @@ domain:cpppf.org
 domain:cpro.baidu.com:@ads
 domain:cpro.baidustatic.com:@ads
 domain:cps.360buy.com:@ads
+domain:cptu.cn
+domain:cptu.org.cn
 domain:cpu.baidu.com:@ads
 domain:cqcb.com
 domain:cqccn.com
@@ -1880,6 +1898,7 @@ domain:ctripgslb.net
 domain:ctripteam.com
 domain:ctsbw.com
 domain:ctsec.com
+domain:ctvpost.com
 domain:ctwcdn.cn
 domain:ctxcdn.cn
 domain:ctxcdn.com
@@ -2341,6 +2360,7 @@ domain:emarbox.com
 domain:emas-poc.com
 domain:emoriko.com
 domain:emr-volces.com
+domain:ems.com.cn
 domain:ems.youku.com:@ads
 domain:emumax.com
 domain:enterdesk.com
@@ -2394,6 +2414,7 @@ domain:fang.com
 domain:fangxiaoer.com
 domain:fanli.com
 domain:fanmingming.com
+domain:fanqiecopyright.com
 domain:fanqienovel.com
 domain:fanqieopen.com
 domain:fanqieopenpic.com
@@ -2526,6 +2547,7 @@ domain:fqnovelop.com
 domain:fqnovelpic.com
 domain:fqnovelstatic.com
 domain:fqnovelvod.com
+domain:fqopenplatform.com
 domain:freebuf.com
 domain:freshhema.com
 domain:freshippo.com
@@ -3072,6 +3094,7 @@ domain:huaban.com
 domain:huabanimg.com
 domain:huafeng-accuweather.cn
 domain:huafengaw.com
+domain:huajiao.com
 domain:huajingsec.com
 domain:huajinsc.cn
 domain:huangyuhui.net
@@ -3298,6 +3321,7 @@ domain:ijingyi.com
 domain:ijinshan.com
 domain:ikafan.com
 domain:ikanchai.com
+domain:ikstatic.cn
 domain:ilanzou.com
 domain:ileapcloud.com
 domain:iluckysf.net
@@ -3335,6 +3359,7 @@ domain:infinitynewtab.com
 domain:infoq.com
 domain:infoqstatic.com
 domain:inftab.com
+domain:inke.cn
 domain:inkuai.com
 domain:inkwai.com
 domain:inspirecloud.cn
@@ -3727,6 +3752,7 @@ domain:kaipuyun.com
 domain:kaipuyun.com.cn
 domain:kaipuyun.net
 domain:kaixin001.com
+domain:kajicam.com
 domain:kameng98.com
 domain:kanbox.com
 domain:kanimg.com
@@ -4713,12 +4739,14 @@ domain:pddcdn.com
 domain:pddim.com
 domain:pddpic.com
 domain:pddugc.com
+domain:pdnews.cn
 domain:pearvideo.com
 domain:peccn.com
 domain:pengyoudewu.cn
 domain:pengyoudewu.com
 domain:people.cn
 domain:people.com.cn
+domain:peopleapp.com
 domain:pg0.cn
 domain:pgdt.gtimg.cn:@ads
 domain:pglstatp-sdk-toutiao.com:@ads
@@ -4787,6 +4815,8 @@ domain:portal301.cn
 domain:pos.baidu.com:@ads
 domain:pospal.cn
 domain:postfund.com.cn
+domain:postmail.cn
+domain:postoa.com.cn
 domain:powerapp.io
 domain:ppkankan01.com
 domain:pplive.cn
@@ -5921,6 +5951,8 @@ domain:ugslb.top
 domain:ugslb2.net
 domain:uhasadmin.com
 domain:uiwow.com
+domain:ule.com
+domain:ulecdn.com
 domain:ulikecam.com
 domain:ulogs.umeng.com:@ads
 domain:ulogs.umengcloud.com:@ads
@@ -6336,6 +6368,7 @@ domain:wss1.cn
 domain:wsukwai.com
 domain:wswebcdn.com
 domain:wswebpic.com
+domain:wting.info
 domain:wtown.com
 domain:wtturl.cn
 domain:wtzw.com
@@ -6383,6 +6416,7 @@ domain:xesimg.com
 domain:xf-fund.com
 domain:xfdown.com
 domain:xfyun.cn
+domain:xgo-img.com.cn
 domain:xgzb.top
 domain:xhaiwai.com
 domain:xhby.net

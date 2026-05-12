@@ -41,6 +41,7 @@ domain:cctvpro.com.cn
 domain:chaindd.com
 domain:checkzeit.com
 domain:chinaaet.com
+domain:chinabyte.com
 domain:chinaepg.cn
 domain:chinalive.com
 domain:chinanews.com
@@ -189,8 +190,10 @@ domain:pchouse.com.cn
 domain:pchpic.net
 domain:pconline.com.cn
 domain:pcpop.com
+domain:pdnews.cn
 domain:people.cn
 domain:people.com.cn
+domain:peopleapp.com
 domain:phoenixcenter.cn
 domain:pingwest.com
 domain:pinyin.cn
@@ -255,6 +258,7 @@ domain:thepaper.cn
 domain:theta.sogoucdn.com:@ads
 domain:ths123.com
 domain:thsi.cn
+domain:tianjimedia.com
 domain:tidenews.com.cn
 domain:tigeek.net.cn
 domain:tivitv.com
@@ -291,6 +295,7 @@ domain:xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s
 domain:xueqiu.com
 domain:yangshipin.cn
 domain:ycwb.com
+domain:yesky.com
 domain:yeyousg.com
 domain:yicai.com
 domain:yidianliulan.cn

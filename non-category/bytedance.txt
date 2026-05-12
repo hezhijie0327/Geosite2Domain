@@ -248,6 +248,7 @@ domain:emr-volces.com
 domain:extlog.snssdk.com:@ads
 domain:faceu.com
 domain:falconsending.com
+domain:fanqiecopyright.com
 domain:fanqienovel.com
 domain:fanqieopen.com
 domain:fanqieopenpic.com
@@ -298,6 +299,7 @@ domain:fqnovelop.com
 domain:fqnovelpic.com
 domain:fqnovelstatic.com
 domain:fqnovelvod.com
+domain:fqopenplatform.com
 domain:gcloudcache.com
 domain:getfeishu.cn
 domain:getfeishu.com

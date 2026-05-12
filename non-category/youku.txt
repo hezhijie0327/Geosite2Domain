@@ -3,7 +3,6 @@ domain:ad.api.mobile.youku.com:@ads
 domain:ad.mobile.youku.com:@ads
 domain:adashx.ut.youku.com:@ads
 domain:atm.youku.com:@ads
-domain:cibntv.net
 domain:e.stat.ykimg.com:@ads
 domain:ems.youku.com:@ads
 domain:guanggaoad.youku.com:@ads

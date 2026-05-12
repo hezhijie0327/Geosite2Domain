@@ -151,7 +151,6 @@ domain:cainiaoyizhan.com
 domain:ccs.umeng.com:@ads
 domain:cdngslb.com
 domain:cheng.xin
-domain:cibntv.net
 domain:cloudeagle.cn
 domain:cnlogs.umeng.com:@ads
 domain:cnlogs.umengcloud.com:@ads

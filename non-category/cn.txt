@@ -322,6 +322,7 @@ domain:998.com
 domain:999d.com
 domain:99danji.com
 domain:99fund.com
+domain:99jiasu.net
 domain:99uri.com
 domain:9ht.com
 domain:9xgame.com
@@ -666,6 +667,7 @@ domain:astral-vector.com
 domain:atanx.alicdn.com:@ads
 domain:atanx2.alicdn.com:@ads
 domain:atatech.org
+domain:atianqi.com
 domain:atm.youku.com:@ads
 domain:audid.umeng.com:@ads
 domain:autohome.com
@@ -740,6 +742,8 @@ domain:baofeng.com
 domain:baofeng.net
 domain:baomitu.com
 domain:baoxianshichang.com
+domain:baozou.com
+domain:baozoumanhua.com
 domain:baseopendev.com
 domain:batchat.com
 domain:battlecare.net
@@ -1203,6 +1207,7 @@ domain:china.com
 domain:chinaaet.com
 domain:chinaamc.com
 domain:chinabooktrading.com
+domain:chinabyte.com
 domain:chinacache.com
 domain:chinacache.net
 domain:chinachugui.com
@@ -1221,6 +1226,7 @@ domain:chinanetcenter.com
 domain:chinanews.com
 domain:chinaott.com
 domain:chinapay.com
+domain:chinapost-life.com
 domain:chinapp.net
 domain:chinapubmed.net
 domain:chinaso.com
@@ -1240,6 +1246,7 @@ domain:chinazns.com
 domain:chinesemooc.org
 domain:chiphell.com
 domain:chndoi.org
+domain:chnppmuseum.com
 domain:chntel.com
 domain:chongbuluo.com
 domain:chongdiantou.com
@@ -1258,6 +1265,7 @@ domain:chujingapp.com
 domain:chushi.cool
 domain:chushou.tv
 domain:chuyu.me
+domain:cibn.cc
 domain:cibntv.net
 domain:cicc.com
 domain:ciccwm.com
@@ -1414,6 +1422,7 @@ domain:cnlogs.umeng.com:@ads
 domain:cnlogs.umengcloud.com:@ads
 domain:cnmooc.org
 domain:cnmstl.net
+domain:cnpsec.com
 domain:cnsciedu.com
 domain:cnstock.com
 domain:cnsuning.com
@@ -1514,6 +1523,7 @@ domain:ctripgslb.net
 domain:ctripteam.com
 domain:ctsbw.com
 domain:ctsec.com
+domain:ctvpost.com
 domain:ctxcdn.com
 domain:ctxcdn.net
 domain:ctxirang.com
@@ -1918,6 +1928,7 @@ domain:fang.com
 domain:fangxiaoer.com
 domain:fanli.com
 domain:fanmingming.com
+domain:fanqiecopyright.com
 domain:fanqienovel.com
 domain:fanqieopen.com
 domain:fanqieopenpic.com
@@ -2018,6 +2029,7 @@ domain:fqnovelop.com
 domain:fqnovelpic.com
 domain:fqnovelstatic.com
 domain:fqnovelvod.com
+domain:fqopenplatform.com
 domain:freebuf.com
 domain:freshhema.com
 domain:freshippo.com
@@ -2464,6 +2476,7 @@ domain:httpsdns.baidu.com:@ads
 domain:huaban.com
 domain:huabanimg.com
 domain:huafengaw.com
+domain:huajiao.com
 domain:huajingsec.com
 domain:huangyuhui.net
 domain:huanleguang.com
@@ -2995,6 +3008,7 @@ domain:kaipanhong.com
 domain:kaipuyun.com
 domain:kaipuyun.net
 domain:kaixin001.com
+domain:kajicam.com
 domain:kameng98.com
 domain:kanbox.com
 domain:kanimg.com
@@ -3810,6 +3824,7 @@ domain:pddugc.com
 domain:pearvideo.com
 domain:peccn.com
 domain:pengyoudewu.com
+domain:peopleapp.com
 domain:pgdt.gtimg.cn:@ads
 domain:pglstatp-sdk-toutiao.com:@ads
 domain:pglstatp-snssdk-toutiao.com:@ads
@@ -4764,6 +4779,8 @@ domain:ugslb.top
 domain:ugslb2.net
 domain:uhasadmin.com
 domain:uiwow.com
+domain:ule.com
+domain:ulecdn.com
 domain:ulikecam.com
 domain:ulogs.umeng.com:@ads
 domain:ulogs.umengcloud.com:@ads
@@ -5106,6 +5123,7 @@ domain:wss.zone
 domain:wsukwai.com
 domain:wswebcdn.com
 domain:wswebpic.com
+domain:wting.info
 domain:wtown.com
 domain:wtzw.com
 domain:wukong.com

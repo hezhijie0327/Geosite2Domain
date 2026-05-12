@@ -427,9 +427,13 @@ domain:famitsu.com
 domain:fanatical.com
 domain:fanbox.cc
 domain:fandango.com
+domain:fanfictionero.com
 domain:fast.com
 domain:fc-buddyfight.com
+domain:fic.fan
+domain:ficador.com
 domain:ficbook.net
+domain:ficmania.com
 domain:fifastreet.com
 domain:fifastreet3.com
 domain:findyourlimits.com
@@ -516,6 +520,7 @@ domain:hayabusa.io
 domain:hayabusa.media
 domain:hayday.com
 domain:haydaygame.com
+domain:hbo
 domain:hbo-europe.com
 domain:hbo.ba
 domain:hbo.bg
@@ -1269,6 +1274,7 @@ domain:syosetu.com
 domain:take2games.com
 domain:tarkov.com
 domain:teamneedforspeed.com
+domain:teinon.net
 domain:tellmewhygame.com
 domain:tgdaily.co.kr
 domain:theater-kktv.cdn.hinet.net

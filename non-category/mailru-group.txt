@@ -97,6 +97,7 @@ domain:lovina.app
 domain:mail.ru
 domain:mailicq.org
 domain:max.ru
+domain:mcs.st
 domain:mediumquality.ru
 domain:memealerts.com
 domain:metrics.viqeo.tv:@ads
@@ -189,6 +190,7 @@ domain:vk.cc
 domain:vk.com
 domain:vk.company
 domain:vk.design
+domain:vk.kz
 domain:vk.link
 domain:vk.me
 domain:vk.ru
@@ -196,7 +198,9 @@ domain:vk.team
 domain:vkcache.com
 domain:vkcdnservice.com
 domain:vkclips.app
+domain:vkcloud-static.kz
 domain:vkcloud-static.ru
+domain:vkcloud.kz
 domain:vkcs.cloud
 domain:vkfest.ru
 domain:vkgo.app
@@ -225,6 +229,7 @@ domain:vkuservideo.com
 domain:vkuservideo.net
 domain:vkuservideo.ru
 domain:vkvideo.ru
+domain:vkworkspace.kz
 domain:vmailru.net
 domain:xmail.ru
 domain:xn-----6kc7adj0c9esa.com

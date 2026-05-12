@@ -561,6 +561,7 @@ domain:wetvinfo.com:@!cn
 domain:weui.io
 domain:wework-studio.com
 domain:wit.qq.com:@ads
+domain:wting.info
 domain:wxcloudrun.com
 domain:wxgateway.com
 domain:wxlivecdn.com

@@ -1,4 +1,5 @@
 domain:at.ua
+domain:narod.ru
 domain:scripts-for-ucoz.ru
 domain:ucoz.ae
 domain:ucoz.club
@@ -21,11 +22,16 @@ domain:ucoz.pl
 domain:ucoz.ru
 domain:ucoz.site
 domain:ucoz.ua
+domain:ucozmail.com
 domain:ucozmedia.com
 domain:ucozmedia.ru
 domain:ucoztemplates.com
 domain:uguide.ru
+domain:uguide.su
 domain:ukit.ai
 domain:ukit.com
 domain:ukit.group
 domain:ukit.me
+domain:ukoz.ru
+domain:usocial.pro
+domain:uweb.ru

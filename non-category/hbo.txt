@@ -4,6 +4,7 @@ domain:cinemax.com
 domain:discomax.com
 domain:elpionero.es
 domain:forthethrone.com
+domain:hbo
 domain:hbo-europe.com
 domain:hbo.ba
 domain:hbo.bg

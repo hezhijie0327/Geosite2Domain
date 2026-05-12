@@ -4900,6 +4900,7 @@ domain:mcchcdn.com:@cn
 domain:mcisco.com
 domain:mcrouter.net
 domain:mcrouter.org
+domain:mcs.st
 domain:mdhcdn.com
 domain:mdialog.com
 domain:mdn.allizom.net
@@ -5322,6 +5323,7 @@ domain:mytrk.link
 domain:mzstatic.com
 domain:na-att-idns.net
 domain:namemybeats.com
+domain:narod.ru
 domain:nastranincad.com
 domain:nastrannx.com
 domain:nastrantraining.com
@@ -6551,11 +6553,13 @@ domain:ucoz.pl
 domain:ucoz.ru
 domain:ucoz.site
 domain:ucoz.ua
+domain:ucozmail.com
 domain:ucozmedia.com
 domain:ucozmedia.ru
 domain:ucoztemplates.com
 domain:ueberamazon.de
 domain:uguide.ru
+domain:uguide.su
 domain:uhub.com
 domain:ui.com
 domain:ui.com.cn:@cn
@@ -6565,6 +6569,7 @@ domain:ukit.ai
 domain:ukit.com
 domain:ukit.group
 domain:ukit.me
+domain:ukoz.ru
 domain:ultrasrv.de
 domain:uma.media
 domain:umbrella.com
@@ -6584,10 +6589,12 @@ domain:useplannr.com
 domain:userapi.com
 domain:userapi.ru
 domain:userpxt.io
+domain:usocial.pro
 domain:usvimosquito.com
 domain:usvimosquitoproject.com
 domain:uum.com.cn:@cn
 domain:uverse.com
+domain:uweb.ru
 domain:uwn.com:@cn
 domain:uwpcommunitytoolkit.com
 domain:v-has.com
@@ -6698,6 +6705,7 @@ domain:vk.cc
 domain:vk.com
 domain:vk.company
 domain:vk.design
+domain:vk.kz
 domain:vk.link
 domain:vk.me
 domain:vk.ru
@@ -6705,7 +6713,9 @@ domain:vk.team
 domain:vkcache.com
 domain:vkcdnservice.com
 domain:vkclips.app
+domain:vkcloud-static.kz
 domain:vkcloud-static.ru
+domain:vkcloud.kz
 domain:vkcs.cloud
 domain:vkfest.ru
 domain:vkgo.app
@@ -6734,6 +6744,7 @@ domain:vkuservideo.com
 domain:vkuservideo.net
 domain:vkuservideo.ru
 domain:vkvideo.ru
+domain:vkworkspace.kz
 domain:vmailru.net
 domain:vmglobal.net
 domain:vmmark.com

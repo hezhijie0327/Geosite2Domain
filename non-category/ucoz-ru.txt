@@ -1,4 +1,0 @@
-domain:scripts-for-ucoz.ru
-domain:ucoz.ru
-domain:ucozmedia.ru
-domain:uguide.ru

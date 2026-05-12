@@ -1,5 +1,6 @@
 domain:activity-zhendingtech.com
 domain:changdunovel.com
+domain:fanqiecopyright.com
 domain:fanqienovel.com
 domain:fanqieopen.com
 domain:fanqieopenpic.com
@@ -16,6 +17,7 @@ domain:fqnovelop.com
 domain:fqnovelpic.com
 domain:fqnovelstatic.com
 domain:fqnovelvod.com
+domain:fqopenplatform.com
 domain:ihaohaoxuexi.com
 domain:muyewx.com
 domain:novelfm.com

@@ -21,8 +21,6 @@ domain:diandianlife.top
 domain:douban.com
 domain:douban.fm
 domain:doubanio.com
-domain:duowan.com
-domain:dwstatic.com
 domain:fanfou.com
 domain:gracg.com
 domain:hoopchina.com.cn
@@ -83,8 +81,6 @@ domain:xhscdn.net
 domain:xhslink.com
 domain:xhsrcdn.com
 domain:xiaohongshu.com
-domain:yy.com
-domain:yystatic.com
 domain:zhihu-web-analytics.zhihu.com:@ads
 domain:zhihu.com
 domain:zhimg.com
