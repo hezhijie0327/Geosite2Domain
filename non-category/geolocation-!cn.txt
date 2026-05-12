@@ -842,6 +842,7 @@ domain:adsense.com:@ads
 domain:adsensecustomsearchads.com:@ads
 domain:adsenseformobileapps.com:@ads
 domain:adservice.google.com:@ads
+domain:adsgram.ai:@ads
 domain:adskcloud.com
 domain:adskcloud.net
 domain:adskeng.net
@@ -14853,6 +14854,8 @@ domain:nhentaihaven.org
 domain:nheos.com
 domain:nhncorp.jp
 domain:niceanimegames.com
+domain:nicegram.app
+domain:nicegram.cloud
 domain:niceporn.tv
 domain:nicesrv.de
 domain:nicesshop.net

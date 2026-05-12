@@ -1,0 +1,3 @@
+domain:adsgram.ai:@ads
+domain:nicegram.app
+domain:nicegram.cloud
