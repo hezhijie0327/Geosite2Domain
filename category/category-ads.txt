@@ -111,6 +111,7 @@ domain:adservice.sigmob.cn
 domain:adserviceretry.kglink.cn:@ads
 domain:adserviceretry.kugou.com:@ads
 domain:adsfile.qq.com:@ads
+domain:adsgram.ai:@ads
 domain:adsh.m.taobao.com:@ads
 domain:adshmmsg.qq.com:@ads
 domain:adslot.uc.cn:@ads
