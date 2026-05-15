@@ -166,6 +166,7 @@ domain:bsbsb.top
 domain:buke999.com
 domain:bx1k.com
 domain:c.uaa.iqiyi.com:@ads
+domain:ccw.site
 domain:cdkeynogap.com
 domain:cdncl.net
 domain:cgames.com
@@ -610,7 +611,9 @@ domain:sccreators.cn
 domain:scescdn.cn
 domain:scid.cn
 domain:scsentry.cn
+domain:sdo.com
 domain:sfacg.com
+domain:shengqugames.com
 domain:shoutanjjj.com
 domain:shuhai.com
 domain:shyxhy.com
@@ -699,6 +702,7 @@ domain:xn--owtw8cc49ajfl.cn
 domain:xs.cn
 domain:xs8.cn
 domain:xxsy.net
+domain:xyys.com
 domain:xyzcdn.net
 domain:xyzfm.link
 domain:xyzfm.space
@@ -736,6 +740,7 @@ domain:zhanqi.tv
 domain:zhulang.com
 domain:zhuoyou.com
 domain:zhuoyuegame.com
+domain:zjshulong.com
 domain:zongheng.com
 full:ads3-normal-hl.zijieapi.com:@ads
 full:ads3-normal.zijieapi.com:@ads

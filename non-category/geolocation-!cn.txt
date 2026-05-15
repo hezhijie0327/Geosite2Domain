@@ -8635,6 +8635,7 @@ domain:fusionlifecycle.com
 domain:fusionproductionapps.com
 domain:fuskator.com
 domain:fusker.xxx
+domain:fussengroup.com:@cn
 domain:futanarihq.com
 domain:futhead.com
 domain:futpromos.com
@@ -21507,6 +21508,7 @@ domain:vtvan.com
 domain:vulgarx.com
 domain:vultr.com
 domain:vuvuzela.io
+domain:vv1865.com
 domain:vzw.com
 domain:w-mt.co
 domain:w.org

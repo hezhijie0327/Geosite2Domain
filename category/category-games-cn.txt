@@ -161,6 +161,8 @@ domain:sccreators.cn
 domain:scescdn.cn
 domain:scid.cn
 domain:scsentry.cn
+domain:sdo.com
+domain:shengqugames.com
 domain:shyxhy.com
 domain:skydweller.cn
 domain:sl916.com
@@ -226,6 +228,7 @@ domain:yzyxgame.com
 domain:zcjbgame.com
 domain:zhuoyou.com
 domain:zhuoyuegame.com
+domain:zjshulong.com
 full:end-api.shallow.ink
 full:end.shallow.ink
 regexp:^.+-mihayo\.akamaized\.net$:@cn

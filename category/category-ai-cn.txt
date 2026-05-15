@@ -43,6 +43,7 @@ domain:kimi.com
 domain:liblib.art
 domain:liblib.cloud
 domain:liblib.tv
+domain:linka2a.net
 domain:maoxiangai.com
 domain:marscode.cn
 domain:marscode.com.cn

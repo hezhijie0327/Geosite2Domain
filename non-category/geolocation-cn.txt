@@ -1282,6 +1282,7 @@ domain:cctvlibrary.com.cn
 domain:cctvpic.com
 domain:cctvpro.cn
 domain:cctvpro.com.cn
+domain:ccw.site
 domain:cczq.com
 domain:cczq.net
 domain:cd120.com
@@ -2774,8 +2775,10 @@ domain:golinkcn.com
 domain:golue.com
 domain:gongqingyun.cn
 domain:gongxiangcj.com
+domain:gongxiangjizhang.com
 domain:gongyi.xin
 domain:goofish.com
+domain:goofish.pro
 domain:goosail.com
 domain:goproxy.cn
 domain:goproxy.io
@@ -3203,6 +3206,7 @@ domain:hwht.cn
 domain:hwocloud.com
 domain:hwshu.com
 domain:hwtrip.com
+domain:hwwlyz.com
 domain:hwwt8.com
 domain:hx168.com.cn
 domain:hxb.com.cn
@@ -3355,6 +3359,7 @@ domain:incopat.com
 domain:indienova.com
 domain:inewsweek.cn
 domain:infineon.cn
+domain:infini-fantasy.com
 domain:infinitynewtab.com
 domain:infoq.com
 domain:infoqstatic.com
@@ -4078,6 +4083,7 @@ domain:lingkou.xyz
 domain:linglong.space
 domain:linglonglife.com
 domain:lingshoujia.com
+domain:linka2a.net
 domain:linkvans.com
 domain:linliyz.com
 domain:linsn.com
@@ -4300,6 +4306,7 @@ domain:miaomiaoz.com
 domain:miaomiaozhe.com
 domain:miaopai.com
 domain:miaostreet.com
+domain:miaotixing.com
 domain:miaowu.baidu.com:@ads
 domain:miaoyanai.com
 domain:miaozhen.com
@@ -5207,6 +5214,7 @@ domain:shellpub.com
 domain:shelter-china.com
 domain:shelterdome.net
 domain:shengdaosoft.com
+domain:shengqugames.com
 domain:shengyi.ai
 domain:shengyizhuanjia.com
 domain:shenjing.com
@@ -5442,6 +5450,8 @@ domain:surerp.cn
 domain:surerp.com
 domain:sursung.cn
 domain:sursung.com
+domain:suu-fun.com
+domain:suufun.com
 domain:suzuki-china.com
 domain:swhysc.com
 domain:swsc.com.cn
@@ -5865,6 +5875,7 @@ domain:ttgslb.com
 domain:ttgtm.com
 domain:ttjisu.com
 domain:ttpod.com
+domain:ttshitu.com
 domain:ttwebview.com
 domain:ttxsapp.com.cn
 domain:tudou.com
@@ -6568,6 +6579,7 @@ domain:xxtmail.com
 domain:xycdn.com
 domain:xycloud.com
 domain:xywy.com
+domain:xyys.com
 domain:xyzcdn.net
 domain:xyzfm.link
 domain:xyzfm.space
@@ -6581,6 +6593,7 @@ domain:yangshipin.cn
 domain:yaolan.com
 domain:yaoyl.com
 domain:yaozh.com
+domain:yayi360.com
 domain:ybccode.com
 domain:yccdn.com
 domain:ycgame.com
@@ -6935,6 +6948,7 @@ domain:zjcdn.com
 domain:zjfcdn.com
 domain:zjgslb.com
 domain:zjlib.cn
+domain:zjshulong.com
 domain:zjstv.com
 domain:zjytxd.cn
 domain:zjytxp.cn

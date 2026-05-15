@@ -671,11 +671,13 @@ domain:sccreators.cn
 domain:scescdn.cn
 domain:scid.cn
 domain:scsentry.cn
+domain:sdo.com
 domain:seagroup.com
 domain:seaofsolitude.com
 domain:seeurlpcl.com
 domain:sekai.colorfulpalette.org
 domain:shadowcomplex.com
+domain:shengqugames.com
 domain:shyxhy.com
 domain:sih-db.com
 domain:sih.app
@@ -926,6 +928,7 @@ domain:zcjbgame.com
 domain:zenlesszonezero.com
 domain:zhuoyou.com
 domain:zhuoyuegame.com
+domain:zjshulong.com
 domain:zynga.com
 domain:zyngaplayersupport.com
 domain:zyngapoker.com
