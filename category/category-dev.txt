@@ -23,6 +23,7 @@ domain:apple-mapkit.com
 domain:appleswift.com
 domain:archlinux.de
 domain:archlinux.org
+domain:archlinux.page
 domain:archlinuxarm.org
 domain:archlinuxcn.org
 domain:artixlinux.org
