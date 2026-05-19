@@ -1754,6 +1754,7 @@ full:eaassets-a.akamaihd.net
 full:espn.hb.omtrdc.net
 full:espndotcom.tt.omtrdc.net
 full:f3b7q2p3.ssl.hwcdn.net
+full:favoritescc-hamivideo2.cdn.hinet.net
 full:flightsimulator.azureedge.net
 full:gamedownloads-rockstargames-com.akamaized.net
 full:gamer-cds.cdn.hinet.net
@@ -1773,6 +1774,7 @@ full:images-fe.ssl-images-amazon.com
 full:images-na.ssl-images-amazon.com
 full:lastfm.freetls.fastly.net
 full:lazer.ppy.sh
+full:lgcscc-hamivideo2.cdn.hinet.net
 full:linear-abematv.akamaized.net
 full:lolstatic-a.akamaihd.net
 full:lv.queniujq.cn:@cn
@@ -1831,6 +1833,8 @@ full:steamstore-a.akamaihd.net
 full:steamusercontent-a.akamaihd.net
 full:steamuserimages-a.akamaihd.net
 full:steamvideo-a.akamaihd.net
+full:thumbnail-hamivideo.cdn.hinet.net
+full:tlmr-hamivideo2.cdn.hinet.net
 full:tmdb-image-prod.b-cdn.net
 full:tmdb-web-image-prod.b-cdn.net
 full:tv.applemusic.com
@@ -1868,6 +1872,7 @@ full:videos-rockstargames-com.akamaized.net
 full:vod-abematv.akamaized.net
 full:wb-agora-hydra-file-storage-k1.s3.amazonaws.com
 full:weblive-hamivideo.cdn.hinet.net
+full:webvodad-hamivideo.cdn.hinet.net
 full:ws.audioscrobbler.com
 full:www4-static.gog-statics.com:@cn
 full:xz.pphimalayanrt.com:@cn

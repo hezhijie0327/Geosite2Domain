@@ -1,4 +1,6 @@
 domain:aispeech.com
+domain:antafu.com
+domain:antaq.com
 domain:api-building.fun
 domain:askdiandian.com
 domain:baichuan-ai.com

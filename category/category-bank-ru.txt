@@ -23,6 +23,7 @@ domain:ads.sber.ru:@ads
 domain:afisha.ru
 domain:akbars.ru
 domain:alefbank.com
+domain:alfa.me
 domain:alfabank.oavdo.amc
 domain:alfabank.ru
 domain:alfabank.st

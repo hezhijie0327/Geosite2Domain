@@ -1,6 +1,7 @@
 domain:a2z.org.cn:@cn
 domain:amazonaws.cn:@cn
 domain:amazonaws.com.cn:@cn
+domain:amazonwebservices.cn:@cn
 domain:amazonwebservices.com.cn:@cn
 domain:amazonworkdocs.cn:@cn
 domain:amazonworkdocs.com.cn:@cn

@@ -33,6 +33,7 @@ domain:agri-bank.com
 domain:akbars.ru
 domain:akita-bank.co.jp
 domain:alefbank.com
+domain:alfa.me
 domain:alfabank.oavdo.amc
 domain:alfabank.ru
 domain:alfabank.st

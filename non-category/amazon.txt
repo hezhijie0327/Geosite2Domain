@@ -106,6 +106,7 @@ domain:amazontrust.com
 domain:amazonvideo.cc
 domain:amazonvideo.com
 domain:amazonvideodirect.com
+domain:amazonwebservices.cn:@cn
 domain:amazonwebservices.com.cn:@cn
 domain:amazonworkdocs.cn:@cn
 domain:amazonworkdocs.com

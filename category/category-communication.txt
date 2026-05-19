@@ -71,6 +71,7 @@ domain:matrix.org
 domain:matrix.to
 domain:messenger.com
 domain:modular.im
+domain:myteamspeak.com
 domain:nbabot.net
 domain:nhncorp.jp
 domain:nicegram.app
@@ -107,6 +108,8 @@ domain:slackdemo.com
 domain:slackhq.com
 domain:t.me
 domain:tdesktop.com
+domain:teamspeak-services.com
+domain:teamspeak.com
 domain:telega.one
 domain:telegra.ph
 domain:telegram-cdn.org

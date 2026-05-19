@@ -562,6 +562,7 @@ domain:weui.io
 domain:wework-studio.com
 domain:wit.qq.com:@ads
 domain:wting.info
+domain:wxaurl.cn
 domain:wxcloudrun.com
 domain:wxgateway.com
 domain:wxlivecdn.com

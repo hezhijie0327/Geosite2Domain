@@ -14,6 +14,7 @@ domain:amazonaws.org
 domain:amazonaws.tv
 domain:amazoncognito.com
 domain:amazonses.com
+domain:amazonwebservices.cn:@cn
 domain:amazonwebservices.com.cn:@cn
 domain:amazonworkdocs.cn:@cn
 domain:amazonworkdocs.com

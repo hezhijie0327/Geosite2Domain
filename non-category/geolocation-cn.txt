@@ -41,6 +41,7 @@ domain:12315.cn
 domain:12321.cn
 domain:123245.com
 domain:123254.com
+domain:123278.com
 domain:123294.com
 domain:1234567.com.cn
 domain:123624.com
@@ -267,6 +268,7 @@ domain:51jobcdn.com
 domain:51kim.com
 domain:51meishu.com
 domain:51nod.com
+domain:51pptmoban.com
 domain:51selling.com
 domain:51sole.com
 domain:51togic.com
@@ -680,6 +682,7 @@ domain:amap.com
 domain:amapauto.com
 domain:amazonaws.cn:@cn
 domain:amazonaws.com.cn:@cn
+domain:amazonwebservices.cn:@cn
 domain:amazonwebservices.com.cn:@cn
 domain:amazonworkdocs.cn:@cn
 domain:amazonworkdocs.com.cn:@cn
@@ -715,6 +718,8 @@ domain:anmo.com
 domain:anquan.org
 domain:anquanke.com
 domain:anruan.com
+domain:antafu.com
+domain:antaq.com
 domain:antfin.com
 domain:antfortune.com
 domain:antgroup-inc.cn
@@ -1971,6 +1976,7 @@ domain:danjuanfunds.com
 domain:dao123.com
 domain:daocloud.io
 domain:daocloud.vip
+domain:daodoc.com
 domain:daojia.com
 domain:daovoice.io
 domain:data.mistat.india.xiaomi.com:@ads
@@ -2769,6 +2775,7 @@ domain:gogokid.com
 domain:gogokid.com.cn
 domain:goka.top
 domain:gold678.com
+domain:goldhoe.com
 domain:golink.com
 domain:golinkapi.com
 domain:golinkcn.com
@@ -3594,6 +3601,7 @@ domain:jikexueyuan.com
 domain:jikipedia.com
 domain:jin10.com
 domain:jinantimes.com.cn
+domain:jinchutou.com
 domain:jindidata.com
 domain:jingdong.com
 domain:jingdongjinrong.com
@@ -5115,6 +5123,7 @@ domain:saayaa.com
 domain:saduck.top
 domain:saee.org.cn
 domain:safeskill.cn
+domain:safewk.com
 domain:sagemaker.com.cn:@cn
 domain:saibo.com
 domain:samasty.com
@@ -5511,6 +5520,7 @@ domain:taobao.org
 domain:taobaocdn.com
 domain:taobizhong.com
 domain:taoche.com
+domain:taodocs.com
 domain:taomee.com
 domain:taopiaopiao.com
 domain:taou.com
@@ -6271,6 +6281,7 @@ domain:weiyun.com
 domain:welltrend-edu.com
 domain:wenjuan.com
 domain:wenkeju.com
+domain:wenkub.com
 domain:wenmingban.com
 domain:wenshushu.cn
 domain:wenshushu.com
@@ -6394,6 +6405,7 @@ domain:wuming.com
 domain:wuuxiang.com
 domain:wuximediaglobal.com
 domain:wuyou.net
+domain:wxaurl.cn
 domain:wxcloudrun.com
 domain:wxdw.top
 domain:wxgateway.com
@@ -6887,6 +6899,7 @@ domain:zhihang100.com
 domain:zhihu-web-analytics.zhihu.com:@ads
 domain:zhihu.com
 domain:zhihuishu.com
+domain:zhijidoc.com
 domain:zhiliaowenda.com.cn
 domain:zhimg.com
 domain:zhipin.com
