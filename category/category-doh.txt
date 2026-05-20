@@ -41,6 +41,7 @@ full:dns.quad9.net
 full:dns.rabbitdns.org
 full:dns.sb
 full:dns.seia.io
+full:dns.shaw.ca
 full:dns.surfsharkdns.com
 full:dns.switch.ch
 full:dns.twnic.tw
@@ -66,6 +67,7 @@ full:doh.qis.io
 full:doh.sb
 full:doh.tiar.app
 full:doh.tiarap.org
+full:doh.xfinity.com
 full:ee-tll.doh.sb
 full:extended.dns.mullvad.net
 full:family.adguard-dns.com

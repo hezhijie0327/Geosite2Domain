@@ -5202,10 +5202,12 @@ domain:movidius.net
 domain:movidius.org
 domain:movika.com
 domain:mozgcp.net
+domain:mozilla.ai
 domain:mozilla.com
 domain:mozilla.community
 domain:mozilla.net
 domain:mozilla.org
+domain:mozillafoundation.org
 domain:mpgw-my.com
 domain:mpnevolution.com
 domain:mr-apple.com.tw
@@ -5322,6 +5324,7 @@ domain:mysdn.info
 domain:mysdn.net
 domain:mytopf.com
 domain:mytrk.link
+domain:mzl.la
 domain:mzstatic.com
 domain:na-att-idns.net
 domain:namemybeats.com

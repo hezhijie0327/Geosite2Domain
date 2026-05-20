@@ -14249,10 +14249,12 @@ domain:moxing.mobi
 domain:moxing.news
 domain:moystoys.com
 domain:mozgcp.net
+domain:mozilla.ai
 domain:mozilla.com
 domain:mozilla.community
 domain:mozilla.net
 domain:mozilla.org
+domain:mozillafoundation.org
 domain:mp.world
 domain:mpfinance.com
 domain:mpgw-my.com
@@ -14592,6 +14594,7 @@ domain:myxxgirl.com
 domain:myyoungmomisnude.com
 domain:myyoungwifeisnude.com
 domain:mzed.com
+domain:mzl.la
 domain:mzstatic.com
 domain:n0vadesktop.com
 domain:n26.com

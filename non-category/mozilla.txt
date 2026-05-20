@@ -10,10 +10,13 @@ domain:mdn.mozit.cloud
 domain:mdnplay.dev
 domain:mdnyalp.dev
 domain:mozgcp.net
+domain:mozilla.ai
 domain:mozilla.com
 domain:mozilla.community
 domain:mozilla.net
 domain:mozilla.org
+domain:mozillafoundation.org
+domain:mzl.la
 domain:seamonkey-project.org
 domain:thunderbird.net
 full:mdn.mozillademos.org
