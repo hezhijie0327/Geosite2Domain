@@ -113,6 +113,7 @@ domain:robinfrontend-pa.googleapis.com
 domain:sora.com
 domain:spicywriter.com
 domain:stitch.withgoogle.com
+domain:tapnow.ai
 domain:themeforest.net
 domain:trae.ai:@!cn
 domain:turn.livekit.cloud

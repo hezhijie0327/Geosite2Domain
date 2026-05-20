@@ -19534,6 +19534,7 @@ domain:tanflix.com
 domain:tantaly.com
 domain:taoil-cn.sbs
 domain:taose.in
+domain:tapnow.ai
 domain:taptotokyo.com
 domain:taqunuhai.vip
 domain:taradinhos.com
