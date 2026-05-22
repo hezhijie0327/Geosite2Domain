@@ -294,6 +294,7 @@ domain:kyotobank.co.jp
 domain:lbctrl.com
 domain:lbkrs.com
 domain:lifestyle-tec.ru
+domain:link.com
 domain:longbridge.cloud
 domain:longbridge.com
 domain:longbridge.global
@@ -474,6 +475,10 @@ domain:spasibosb.ru
 domain:spasibosberbank.ru
 domain:ssb.msk.ru
 domain:standardchartered.com
+domain:stripe-terminal-local-reader.net
+domain:stripe.com
+domain:stripe.network
+domain:stripecdn.com
 domain:surugabank.co.jp
 domain:t-access.ru
 domain:t-bank-app.ru
