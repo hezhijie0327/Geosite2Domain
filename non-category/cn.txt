@@ -1448,6 +1448,7 @@ domain:coindog.com
 domain:colinker.com
 domain:coloros.com
 domain:coloros.net
+domain:comfylink.com
 domain:computeinit.com
 domain:comsenz.com
 domain:cone-x.com
