@@ -85,6 +85,7 @@ domain:manus.im
 domain:manuscdn.com
 domain:marscode.com:@!cn
 domain:meta.ai
+domain:midjourney.com
 domain:minimax.io
 domain:mistral.ai
 domain:mozilla.ai
