@@ -361,6 +361,7 @@ domain:8531.cn
 domain:8686c.com
 domain:885.com
 domain:88cdn.com
+domain:88cha.com
 domain:8btc.com
 domain:8gcdp.cn
 domain:8n82b.cn

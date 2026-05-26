@@ -298,6 +298,7 @@ domain:84399.com
 domain:8686c.com
 domain:885.com
 domain:88cdn.com
+domain:88cha.com
 domain:8btc.com
 domain:900.la
 domain:900cha.com

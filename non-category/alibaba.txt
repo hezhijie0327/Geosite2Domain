@@ -1,6 +1,7 @@
 domain:1688.com
 domain:25pp.com
 domain:56che.com
+domain:88cha.com
 domain:95095.com
 domain:9game.cn
 domain:a-map.cn

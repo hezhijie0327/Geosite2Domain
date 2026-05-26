@@ -643,6 +643,7 @@ domain:tns.simba.taobao.com:@ads
 domain:toboads.com
 domain:top-fwz1.mail.ru:@ads
 domain:tpstelemetry.tencent.com:@ads
+domain:trace-flow.ru:@ads
 domain:trace.qq.com:@ads
 domain:track.lc.quark.cn:@ads
 domain:track.sohu.com:@ads

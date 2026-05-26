@@ -1,5 +1,6 @@
 domain:emias.info
 domain:emias.ru
+domain:gorzdrav.spb.ru
 domain:klinikabudzdorov.ru
 domain:lk.emias.mos.ru
 domain:medsi-premium.ru

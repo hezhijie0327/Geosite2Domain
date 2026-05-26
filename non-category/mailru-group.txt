@@ -168,6 +168,7 @@ domain:telega.info
 domain:telega.me
 domain:tetrika-school.ru
 domain:top-fwz1.mail.ru:@ads
+domain:trace-flow.ru:@ads
 domain:tracker-api.my.com:@ads
 domain:tracker.my.com:@ads
 domain:tusco.ru
