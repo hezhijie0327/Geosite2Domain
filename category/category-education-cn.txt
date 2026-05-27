@@ -1,8 +1,11 @@
+domain:100tal.com
 domain:17zuoye.cn
 domain:17zuoye.com
 domain:17zuoye.net
+domain:21cnjy.com
 domain:91yunxiao.com
 domain:aiyunxiao.com
+domain:aoshu.com
 domain:applysquare.com
 domain:applysquare.net
 domain:baicizhan.com
@@ -39,6 +42,8 @@ domain:dearedu.com
 domain:dgjy.net
 domain:edu.cn
 domain:eduei.com
+domain:eduu.com
+domain:eduuu.com
 domain:eoffcn.com
 domain:fbstatic.cn
 domain:fenbi.com
@@ -46,6 +51,7 @@ domain:fenbike.cn
 domain:fenbike.com
 domain:fenbilantian.cn
 domain:fenbilantian.com
+domain:gaokao.com
 domain:gatzs.com.cn
 domain:gfbzb.cn
 domain:gfbzb.com
@@ -109,6 +115,7 @@ domain:shareintelli.com
 domain:smartedu.cn
 domain:speiyou.com
 domain:sydw8.com
+domain:tal.com
 domain:tongxuepie.com
 domain:unipus.cn
 domain:weilaiyunxiao.com
@@ -117,6 +124,7 @@ domain:wjwai.com
 domain:x-cloud.cc
 domain:xesimg.com
 domain:xiaoyuankousuan.com
+domain:xiguacity.cn
 domain:xir.cn
 domain:xiyouyingyu.com
 domain:xkw.com
@@ -124,6 +132,7 @@ domain:xueersi.com
 domain:xuetangx.com
 domain:ybccode.com
 domain:yeshj.com
+domain:youjiao.com
 domain:ystbds.com
 domain:yuanfudao.com
 domain:yuansouti.com
@@ -140,7 +149,13 @@ domain:zgjsks.com
 domain:zgsydw.com
 domain:zhan.com
 domain:zhihuishu.com
+domain:zhongkao.com
 domain:zjzs.net
+domain:zuowen.com
+domain:zuowen8.com
+domain:zuowenjun.com
+domain:zuowenku.net
+domain:zuowenwang.net
 domain:zxxk.com
 domain:zysn.net
 full:study.163.com

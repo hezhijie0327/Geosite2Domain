@@ -13,6 +13,7 @@ domain:10086.cn
 domain:10099.com.cn
 domain:100bt.com
 domain:100offer.com
+domain:100tal.com
 domain:10155.com
 domain:10jqka.com.cn
 domain:11183.com.cn
@@ -113,6 +114,7 @@ domain:1tyy.cn
 domain:1xhh.cn
 domain:1zhe.com
 domain:21cn.com
+domain:21cnjy.com
 domain:21jingji.com
 domain:2265.com
 domain:2288.org
@@ -727,6 +729,7 @@ domain:antgroup-inc.cn
 domain:antgroup.com
 domain:anticheatexpert.com
 domain:antpcdn.com
+domain:antpedia.com
 domain:antutu.com
 domain:antutu.net
 domain:anxia.com
@@ -735,6 +738,7 @@ domain:anytocopy.com
 domain:anywlan.com
 domain:anzhuo.cn
 domain:ao-x.ac.cn
+domain:aoshu.com
 domain:aotrip.net
 domain:aoyou.com
 domain:apaas-zone-test.com
@@ -884,6 +888,7 @@ domain:bazai.com
 domain:bbbcdns.com
 domain:bbdc.cn
 domain:bblmw.com
+domain:bbtnews.com.cn
 domain:bbtv.cn
 domain:bce-cdn.cn
 domain:bce-cdn.com
@@ -1445,6 +1450,7 @@ domain:cf-ns.net:@cn
 domain:cf-ns.site:@cn
 domain:cf-ns.tech:@cn
 domain:cfc108.com
+domain:cfgw.net.cn
 domain:cfsc.com.cn
 domain:cftest5.cn:@cn
 domain:cftest6.cn:@cn
@@ -1506,10 +1512,12 @@ domain:chinabyte.com
 domain:chinacache.com
 domain:chinacache.net
 domain:chinachugui.com
+domain:chinadevelopment.com.cn
 domain:chinadongchu.com
 domain:chinadsl.net
 domain:chinaepg.cn
 domain:chinaexpressair.com
+domain:chinafix.com
 domain:chinafph.com
 domain:chinahr.com
 domain:chinakaoyan.com
@@ -1946,6 +1954,7 @@ domain:cxmt.com
 domain:cyagen.com
 domain:cybtc.com
 domain:cyol.com
+domain:cyol.net
 domain:cyts.com
 domain:cytxl.com.cn
 domain:cyzone.cn
@@ -2109,6 +2118,7 @@ domain:discuz.net
 domain:discuz.org
 domain:divoiotcloud.com
 domain:diyiyou.com
+domain:diyring.cc
 domain:dj99.com
 domain:djdjapp.com
 domain:dji.com
@@ -2350,6 +2360,9 @@ domain:eduad.baidu.com:@ads
 domain:eduapaashwc.com
 domain:educoder.net
 domain:eduei.com
+domain:eduu.com
+domain:eduuu.com
+domain:eeo.com.cn
 domain:eeyy.com
 domain:eflycloud.com
 domain:efunds.com.cn
@@ -2398,6 +2411,7 @@ domain:euads-o.api.leiniao.com:@ads
 domain:eufycn.com
 domain:eufymake.com.cn
 domain:everbright.com
+domain:ewdcloud.com
 domain:ewww.com.cn
 domain:excelbbx.net
 domain:excelhome.net
@@ -2686,6 +2700,7 @@ domain:ganjiangvpn.com
 domain:ganjistatic1.com
 domain:gaode.com
 domain:gaodun.com
+domain:gaokao.com
 domain:gaoshouyou.com
 domain:gaoxiaojob.com
 domain:gatzs.com.cn
@@ -3794,6 +3809,8 @@ domain:keep.com.cn
 domain:keepcdn.com
 domain:kejet.net
 domain:kekeniu.com
+domain:kemen.cn
+domain:kepuchina.cn
 domain:kesong.co
 domain:ketangpai.com
 domain:kexinshe.com
@@ -3917,6 +3934,9 @@ domain:kunlunwe.com
 domain:kuqin.com
 domain:kurogames.com
 domain:kuwo.cn
+domain:kuyin123.com
+domain:kuyinxiu.com
+domain:kuyinyun.com
 domain:kuyiso.com
 domain:kwaicdn.com
 domain:kwaizt.com
@@ -4306,6 +4326,8 @@ domain:mgslb.com
 domain:mgtv.com
 domain:mhystatic.com
 domain:mhyurl.cn
+domain:mi-dun.com
+domain:mi-fds.com
 domain:mi-idc.com
 domain:mi-img.com
 domain:mi.com
@@ -4352,6 +4374,7 @@ domain:mingyuanyun.com
 domain:minhangshi.com
 domain:minimaxi.com
 domain:minitiao.com
+domain:mioffice.cn
 domain:miot-spec.org
 domain:mipay.com
 domain:mipcache.bdstatic.com:@ads
@@ -5150,6 +5173,7 @@ domain:scescdn.cn
 domain:schoopia.com
 domain:scid.cn
 domain:sciencechina.cn
+domain:sckg.com
 domain:sclick.baidu.com:@ads
 domain:scm121.cn
 domain:scm121.com
@@ -5508,6 +5532,7 @@ domain:taipingfund.com.cn
 domain:tajiduo.com
 domain:tajs.qq.com:@ads
 domain:takungpao.com
+domain:tal.com
 domain:talk-cloud.net
 domain:talkingdata.com
 domain:talkinggame.com
@@ -6510,6 +6535,7 @@ domain:xiazaiba.com
 domain:xiezuocat.com
 domain:xiguaapp.cn
 domain:xiguaapp.com
+domain:xiguacity.cn
 domain:xiguashipin.cn
 domain:xiguashipin.net
 domain:xiguavideo.cn
@@ -6698,6 +6724,7 @@ domain:youhua.com
 domain:youjiao.com
 domain:youke.co
 domain:youku.com
+domain:youlai.cn
 domain:youlian.fun
 domain:youpin.cn
 domain:youpin.com.cn
@@ -7010,6 +7037,8 @@ domain:zuk.com.cn
 domain:zuodao.com
 domain:zuowen.com
 domain:zuowen8.com
+domain:zuowenjun.com
+domain:zuowenku.net
 domain:zuowenwang.net
 domain:zuoyebang.cc
 domain:zuoyebang.com

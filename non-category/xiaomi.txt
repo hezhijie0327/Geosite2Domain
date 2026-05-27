@@ -17,6 +17,8 @@ domain:duokanbox.com
 domain:global.market.xiaomi.com:@!cn
 domain:logupdate.avlyun.sec.miui.com:@ads
 domain:mgslb.com
+domain:mi-dun.com
+domain:mi-fds.com
 domain:mi-idc.com
 domain:mi-img.com
 domain:mi.com
@@ -25,6 +27,7 @@ domain:mieco.net
 domain:mifile.cn
 domain:migames.com
 domain:mijia.tech
+domain:mioffice.cn
 domain:miot-spec.org
 domain:mipay.com
 domain:misc.in.duokanbox.com:@ads

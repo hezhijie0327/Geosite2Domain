@@ -8,6 +8,7 @@ domain:100.me
 domain:10010.com
 domain:100bt.com
 domain:100offer.com
+domain:100tal.com
 domain:10155.com
 domain:11467.com
 domain:114blog.com
@@ -89,6 +90,7 @@ domain:1ppt.com
 domain:1ting.com
 domain:1zhe.com
 domain:21cn.com
+domain:21cnjy.com
 domain:21jingji.com
 domain:2265.com
 domain:2288.org
@@ -624,12 +626,14 @@ domain:antfortune.com
 domain:antgroup.com
 domain:anticheatexpert.com
 domain:antpcdn.com
+domain:antpedia.com
 domain:antutu.com
 domain:antutu.net
 domain:anxia.com
 domain:anycross.com
 domain:anytocopy.com
 domain:anywlan.com
+domain:aoshu.com
 domain:aotrip.net
 domain:aoyou.com
 domain:apaas-zone-test.com
@@ -1221,6 +1225,7 @@ domain:chinachugui.com
 domain:chinadongchu.com
 domain:chinadsl.net
 domain:chinaexpressair.com
+domain:chinafix.com
 domain:chinafph.com
 domain:chinahr.com
 domain:chinakaoyan.com
@@ -1548,6 +1553,7 @@ domain:cxmt.com
 domain:cyagen.com
 domain:cybtc.com
 domain:cyol.com
+domain:cyol.net
 domain:cyts.com
 domain:cztv.com
 domain:cztvcdn.com
@@ -1675,6 +1681,7 @@ domain:discuz.net
 domain:discuz.org
 domain:divoiotcloud.com
 domain:diyiyou.com
+domain:diyring.cc
 domain:dj99.com
 domain:djdjapp.com
 domain:dji.com
@@ -1879,6 +1886,8 @@ domain:eduad.baidu.com:@ads
 domain:eduapaashwc.com
 domain:educoder.net
 domain:eduei.com
+domain:eduu.com
+domain:eduuu.com
 domain:eeyy.com
 domain:eflycloud.com
 domain:ehaier.com
@@ -1915,6 +1924,7 @@ domain:ets100.com
 domain:euads-o.api.leiniao.com:@ads
 domain:eufycn.com
 domain:everbright.com
+domain:ewdcloud.com
 domain:excelbbx.net
 domain:excelhome.net
 domain:exiliumgf.com
@@ -2160,6 +2170,7 @@ domain:ganjiangvpn.com
 domain:ganjistatic1.com
 domain:gaode.com
 domain:gaodun.com
+domain:gaokao.com
 domain:gaoshouyou.com
 domain:gaoxiaojob.com
 domain:gcloudcache.com
@@ -3150,6 +3161,9 @@ domain:kunlunvi.com
 domain:kunlunwe.com
 domain:kuqin.com
 domain:kurogames.com
+domain:kuyin123.com
+domain:kuyinxiu.com
+domain:kuyinyun.com
 domain:kuyiso.com
 domain:kwaicdn.com
 domain:kwaizt.com
@@ -3472,6 +3486,8 @@ domain:mfcteda.com
 domain:mgslb.com
 domain:mgtv.com
 domain:mhystatic.com
+domain:mi-dun.com
+domain:mi-fds.com
 domain:mi-idc.com
 domain:mi-img.com
 domain:mi.com
@@ -4145,6 +4161,7 @@ domain:sbsjk.com
 domain:sc96655.com
 domain:scdng.com
 domain:schoopia.com
+domain:sckg.com
 domain:sclick.baidu.com:@ads
 domain:scm121.com
 domain:scoregg.com
@@ -4427,6 +4444,7 @@ domain:taikangzhijia.com
 domain:tajiduo.com
 domain:tajs.qq.com:@ads
 domain:takungpao.com
+domain:tal.com
 domain:talk-cloud.net
 domain:talkingdata.com
 domain:talkinggame.com
@@ -5674,6 +5692,8 @@ domain:zuk.com
 domain:zuodao.com
 domain:zuowen.com
 domain:zuowen8.com
+domain:zuowenjun.com
+domain:zuowenku.net
 domain:zuowenwang.net
 domain:zuoyebang.cc
 domain:zuoyebang.com

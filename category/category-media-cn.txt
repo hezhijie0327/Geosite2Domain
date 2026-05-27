@@ -22,6 +22,7 @@ domain:anhuinews.com
 domain:anhuiyun.com
 domain:anzhuo.cn
 domain:assp.sohu.com:@ads
+domain:bbtnews.com.cn
 domain:bdu.focus.cn:@ads
 domain:bianews.com
 domain:binglianhuajianzhan.com
@@ -38,10 +39,12 @@ domain:cctvlibrary.com.cn
 domain:cctvpic.com
 domain:cctvpro.cn
 domain:cctvpro.com.cn
+domain:cfgw.net.cn
 domain:chaindd.com
 domain:checkzeit.com
 domain:chinaaet.com
 domain:chinabyte.com
+domain:chinadevelopment.com.cn
 domain:chinaepg.cn
 domain:chinalive.com
 domain:chinanews.com
@@ -70,6 +73,8 @@ domain:cqsjb.com
 domain:cs.com.cn
 domain:ctdsb.net
 domain:ctoutiao.com
+domain:cyol.com
+domain:cyol.net
 domain:cyzone.cn
 domain:cztv.com
 domain:cztvcdn.com
@@ -84,7 +89,9 @@ domain:dutenews.com
 domain:dzh.com.cn
 domain:dzng.com
 domain:dzwww.com
+domain:eastday.com
 domain:ecns.cn
+domain:eeo.com.cn
 domain:expreview.com
 domain:feng.com
 domain:fengcx.com

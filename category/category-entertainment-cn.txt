@@ -190,6 +190,7 @@ domain:dataeye.com
 domain:dc.letv.com:@ads
 domain:ddmogo.com
 domain:debugmode.cn
+domain:diyring.cc
 domain:dmzj.com
 domain:dobest.com
 domain:dongdianqiu.com
@@ -463,6 +464,9 @@ domain:kujiang.com
 domain:kumiao.com
 domain:kurogames.com
 domain:kuwo.cn
+domain:kuyin123.com
+domain:kuyinxiu.com
+domain:kuyinyun.com
 domain:kwaicdn.com
 domain:kwaizt.com
 domain:kwimgs.com

@@ -93,6 +93,7 @@ domain:download-cdn.jetbrains.com.cn:@cn
 domain:draftjs.org
 domain:ecr.aws
 domain:electronjs.org
+domain:elementary.io
 domain:elixir-lang.org
 domain:elrepo.org
 domain:embed.ly
@@ -181,6 +182,7 @@ domain:gitlab-static.net
 domain:gitlab.com
 domain:gitlab.io
 domain:gitlab.net
+domain:gnome.org
 domain:gnu.org
 domain:go-lang.com
 domain:go-lang.net
@@ -232,6 +234,7 @@ domain:jupyter.org
 domain:jwt.ms
 domain:k8s.io
 domain:kali.org
+domain:kde.org
 domain:kernel.org
 domain:kotlinlang.org
 domain:kubernetes.io
@@ -247,6 +250,7 @@ domain:linuxfoundation.org
 domain:linuxfromscratch.org
 domain:linuxmint.com
 domain:lua.org
+domain:lxqt-project.org
 domain:macosforge.org
 domain:macports.org
 domain:macruby.com
@@ -254,6 +258,7 @@ domain:macruby.net
 domain:macruby.org
 domain:makeitopen.com
 domain:mariadb.org
+domain:mate-desktop.org
 domain:mathoverflow.net
 domain:mcr.microsoft.com
 domain:mcrouter.net
@@ -335,6 +340,7 @@ domain:phantomjs.org
 domain:php.net
 domain:piwheels.org
 domain:pkgbuild.com
+domain:plasma-mobile.org
 domain:playerjs.io
 domain:playgrounds-cdn.apple.com
 domain:polymer-project.org
@@ -434,6 +440,7 @@ domain:superuser.com
 domain:swift.org
 domain:swiftui.cn:@cn
 domain:swiftui.com.cn:@cn
+domain:system76.com
 domain:tampermonkey.net
 domain:termius.com
 domain:termux.com
@@ -492,6 +499,7 @@ domain:wireshark.org
 domain:wpewebkit.org
 domain:x.org
 domain:xamarin.com
+domain:xfce.org
 domain:xposed.info
 domain:yarnpkg.com
 domain:yogalayout.com
