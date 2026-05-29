@@ -672,10 +672,12 @@ full:adblogger.vk.ru:@ads
 full:adeventtracker.spotify.com:@ads
 full:adfstat.yandex.ru:@ads
 full:ads-gate.wildberries.ru:@ads
+full:ads-img.mozilla.org:@ads
 full:ads-integration.rustore.ru:@ads
 full:ads-media.wildberries.ru:@ads
 full:ads.dahlmessenger.com:@ads
 full:ads.icq.com:@ads
+full:ads.mozilla.org:@ads
 full:ads.rustore.ru:@ads
 full:ads.vk.com:@ads
 full:ads.vk.ru:@ads
@@ -744,6 +746,8 @@ full:copilot-telemetry.githubusercontent.com:@ads
 full:disney.my.sentry.io:@ads
 full:error-tracking.megamarket.tech:@ads
 full:google-analytics-suite.ozon.ru:@ads
+full:incoming-telemetry.thunderbird.net:@ads
+full:incoming.telemetry.mozilla.org:@ads
 full:informer.yandex.ru:@ads
 full:log-sdk.gifshow.com:@ads
 full:log3-applog-hl.fqnovel.com:@ads

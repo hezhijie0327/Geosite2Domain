@@ -23458,10 +23458,12 @@ full:adfstat.yandex.ru:@ads
 full:admob-cn.com:@cn
 full:adobeereg.com
 full:ads-gate.wildberries.ru:@ads
+full:ads-img.mozilla.org:@ads
 full:ads-integration.rustore.ru:@ads
 full:ads-media.wildberries.ru:@ads
 full:ads.dahlmessenger.com:@ads
 full:ads.icq.com:@ads
+full:ads.mozilla.org:@ads
 full:ads.rustore.ru:@ads
 full:ads.vk.com:@ads
 full:ads.vk.ru:@ads
@@ -23797,6 +23799,8 @@ full:imperial.insendi.com
 full:inappcheck-cn.itunes-apple.com.akadns.net:@cn
 full:inappcheck-lb.itunes-apple.com.akadns.net:@cn
 full:inappcheck.itunes.apple.com:@cn
+full:incoming-telemetry.thunderbird.net:@ads
+full:incoming.telemetry.mozilla.org:@ads
 full:informer.yandex.ru:@ads
 full:ingest.apple-studies.com
 full:init-kt.apple.com:@cn
