@@ -8,6 +8,7 @@ domain:anthropic.com
 domain:antigravity-unleash.goog
 domain:antigravity.google
 domain:anythingllm.com
+domain:arena.ai
 domain:bard.google.com
 domain:cerebras.ai
 domain:chat.com
