@@ -12722,6 +12722,7 @@ domain:livesketchshare.com
 domain:livestream.com
 domain:livexxx.me
 domain:livingyourambition.com
+domain:livinno.org
 domain:livrariart.com.br
 domain:lizardporn.com
 domain:lizol.co.in
@@ -15731,6 +15732,7 @@ domain:ooni.org
 domain:ootbstudio.co.kr
 domain:op.gg
 domain:op7979.com
+domain:opac-project.eu
 domain:openai.com
 domain:openamt.com
 domain:openapiplatform.com

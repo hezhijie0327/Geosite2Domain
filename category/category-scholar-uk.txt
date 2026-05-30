@@ -9,8 +9,10 @@ domain:cambridgeschoolshakespeare.com
 domain:dlib.eastview.com
 domain:epigeum.com
 domain:imperialbusiness.school
+domain:livinno.org
 domain:oed.com
 domain:omscr.com
+domain:opac-project.eu
 domain:oup.com
 domain:ouplaw.com
 domain:oxfordaasc.com

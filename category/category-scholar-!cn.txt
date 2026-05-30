@@ -210,6 +210,7 @@ domain:libsolutions.app
 domain:libsolutions.domains
 domain:libsolutions.net
 domain:literatumonline.com
+domain:livinno.org
 domain:ma1lib.org
 domain:mdpi.com
 domain:medrxiv.org
@@ -230,6 +231,7 @@ domain:nii.ac.jp
 domain:oecd-ilibrary.org
 domain:oed.com
 domain:omscr.com
+domain:opac-project.eu
 domain:openreview.net
 domain:optica.org
 domain:osapublishing.org
