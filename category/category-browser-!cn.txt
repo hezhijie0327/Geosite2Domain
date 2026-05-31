@@ -27,3 +27,4 @@ domain:torproject.org
 domain:vivaldi.com
 domain:waterfox.net
 domain:zen-browser.app
+full:mozilla-ohttp.fastly-edge.com

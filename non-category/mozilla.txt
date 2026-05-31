@@ -24,3 +24,4 @@ full:ads.mozilla.org:@ads
 full:incoming-telemetry.thunderbird.net:@ads
 full:incoming.telemetry.mozilla.org:@ads
 full:mdn.mozillademos.org
+full:mozilla-ohttp.fastly-edge.com

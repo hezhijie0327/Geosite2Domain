@@ -7908,6 +7908,7 @@ full:mesu-china.apple.com.akadns.net:@cn
 full:mesu.apple.com:@cn
 full:misc-assets.itunes.apple.com:@cn
 full:ml.cdn-apple.com:@cn
+full:mozilla-ohttp.fastly-edge.com
 full:mtalk.google.com:@!cn
 full:music.apple.com:@cn
 full:musicstatus.music.apple.com:@cn
