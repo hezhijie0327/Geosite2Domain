@@ -1241,6 +1241,7 @@ domain:chinapay.com
 domain:chinapost-life.com
 domain:chinapp.net
 domain:chinapubmed.net
+domain:chinaqw.com
 domain:chinaso.com
 domain:chinasspp.com
 domain:chinatelecom-h.com
@@ -1436,6 +1437,7 @@ domain:cnmooc.org
 domain:cnmstl.net
 domain:cnpsec.com
 domain:cnsciedu.com
+domain:cnsimg.net
 domain:cnstock.com
 domain:cnsuning.com
 domain:cnthinkers.com
@@ -3014,6 +3016,7 @@ domain:juwan.com
 domain:juxia.com
 domain:juxieyun.com
 domain:juziwulian.com
+domain:jwview.com
 domain:jxedt.com
 domain:jxksw.net
 domain:jxpp.com
@@ -4624,6 +4627,7 @@ domain:tianqi.com
 domain:tianqistatic.com
 domain:tianshucup.com
 domain:tianxiajiameng.com
+domain:tianya.net
 domain:tianyancha.com
 domain:tiapi.net
 domain:tidaas.com
@@ -5276,6 +5280,7 @@ domain:xingtan001.com
 domain:xingyeai.com
 domain:xinhuanet.com
 domain:xinhuaxmt.com
+domain:xinmeng.info
 domain:xinrenxinshi.com
 domain:xinshipu.com
 domain:xinwuji.com

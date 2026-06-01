@@ -1540,6 +1540,7 @@ domain:chinapostnews.cn
 domain:chinapostnews.com.cn
 domain:chinapp.net
 domain:chinapubmed.net
+domain:chinaqw.com
 domain:chinaso.com
 domain:chinasspp.com
 domain:chinastock.com.cn
@@ -1775,6 +1776,7 @@ domain:cnpsec.com
 domain:cnr.cn
 domain:cns.com.cn
 domain:cnsciedu.com
+domain:cnsimg.net
 domain:cnstock.com
 domain:cnsuning.com
 domain:cnthinkers.com
@@ -3756,6 +3758,7 @@ domain:juziwulian.com
 domain:jvcsmart.cn
 domain:jvcsmart.com.cn
 domain:jvoice.cn
+domain:jwview.com
 domain:jxedt.com
 domain:jxksw.net
 domain:jxnews.com.cn
@@ -4574,6 +4577,7 @@ domain:neweekly.com.cn
 domain:newniu.com
 domain:news.cn
 domain:news.yxrb.net
+domain:newsimg.cn
 domain:newupbank.com
 domain:newyx.net
 domain:nextstudios.com
@@ -5760,6 +5764,7 @@ domain:tianqistatic.com
 domain:tianshucup.com
 domain:tianxiajiameng.cn
 domain:tianxiajiameng.com
+domain:tianya.net
 domain:tianyancha.com
 domain:tiapi.cn
 domain:tiapi.net
@@ -6552,6 +6557,7 @@ domain:xingyeai.com
 domain:xinhuanet.com
 domain:xinhuaxmt.com
 domain:xinlingshou.cn
+domain:xinmeng.info
 domain:xinrenxinshi.com
 domain:xinshipu.com
 domain:xinwuji.com
@@ -6894,6 +6900,7 @@ domain:zggbdszt.net.cn
 domain:zggqzp.com
 domain:zgjm.org
 domain:zgjsks.com
+domain:zgjx.cn
 domain:zglxw.com
 domain:zgsydw.com
 domain:zgxytc.com

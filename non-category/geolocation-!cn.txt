@@ -8911,6 +8911,7 @@ domain:geti2p.net
 domain:getlantern.org
 domain:getnews.jp
 domain:getoutline.org
+domain:getpaint.net
 domain:getpocket.com
 domain:getporn.tv
 domain:getprintersupports.com
@@ -15945,6 +15946,7 @@ domain:paily.net
 domain:paily.org
 domain:painfulpussytortures.com
 domain:painnovel.com
+domain:paint.net
 domain:paipal.com
 domain:paipancon.com
 domain:paisapay.cc

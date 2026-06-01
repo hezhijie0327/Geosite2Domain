@@ -50,6 +50,7 @@ domain:chinalive.com
 domain:chinanews.com
 domain:chinanews.com.cn
 domain:chinaott.com
+domain:chinaqw.com
 domain:citv.net.cn
 domain:ckxx.net
 domain:cls.cn
@@ -58,6 +59,7 @@ domain:cnfolimg.com
 domain:cnms.net.cn
 domain:cnr.cn
 domain:cns.com.cn
+domain:cnsimg.net
 domain:cnstock.com
 domain:cntv.cn
 domain:cntv.com.cn
@@ -158,6 +160,7 @@ domain:jrj.com.cn
 domain:jrjimg.cn
 domain:jsbc.com
 domain:jstv.com
+domain:jwview.com
 domain:jxnews.com.cn
 domain:jxpp.com
 domain:jztvnews.com
@@ -185,6 +188,7 @@ domain:nanyuenews.com
 domain:nbd.com.cn
 domain:neweekly.com.cn
 domain:news.cn
+domain:newsimg.cn
 domain:ofweek.com
 domain:olympicchannelchina.cn
 domain:ottcn.com
@@ -292,6 +296,7 @@ domain:xiangrikuisite.com
 domain:xilu.com
 domain:xinhuanet.com
 domain:xinhuaxmt.com
+domain:xinmeng.info
 domain:xinyan.cn
 domain:xkb.com.cn
 domain:xn--fiq53l6wcx3kp9bc7joo6apn8a.cn

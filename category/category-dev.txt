@@ -155,6 +155,7 @@ domain:gentoo.org
 domain:getbootstrap.com
 domain:getcomposer.org
 domain:getfedora.org
+domain:getpaint.net
 domain:getzola.org
 domain:gh.io
 domain:ghcr.io
@@ -333,6 +334,7 @@ domain:ospray.org
 domain:packagecloud.io
 domain:packagist.org
 domain:packer.io
+domain:paint.net
 domain:parse.com
 domain:pcre.org
 domain:perl.org
