@@ -1,3 +1,4 @@
+domain:9xsecndns.cn
 domain:ad.api.3g.youku.com:@ads
 domain:ad.api.mobile.youku.com:@ads
 domain:ad.mobile.youku.com:@ads
@@ -19,8 +20,10 @@ domain:s-adashx.ut.youku.com:@ads
 domain:soku.com
 domain:stat.youku.com:@ads
 domain:statis.api.3g.youku.com:@ads
+domain:tudou.com
 domain:v6-adashx.ut.youku.com:@ads
 domain:yk-ssp.ad.youku.com:@ads
 domain:ykad-data.youku.com:@ads
 domain:ykimg.com
 domain:youku.com
+domain:zimgs.cn

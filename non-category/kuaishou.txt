@@ -9,6 +9,7 @@ domain:inkuai.com
 domain:inkwai.com
 domain:ksapisrv.com
 domain:kskwai.com
+domain:kspkg.com
 domain:kuaishou.cn
 domain:kuaishou.com
 domain:kuaishouapps.com

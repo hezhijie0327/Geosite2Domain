@@ -1,4 +1,5 @@
 domain:56laile.com
+domain:56xiniao.com
 domain:800best.cn
 domain:800best.com
 domain:800best.com.cn
@@ -24,8 +25,11 @@ domain:cainiaoyizhan.com
 domain:ckd.im
 domain:cr-cts.com
 domain:crscm.com
+domain:danniao.com
 domain:deppon.com
 domain:deppon.com.cn
+domain:dianwoda.cn
+domain:dianwoda.com
 domain:dpma.cc
 domain:fcbox.com
 domain:fcboxmall.com

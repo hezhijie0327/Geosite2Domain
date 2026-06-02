@@ -38,6 +38,7 @@ domain:deepin.com
 domain:deepin.org.cn
 domain:dengguobi.com
 domain:devui.design
+domain:ejoy.com
 domain:frontjs.com
 domain:gitbook.cn
 domain:gitchat.cn

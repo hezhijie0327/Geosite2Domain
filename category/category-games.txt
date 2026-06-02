@@ -52,6 +52,7 @@ domain:ac-pocketcamp.com
 domain:acesofthunder.net
 domain:activematter.game
 domain:aki-game.com
+domain:aligames.com
 domain:amiibo.com
 domain:anthemgame.com
 domain:anthemthegame.com
@@ -330,6 +331,8 @@ domain:industrialtoys.com
 domain:instituteofwar.org
 domain:itch.io
 domain:itch.zone
+domain:jiaoyimao.cn
+domain:jiaoyimao.com
 domain:joinsquad.com
 domain:joyjoy.net
 domain:juequling.com
@@ -373,6 +376,7 @@ domain:learnwithleague.com
 domain:ledu.com
 domain:legendofzelda.cn:@cn
 domain:legendofzelda.com.cn:@cn
+domain:lingxigames.com
 domain:log-upload-os.hoyoverse.com:@ads
 domain:log-upload.mihoyo.com:@ads
 domain:lol-europe.com

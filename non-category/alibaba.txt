@@ -1,9 +1,12 @@
+domain:11222.cn
 domain:1688.com
 domain:25pp.com
 domain:56che.com
+domain:56xiniao.com
 domain:88cha.com
 domain:95095.com
 domain:9game.cn
+domain:9xsecndns.cn
 domain:a-map.cn
 domain:a-map.co
 domain:a-map.link
@@ -71,6 +74,7 @@ domain:aliexpress.ru:@!cn
 domain:alifanyi.com
 domain:aligames.com
 domain:aligfwaf.com
+domain:alihealth.cn
 domain:alihealth.com.cn
 domain:alihealth.hk:@!cn
 domain:aliimg.com
@@ -105,6 +109,8 @@ domain:alitrip.com
 domain:aliunicorn.com
 domain:aliway.com
 domain:aliwork.com
+domain:aliwx.com.cn
+domain:aliwx.net
 domain:alixiaomi.com
 domain:aliyun-inc.com
 domain:aliyun-iot-share.com
@@ -115,6 +121,7 @@ domain:aliyundrive.cloud
 domain:aliyundrive.com
 domain:aliyundrive.net
 domain:aliyunfile.com
+domain:aliyunidaas.com
 domain:aliyunpds.com
 domain:alizhaopin.com
 domain:alog.umeng.com:@ads
@@ -158,9 +165,12 @@ domain:cnlogs.umengcloud.com:@ads
 domain:cnzz.com
 domain:cueme.cn
 domain:damai.cn
+domain:danniao.com
 domain:dayu.com
 domain:ddurl.to
 domain:dfkhgj.com
+domain:dianwoda.cn
+domain:dianwoda.com
 domain:dingding.xin
 domain:dingtalk.cn
 domain:dingtalk.com
@@ -212,8 +222,11 @@ domain:ica-alliance.org
 domain:iconfont.cn
 domain:ics.design
 domain:imgcook.com
+domain:ishuqi.com
 domain:iuynfg.com
 domain:jhgtgb.com
+domain:jiaoyimao.cn
+domain:jiaoyimao.com
 domain:juhuasuan.com
 domain:kanbox.com
 domain:kaola.com
@@ -244,6 +257,7 @@ domain:laiwang.com
 domain:lazada.com
 domain:liangxinyao.com
 domain:lingshoujia.com
+domain:lingxigames.com
 domain:log.umtrack.com:@ads
 domain:logs.amap.com:@ads
 domain:lstat.youku.com:@ads
@@ -258,6 +272,7 @@ domain:lydass.net
 domain:m-adash.m.taobao.com:@ads
 domain:m-now.cn
 domain:maitix.com
+domain:mappcloud.com
 domain:marketing.alibaba.com:@ads
 domain:mashort.cn
 domain:mdeer.com
@@ -314,6 +329,7 @@ domain:phpwind.com
 domain:phpwind.net
 domain:pl.youku.com:@ads
 domain:plbslog.umeng.com:@ads
+domain:pp.cn
 domain:puata.info
 domain:qingtingtrip.com
 domain:quark.cn
@@ -325,11 +341,14 @@ domain:saee.org.cn
 domain:shenjing.com
 domain:shujupie.com
 domain:shuqi.com
+domain:shuqiapi.com
+domain:shuqiread.com
 domain:shuqireader.com
 domain:shyhhema.com
 domain:sm.cn
 domain:soku.com
 domain:sparenode.com
+domain:sqreader.com
 domain:stat.youku.com:@ads
 domain:statis.api.3g.youku.com:@ads
 domain:supet.com
@@ -357,6 +376,7 @@ domain:tmjl.ai
 domain:tns.simba.taobao.com:@ads
 domain:track.lc.quark.cn:@ads
 domain:ttpod.com
+domain:tudou.com
 domain:uc.cn
 domain:uc123.com
 domain:ucweb.com
@@ -393,5 +413,6 @@ domain:yunos.com
 domain:yushanfang.com
 domain:z.gds.cnzz.com:@ads
 domain:zhisheng.com
+domain:zimgs.cn
 domain:ztna-dingtalk.com
 domain:zuodao.com

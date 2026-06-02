@@ -1,3 +1,4 @@
+domain:11222.cn
 domain:13a.com
 domain:17173.com
 domain:172mix.com
@@ -50,6 +51,7 @@ domain:71edge.com
 domain:7k7k.com
 domain:9game.cn
 domain:9xgame.com
+domain:9xsecndns.cn
 domain:aamgame.com
 domain:aamgame.mobi
 domain:aamgame.net
@@ -88,6 +90,9 @@ domain:aisee.tv
 domain:aixifan.com
 domain:aki-game.com
 domain:ali213.net
+domain:aligames.com
+domain:aliwx.com.cn
+domain:aliwx.net
 domain:amemv.cn
 domain:amemv.com
 domain:amemv.net
@@ -418,9 +423,12 @@ domain:inkuai.com
 domain:inkwai.com
 domain:iqiyi.com
 domain:iqiyipic.com
+domain:ishuqi.com
 domain:ja.gamersky.com:@ads
 domain:ja1.gamersky.com:@ads
 domain:ja2.gamersky.com:@ads
+domain:jiaoyimao.cn
+domain:jiaoyimao.com
 domain:jiuyue919.com
 domain:jjwxc.net
 domain:juequling.com
@@ -437,6 +445,7 @@ domain:koowo.cn
 domain:koowo.com
 domain:ksapisrv.com
 domain:kskwai.com
+domain:kspkg.com
 domain:ktv.com
 domain:ku6.com
 domain:ku6cdn.com
@@ -483,6 +492,7 @@ domain:leso.cn
 domain:letv.com
 domain:letvcdn.com
 domain:letvimg.com
+domain:lingxigames.com
 domain:lizhi.fm
 domain:lizhifm.com
 domain:log-upload.mihoyo.com:@ads
@@ -620,12 +630,17 @@ domain:sfacg.com
 domain:shengqugames.com
 domain:shoutanjjj.com
 domain:shuhai.com
+domain:shuqi.com
+domain:shuqiapi.com
+domain:shuqiread.com
+domain:shuqireader.com
 domain:shyxhy.com
 domain:singworld.net
 domain:skydweller.cn
 domain:sl916.com
 domain:smgbb.cn
 domain:soku.com
+domain:sqreader.com
 domain:stat.youku.com:@ads
 domain:statis.api.3g.youku.com:@ads
 domain:supercachenet.com
@@ -655,6 +670,7 @@ domain:tiancity.com
 domain:tiancitycdn.com
 domain:timibase.com
 domain:tingbook.com
+domain:tudou.com
 domain:tuer123.com
 domain:tuyoo.com
 domain:u17.com
@@ -744,6 +760,7 @@ domain:zhanqi.tv
 domain:zhulang.com
 domain:zhuoyou.com
 domain:zhuoyuegame.com
+domain:zimgs.cn
 domain:zjshulong.com
 domain:zongheng.com
 full:ads3-normal-hl.zijieapi.com:@ads

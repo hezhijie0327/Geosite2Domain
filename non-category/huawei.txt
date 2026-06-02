@@ -192,6 +192,7 @@ domain:hikunpeng.cn
 domain:hikunpeng.com
 domain:hikunpeng.com.cn
 domain:hikunpeng.net
+domain:hima.auto
 domain:hisilicon.com
 domain:hisilicon.com.cn
 domain:hiu58.cn

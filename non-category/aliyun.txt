@@ -16,6 +16,7 @@ domain:aliyun.com
 domain:aliyuncdn.com
 domain:aliyuncdn.net
 domain:aliyunfile.com
+domain:aliyunidaas.com
 domain:aliyunpds.com
 domain:atanx.alicdn.com:@ads
 domain:atanx2.alicdn.com:@ads

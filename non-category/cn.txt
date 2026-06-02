@@ -246,6 +246,7 @@ domain:56.com
 domain:56che.com
 domain:56img.com
 domain:56laile.com
+domain:56xiniao.com
 domain:58.com
 domain:5858.com
 domain:58antenna.com
@@ -565,6 +566,7 @@ domain:alitui.weibo.com:@ads
 domain:aliunicorn.com
 domain:aliway.com
 domain:aliwork.com
+domain:aliwx.net
 domain:alixiaomi.com
 domain:aliyun-inc.com
 domain:aliyun-iot-share.com
@@ -575,6 +577,7 @@ domain:aliyundrive.cloud
 domain:aliyundrive.com
 domain:aliyundrive.net
 domain:aliyunfile.com
+domain:aliyunidaas.com
 domain:aliyunpds.com
 domain:alizhaopin.com
 domain:allawnfs.com
@@ -922,6 +925,7 @@ domain:bplslb.com
 domain:bpltm.com
 domain:bsbsb.top
 domain:bsurl.cc
+domain:btghotels.com
 domain:btgtravel.com
 domain:bthhotels.com
 domain:btime.com
@@ -1580,6 +1584,7 @@ domain:dangdang.com
 domain:danji100.com
 domain:danji6.com
 domain:danjuanfunds.com
+domain:danniao.com
 domain:dao123.com
 domain:daocloud.io
 domain:daocloud.vip
@@ -1664,6 +1669,7 @@ domain:diandianlife.top
 domain:diandianqi.com
 domain:dianping.com
 domain:dianwannan.com
+domain:dianwoda.com
 domain:dianzhenkeji.com
 domain:dida365.com
 domain:didialift.com
@@ -1894,6 +1900,7 @@ domain:eeyy.com
 domain:eflycloud.com
 domain:ehaier.com
 domain:eiv.baidu.com:@ads
+domain:ejoy.com
 domain:ele.me
 domain:ele.to
 domain:elecfans.com
@@ -2413,6 +2420,7 @@ domain:hikmall.com
 domain:hikunpeng.com
 domain:hikunpeng.net
 domain:hikvision.com
+domain:hima.auto
 domain:hisensehitachi.com
 domain:hisilicon.com
 domain:hitevision-solutions.com
@@ -2530,6 +2538,8 @@ domain:huaweistatic.com
 domain:huaweiyun.com
 domain:huaxiong.com
 domain:huayingsc.com
+domain:huazhu.com
+domain:huazhucorp.com
 domain:hugecore.net
 domain:huijistatic.com
 domain:huijiwiki.com
@@ -2572,6 +2582,7 @@ domain:hwcloudsite.com
 domain:hwcloudvis.com
 domain:hweventgrid.com
 domain:hwocloud.com
+domain:hworld.com
 domain:hwshu.com
 domain:hwtrip.com
 domain:hwwlyz.com
@@ -2737,6 +2748,7 @@ domain:isd.com
 domain:isdspeed.qq.com:@ads
 domain:isealsuite.com
 domain:ishumei.com
+domain:ishuqi.com
 domain:ispqcloud.com
 domain:istoreos.com
 domain:isvjcloud.com
@@ -2913,6 +2925,8 @@ domain:jinglingbiaozhu.com
 domain:jingpinhui.com
 domain:jingxi.com
 domain:jinianbi.com
+domain:jinjiang.com
+domain:jinjiangonline.net
 domain:jinrishici.com
 domain:jinritemai.com
 domain:jinrongren.net
@@ -2927,6 +2941,7 @@ domain:jisuxia.com
 domain:jiuyue919.com
 domain:jiuzhilan.com
 domain:jj20.com
+domain:jjtravel.com
 domain:jjwxc.net
 domain:jkbl.com
 domain:jkcsjd.com
@@ -3033,6 +3048,7 @@ domain:kaadas.com
 domain:kaifayun.com
 domain:kaifubiao.com
 domain:kaihong.com
+domain:kaipai.com
 domain:kaipanhong.com
 domain:kaipuyun.com
 domain:kaipuyun.net
@@ -3104,6 +3120,7 @@ domain:kskwai.com
 domain:ksmobile.com
 domain:ksord.com
 domain:ksosoft.com
+domain:kspkg.com
 domain:ksyun.com
 domain:ksyuncdn.com
 domain:ksyungslb.com
@@ -3313,6 +3330,7 @@ domain:lingkou.xyz
 domain:linglong.space
 domain:linglonglife.com
 domain:lingshoujia.com
+domain:lingxigames.com
 domain:linka2a.net
 domain:linkvans.com
 domain:linliyz.com
@@ -3428,6 +3446,7 @@ domain:maoyan.com
 domain:maoyun.com
 domain:maoyuncloud.com
 domain:mapbar.com
+domain:mappcloud.com
 domain:marketing.alibaba.com:@ads
 domain:markji.com
 domain:matpool.com
@@ -3469,6 +3488,7 @@ domain:meifang.com
 domain:meika360.com
 domain:meilishuo.com
 domain:meimingteng.com
+domain:meipai.com
 domain:meipian.me
 domain:meiqia.com
 domain:meishichina.com
@@ -3478,7 +3498,9 @@ domain:meituan.com
 domain:meituan.net
 domain:meitudata.com
 domain:meitustat.com
+domain:meituxiuxiu.com
 domain:meiwulist.com
+domain:meiyan.com
 domain:meizu.com
 domain:meloong.com
 domain:mengtuoshi.wang
@@ -3536,6 +3558,7 @@ domain:miot-spec.org
 domain:mipay.com
 domain:mipcache.bdstatic.com:@ads
 domain:mipcdn.com
+domain:miraclevision.com
 domain:mirrors.yun-idc.com
 domain:misc.in.duokanbox.com:@ads
 domain:missjia.net
@@ -3828,6 +3851,7 @@ domain:p4p.sina.com.cn:@ads
 domain:p5w.net
 domain:pacmantwo.com
 domain:pagescube.com
+domain:paidui.com
 domain:pailitao.com
 domain:paipai.com
 domain:paipaibang.com
@@ -4116,6 +4140,7 @@ domain:rmonitor.qq.com:@ads
 domain:rmwxgame.com
 domain:ro.com
 domain:robomaster.com
+domain:roboneo.com
 domain:roborock.com
 domain:rock-chips.com
 domain:rockyenglish.com
@@ -4262,6 +4287,8 @@ domain:shujupie.com
 domain:shumensy.com
 domain:shuoshuokong.com
 domain:shuqi.com
+domain:shuqiapi.com
+domain:shuqiread.com
 domain:shuqireader.com
 domain:shutcm.com
 domain:shuxinyc.com
@@ -4359,6 +4386,7 @@ domain:springairlines.com
 domain:springtour.com
 domain:sq.cc
 domain:sqqnh.org
+domain:sqreader.com
 domain:sseinfo.com
 domain:ssjlicai.com
 domain:sslawy.com
@@ -4738,7 +4766,6 @@ domain:trackingprd.hwwt8.com:@ads
 domain:trackserver.shuxinyc.com:@ads
 domain:tracup.com
 domain:trae.guru
-domain:travelsky.com
 domain:tripcdn.com
 domain:tritoninfo.net
 domain:trjcn.com
@@ -4757,7 +4784,6 @@ domain:ttpod.com
 domain:ttshitu.com
 domain:ttwebview.com
 domain:tudou.com
-domain:tudouui.com
 domain:tuer123.com
 domain:tuicool.com
 domain:tuiwen.net
@@ -5101,6 +5127,7 @@ domain:wf.pub
 domain:wfdata.club
 domain:whalecloud.com
 domain:whccb.com
+domain:whee.com
 domain:whhhealth.com
 domain:whlovehome.com
 domain:wicresoft.com
@@ -5367,6 +5394,7 @@ domain:xyzcdn.net
 domain:xyzfm.link
 domain:xyzfm.space
 domain:xzking.com
+domain:yaduo.com
 domain:yahui.cc
 domain:yamibo.com
 domain:yangkeduo.com
