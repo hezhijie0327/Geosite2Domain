@@ -32,6 +32,7 @@ domain:caixin.com
 domain:cankaoxiaoxi.com
 domain:cctv.cn
 domain:cctv.com
+domain:cctv4g.com
 domain:cctvlib.cn
 domain:cctvlib.com.cn
 domain:cctvlibrary.cn

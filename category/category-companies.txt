@@ -329,6 +329,8 @@ domain:alivertsm.com
 domain:alivevm.com
 domain:alivevmax.com
 domain:alivevue.com
+domain:allizom.net
+domain:allizom.org
 domain:alphassl.com:@cn
 domain:alt-ad.mail.ru:@ads
 domain:altera.co.jp
@@ -1733,6 +1735,7 @@ domain:cadoverlay.com
 domain:cadren.com
 domain:caice.com
 domain:calendarserver.org
+domain:calicolabs.com
 domain:callbackkiller.com
 domain:callersbane.com
 domain:cam-duct.com
@@ -1814,6 +1817,7 @@ domain:canonfoundation.org
 domain:canonproprinters.com
 domain:canva.com
 domain:canvastatus.com
+domain:capitalg.com
 domain:carbon.com
 domain:careersatfb.com
 domain:carekit.org
@@ -2384,10 +2388,10 @@ domain:desktopmovies.net
 domain:desktopmovies.org
 domain:destinationbim.com
 domain:detaliczny.com
+domain:detodosparatodos.org
 domain:dev-my.com
 domain:dev-my.games
 domain:developer-advisor.com
-domain:developer.allizom.org
 domain:developria.com
 domain:device-manager.us
 domain:devm2m.com
@@ -2459,6 +2463,7 @@ domain:direectv.com
 domain:diretv.com
 domain:discountbeatsbydre-us.com
 domain:discountbeatsstore.com
+domain:discovershiretoko.org
 domain:discreet.com
 domain:discussionsapple.com
 domain:diskstation.me
@@ -2607,6 +2612,7 @@ domain:ecgapp.com.cn:@cn
 domain:ecgapp.net
 domain:echocdn.com
 domain:echosign.com
+domain:ecmascript.org
 domain:ecotect.com
 domain:ecotect.net
 domain:ecscad.com
@@ -2674,6 +2680,7 @@ domain:exascale-tech.com
 domain:experience-vmware.com
 domain:exploreintel.com
 domain:expresswifi.com
+domain:extendfirefox.com
 domain:extensions4revit.com
 domain:extensionworkshop.com
 domain:extremetube.com
@@ -3038,6 +3045,8 @@ domain:firebase.io
 domain:firebaseapp.com
 domain:firebaseio.com
 domain:firefox.com
+domain:firefox.hu
+domain:firefoxtweetmachine.com
 domain:firefoxusercontent.com
 domain:firewire.cl
 domain:firewire.eu
@@ -3089,6 +3098,8 @@ domain:fotolia.tv
 domain:fotolja.com
 domain:foundationdb.org
 domain:fourthns.systems
+domain:foxkeh.com
+domain:foxkeh.jp
 domain:fpacebook.com
 domain:fptolia.com
 domain:fqcebook.com
@@ -3203,11 +3214,14 @@ domain:getbuzzsaw.com
 domain:getdirect.tv
 domain:getdrebeatssale.com
 domain:getfiddler.com
+domain:getfirebug.com
+domain:getpersonas.com
 domain:getpocket.com
 domain:getprintersupports.com
 domain:getws1.com
 domain:getwsone.com
 domain:gfacecbook.com
+domain:gfiber.com
 domain:gfotolia.com
 domain:gfx.ms
 domain:ggoogle.com
@@ -3650,6 +3664,7 @@ domain:gvt5.com
 domain:gvt6.com
 domain:gvt7.com
 domain:gvt9.com
+domain:hackasaurus.org
 domain:hackerfacebook.com
 domain:hackfacebook.com
 domain:hackfacebookid.com
@@ -4344,6 +4359,7 @@ domain:interactivebrokers.com.hk
 domain:interactivebrokers.com.sg
 domain:interactivebrokers.eu
 domain:interactivebrokers.ie
+domain:interforest.org
 domain:internet.org
 domain:internet.ru
 domain:internetdownloadmanager.com
@@ -4491,6 +4507,7 @@ domain:ird.co.jp
 domain:ischool.com
 domain:iskoot.com
 domain:islamiccenterofnewlondon.com
+domain:isomorphiclabs.com
 domain:istent.co.kr
 domain:istorytell.com
 domain:it-territory.com
@@ -4499,6 +4516,7 @@ domain:itasoftware.com
 domain:itcanwait.com
 domain:itfromtheinside.com
 domain:itirex.ru
+domain:itisatrap.org
 domain:itnel.com
 domain:itools.info
 domain:itun.es
@@ -4689,6 +4707,7 @@ domain:latencytop.com
 domain:latticedata.com
 domain:launchpad.wang
 domain:le-direct.tv
+domain:learningfreedomandtheweb.org
 domain:leavinghpinc.com
 domain:leecountytimes.com
 domain:lerna.ru
@@ -4737,6 +4756,7 @@ domain:liverail.com
 domain:liverail.tv
 domain:livesketchshare.com
 domain:livingyourambition.com
+domain:lizardwrangler.com
 domain:llama.com
 domain:lnstagram-help.com
 domain:log.dzen.ru:@ads
@@ -4906,14 +4926,13 @@ domain:mcrouter.org
 domain:mcs.st
 domain:mdhcdn.com
 domain:mdialog.com
-domain:mdn.allizom.net
 domain:mdn.dev
-domain:mdn.mozit.cloud
 domain:mdnplay.dev
 domain:mdnyalp.dev
 domain:me.com
 domain:mearki.com
 domain:meccontroller.com
+domain:mecha-mozilla.org
 domain:media-amazon.com
 domain:media-imdb.com
 domain:mediafiles-cisco.com
@@ -5226,13 +5245,34 @@ domain:movidius.com
 domain:movidius.net
 domain:movidius.org
 domain:movika.com
+domain:mozaws.net
 domain:mozgcp.net
+domain:mozilla-europe.org
+domain:mozilla-hispano.org
+domain:mozilla-mexico.org
 domain:mozilla.ai
 domain:mozilla.com
 domain:mozilla.community
+domain:mozilla.cz
+domain:mozilla.de
+domain:mozilla.jp
+domain:mozilla.lt
 domain:mozilla.net
 domain:mozilla.org
+domain:mozilla.org.uk
+domain:mozilla.pe
+domain:mozilla.pt
+domain:mozilla.ro
+domain:mozillabd.org
+domain:mozillademos.org
+domain:mozillafactory.org
 domain:mozillafoundation.org
+domain:mozillaignite.org
+domain:mozillalabs.com
+domain:mozillaquebec.org
+domain:mozillazine.jp
+domain:mozillians.org
+domain:mozit.cloud
 domain:mpgw-my.com
 domain:mpnevolution.com
 domain:mr-apple.com.tw
@@ -5587,6 +5627,7 @@ domain:onedrive.org
 domain:onefifteen.net
 domain:onefifteen.org
 domain:oneme.ru
+domain:onemozilla.org
 domain:onenote.com
 domain:onenote.net
 domain:onestore.ms
@@ -5618,6 +5659,7 @@ domain:opensource.guide
 domain:opensourceinsight.dev
 domain:opensourceinsights.dev
 domain:openthread.io
+domain:opentimetable.jp
 domain:opentranslatorstothings.org
 domain:openvino.ai
 domain:openvinotoolkit.org
@@ -5738,6 +5780,7 @@ domain:pocketbiketrader.com
 domain:pointtown.com
 domain:polymer-project.org
 domain:polymerproject.org
+domain:popcornjs.org
 domain:popmechanic.io
 domain:popmechanic.ru
 domain:porkbun.com
@@ -5809,6 +5852,7 @@ domain:prostudiobeatscybersale.com
 domain:ps-exchange.com
 domain:pstatic.net
 domain:pub.dev
+domain:publicsuffix.org
 domain:publishproxy.com
 domain:pullstring.net
 domain:pushgrow.io
@@ -6431,6 +6475,7 @@ domain:telerik.com
 domain:tellmewhygame.com
 domain:tenbin.ai
 domain:tenbyfotolia.com
+domain:tenor.com
 domain:tensorflow.org
 domain:tenten.vn
 domain:terraform.io
@@ -6871,12 +6916,14 @@ domain:webex.fr
 domain:webhosting.com
 domain:webkit.org
 domain:webkitgtk.org
+domain:webmademovies.org
 domain:webmproject.org
 domain:webobjects.co.uk
 domain:webobjects.com
 domain:webobjects.de
 domain:webobjects.eu
 domain:webobjects.net
+domain:webpass.net
 domain:webpkgcache.com
 domain:webrtc.org
 domain:webtoons.com
@@ -6939,6 +6986,7 @@ domain:windowsphone.com
 domain:windowssearch.com
 domain:windowsuem.com
 domain:windowsupdate.com
+domain:wing.com
 domain:winhec.com
 domain:winhec.net
 domain:wink.am
@@ -7901,7 +7949,6 @@ full:maps.apple.com:@cn
 full:mc.yandex.com:@ads
 full:mc.yandex.net:@ads
 full:mc.yango.com:@ads
-full:mdn.mozillademos.org
 full:mdr.ksn.kaspersky-labs.com:@cn
 full:mesu-cdn.apple.com.akadns.net:@cn
 full:mesu-china.apple.com.akadns.net:@cn

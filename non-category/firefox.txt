@@ -1,3 +1,6 @@
+domain:extendfirefox.com
 domain:firefox.com
+domain:firefox.hu
+domain:firefoxtweetmachine.com
 domain:firefoxusercontent.com
 full:mozilla-ohttp.fastly-edge.com

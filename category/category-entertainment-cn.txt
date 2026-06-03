@@ -513,6 +513,7 @@ domain:mahjongcup.com
 domain:mahjongcup.net
 domain:mail4399.com
 domain:maindown4399.com
+domain:maoer.com
 domain:maoercdn.com
 domain:max-c.com
 domain:maxadmin.cn
@@ -533,6 +534,7 @@ domain:mihoyocg.com
 domain:mihoyogift.com
 domain:mihoyomall.com
 domain:mincdn.com
+domain:missevan.com
 domain:miyoushe.com
 domain:mmstat.com
 domain:mobilemsg.youku.com:@ads
@@ -716,6 +718,7 @@ domain:xiaoheihe.cn
 domain:xiaoyuzhoufm.com
 domain:ximalaya.com
 domain:xindong.com
+domain:xinlishumeng.com
 domain:xinwuji.com
 domain:xmcdn.com
 domain:xn--owtw8cc49ajfl.cn
@@ -760,7 +763,6 @@ domain:zhanqi.tv
 domain:zhulang.com
 domain:zhuoyou.com
 domain:zhuoyuegame.com
-domain:zimgs.cn
 domain:zjshulong.com
 domain:zongheng.com
 full:ads3-normal-hl.zijieapi.com:@ads

@@ -26,4 +26,3 @@ domain:yk-ssp.ad.youku.com:@ads
 domain:ykad-data.youku.com:@ads
 domain:ykimg.com
 domain:youku.com
-domain:zimgs.cn

@@ -10,7 +10,10 @@ domain:cromite.org
 domain:decentr.net
 domain:dothq.org
 domain:epicbrowser.com
+domain:extendfirefox.com
 domain:firefox.com
+domain:firefox.hu
+domain:firefoxtweetmachine.com
 domain:firefoxusercontent.com
 domain:floorp.app
 domain:iridiumbrowser.de

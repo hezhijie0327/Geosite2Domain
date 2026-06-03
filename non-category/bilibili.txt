@@ -44,7 +44,9 @@ domain:hdslb.com
 domain:hdslb.org
 domain:huasheng.cn
 domain:im9.com
+domain:maoer.com
 domain:maoercdn.com
 domain:mincdn.com
+domain:missevan.com
 domain:yo9.com
 full:upos-hz-mirrorakam.akamaized.net:@!cn

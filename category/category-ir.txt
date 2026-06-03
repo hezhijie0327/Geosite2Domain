@@ -88,6 +88,7 @@ domain:khodro45.com
 domain:khorasannews.com
 domain:loxblog.com
 domain:mahex.com
+domain:maktabkhooneh.org
 domain:maskanbourse.com
 domain:mehrnews.com
 domain:mellatbroker.com

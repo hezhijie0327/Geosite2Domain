@@ -27,11 +27,14 @@ domain:ganji.com
 domain:ganjistatic1.com
 domain:jxedt.com
 domain:jxksw.net
+domain:kaoshibao.com
 domain:roomeet.cn
 domain:sofun.com
 domain:soufunimg.com
 domain:xgo-img.com.cn
 domain:xinchong.com
+domain:xueche.com
+domain:zaixiankaoshi.com
 domain:zhuancorp.com
 domain:zhuaninc.com
 domain:zhuanspirit.cn

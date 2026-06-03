@@ -255,6 +255,7 @@ domain:jfc.go.jp
 domain:jfn.su
 domain:jibunbank.co.jp
 domain:jira-tcsbank.ru
+domain:jivara.global
 domain:jivo.chat
 domain:jivo.ru
 domain:jivochat.co.in

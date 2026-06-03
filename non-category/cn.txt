@@ -179,6 +179,7 @@ domain:3h3.com
 domain:3songshu.com
 domain:3yx.com
 domain:4008-517-517.cn:@cn
+domain:4008117117.com
 domain:40407.com
 domain:423down.com
 domain:4399.com
@@ -923,6 +924,8 @@ domain:bouffalolab.com
 domain:boxdouyin.com
 domain:bplslb.com
 domain:bpltm.com
+domain:brightdairy.com
+domain:brighticecream.com
 domain:bsbsb.top
 domain:bsurl.cc
 domain:btghotels.com
@@ -1084,6 +1087,7 @@ domain:ccrgt.com
 domain:ccs.umeng.com:@ads
 domain:cctalk.com
 domain:cctv.com
+domain:cctv4g.com
 domain:cctvpic.com
 domain:ccw.site
 domain:cczq.com
@@ -1221,11 +1225,13 @@ domain:china-tower.com
 domain:china.com
 domain:chinaaet.com
 domain:chinaamc.com
+domain:chinabdh.com
 domain:chinabooktrading.com
 domain:chinabyte.com
 domain:chinacache.com
 domain:chinacache.net
 domain:chinachugui.com
+domain:chinacow.com
 domain:chinadongchu.com
 domain:chinadsl.net
 domain:chinaexpressair.com
@@ -1454,6 +1460,7 @@ domain:codeloop.top
 domain:coding.me
 domain:coding.net
 domain:codm.com
+domain:cofco.com
 domain:cofeed.com
 domain:cofool.com
 domain:coindog.com
@@ -1985,6 +1992,7 @@ domain:feihengip.com
 domain:feihuo.com
 domain:feimaoyun.com
 domain:feiniaomy.com
+domain:feiniu.com
 domain:feishu-3rd-party-services.com
 domain:feishu-boe.net
 domain:feishu-pre.net
@@ -2035,6 +2043,7 @@ domain:flycua.com
 domain:flyme.com
 domain:flymeauto.com
 domain:fm365.com
+domain:fn-mart.com
 domain:fnjiasu.com
 domain:fnnas.com
 domain:fnnas.net
@@ -3022,6 +3031,7 @@ domain:juhuiwan.net
 domain:julive.com
 domain:jumei.com
 domain:juneyaoair.com
+domain:junlebaoruye.com
 domain:jushuitan-inc.com
 domain:jushuitan.com
 domain:jushuitan.net
@@ -3065,6 +3075,7 @@ domain:kanzhun.com
 domain:kaola.com
 domain:kaolacdn.com
 domain:kaopu001.com
+domain:kaoshibao.com
 domain:kcbebank.com
 domain:kcdnvip.com
 domain:kd100.com
@@ -3332,6 +3343,7 @@ domain:linglonglife.com
 domain:lingshoujia.com
 domain:lingxigames.com
 domain:linka2a.net
+domain:linkheer.com
 domain:linkvans.com
 domain:linliyz.com
 domain:linsn.com
@@ -3440,6 +3452,7 @@ domain:mamecn.com
 domain:manhuatai.com
 domain:manmanbuy.com
 domain:manmankan.com
+domain:maoer.com
 domain:maoercdn.com
 domain:maoxiangai.com
 domain:maoyan.com
@@ -3561,6 +3574,7 @@ domain:mipcdn.com
 domain:miraclevision.com
 domain:mirrors.yun-idc.com
 domain:misc.in.duokanbox.com:@ads
+domain:missevan.com
 domain:missjia.net
 domain:mitvos.com
 domain:miui.com
@@ -4279,6 +4293,7 @@ domain:shoutanjjj.com
 domain:shouyoubus.com
 domain:shrbank.com
 domain:shssp.org
+domain:shuanghui.net
 domain:shuhai.com
 domain:shuidichou.com
 domain:shuidihuzhu.com
@@ -4396,6 +4411,7 @@ domain:ssports.com
 domain:stage1st.com
 domain:starbaby.cc
 domain:starbaby.com
+domain:starbucks.com.cn:@cn
 domain:starlakelab.com
 domain:starworldgames.com
 domain:stat.m.jd.com:@ads
@@ -4633,6 +4649,8 @@ domain:tgovcloud.com
 domain:tgpro.top
 domain:tgprocs.net
 domain:theduapp.com
+domain:thefastfile.com
+domain:thefastimg.com
 domain:thelarkcloud.com
 domain:themisweeps.com
 domain:theta.sogoucdn.com:@ads
@@ -4955,6 +4973,7 @@ domain:videojj.com
 domain:videoxiaoyouxi.com
 domain:vijos.org
 domain:vip.com
+domain:vipbcw.com
 domain:vipdlt.com
 domain:vipexam.org
 domain:vipmro.com
@@ -5307,6 +5326,7 @@ domain:xingtan001.com
 domain:xingyeai.com
 domain:xinhuanet.com
 domain:xinhuaxmt.com
+domain:xinlishumeng.com
 domain:xinmeng.info
 domain:xinrenxinshi.com
 domain:xinshipu.com
@@ -5370,6 +5390,7 @@ domain:xsa239.com
 domain:xsgtvacct.com
 domain:xuanchuanyi.com
 domain:xue51.com
+domain:xueche.com
 domain:xueersi.com
 domain:xuekanba.com
 domain:xueqiu.com
@@ -5437,6 +5458,7 @@ domain:yihedoors.com
 domain:yiigle.com
 domain:yikaochacha.com
 domain:yikexue.com
+domain:yili.com
 domain:yillionbank.com
 domain:yingjia360.com
 domain:yingjiesheng.com
@@ -5588,6 +5610,7 @@ domain:z.ai
 domain:z.gds.cnzz.com:@ads
 domain:z28j.com
 domain:zaifan.com
+domain:zaixiankaoshi.com
 domain:zampda.net
 domain:zampdsp.com
 domain:zastatic.com
