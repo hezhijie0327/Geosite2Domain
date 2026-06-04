@@ -356,6 +356,7 @@ domain:konamisportsclub.jp
 domain:konamistyle.jp
 domain:kraftonde.com
 domain:kurogames.com
+domain:kurogames.net
 domain:kyurem.com
 domain:labycore.cn
 domain:langrenclub.com

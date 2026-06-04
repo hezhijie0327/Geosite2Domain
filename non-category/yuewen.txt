@@ -1,5 +1,4 @@
 domain:hongxiu.com
-domain:lrts.me
 domain:qdmm.com
 domain:qidian.com
 domain:readnovel.com

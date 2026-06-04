@@ -1,2 +1,3 @@
 domain:aki-game.com
 domain:kurogames.com
+domain:kurogames.net

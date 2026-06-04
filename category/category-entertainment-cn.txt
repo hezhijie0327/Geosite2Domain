@@ -49,6 +49,7 @@ domain:71acg.com
 domain:71acg.net
 domain:71edge.com
 domain:7k7k.com
+domain:97ting.com
 domain:9game.cn
 domain:9xgame.com
 domain:9xsecndns.cn
@@ -73,6 +74,7 @@ domain:ad.api.3g.youku.com:@ads
 domain:ad.api.mobile.youku.com:@ads
 domain:ad.m.iqiyi.com:@ads
 domain:ad.mobile.youku.com:@ads
+domain:ad.tencentmusic.com:@ads
 domain:adashx.ut.youku.com:@ads
 domain:adbehavior.ximalaya.com:@ads
 domain:adbkwai.com:@ads
@@ -82,6 +84,7 @@ domain:adse.wsa.ximalaya.com:@ads
 domain:adse.ximalaya.com:@ads
 domain:adserviceretry.kglink.cn:@ads
 domain:adserviceretry.kugou.com:@ads
+domain:adstats.tencentmusic.com:@ads
 domain:adukwai.com:@ads
 domain:afp.iqiyi.com:@ads
 domain:aichongzoo.cn
@@ -436,6 +439,7 @@ domain:jvcsmart.cn
 domain:jvcsmart.com.cn
 domain:kajicam.com
 domain:kesong.co
+domain:kg.qq.com
 domain:kgimg.com
 domain:kglink.cn
 domain:kjcdn.com
@@ -472,6 +476,7 @@ domain:kugouyouth.com
 domain:kujiang.com
 domain:kumiao.com
 domain:kurogames.com
+domain:kurogames.net
 domain:kuwo.cn
 domain:kuyin123.com
 domain:kuyinxiu.com
@@ -539,6 +544,7 @@ domain:miyoushe.com
 domain:mmstat.com
 domain:mobilemsg.youku.com:@ads
 domain:mogoo.com
+domain:monitor.music.qq.com:@ads
 domain:morefreegame.com
 domain:motie.com
 domain:motieimg.com
@@ -551,6 +557,7 @@ domain:mszdld.com
 domain:mszdld.net
 domain:mtime.cn
 domain:mtime.com
+domain:music.qq.com
 domain:muwai.com
 domain:muyewx.com
 domain:my4399.com
@@ -601,6 +608,7 @@ domain:qmniu.com
 domain:qq163.com
 domain:qq163.net
 domain:qqgameapp.com
+domain:qqmusic.com
 domain:qtfm.cn
 domain:quehu.com
 domain:qy.net
@@ -610,6 +618,7 @@ domain:qznovelstatic.com
 domain:qznovelvod.com
 domain:readnovel.com
 domain:realcybertron.com
+domain:report.tencentmusic.com:@ads
 domain:res.hunantv.com:@ads
 domain:rmwxgame.com
 domain:ro.com
@@ -643,6 +652,7 @@ domain:sl916.com
 domain:smgbb.cn
 domain:soku.com
 domain:sqreader.com
+domain:stat.y.qq.com:@ads
 domain:stat.youku.com:@ads
 domain:statis.api.3g.youku.com:@ads
 domain:supercachenet.com
@@ -660,6 +670,7 @@ domain:taptap.com
 domain:taptapdada.com
 domain:tcfmglobal.com
 domain:tencent-gcloud.com
+domain:tencentmusic.com
 domain:tencentstart.com
 domain:texasholdemcup.cn
 domain:texasholdemcup.com
@@ -672,6 +683,9 @@ domain:tiancity.com
 domain:tiancitycdn.com
 domain:timibase.com
 domain:tingbook.com
+domain:tingmall.com
+domain:tmead.y.qq.com:@ads
+domain:tmeadcomm.y.qq.com:@ads
 domain:tudou.com
 domain:tuer123.com
 domain:tuyoo.com
@@ -679,6 +693,7 @@ domain:u17.com
 domain:u17i.com
 domain:u17t.com
 domain:ucg.cn
+domain:ultimatemusic.cn
 domain:ultracachenode.com
 domain:v6-adashx.ut.youku.com:@ads
 domain:vgtime.com
@@ -729,6 +744,7 @@ domain:xyys.com
 domain:xyzcdn.net
 domain:xyzfm.link
 domain:xyzfm.space
+domain:y.qq.com
 domain:yamibo.com
 domain:ycgame.com
 domain:yeshen.com
@@ -741,6 +757,7 @@ domain:yo9.com
 domain:yokaverse.com
 domain:youba.com
 domain:youku.com
+domain:youkuhonor.com
 domain:youxichaguan.com
 domain:youxiputao.com
 domain:youxituoluo.com

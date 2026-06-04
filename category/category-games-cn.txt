@@ -108,6 +108,7 @@ domain:jiaoyimao.cn
 domain:jiaoyimao.com
 domain:juequling.com
 domain:kurogames.com
+domain:kurogames.net
 domain:labycore.cn
 domain:langrenclub.com
 domain:ledu.com

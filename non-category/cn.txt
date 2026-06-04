@@ -324,6 +324,7 @@ domain:95588.com
 domain:962.net
 domain:9718.com
 domain:97973.com
+domain:97ting.com
 domain:99166.com
 domain:998.com
 domain:999d.com
@@ -3192,6 +3193,7 @@ domain:kunlunvi.com
 domain:kunlunwe.com
 domain:kuqin.com
 domain:kurogames.com
+domain:kurogames.net
 domain:kuyin123.com
 domain:kuyinxiu.com
 domain:kuyinyun.com
@@ -4099,6 +4101,7 @@ domain:qqgamedesign.com
 domain:qqgexingqianming.com
 domain:qqmail.com
 domain:qqmra.com
+domain:qqmusic.com
 domain:qqrizhi.com
 domain:qqshuoshuo.com
 domain:qschou.com
@@ -4691,6 +4694,7 @@ domain:timedoo.com
 domain:timibase.com
 domain:timmerse.com
 domain:tingbook.com
+domain:tingmall.com
 domain:tingyun.com
 domain:tipdm.org
 domain:titanar.com
@@ -5126,6 +5130,7 @@ domain:weidian.com
 domain:weilaicaijing.com
 domain:weilaiyunxiao.com
 domain:weiphone.net
+domain:weishi.com
 domain:weixinbridge.com
 domain:weixing.com
 domain:weiyangx.com
@@ -5433,6 +5438,7 @@ domain:ydamc.com
 domain:ydstatic.com
 domain:yeah.net
 domain:yebaojiasu.com
+domain:yebinnet.com
 domain:yeepay.com
 domain:yeshen.com
 domain:yeshj.com
@@ -5503,6 +5509,7 @@ domain:youhua.com
 domain:youjiao.com
 domain:youke.co
 domain:youku.com
+domain:youkuhonor.com
 domain:youlian.fun
 domain:youshang.com
 domain:youxiake.com

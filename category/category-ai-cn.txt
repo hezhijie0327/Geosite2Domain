@@ -91,6 +91,7 @@ domain:xinghuo.xfyun.cn
 domain:xingyeai.com
 domain:yiyan.baidu.com
 domain:yoma.cn
+domain:yuanbao.tencent.com
 domain:yuanqi.tencent.com
 domain:z.ai
 domain:zhiexa.com

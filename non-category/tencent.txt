@@ -1,4 +1,5 @@
 domain:17roco.com
+domain:97ting.com
 domain:acctdns.com
 domain:acctdns.net
 domain:acimg.cn
@@ -363,6 +364,7 @@ domain:qqgamedesign.com
 domain:qqmail.com
 domain:qqmra.cn
 domain:qqmra.com
+domain:qqmusic.com
 domain:qyunapp.com
 domain:qzone.com
 domain:readnovel.com
@@ -542,6 +544,7 @@ domain:timatrix.com.cn
 domain:timibase.com
 domain:timmerse.com
 domain:tingbook.com
+domain:tingmall.com
 domain:tjstats.com
 domain:tlivecdn.com
 domain:tlivemcdn.com
@@ -562,6 +565,7 @@ domain:txtyxg.com
 domain:txyscdn.com
 domain:txyscdn.net
 domain:ugdtimg.com:@ads
+domain:ultimatemusic.cn
 domain:um.run
 domain:uncnn.cn
 domain:vcloudstc.com
@@ -578,6 +582,7 @@ domain:wegame.com
 domain:wegame.com.cn
 domain:wegamedeveloper.com
 domain:wegameplus.com
+domain:weishi.com
 domain:weixinbridge.com
 domain:weiyun.com
 domain:werepository.com.cn
