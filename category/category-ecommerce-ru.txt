@@ -165,6 +165,7 @@ full:prodvizhenie-adv.ozon.ru:@ads
 full:questions-adv.ozon.ru:@ads
 full:sentry.ozon.ru:@ads
 full:sentry.wb.ru:@ads
+full:stats.avito.ru:@ads
 full:web-analytics.wildberries.ru:@ads
 full:xapi.ozon.by:@ads
 full:xapi.ozon.com.by:@ads

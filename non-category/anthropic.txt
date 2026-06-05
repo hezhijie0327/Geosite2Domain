@@ -3,5 +3,6 @@ domain:clau.de
 domain:claude.ai
 domain:claude.com
 domain:claudemcpclient.com
+domain:claudemcpcontent.com
 domain:claudeusercontent.com
 full:servd-anthropic-website.b-cdn.net

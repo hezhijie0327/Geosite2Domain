@@ -7945,6 +7945,7 @@ full:ksn-url.geoksn.kaspersky.com:@cn
 full:ksn-verdict-geo.kaspersky-labs.com:@cn
 full:ksn-verdict.geoksn.kaspersky.com:@cn
 full:learn.microsoft.com:@cn
+full:log.strm.yandex.ru:@ads
 full:maps.apple.com:@cn
 full:mc.yandex.com:@ads
 full:mc.yandex.net:@ads

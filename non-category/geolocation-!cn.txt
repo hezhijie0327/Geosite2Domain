@@ -5158,6 +5158,7 @@ domain:clau.de
 domain:claude.ai
 domain:claude.com
 domain:claudemcpclient.com
+domain:claudemcpcontent.com
 domain:claudeusercontent.com
 domain:clawhub.ai
 domain:clck.ru
@@ -24051,6 +24052,7 @@ full:learn.microsoft.com:@cn
 full:licdn.cn.cdn20.com
 full:link.theplatform.com
 full:live-patreon-marketing.pantheonsite.io
+full:log.strm.yandex.ru:@ads
 full:loyalnost-adv.ozon.ru:@ads
 full:lv.queniujq.cn:@cn
 full:maps.apple.com:@cn
@@ -24290,6 +24292,7 @@ full:staging.databe.floonet.goog:@cn
 full:static-login.gog-statics.com:@cn
 full:static.gc.apple.com:@cn
 full:statics.teams.cdn.office.net:@cn
+full:stats.avito.ru:@ads
 full:stats.dahlmessenger.com:@ads
 full:stats.dev.telega.info:@ads
 full:stats.rustore.ru:@ads

@@ -181,6 +181,7 @@ domain:appmetrica.yandex.com:@ads
 domain:appmetrica.yandex.net:@ads
 domain:appmetrica.yandex.ru:@ads
 domain:appmetrica.yango.com:@ads
+domain:appsflyersdk.com
 domain:apptracer.ru:@ads
 domain:ar.umeng.com:@ads
 domain:ark.letv.com:@ads
@@ -750,10 +751,12 @@ full:incoming-telemetry.thunderbird.net:@ads
 full:incoming.telemetry.mozilla.org:@ads
 full:informer.yandex.ru:@ads
 full:log-sdk.gifshow.com:@ads
+full:log.strm.yandex.ru:@ads
 full:log3-applog-hl.fqnovel.com:@ads
 full:log3-applog.fqnovel.com:@ads
 full:log5-applog-hl.fqnovel.com:@ads
 full:log5-applog.fqnovel.com:@ads
+full:logs.ads.vungle.com
 full:loyalnost-adv.ozon.ru:@ads
 full:marketing-info.wildberries.ru:@ads
 full:marketplace-sentry.wb.ru:@ads
@@ -808,6 +811,7 @@ full:sentry.wb.ru:@ads
 full:sentry.x5.ru:@ads
 full:srch-telemeter10.g.smailru.net:@ads
 full:stacks.vk-portal.net:@ads
+full:stats.avito.ru:@ads
 full:stats.dahlmessenger.com:@ads
 full:stats.dev.telega.info:@ads
 full:stats.rustore.ru:@ads
