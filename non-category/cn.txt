@@ -82,6 +82,7 @@ domain:17zuoye.com
 domain:17zuoye.net
 domain:18183.com
 domain:188.com
+domain:189smarthome.com
 domain:1905.com
 domain:19yxw.com
 domain:1huizhan.com
@@ -492,6 +493,7 @@ domain:aiops.com
 domain:aipage.com
 domain:aipai.com
 domain:aiqicha.com
+domain:air-matters.com
 domain:airchangan.com
 domain:airchinacargo.com
 domain:airguilin.com
@@ -638,6 +640,7 @@ domain:anxia.com
 domain:anycross.com
 domain:anytocopy.com
 domain:anywlan.com
+domain:aocde.com
 domain:aoshu.com
 domain:aotrip.net
 domain:aoyou.com
@@ -1164,6 +1167,7 @@ domain:cdnhwczmn114.com
 domain:cdnhwczth23.com
 domain:cdnhwcztu09.com
 domain:cdnhwczxh101.com
+domain:cdnmama.com
 domain:cdnmg.com
 domain:cdntip.com
 domain:cdntips.com
@@ -1806,6 +1810,7 @@ domain:druid.vip
 domain:dtstatic.com
 domain:du8.ltd
 domain:dualstack-logs.amap.com:@ads
+domain:duanshu.com
 domain:duapp.com
 domain:duapp.net
 domain:duapps.com
@@ -2142,6 +2147,7 @@ domain:funshion.com
 domain:funshion.net
 domain:fuwai.com
 domain:fuwj.com
+domain:fxbaogao.com
 domain:fxt365.com
 domain:fxxz.com
 domain:fyeds.com
@@ -2431,8 +2437,12 @@ domain:hikunpeng.com
 domain:hikunpeng.net
 domain:hikvision.com
 domain:hima.auto
+domain:hisense-home.com
+domain:hisense.com
 domain:hisensehitachi.com
+domain:hisensekf.com
 domain:hisilicon.com
+domain:hismarttv.com
 domain:hitevision-solutions.com
 domain:hitv.com
 domain:hiyd.com
@@ -2621,6 +2631,7 @@ domain:ibdxiguastatic.com
 domain:ibdxiguavod.com
 domain:ibidian.com
 domain:ibobscs.com
+domain:iboxpay.com
 domain:ibuychem.com
 domain:ibytedapm.com
 domain:ica-alliance.org
@@ -2675,6 +2686,7 @@ domain:igetui.com
 domain:igexin.com
 domain:igtm-meeting-tencent.com
 domain:igtm.pub
+domain:iguopin.com
 domain:igwfmc.com
 domain:ihaohaoxuexi.com
 domain:ihappystudio.com
@@ -2989,6 +3001,7 @@ domain:jmstatic.com
 domain:job5588.com
 domain:job910.com
 domain:jobjm.com
+domain:joinpay.com
 domain:jokecommunity.com
 domain:jokecommunity.net
 domain:jomocdn.net
@@ -3026,6 +3039,7 @@ domain:juefeng.com
 domain:juejin.im
 domain:juequling.com
 domain:jugongdan.com
+domain:juhaokan.org
 domain:juhuasuan.com
 domain:juhuiwan.com
 domain:juhuiwan.net
@@ -3110,6 +3124,7 @@ domain:kk1.vip
 domain:kkmh.com
 domain:kksmg.com
 domain:kkzj.com
+domain:klingai.com
 domain:klpbbs.com
 domain:knewsmart.com
 domain:kongfz.com
@@ -3285,6 +3300,7 @@ domain:lecloud.com
 domain:lecloudapi.com
 domain:ledu.com
 domain:leetcode-cn.com
+domain:lehuipay.com
 domain:leigod.com
 domain:leigodjsq.com
 domain:leikeji.com
@@ -3523,6 +3539,7 @@ domain:merach.com
 domain:meta.law
 domain:metalrevolution.com
 domain:mfcteda.com
+domain:mfuns.net
 domain:mgslb.com
 domain:mgtv.com
 domain:mhystatic.com
@@ -3738,6 +3755,8 @@ domain:nic.xin
 domain:nicaifu.com
 domain:nihaoafrica.org
 domain:ningtingche.com
+domain:nio.com
+domain:niohome.com
 domain:nlark.com
 domain:nmrdata.com
 domain:nn.com
@@ -4462,6 +4481,7 @@ domain:suzuki-china.com
 domain:swhysc.com
 domain:swsmu.com
 domain:sxcxldjy.com
+domain:sxlcdn.com
 domain:sxsimg.com
 domain:sydw8.com
 domain:syh.zybang.com:@ads
@@ -5636,6 +5656,7 @@ domain:zdnscloud.info
 domain:zdnscloud.net
 domain:zealer.com
 domain:zebracdn.com
+domain:zeekrgroup.com
 domain:zeekrlife.com
 domain:zgbk.com
 domain:zgcbank.com
@@ -5693,6 +5714,7 @@ domain:zhuanzfx.com
 domain:zhuanzhuan.com
 domain:zhuayoukong.com
 domain:zhubajie.com
+domain:zhuge.com
 domain:zhulang.com
 domain:zhuoyou.com
 domain:zhuoyuegame.com

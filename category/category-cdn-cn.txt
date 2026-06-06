@@ -3,6 +3,7 @@ domain:8686c.com
 domain:acadn.cn
 domain:acadn.com
 domain:aicdn.com
+domain:aocde.com
 domain:bbbcdns.com
 domain:bootcdn.cn
 domain:bootcdn.net

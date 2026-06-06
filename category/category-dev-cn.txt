@@ -83,6 +83,7 @@ domain:openvela.com
 domain:oschina.net
 domain:owsgo.com
 domain:pgyer.com
+domain:php.cn
 domain:phpweblog.net
 domain:pingcap.cn
 domain:pingcap.com
@@ -101,6 +102,7 @@ domain:splash-ads.cdn.unity.cn:@ads
 domain:splash-ads.unitychina.cn:@ads
 domain:sxl.cn
 domain:sxlcdn.cn
+domain:sxlcdn.com
 domain:teachblog.net
 domain:teleows.com
 domain:tencent-cloud.cn

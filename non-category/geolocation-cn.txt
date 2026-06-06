@@ -104,6 +104,7 @@ domain:18.com.cn
 domain:18183.com
 domain:188.com
 domain:189.cn
+domain:189smarthome.com
 domain:1905.com
 domain:19yxw.com
 domain:1hai.cn
@@ -577,6 +578,7 @@ domain:aipage.com
 domain:aipai.com
 domain:aiqicha.cn
 domain:aiqicha.com
+domain:air-matters.com
 domain:airchangan.com
 domain:airchina.com.cn
 domain:airchinacargo.com
@@ -748,6 +750,7 @@ domain:anytocopy.com
 domain:anywlan.com
 domain:anzhuo.cn
 domain:ao-x.ac.cn
+domain:aocde.com
 domain:aoshu.com
 domain:aotrip.net
 domain:aoyou.com
@@ -1440,6 +1443,7 @@ domain:cdnhwczoy106.cn
 domain:cdnhwczth23.com
 domain:cdnhwcztu09.com
 domain:cdnhwczxh101.com
+domain:cdnmama.com
 domain:cdnmg.com
 domain:cdntip.com
 domain:cdntips.com
@@ -1801,6 +1805,7 @@ domain:cntv.cn
 domain:cntv.com.cn
 domain:cntvwb.cn
 domain:cnweblog.com
+domain:cnwza.cn
 domain:cnzz.com
 domain:cocodiy.com
 domain:code666.com
@@ -2120,6 +2125,7 @@ domain:dianwoda.cn
 domain:dianwoda.com
 domain:dianzhenkeji.com
 domain:dicos.com.cn
+domain:dict.cn
 domain:dida365.com
 domain:didi.cn
 domain:didialift.com
@@ -2270,6 +2276,7 @@ domain:dtsbc.com.cn
 domain:dtstatic.com
 domain:du8.ltd
 domain:dualstack-logs.amap.com:@ads
+domain:duanshu.com
 domain:duapp.com
 domain:duapp.net
 domain:duapps.com
@@ -2677,6 +2684,7 @@ domain:funshion.net
 domain:furamc.com.cn
 domain:fuwai.com
 domain:fuwj.com
+domain:fxbaogao.com
 domain:fxt365.com
 domain:fxxz.com
 domain:fyeds.com
@@ -2843,6 +2851,7 @@ domain:gotolink.net
 domain:goufw.com
 domain:gov.cn
 domain:govqcloud.com
+domain:govwza.cn
 domain:gowinamc.com
 domain:gpall.cn
 domain:gpall.net
@@ -3046,9 +3055,13 @@ domain:hikunpeng.com.cn
 domain:hikunpeng.net
 domain:hikvision.com
 domain:hima.auto
+domain:hisense-home.com
+domain:hisense.com
 domain:hisensehitachi.com
+domain:hisensekf.com
 domain:hisilicon.com
 domain:hisilicon.com.cn
+domain:hismarttv.com
 domain:hitevision-solutions.com
 domain:hitokoto.cn
 domain:hitv.com
@@ -3295,6 +3308,7 @@ domain:ibdxiguastatic.com
 domain:ibdxiguavod.com
 domain:ibidian.com
 domain:ibobscs.com
+domain:iboxpay.com
 domain:ibuychem.com
 domain:ibytedapm.com
 domain:ica-alliance.org
@@ -3365,6 +3379,7 @@ domain:igexin.com
 domain:ign.com.cn
 domain:igtm-meeting-tencent.com
 domain:igtm.pub
+domain:iguopin.com
 domain:igwfmc.com
 domain:ihaohaoxuexi.com
 domain:ihappystudio.cn
@@ -3724,6 +3739,7 @@ domain:jnt-express.com.cn
 domain:job5588.com
 domain:job910.com
 domain:jobjm.com
+domain:joinpay.com
 domain:jokecommunity.cn
 domain:jokecommunity.com
 domain:jokecommunity.net
@@ -3776,6 +3792,7 @@ domain:juejin.cn
 domain:juejin.im
 domain:juequling.com
 domain:jugongdan.com
+domain:juhaokan.org
 domain:juhuasuan.com
 domain:juhuiwan.com
 domain:juhuiwan.com.cn
@@ -3881,6 +3898,7 @@ domain:kk1.vip
 domain:kkmh.com
 domain:kksmg.com
 domain:kkzj.com
+domain:klingai.com
 domain:klpbbs.com
 domain:km6g.cn
 domain:km7g.cn
@@ -4087,6 +4105,7 @@ domain:lecloudapi.com
 domain:ledu.com
 domain:leetcode-cn.com
 domain:leetcode.cn
+domain:lehuipay.com
 domain:leigod.cn
 domain:leigod.com
 domain:leigodjsq.com
@@ -4287,6 +4306,7 @@ domain:maisanqi.com
 domain:maitix.com
 domain:maixhub.com
 domain:mala.cn
+domain:mama.cn
 domain:mamayz.cn
 domain:mamayz.com
 domain:mamecn.com
@@ -4377,6 +4397,7 @@ domain:metalrevolution.com
 domain:metaso.cn
 domain:mfcteda.com
 domain:mfuns.cn
+domain:mfuns.net
 domain:mgslb.com
 domain:mgtv.com
 domain:mhystatic.com
@@ -4648,6 +4669,8 @@ domain:nihaoafrica.org
 domain:nihaorwanda.cn
 domain:ningtingche.com
 domain:nio.cn
+domain:nio.com
+domain:niohome.com
 domain:njcb.com.cn
 domain:njzq.com.cn
 domain:nlark.com
@@ -4859,6 +4882,7 @@ domain:phfund.com.cn
 domain:philanthropy.xin
 domain:phira.cn
 domain:phoenixcenter.cn
+domain:php.cn
 domain:phpcomposer.com
 domain:phpweblog.net
 domain:phpwind.com
@@ -5043,6 +5067,7 @@ domain:qingfuwuapi.cn
 domain:qingfuwucdn.com
 domain:qingfuwucdn.net
 domain:qingping.co
+domain:qingque.cn
 domain:qingsongchou.com
 domain:qingstor.com
 domain:qingting.fm
@@ -5216,6 +5241,7 @@ domain:sagemaker.com.cn:@cn
 domain:saibo.com
 domain:samasty.com
 domain:sandai.net
+domain:sangfor.com.cn
 domain:sanguosha.com
 domain:sankuai.com
 domain:sanweihou.com
@@ -5563,6 +5589,7 @@ domain:sxcxldjy.com
 domain:sxgou.cn
 domain:sxl.cn
 domain:sxlcdn.cn
+domain:sxlcdn.com
 domain:sxsimg.com
 domain:sydw8.com
 domain:syh.zybang.com:@ads
@@ -6970,6 +6997,7 @@ domain:zdnscloud.org.cn
 domain:zdzq.com.cn
 domain:zealer.com
 domain:zebracdn.com
+domain:zeekrgroup.com
 domain:zeekrlife.com
 domain:zgbk.com
 domain:zgbznet.com.cn
@@ -7043,6 +7071,7 @@ domain:zhuanzfx.com
 domain:zhuanzhuan.com
 domain:zhuayoukong.com
 domain:zhubajie.com
+domain:zhuge.com
 domain:zhulang.com
 domain:zhuoyou.com
 domain:zhuoyuegame.com

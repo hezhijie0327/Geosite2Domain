@@ -1,4 +1,5 @@
 domain:189.cn
+domain:189smarthome.com
 domain:bestpay.cn
 domain:bestpay.com.cn
 domain:chinatelecom-h.com

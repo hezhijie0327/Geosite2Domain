@@ -527,6 +527,7 @@ domain:mbdlog.iqiyi.com:@ads
 domain:me4399.com
 domain:metalrevolution.com
 domain:mfuns.cn
+domain:mfuns.net
 domain:mgtv.com
 domain:mhystatic.com
 domain:mhyurl.cn
@@ -595,6 +596,7 @@ domain:pubgtool.com
 domain:qdmm.com
 domain:qidian.com
 domain:qimao.com
+domain:qingque.cn
 domain:qingting.fm
 domain:qishui.cn
 domain:qishui.com

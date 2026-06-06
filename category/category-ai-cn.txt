@@ -42,6 +42,7 @@ domain:hi-butterfly.cn
 domain:hunyuan.tencent.com
 domain:instreet.com
 domain:kimi.com
+domain:klingai.com
 domain:liblib.art
 domain:liblib.cloud
 domain:liblib.tv

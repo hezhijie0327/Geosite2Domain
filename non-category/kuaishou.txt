@@ -18,6 +18,7 @@ domain:kuaishouzt.com
 domain:kwaicdn.com
 domain:kwaizt.com
 domain:kwimgs.com
+domain:qingque.cn
 domain:viviv.com
 domain:wsukwai.com
 domain:yximgs.com

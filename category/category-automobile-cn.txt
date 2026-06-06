@@ -27,10 +27,13 @@ domain:izuche.com
 domain:izuchebao.com
 domain:lixiang.com
 domain:nio.cn
+domain:nio.com
+domain:niohome.com
 domain:wkzuche.com
 domain:xiaopeng.com
 domain:yccdn.com
 domain:yiche.com
+domain:zeekrgroup.com
 domain:zeekrlife.com
 domain:zuche.com
 domain:zuchecdn.com
