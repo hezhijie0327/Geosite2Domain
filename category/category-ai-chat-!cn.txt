@@ -95,6 +95,7 @@ domain:mozilla.ai
 domain:notebooklm.google
 domain:notebooklm.google.com
 domain:oaistatic.com
+domain:oaistatsig.com
 domain:oaiusercontent.com
 domain:ollama.com
 domain:opal.google
@@ -113,7 +114,9 @@ domain:poe.com
 domain:poecdn.net
 domain:pplx.ai
 domain:proactivebackend-pa.googleapis.com
+domain:qoder.com
 domain:robinfrontend-pa.googleapis.com
+domain:sider.ai
 domain:sora.com
 domain:spicywriter.com
 domain:stitch.withgoogle.com

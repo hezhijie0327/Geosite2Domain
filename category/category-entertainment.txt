@@ -1764,6 +1764,7 @@ full:gog-cdn.akamaized.net:@cn
 full:gog.qtlglb.com:@cn
 full:gogalaxy.gog-statics.com:@cn
 full:hamivideo.hinet.net
+full:hb.imgix.net
 full:heads-ak-spotify-com.akamaized.net
 full:heads4-ak-spotify-com.akamaized.net
 full:hls-amt.itunes.apple.com

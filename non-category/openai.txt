@@ -4,6 +4,7 @@ domain:chatgpt.livekit.cloud
 domain:crixet.com
 domain:host.livekit.cloud
 domain:oaistatic.com
+domain:oaistatsig.com
 domain:oaiusercontent.com
 domain:openai.com
 domain:openai.com.cdn.cloudflare.net

@@ -44,6 +44,7 @@ domain:braveux.com
 domain:brew.sh
 domain:buck.build
 domain:buckbuild.com
+domain:bugsnag.com
 domain:calendarserver.org
 domain:canonical.com
 domain:carekit.org
@@ -121,6 +122,7 @@ domain:fedorapeople.org
 domain:fedoraproject.org
 domain:ffmpeg.org
 domain:fightforux.com
+domain:filezilla-project.org
 domain:firebase.com
 domain:firebase.io
 domain:firebaseapp.com
@@ -163,6 +165,7 @@ domain:git-scm.com
 domain:git.io
 domain:gitbook.com
 domain:gitbook.io
+domain:gitgud.io
 domain:github.ai
 domain:github.blog
 domain:github.com
@@ -292,6 +295,7 @@ domain:msdn.com
 domain:msinnovationchallenge.com
 domain:mspairlift.com
 domain:msropendata.com
+domain:msys2.org
 domain:myoctocat.com
 domain:mysql.com
 domain:mystrikingly.com

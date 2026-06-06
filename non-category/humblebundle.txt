@@ -1,0 +1,2 @@
+domain:humblebundle.com
+full:hb.imgix.net
