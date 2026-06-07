@@ -15352,6 +15352,7 @@ domain:notepad-plus-plus.org
 domain:noticias-rt.com
 domain:notimundo.press
 domain:notion-static.com
+domain:notion-status.com
 domain:notion.com
 domain:notion.new
 domain:notion.site
@@ -23835,6 +23836,7 @@ full:cl1-cdn.origin-apple.com.akadns.net:@cn
 full:cl1.apple.com:@cn
 full:cl2-cdn.origin-apple.com.akadns.net:@cn
 full:cl2-cn.apple.com:@cn
+full:cl2.apple.com.edgekey.net.globalredir.akadns.net:@cn
 full:cl2.apple.com:@cn
 full:cl3-cdn.origin-apple.com.akadns.net:@cn
 full:cl3.apple.com:@cn
@@ -23993,6 +23995,7 @@ full:googlevads-cn.com:@cn
 full:gs-loc-cn.apple.com:@cn
 full:gs-loc.apple.com:@cn
 full:gsp10-ssl-cn.ls.apple.com:@cn
+full:gsp11-cn.ls.apple.com:@cn
 full:gsp12-cn.ls.apple.com:@cn
 full:gsp13-cn.ls.apple.com:@cn
 full:gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net:@cn
@@ -24022,8 +24025,6 @@ full:hub.slarker.me
 full:i.dell.com:@cn
 full:i.jeded.com
 full:i.pki.goog:@cn
-full:icloud-cdn.icloud.com.akadns.net:@cn
-full:icloud.cdn-apple.com:@cn
 full:images-cn-8.ssl-images-amazon.com:@cn
 full:images-cn.ssl-images-amazon.com:@cn
 full:images.apple.com.edgekey.net.globalredir.akadns.net:@cn
@@ -24156,10 +24157,8 @@ full:ntppool2.time.nl
 full:o.pki.goog:@cn
 full:o33249.ingest.sentry.io:@ads
 full:o4504926511693824.ingest.sentry.io:@ads
-full:ocsp-lb.apple.com.akadns.net:@cn
 full:ocsp.apple.com:@cn
 full:ocsp.pki.goog:@cn
-full:ocsp2-lb.apple.com.akadns.net:@cn
 full:ocsp2.apple.com:@cn
 full:oemsoc.download.prss.microsoft.com:@cn
 full:officecdn.microsoft.com:@cn
@@ -24192,7 +24191,6 @@ full:p18.upd.kaspersky.com:@cn
 full:p19.upd.kaspersky.com:@cn
 full:pagead-googlehosted.l.google.com:@cn
 full:pancake.apple.com:@cn
-full:pancake.cdn-apple.com.akadns.net:@cn
 full:pba0.apple.com:@cn
 full:pd-nk.itunes.apple.com:@cn
 full:pd.itunes.apple.com:@cn
@@ -24239,7 +24237,6 @@ full:reklama.mail.ru:@ads
 full:report.ap.yandex-net.ru:@ads
 full:res-1.cdn.office.net:@cn
 full:res.cdn.office.net:@cn
-full:reserve-prime.apple.com:@cn
 full:rink.hockeyapp.net
 full:roovza-launches.appsflyersdk.com:@!cn
 full:roovza.inapps.appsflyersdk.com:@!cn

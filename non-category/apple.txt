@@ -1587,6 +1587,7 @@ full:cl1-cdn.origin-apple.com.akadns.net:@cn
 full:cl1.apple.com:@cn
 full:cl2-cdn.origin-apple.com.akadns.net:@cn
 full:cl2-cn.apple.com:@cn
+full:cl2.apple.com.edgekey.net.globalredir.akadns.net:@cn
 full:cl2.apple.com:@cn
 full:cl3-cdn.origin-apple.com.akadns.net:@cn
 full:cl3.apple.com:@cn
@@ -1620,6 +1621,7 @@ full:fides-pol.apple.com:@cn
 full:gs-loc-cn.apple.com:@cn
 full:gs-loc.apple.com:@cn
 full:gsp10-ssl-cn.ls.apple.com:@cn
+full:gsp11-cn.ls.apple.com:@cn
 full:gsp12-cn.ls.apple.com:@cn
 full:gsp13-cn.ls.apple.com:@cn
 full:gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net:@cn
@@ -1640,8 +1642,6 @@ full:gspe85-cn-ssl.ls.apple.com:@cn
 full:guzzoni-apple-com.v.aaplimg.com:@cn
 full:guzzoni.apple.com:@cn
 full:guzzoni.smoot.apple.com:@cn
-full:icloud-cdn.icloud.com.akadns.net:@cn
-full:icloud.cdn-apple.com:@cn
 full:images.apple.com.edgekey.net.globalredir.akadns.net:@cn
 full:inappcheck-cn.itunes-apple.com.akadns.net:@cn
 full:inappcheck-lb.itunes-apple.com.akadns.net:@cn
@@ -1692,9 +1692,7 @@ full:myapp.itunes.apple.com:@cn
 full:notary-submissions-prod.s3-accelerate.amazonaws.com
 full:notary-submissions-prod.s3.us-west-2.amazonaws.com
 full:np-edge.itunes.apple.com:@cn
-full:ocsp-lb.apple.com.akadns.net:@cn
 full:ocsp.apple.com:@cn
-full:ocsp2-lb.apple.com.akadns.net:@cn
 full:ocsp2.apple.com:@cn
 full:oscdn.apple.com:@cn
 full:oscdn.origin-apple.com.akadns.net:@cn
@@ -1702,7 +1700,6 @@ full:osxapps.itunes.apple.com:@cn
 full:osxapps.itunes.g.aaplimg.com:@cn
 full:p-events-delivery.akamaized.net
 full:pancake.apple.com:@cn
-full:pancake.cdn-apple.com.akadns.net:@cn
 full:pba0.apple.com:@cn
 full:pd-nk.itunes.apple.com:@cn
 full:pd.itunes.apple.com:@cn
@@ -1712,7 +1709,6 @@ full:probe.siri.apple.com:@cn
 full:prod-support.apple-support.akadns.net:@cn
 full:publicassets.cdn-apple.com:@cn
 full:push-apple.com.akadns.net
-full:reserve-prime.apple.com:@cn
 full:s.mzstatic.com:@cn
 full:s1.mzstatic.com:@cn
 full:s2.mzstatic.com:@cn
