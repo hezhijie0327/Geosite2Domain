@@ -946,6 +946,7 @@ domain:nowe.com
 domain:nowe.hk
 domain:noxygames.com
 domain:nunuyy.cc
+domain:nxtv.jp
 domain:odysee.com
 domain:offworldindustries.com
 domain:offworldindustries.net
@@ -1369,6 +1370,9 @@ domain:ultimaforever.com
 domain:ultimaonline.com
 domain:umamusume.akamaized.net
 domain:underlords.com
+domain:unext-info.jp
+domain:unext.co.jp
+domain:unext.jp
 domain:unravel2.com
 domain:unraveltwo.com
 domain:unrealengine.com

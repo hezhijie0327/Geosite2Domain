@@ -22,7 +22,6 @@ full:nmcheck.gnome.org
 full:ping.archlinux.org
 full:redirect.archlinux.org
 full:wifi.vivo.com.cn:@cn
-full:www.google.com
-full:www.gstatic.com
+full:www.gstatic.com:@cn
 full:www.qualcomm.cn:@cn
 full:www.qualcomm.com

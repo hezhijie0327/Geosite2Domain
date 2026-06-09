@@ -15590,6 +15590,7 @@ domain:nwxs8.com
 domain:nxta.org
 domain:nxtdig.com.hk
 domain:nxtdig.com.tw
+domain:nxtv.jp
 domain:nyaa.net
 domain:nyaa.si
 domain:nyahentai.re
@@ -20767,6 +20768,9 @@ domain:uncensoredhentai.xxx
 domain:uncensoredsexparties.com
 domain:underhentai.net
 domain:underlords.com
+domain:unext-info.jp
+domain:unext.co.jp
+domain:unext.jp
 domain:unfiltered.news
 domain:unidraw.io
 domain:uninhibitedcomix.com
