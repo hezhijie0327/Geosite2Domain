@@ -2211,6 +2211,7 @@ domain:gdliontech.com
 domain:gdrc.com
 domain:gdt.qq.com:@ads
 domain:gdtimg.com
+domain:geekbang.org
 domain:geekpark.net
 domain:geektool.top
 domain:geely.com
@@ -2732,8 +2733,6 @@ domain:incopat.com
 domain:indienova.com
 domain:infini-fantasy.com
 domain:infinitynewtab.com
-domain:infoq.com
-domain:infoqstatic.com
 domain:inftab.com
 domain:inkuai.com
 domain:inkwai.com
@@ -2746,7 +2745,6 @@ domain:intsig.com
 domain:intsig.net
 domain:ioppo.net
 domain:iotronic.tech
-domain:ip-cdn.com
 domain:ip138.com
 domain:ipanda.com
 domain:ipanda.net

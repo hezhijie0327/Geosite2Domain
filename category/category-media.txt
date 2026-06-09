@@ -719,6 +719,7 @@ domain:ind.sh
 domain:india.com
 domain:indiancolleges.com
 domain:infoglobo.com.br
+domain:infoq.com
 domain:infotimes.com.tw
 domain:infowars.com
 domain:infowarsmedia.com

@@ -104,6 +104,7 @@ domain:focus-img.cn
 domain:focus.cn
 domain:fpb.sohu.com:@ads
 domain:freebuf.com
+domain:geekbang.org
 domain:geekpark.net
 domain:ggoplay.com
 domain:ggowan.com
@@ -140,6 +141,7 @@ domain:ikanchai.com
 domain:imedao.com
 domain:imp.go.sohu.com:@ads
 domain:inewsweek.cn
+domain:infoq.cn
 domain:inte.sogou.com:@ads
 domain:inte.sogoucdn.com:@ads
 domain:ipanda.cn
