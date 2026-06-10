@@ -814,6 +814,7 @@ domain:autohome.tel
 domain:autoimg.cn
 domain:autoimg.com.cn
 domain:autonavi.com
+domain:avermedia.cn
 domain:avicfund.cn
 domain:avicsec.com
 domain:avlyun.com

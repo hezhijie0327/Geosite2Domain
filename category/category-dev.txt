@@ -84,6 +84,9 @@ domain:developerservices2.apple.com
 domain:devimages-cdn.apple.com
 domain:devopsassessment.net
 domain:devstreaming-cdn.apple.com
+domain:discourse-cdn.com
+domain:discourse.group
+domain:discourse.org
 domain:docker.com
 domain:docker.io
 domain:dockerstatic.com
@@ -94,6 +97,7 @@ domain:download-cdn.jetbrains.com.cn:@cn
 domain:draftjs.org
 domain:ecr.aws
 domain:electronjs.org
+domain:elegantthemes.com
 domain:elementary.io
 domain:elixir-lang.org
 domain:elrepo.org
@@ -161,6 +165,7 @@ domain:getpaint.net
 domain:getzola.org
 domain:gh.io
 domain:ghcr.io
+domain:ghe.com
 domain:git-scm.com
 domain:git.io
 domain:gitbook.com
@@ -207,6 +212,7 @@ domain:haskellstack.org
 domain:hex.pm
 domain:hexdocs.pm
 domain:hhvm.com
+domain:hivepress.io
 domain:hyperscan.io
 domain:iads.unity3d.com:@ads
 domain:imageglass.org
@@ -290,6 +296,7 @@ domain:modperl.pl
 domain:mongodb.com
 domain:mongodb.org
 domain:mono-project.com
+domain:motopress.com
 domain:mpv.io
 domain:msdn.com
 domain:msinnovationchallenge.com
@@ -483,6 +490,7 @@ domain:vfsforgit.com
 domain:vfsforgit.org
 domain:videojs.com
 domain:videolan.org
+domain:videopress.com
 domain:vim.org
 domain:visualstudio-staging.com
 domain:visualstudio.co
@@ -494,6 +502,7 @@ domain:vsassets.io
 domain:vscode-cdn.net
 domain:vscode-unpkg.net
 domain:vscode.dev
+domain:w.org
 domain:wapm.io
 domain:wasmer.io
 domain:webflow.com
@@ -502,7 +511,16 @@ domain:webkitgtk.org
 domain:weblate.org
 domain:webobjects.com
 domain:wireshark.org
+domain:wordcamp.org
+domain:wordpress.com
+domain:wordpress.net
+domain:wordpress.org
+domain:wordpress.tv
+domain:wp-themes.com
+domain:wp.com
 domain:wpewebkit.org
+domain:wpmailsmtp.com
+domain:wpvip.com
 domain:x.org
 domain:xamarin.com
 domain:xfce.org

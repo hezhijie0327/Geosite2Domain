@@ -132,6 +132,17 @@ domain:dodostatic.net
 domain:donationalerts.com
 domain:driveawaytaxi.org
 domain:drobbox.pro
+domain:drweb-av.de
+domain:drweb-av.es
+domain:drweb-av.it
+domain:drweb-av.pl
+domain:drweb.by
+domain:drweb.cn
+domain:drweb.co.jp
+domain:drweb.com
+domain:drweb.fr
+domain:drweb.kz
+domain:drweb.uz
 domain:e.mindbox.ru:@ads
 domain:eadaily.com
 domain:eadaily.info
@@ -315,6 +326,8 @@ domain:koshelek.app
 domain:ktech.team
 domain:lenta.com
 domain:lenta.tech
+domain:livejournal.com
+domain:livejournal.net
 domain:log.dzen.ru:@ads
 domain:lovina.app
 domain:magnit.com

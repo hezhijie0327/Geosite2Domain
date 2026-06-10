@@ -202,6 +202,7 @@ domain:gearstactics.com
 domain:gfx.ms
 domain:gh.io
 domain:ghcr.io
+domain:ghe.com
 domain:gigjam.com
 domain:git.io
 domain:github.ai

@@ -172,6 +172,7 @@ domain:airbnb.si
 domain:airbnb.tools
 domain:airbnb.travel
 domain:airmax360.com
+domain:allkeyshop.com
 domain:appforebay.cn:@cn
 domain:appsonebay.net
 domain:asebay.com
@@ -225,6 +226,7 @@ domain:bestbuyus.com
 domain:besztbuy.com
 domain:betternike.com
 domain:bextbuy.com
+domain:bfads.net
 domain:bidbay.com
 domain:bidorbuyindia.com
 domain:bienvenuechezbestbuy.ca
@@ -248,6 +250,7 @@ domain:buyitnow.org
 domain:buyitnow.tv
 domain:buyitnowshop.net
 domain:buynikechina.com
+domain:buyservices.com
 domain:cafr.ca
 domain:carebay.com
 domain:cargigileads.com
@@ -304,6 +307,10 @@ domain:eachpay.com
 domain:eachpay.net
 domain:easynike.com
 domain:ebahy.com
+domain:ebates.ca
+domain:ebates.kr
+domain:ebates.sg
+domain:ebatescanada.com
 domain:ebay-authenticate.net
 domain:ebay-confirm.com
 domain:ebay-course.com
@@ -496,10 +503,13 @@ domain:ebayvietnam.net
 domain:ebayworlds.com
 domain:ebayy.com
 domain:ebuyer.com
+domain:ecbsn.com
 domain:ecimg.tw
 domain:edisebay.com
 domain:eebay.com
 domain:eenike.com
+domain:eneba.com
+domain:eneba.games
 domain:epinions.com
 domain:etradebook.ru
 domain:eu-consumer-empowerment.com
@@ -514,6 +524,7 @@ domain:farfetch.com.cn:@cn
 domain:farfetch.net
 domain:farfetch.net.cn:@cn
 domain:fashionnike.com
+domain:fatwallet.com
 domain:fflnk.net
 domain:finenike.com
 domain:foampositeshoes.com
@@ -538,6 +549,7 @@ domain:geeksquadprotectionplan.org
 domain:geeksquadservices.org
 domain:geeksquadwebroot.org
 domain:geobasket.ru
+domain:gg.deals
 domain:ggsel.com
 domain:ggsel.net
 domain:gittigidiyor.net
@@ -689,6 +701,8 @@ domain:kijijii.ca
 domain:kijijiraps.ca
 domain:kijji.ca
 domain:kijjiji.ca
+domain:kinguin.net
+domain:kobo.com
 domain:ladsp.com:@ads
 domain:letsmoveforabetterworld.com
 domain:liketwice.com
@@ -997,7 +1011,10 @@ domain:rakuten.co.jp
 domain:rakuten.com
 domain:rakuten.com.tw
 domain:rakuten.ne.jp
+domain:rakuten.tv
 domain:rakuten.tw
+domain:rakutenadvertising.com
+domain:rakutengiftcards.ca
 domain:rakuya.com.tw
 domain:rclon.com
 domain:readmoo.com
@@ -1009,6 +1026,7 @@ domain:rethink.net
 domain:rimg.com.tw
 domain:rocketfishproducts.com
 domain:rocketozon.by
+domain:rrcbsn.com
 domain:runnike.com
 domain:runningnike.com
 domain:russoutdoor.ru
@@ -1097,9 +1115,15 @@ domain:towerauction.com
 domain:unbrandedproducts.com
 domain:vamo.com
 domain:vamzakaz.ru
+domain:vbcdn.com
+domain:vbcdn.net
 domain:velberis.ru
 domain:vendu.com
 domain:verygoodnike.com
+domain:viber.co
+domain:viber.com
+domain:viber.me
+domain:viki.com
 domain:vildberis.ru
 domain:vsemrabota.ru
 domain:w-mt.co

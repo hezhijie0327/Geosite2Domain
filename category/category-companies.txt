@@ -3230,6 +3230,7 @@ domain:ggpht.cn:@cn
 domain:ggpht.com
 domain:gh.io
 domain:ghcr.io
+domain:ghe.com
 domain:gib-global.com
 domain:gib.sg
 domain:gibdev.net

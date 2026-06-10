@@ -72,6 +72,7 @@ domain:clearpool.finance
 domain:coinalyze.net
 domain:coinbase.com
 domain:coindesk.com
+domain:coingate.com
 domain:coingecko.com
 domain:coinglass.com
 domain:coinmap.org
@@ -112,12 +113,15 @@ domain:huobi.sc
 domain:huobiasia.vip
 domain:huobigroup.com
 domain:huobitoken.com
+domain:hyperliquid.xyz
 domain:infura.io
 domain:invity.io
 domain:kraken.com
 domain:kraken.onl
 domain:kucoin.com
 domain:kucoin.plus
+domain:lighter.exchange
+domain:lighter.xyz
 domain:localbitcoins.com
 domain:localbitcoinschain.com
 domain:maple.finance
@@ -177,6 +181,7 @@ domain:zb.app
 domain:zb.com
 domain:zb.io
 domain:zb.live
+domain:zklighter.elliot.ai
 full:bybit-exchange.github.io
 full:bybit.ada.support
 full:d3r7nsslvs6aaf.cloudfront.net

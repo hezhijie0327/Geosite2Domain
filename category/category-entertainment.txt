@@ -404,8 +404,6 @@ domain:electronicarts.fr
 domain:elpionero.es
 domain:embark-studios.com
 domain:embark.games
-domain:eneba.com
-domain:eneba.games
 domain:enlisted.net
 domain:epicgames.com
 domain:epicgames.dev
@@ -434,6 +432,7 @@ domain:fc-buddyfight.com
 domain:fic.fan
 domain:ficador.com
 domain:ficbook.net
+domain:ficgs.com
 domain:ficmania.com
 domain:fifastreet.com
 domain:fifastreet3.com
@@ -473,6 +472,8 @@ domain:gamer.com.tw
 domain:gamer.ne.jp
 domain:gamesfirsthelsinki.com
 domain:gamespark.jp
+domain:gamesplanet.com
+domain:gametap.com
 domain:garena.co.id
 domain:garena.co.th
 domain:garena.com
@@ -511,6 +512,7 @@ domain:gooblox.com
 domain:goodreads.com
 domain:googlevideo.com
 domain:gorin.jp
+domain:gpstatic.com
 domain:gr-assets.com
 domain:greatgame.asia
 domain:gstore.val.manlaxy.com:@cn
@@ -868,7 +870,9 @@ domain:newsupermariobrosu.com
 domain:nexon.co.jp
 domain:nexon.com
 domain:nexon.io
+domain:nexon.net
 domain:nexoncdn.co.kr
+domain:nexongames.co.kr
 domain:nexus-cdn.com
 domain:nexusmods.com
 domain:nflxext.com

@@ -941,6 +941,10 @@ domain:nextwork.tw
 domain:nfsc.global
 domain:nfscdict.com
 domain:nfscofficial.com
+domain:nhk
+domain:nhk.jp
+domain:nhk.or.jp
+domain:nhkworld.jp
 domain:nikkan-gendai.com
 domain:nikkansports.com
 domain:nikkei-cnbc.co.jp

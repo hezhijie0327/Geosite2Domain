@@ -1,5 +1,6 @@
 domain:analog.com
 domain:arrow.cn
+domain:avermedia.cn
 domain:boe.com
 domain:boe.com.cn
 domain:bouffalolab.com
