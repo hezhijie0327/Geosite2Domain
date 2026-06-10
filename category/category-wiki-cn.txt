@@ -8,6 +8,7 @@ domain:mbalib.com
 domain:mcmod.cn
 domain:moegirl.org
 domain:moegirl.org.cn
+domain:pwsannong.com
 domain:qiuwen.wiki
 domain:qiuwenbaike.cn
 domain:sec-wiki.com

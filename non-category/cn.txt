@@ -477,6 +477,8 @@ domain:agconnect.link
 domain:agora.io
 domain:agoralab.co
 domain:agrantsem.com
+domain:ahcaijing.com
+domain:ahcjw.com
 domain:ahfda.com
 domain:ahitv.com
 domain:aicdn.com
@@ -1261,6 +1263,7 @@ domain:chinaso.com
 domain:chinasspp.com
 domain:chinatelecom-h.com
 domain:chinatranslation.net
+domain:chinaums.com
 domain:chinaunicom.com
 domain:chinaunionpay.com
 domain:chinaunionpay.net
@@ -2326,7 +2329,9 @@ domain:gvgoo.com
 domain:gwdang.com
 domain:gxairlines.com
 domain:gxb.io
+domain:gxxmt.com
 domain:gzcqs.com
+domain:gztv.com
 domain:gzwanju.com
 domain:gzyowin.com
 domain:h-adashx.ut.ele.me:@ads
@@ -2391,6 +2396,7 @@ domain:healthjd.com
 domain:heavenlywind.cc
 domain:hecdn.net
 domain:hefei.cc
+domain:heimadata.com
 domain:heisha.net
 domain:heiyan.com
 domain:heiyanimg.com
@@ -2532,6 +2538,7 @@ domain:huabanimg.com
 domain:huafengaw.com
 domain:huajiao.com
 domain:huajingsec.com
+domain:hualv.com
 domain:huangyuhui.net
 domain:huanleguang.com
 domain:huanqiu.com
@@ -2609,6 +2616,7 @@ domain:hwtrip.com
 domain:hwwlyz.com
 domain:hwwt8.com
 domain:hxfy888.com
+domain:hxnews.com
 domain:hxsd.com
 domain:hybiome.com
 domain:hypercachenet.com
@@ -2734,6 +2742,7 @@ domain:indienova.com
 domain:infini-fantasy.com
 domain:infinitynewtab.com
 domain:inftab.com
+domain:infzm.com
 domain:inkuai.com
 domain:inkwai.com
 domain:inspirecloud.com
@@ -2767,6 +2776,7 @@ domain:irsnp.com
 domain:isd.com
 domain:isdspeed.qq.com:@ads
 domain:isealsuite.com
+domain:ishijue.com
 domain:ishumei.com
 domain:ishuqi.com
 domain:ispqcloud.com
@@ -3100,6 +3110,7 @@ domain:keep.com
 domain:keepcdn.com
 domain:kejet.net
 domain:kekeniu.com
+domain:keruyun.com
 domain:kesong.co
 domain:ketangpai.com
 domain:kexinshe.com
@@ -3219,6 +3230,7 @@ domain:lady8844.com
 domain:lagou.com
 domain:laiwang.com
 domain:lancdn.com
+domain:landian.news
 domain:landian.vip
 domain:landian.xyz
 domain:landiannews.com
@@ -3747,6 +3759,7 @@ domain:nextvid.net
 domain:nextworkshop.net
 domain:neyetwatcher.com
 domain:nffund.com
+domain:nfpeople.com
 domain:ngabbs.com
 domain:ngacn.cc
 domain:nic.xin
@@ -3771,6 +3784,7 @@ domain:nowcoder.net
 domain:nowcoder.org
 domain:nowscore.com
 domain:npmmirror.com
+domain:npsv6.com
 domain:nruan.com
 domain:nsclick.baidu.com:@ads
 domain:nsclickvideo.baidu.com:@ads
@@ -3870,6 +3884,7 @@ domain:oss-cn-zhangjiakou.aliyuncs.com
 domain:ottcn.com
 domain:oupeng.com
 domain:ourdvsss.com
+domain:ourjiangsu.com
 domain:ourl.co
 domain:ovscdns.com
 domain:ovscdns.net
@@ -3994,6 +4009,7 @@ domain:push.qq.com:@ads
 domain:pushcfg.com
 domain:pv.hd.sohu.com:@ads
 domain:pv.sohu.com:@ads
+domain:pwsannong.com
 domain:py-axa.com
 domain:qbitai.com
 domain:qbox.me
@@ -4156,6 +4172,7 @@ domain:rdnsdb.com
 domain:readnovel.com
 domain:realcybertron.com
 domain:realme.com
+domain:realme.net
 domain:realmebbs.com
 domain:realmemobile.com
 domain:redmagic.com
@@ -4222,12 +4239,15 @@ domain:sbeacon.sina.com.cn:@ads
 domain:sbsjk.com
 domain:sc96655.com
 domain:scdng.com
+domain:scgchc.com
 domain:schoopia.com
 domain:sckg.com
 domain:sclick.baidu.com:@ads
 domain:scm121.com
 domain:scoregg.com
 domain:scratch5.com
+domain:sctv-tf.com
+domain:sctv.com
 domain:sczsxx.com
 domain:sdgdwljt.com
 domain:sdkclick.mobile.sina.cn:@ads
@@ -4300,6 +4320,7 @@ domain:shijiexia.com
 domain:shimo.im
 domain:shimonote.com
 domain:shinescan.tech
+domain:shipin520.com
 domain:shixiseng.com
 domain:shizhuang-inc.com
 domain:shizhuang-inc.net
@@ -4740,6 +4761,7 @@ domain:tmtsmartlife.com
 domain:tmtsmartrun.com
 domain:tnettms.com
 domain:tns.simba.taobao.com:@ads
+domain:to8to.com
 domain:tobosu.com
 domain:todesk.com
 domain:tokcoder.com
@@ -4875,6 +4897,7 @@ domain:ucloudufile.com
 domain:ucnaming.com
 domain:ucnaming.info
 domain:ucnaming.net
+domain:ucppt.com
 domain:ucweb.com
 domain:udache.com
 domain:udalogistic.com
@@ -4950,6 +4973,8 @@ domain:vanjee.net
 domain:vaptcha.com
 domain:vaptcha.net
 domain:variflight.com
+domain:vcg.com
+domain:vcgapi.com
 domain:vcimg.com
 domain:vcloud-byte.com
 domain:vcloudapi.com
@@ -5351,6 +5376,7 @@ domain:xinhuanet.com
 domain:xinhuaxmt.com
 domain:xinlishumeng.com
 domain:xinmeng.info
+domain:xinpianchang.com
 domain:xinrenxinshi.com
 domain:xinshipu.com
 domain:xinwuji.com
@@ -5406,6 +5432,7 @@ domain:xn0.cc
 domain:xnpic.com
 domain:xoyo.com
 domain:xoyocdn.com
+domain:xpccdn.com
 domain:xpgod.com
 domain:xqfunds.com
 domain:xqymuy.com
@@ -5661,6 +5688,7 @@ domain:zgcbank.com
 domain:zggqzp.com
 domain:zgjm.org
 domain:zgjsks.com
+domain:zgjtb.com
 domain:zglxw.com
 domain:zgsydw.com
 domain:zgxytc.com

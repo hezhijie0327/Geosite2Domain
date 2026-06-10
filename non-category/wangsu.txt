@@ -11,6 +11,7 @@ domain:lxdns.net
 domain:lxdns.org
 domain:mwcdns.com
 domain:mwcloudcdn.com
+domain:npsv6.com
 domain:ourdvsss.com
 domain:qtlcdn.cn
 domain:qtlcdn.com

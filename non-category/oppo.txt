@@ -35,6 +35,7 @@ domain:opposhop.cn
 domain:oppowork.com
 domain:opstatics.com
 domain:realme.com
+domain:realme.net
 domain:realmebbs.com
 domain:realmemobile.com
 domain:shopoppo.cn

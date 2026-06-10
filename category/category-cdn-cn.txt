@@ -54,6 +54,7 @@ domain:lxdns.org
 domain:mcadn.cn
 domain:mwcdns.com
 domain:mwcloudcdn.com
+domain:npsv6.com
 domain:oncdp.com
 domain:ourdvsss.com
 domain:phpcomposer.com

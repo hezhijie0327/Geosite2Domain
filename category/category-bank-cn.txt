@@ -47,6 +47,8 @@ domain:cebbank.com
 domain:cfc108.com
 domain:cgbchina.com.cn
 domain:chinaamc.com
+domain:chinapay.com
+domain:chinaums.com
 domain:chinaunionpay.com
 domain:chinaunionpay.com.cn
 domain:chinaunionpay.net
