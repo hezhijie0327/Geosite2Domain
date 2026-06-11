@@ -3,6 +3,7 @@ domain:oklink.com:@cn
 domain:okx-dns.com
 domain:okx-dns1.com
 domain:okx-dns2.com
+domain:okx.ac
 domain:okx.cab
 domain:okx.com
 domain:okx.com.cdn.cloudflare.net

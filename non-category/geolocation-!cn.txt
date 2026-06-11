@@ -206,6 +206,7 @@ domain:24h.tv
 domain:24hjav.com
 domain:24porn.com
 domain:24porn.pro
+domain:265.com:@cn
 domain:265sdwe3.com
 domain:2789av.com
 domain:27mmwmmw.top
@@ -1628,6 +1629,7 @@ domain:analscreen.com
 domain:analtime.org
 domain:analvids.com
 domain:analytics-alv.google.com:@ads
+domain:analytics.cloud.unity3d.com:@ads
 domain:analytics.facebook.com:@ads
 domain:analytics.tiktok.com:@!cn,@ads
 domain:analytics.vk.com:@ads
@@ -1737,6 +1739,7 @@ domain:api-adservices.apple.com:@ads
 domain:api-extractor.com
 domain:api.ai
 domain:api.news
+domain:api2.amplitude.com:@ads
 domain:apibay.org
 domain:apigee.com
 domain:apihub-internal.cn:@cn
@@ -4842,6 +4845,7 @@ domain:cdnvideo.ru
 domain:cdnvideohub.com
 domain:cdnxxx-proxy.co
 domain:cdnxxx-proxy.xyz
+domain:cdp.cloud.unity3d.com:@ads
 domain:cebay.com
 domain:cegid-cloud.cn:@cn
 domain:ceicdata.com
@@ -5430,6 +5434,7 @@ domain:comsoc.org
 domain:conair.me
 domain:conan.xxx
 domain:conda.io
+domain:config.uca.cloud.unity3d.com:@ads
 domain:connaissancesfinancierespratiques.ca
 domain:connect-in-canada.com
 domain:connectcommerce.cn:@cn
@@ -5534,6 +5539,7 @@ domain:cqcorea.com
 domain:crabporn.com
 domain:craigslist.org
 domain:crankplayer.com
+domain:crashlytics.com
 domain:crates.io
 domain:crazy-amateurs.com
 domain:crazyav.xyz
@@ -15759,6 +15765,7 @@ domain:oktech.ru
 domain:okx-dns.com
 domain:okx-dns1.com
 domain:okx-dns2.com
+domain:okx.ac
 domain:okx.cab
 domain:okx.com
 domain:older-women-movies.com
@@ -16426,6 +16433,8 @@ domain:pentium.net
 domain:peopledreamfunding.com
 domain:peoplenews.tw
 domain:pepabo.com
+domain:perf-events.cloud.unity3d.com:@ads
+domain:perf.cloud.unity3d.com:@ads
 domain:perfectgirls.net
 domain:perfectgonzo.com
 domain:perfectkickz.net
@@ -17145,6 +17154,7 @@ domain:practicalmoneyskills.com.cn:@cn
 domain:practicalmoneyskills.jp
 domain:prastitutki.ru
 domain:prcm.jp
+domain:prd-lender.cdp.internal.unity3d.com:@ads
 domain:pre-bmwgroup.jobs
 domain:predb.me
 domain:predictivetechnologies.com
@@ -23728,7 +23738,6 @@ domain:zzycdz.com
 full:1l-hit.mail.ru:@ads
 full:1l-hit.vkplay.ru:@ads
 full:1password.drift.click
-full:265.com:@cn
 full:2mdn-cn.net:@cn
 full:2mdn.net:@cn
 full:a1.mzstatic.com:@cn
@@ -24486,6 +24495,7 @@ full:www.entrust.cn:@cn
 full:www.gstatic.com:@cn
 full:www.microsoft.com:@cn
 full:www.pxcc.com:@cn
+full:www.recaptcha-cn.net:@cn
 full:www.recaptcha.net:@cn
 full:www.support.apple.com:@cn
 full:www4-static.gog-statics.com:@cn

@@ -1,7 +1,9 @@
+domain:crashlytics.com
 domain:firebase.com
 domain:firebase.io
 domain:firebaseapp.com
 domain:firebaseio.com
+full:crashlyticsreports-pa.googleapis.com:@cn
 full:firebase-settings.crashlytics.com:@cn
 full:firebase.google.com
 full:firebase.googleapis.com
@@ -15,3 +17,4 @@ full:firebaselogging-pa.googleapis.com
 full:firebaselogging.googleapis.com
 full:firebaseperusertopics-pa.googleapis.com
 full:firebaseremoteconfig.googleapis.com
+full:update.crashlytics.com:@cn

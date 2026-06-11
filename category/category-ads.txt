@@ -164,12 +164,14 @@ domain:an.yandex.ru:@ads
 domain:analytics-alv.google.com:@ads
 domain:analytics-data.io
 domain:analytics.163.com:@ads
+domain:analytics.cloud.unity3d.com:@ads
 domain:analytics.facebook.com:@ads
 domain:analytics.tiktok.com:@!cn,@ads
 domain:analytics.umetrip.com
 domain:analytics.vk.com:@ads
 domain:analytics.vpc.duolingo.com:@ads
 domain:api-adservices.apple.com:@ads
+domain:api2.amplitude.com:@ads
 domain:app-analytics-services-att.com:@ads
 domain:app-analytics-services.com:@ads
 domain:app-measurement-cn.com:@ads
@@ -223,6 +225,7 @@ domain:ccs.umeng.com:@ads
 domain:cdn.advertserve.com
 domain:cdn.banclip.com
 domain:cdn.pocoiq.cn
+domain:cdp.cloud.unity3d.com:@ads
 domain:cfts1tifqr.com
 domain:china-caa.org
 domain:chinaciaf.org
@@ -241,6 +244,7 @@ domain:cnlogs.umeng.com:@ads
 domain:cnlogs.umengcloud.com:@ads
 domain:collector.github.com:@ads
 domain:collector.xhamster.com:@ads
+domain:config.uca.cloud.unity3d.com:@ads
 domain:contentabc.com
 domain:counter.yandex.ru:@ads
 domain:cpro.baidu.com:@ads
@@ -499,6 +503,8 @@ domain:partnerad.l.google.com:@ads
 domain:passport-log.youku.com:@ads
 domain:pb.i.sogou.com:@ads
 domain:pbmp.ali213.net
+domain:perf-events.cloud.unity3d.com:@ads
+domain:perf.cloud.unity3d.com:@ads
 domain:pgdt.gtimg.cn:@ads
 domain:pglstatp-sdk-toutiao.com:@ads
 domain:pglstatp-snssdk-toutiao.com:@ads
@@ -512,6 +518,7 @@ domain:plbslog.umeng.com:@ads
 domain:pmir.3g.qq.com:@ads
 domain:policy.video.iqiyi.com:@ads
 domain:pos.baidu.com:@ads
+domain:prd-lender.cdp.internal.unity3d.com:@ads
 domain:push.qq.com:@ads
 domain:pv.hd.sohu.com:@ads
 domain:pv.sohu.com:@ads

@@ -1,6 +1,7 @@
 domain:0emm.com
 domain:1e100.net
 domain:1ucrs.com
+domain:265.com:@cn
 domain:2mdn-cn.net:@ads
 domain:2mdn.net:@ads
 domain:466453.com
@@ -155,6 +156,7 @@ domain:cookiechoices.org
 domain:coova.com
 domain:coova.net
 domain:coova.org
+domain:crashlytics.com
 domain:crossmediapanel.com
 domain:crr.com
 domain:cs4hs.com
@@ -841,7 +843,6 @@ domain:youtubemobilesupport.com
 domain:yt.be
 domain:ytimg.com
 domain:zukunftswerkstatt.de
-full:265.com:@cn
 full:2mdn-cn.net:@cn
 full:2mdn.net:@cn
 full:admob-cn.com:@cn
@@ -963,6 +964,7 @@ full:www-googletagmanager.l.google.com:@cn
 full:www.destinationurl.com:@cn
 full:www.gstatic.com:@cn
 full:www.pxcc.com:@cn
+full:www.recaptcha-cn.net:@cn
 full:www.recaptcha.net:@cn
 regexp:^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$:@cn
 regexp:^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$:@cn

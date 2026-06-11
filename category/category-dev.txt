@@ -11,11 +11,13 @@ domain:ampproject.org
 domain:anaconda.cloud
 domain:anaconda.com
 domain:anaconda.org
+domain:analytics.cloud.unity3d.com:@ads
 domain:android
 domain:android.com
 domain:androidify.com
 domain:apache.org
 domain:api-extractor.com
+domain:api2.amplitude.com:@ads
 domain:apisof.net
 domain:appcenter.ms
 domain:apple-cloudkit.com
@@ -49,6 +51,7 @@ domain:calendarserver.org
 domain:canonical.com
 domain:carekit.org
 domain:cdn.jetbrains.com:@cn
+domain:cdp.cloud.unity3d.com:@ads
 domain:centos.org
 domain:chocolatey.org
 domain:clearlinux.org
@@ -63,8 +66,10 @@ domain:compass.is
 domain:componentkit.org
 domain:compose-spec.io
 domain:conda.io
+domain:config.uca.cloud.unity3d.com:@ads
 domain:consul.io
 domain:cpan.org
+domain:crashlytics.com
 domain:crates.io
 domain:cups.org
 domain:cve.org
@@ -348,6 +353,8 @@ domain:packer.io
 domain:paint.net
 domain:parse.com
 domain:pcre.org
+domain:perf-events.cloud.unity3d.com:@ads
+domain:perf.cloud.unity3d.com:@ads
 domain:perl.org
 domain:phantomjs.org
 domain:php.net
@@ -360,6 +367,7 @@ domain:polymer-project.org
 domain:polymerproject.org
 domain:poshtestgallery.com
 domain:postgresql.org
+domain:prd-lender.cdp.internal.unity3d.com:@ads
 domain:pub.dev
 domain:putty.org
 domain:pwabuilder.com
@@ -540,6 +548,7 @@ full:cdn.ampproject.org:@cn
 full:copilot-telemetry-service.githubusercontent.com:@ads
 full:copilot-telemetry.githubusercontent.com:@ads
 full:copilotprodattachments.blob.core.windows.net
+full:crashlyticsreports-pa.googleapis.com:@cn
 full:d29vzk4ow07wi7.cloudfront.net
 full:default.exp-tas.com
 full:developer.microsoft.com
@@ -597,6 +606,7 @@ full:productionresultssa9.blob.core.windows.net
 full:psg-int-centralus.cloudapp.net
 full:psg-int-eastus.cloudapp.net
 full:rink.hockeyapp.net
+full:update.crashlytics.com:@cn
 full:vscode-sync-insiders.trafficmanager.net
 full:vscode-sync.trafficmanager.net
 full:vscode.blob.core.windows.net

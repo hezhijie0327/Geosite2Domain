@@ -1,4 +1,11 @@
+domain:analytics.cloud.unity3d.com:@ads
+domain:api2.amplitude.com:@ads
+domain:cdp.cloud.unity3d.com:@ads
+domain:config.uca.cloud.unity3d.com:@ads
 domain:iads.unity3d.com:@ads
+domain:perf-events.cloud.unity3d.com:@ads
+domain:perf.cloud.unity3d.com:@ads
+domain:prd-lender.cdp.internal.unity3d.com:@ads
 domain:unity.com
 domain:unity3d.com
 domain:unityads.unity3d.com:@ads

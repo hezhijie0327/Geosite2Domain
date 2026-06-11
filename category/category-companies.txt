@@ -56,6 +56,7 @@ domain:20yearsoffea.com
 domain:21vbc.com:@cn
 domain:21vbluecloud.com:@cn
 domain:21vbluecloud.net:@cn
+domain:265.com:@cn
 domain:2beatsdre.com
 domain:2buybeatsbydre.com
 domain:2drdrebeats.com
@@ -2108,6 +2109,7 @@ domain:cozydrdrebeats.com
 domain:cpedge.com
 domain:cqcorea.com
 domain:crankplayer.com
+domain:crashlytics.com
 domain:createspace.com
 domain:createwhatsnext.com
 domain:creativecloud.com
@@ -7580,7 +7582,6 @@ domain:zuckerberg.net
 domain:zukunftswerkstatt.de
 full:1l-hit.mail.ru:@ads
 full:1l-hit.vkplay.ru:@ads
-full:265.com:@cn
 full:2mdn-cn.net:@cn
 full:2mdn.net:@cn
 full:a1.mzstatic.com:@cn
@@ -8207,6 +8208,7 @@ full:www.destinationurl.com:@cn
 full:www.gstatic.com:@cn
 full:www.microsoft.com:@cn
 full:www.pxcc.com:@cn
+full:www.recaptcha-cn.net:@cn
 full:www.recaptcha.net:@cn
 full:www.support.apple.com:@cn
 full:xp.apple.com:@cn
