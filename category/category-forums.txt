@@ -38,6 +38,8 @@ domain:ldstatic.com
 domain:lih.kg
 domain:lihkg.com
 domain:linux.do
+domain:livejournal.com
+domain:livejournal.net
 domain:log.dzen.ru:@ads
 domain:maintracker.org
 domain:mewe.com

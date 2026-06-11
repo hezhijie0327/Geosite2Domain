@@ -105,6 +105,7 @@ domain:dodi-repacks.download
 domain:dodi-repacks.site
 domain:donkeykongcountryreturns.com
 domain:doom.com
+domain:dota2.com
 domain:dota2.wmsj.cn:@cn
 domain:dragonage.com
 domain:dragonagekeep.com
@@ -649,6 +650,7 @@ domain:unrealtournament.com
 domain:uo.com
 domain:uoherald.com
 domain:uplay.com
+domain:valve.net
 domain:valvesoftware.com
 domain:vigorgame.com
 domain:visceralgames.com

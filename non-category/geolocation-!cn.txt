@@ -6516,6 +6516,7 @@ domain:dopaminegirl.com
 domain:doseofporn.com
 domain:dot-mac.de
 domain:dot.net
+domain:dota2.com
 domain:dota2.wmsj.cn:@cn
 domain:dotcernpilot.info
 domain:dotdeb.org
@@ -12815,6 +12816,8 @@ domain:livefilestore.com
 domain:livehdcams.com
 domain:livejasmin.com
 domain:livejasminbabes.net
+domain:livejournal.com
+domain:livejournal.net
 domain:livemodels.co
 domain:liveperson.net
 domain:livephotos.cn:@cn
@@ -20914,6 +20917,7 @@ domain:uxthemes.com
 domain:v-av.com
 domain:v-has.com
 domain:v.gd
+domain:v.ps
 domain:v2ex.com
 domain:v2fly.org
 domain:v2ph.com
@@ -20938,6 +20942,7 @@ domain:valoryirene.com
 domain:value-domain.com
 domain:value-server.com
 domain:valuegb.com
+domain:valve.net
 domain:valvesoftware.com
 domain:vamo.com
 domain:vamzakaz.ru
@@ -21770,6 +21775,7 @@ domain:vporn.com
 domain:vpornvideos.com
 domain:vpro.com
 domain:vpro.net
+domain:vps.hosting
 domain:vrbgay.com
 domain:vrcams.io
 domain:vrcdn.cloud
@@ -22748,6 +22754,16 @@ domain:xsvod.xyz
 domain:xsz-av.com
 domain:xtapes.to
 domain:xtegvk.xyz
+domain:xtom.au
+domain:xtom.com
+domain:xtom.de
+domain:xtom.ee
+domain:xtom.hk
+domain:xtom.jp
+domain:xtom.nl
+domain:xtom.sg
+domain:xtom.social
+domain:xtom.us
 domain:xtracloud.cn:@cn
 domain:xtracloud.net
 domain:xtube.com

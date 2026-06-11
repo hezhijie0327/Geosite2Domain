@@ -6676,6 +6676,7 @@ domain:uweb.ru
 domain:uwn.com:@cn
 domain:uwpcommunitytoolkit.com
 domain:v-has.com
+domain:v.ps
 domain:v8.dev
 domain:v8project.org
 domain:vagrantcloud.com
@@ -6864,6 +6865,7 @@ domain:vortexmachining.com
 domain:votolia.com
 domain:vpro.com
 domain:vpro.net
+domain:vps.hosting
 domain:vred-essentials.com
 domain:vredessentials.com
 domain:vredprofessional.com
@@ -7113,6 +7115,16 @@ domain:xo.com
 domain:xplr.co
 domain:xrea.com
 domain:xscale.com
+domain:xtom.au
+domain:xtom.com
+domain:xtom.de
+domain:xtom.ee
+domain:xtom.hk
+domain:xtom.jp
+domain:xtom.nl
+domain:xtom.sg
+domain:xtom.social
+domain:xtom.us
 domain:xtracloud.cn:@cn
 domain:xtracloud.net
 domain:xuite.net
