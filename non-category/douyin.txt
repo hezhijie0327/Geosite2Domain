@@ -37,6 +37,7 @@ domain:huoshanxiaoshipin.net
 domain:huoshanzhibo.cn
 domain:huoshanzhibo.com
 domain:huoshanzhibo.net
+domain:hypercachenode.com
 domain:idouyinliving.com
 domain:idouyinpic.com
 domain:idouyinstatic.com

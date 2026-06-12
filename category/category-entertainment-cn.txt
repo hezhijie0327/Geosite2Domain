@@ -391,6 +391,7 @@ domain:huoshanzhibo.cn
 domain:huoshanzhibo.com
 domain:huoshanzhibo.net
 domain:huya.com
+domain:hypercachenode.com
 domain:hzdtv.tv
 domain:hzman.net
 domain:i3839.com

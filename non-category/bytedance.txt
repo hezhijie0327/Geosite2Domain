@@ -331,6 +331,7 @@ domain:huoshanzhibo.cn
 domain:huoshanzhibo.com
 domain:huoshanzhibo.net
 domain:hypercachenet.com
+domain:hypercachenode.com
 domain:i.snssdk.com:@ads
 domain:ibdxiguaimg.com
 domain:ibdxigualive.com
