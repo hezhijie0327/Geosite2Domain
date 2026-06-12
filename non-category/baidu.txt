@@ -51,7 +51,6 @@ domain:cpu.baidu.com:@ads
 domain:cstm.baidu.com:@ads
 domain:dlnel.com
 domain:dlnel.org
-domain:dlswbr.baidu.com:@ads
 domain:drmcmm.baidu.com:@ads
 domain:duapp.com
 domain:duapp.net
@@ -96,7 +95,6 @@ domain:jomodns.cn
 domain:jomodns.com
 domain:jomodns.net
 domain:jomoxc.com
-domain:miao.baidu.com:@ads
 domain:miaowu.baidu.com:@ads
 domain:mipcache.bdstatic.com:@ads
 domain:mipcdn.com

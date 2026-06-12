@@ -141,6 +141,7 @@ domain:my-tbank.ru
 domain:myapelsin.ru
 domain:neon.click:@ads
 domain:noosferabank.ru
+domain:nspk.ru
 domain:okko.sport
 domain:okko.tv
 domain:okkoapi.tv

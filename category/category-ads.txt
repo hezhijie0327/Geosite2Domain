@@ -270,7 +270,6 @@ domain:data.mistat.xiaomi.com:@ads
 domain:dc.letv.com:@ads
 domain:decide.mixpanel.com
 domain:dig.bdurl.net:@ads
-domain:dlswbr.baidu.com:@ads
 domain:dn-growing.qbox.me
 domain:doubleclick-cn.net:@ads
 domain:doubleclick.cn:@ads
@@ -437,7 +436,6 @@ domain:metrics.viqeo.tv:@ads
 domain:metrika.yandex.com:@ads
 domain:metrika.yandex.net:@ads
 domain:metrika.yandex.ru:@ads
-domain:miao.baidu.com:@ads
 domain:miaowu.baidu.com:@ads
 domain:microad.co.jp:@ads
 domain:microad.jp:@ads

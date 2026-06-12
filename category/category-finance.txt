@@ -348,6 +348,7 @@ domain:nishinipponbank.co.jp
 domain:nochubank.or.jp
 domain:noosferabank.ru
 domain:nptsibinbank.com
+domain:nspk.ru
 domain:number26.de
 domain:ogakikyoritsu.co.jp
 domain:oitabank.co.jp

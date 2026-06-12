@@ -1718,7 +1718,6 @@ domain:djiservice.org
 domain:dlgslb.net
 domain:dlnel.com
 domain:dlnel.org
-domain:dlswbr.baidu.com:@ads
 domain:dmall.com
 domain:dmallcdn.com
 domain:dmzj.com
@@ -3559,7 +3558,6 @@ domain:mi-idc.com
 domain:mi-img.com
 domain:mi.com
 domain:miaibox.com
-domain:miao.baidu.com:@ads
 domain:miaobolive.com
 domain:miaomiaoz.com
 domain:miaomiaozhe.com
