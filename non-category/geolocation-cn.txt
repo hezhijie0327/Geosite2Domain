@@ -601,6 +601,7 @@ domain:aizgtc.com
 domain:aizhan.com
 domain:ajzq.com
 domain:aki-game.com
+domain:aki-game2.com
 domain:akikocorp.cn
 domain:akspeedy.com
 domain:aldwx.com
@@ -686,6 +687,7 @@ domain:alizhaopin.com
 domain:allawnfs.com
 domain:allawno.com
 domain:allawntech.com
+domain:allday.work
 domain:allflow.cn
 domain:allhistory.com
 domain:alloyteam.com
@@ -1276,6 +1278,7 @@ domain:calorietech.com
 domain:camcard.com
 domain:camscanner.com
 domain:cang.com
+domain:cangpeng.com
 domain:cankaoxiaoxi.com
 domain:caocao.com.cn
 domain:caocaokeji.cn
@@ -2434,6 +2437,7 @@ domain:eolink.com
 domain:er07.com
 domain:erji.net
 domain:erp.cn
+domain:erp198.com
 domain:erp321.cn
 domain:erp321.com
 domain:erp321.net
@@ -4014,8 +4018,11 @@ domain:kunlunta.com
 domain:kunlunvi.com
 domain:kunlunwe.com
 domain:kuqin.com
+domain:kurobbs.com
+domain:kurogame.com
+domain:kurogame.xyz
+domain:kurogames-ads.com:@ads
 domain:kurogames.com
-domain:kurogames.net
 domain:kuwo.cn
 domain:kuyin123.com
 domain:kuyinxiu.com
@@ -5594,6 +5601,7 @@ domain:suningestate.com
 domain:suningholdings.com
 domain:sunlife-everbright.com
 domain:sunlogin.net
+domain:sunrocks.cn
 domain:sunrtb.com
 domain:supercachenet.com
 domain:supercachenode.com
@@ -6566,6 +6574,7 @@ domain:wuliujie.cn
 domain:wuliujie.com
 domain:wumii.com
 domain:wuming.com
+domain:wutheringwaves.cn
 domain:wuuxiang.com
 domain:wuximediaglobal.com
 domain:wuyou.net

@@ -423,6 +423,7 @@ domain:juicyads.com
 domain:jzt.jd.com:@ads
 domain:kaprila.com
 domain:kepler-37b.com
+domain:kurogames-ads.com:@ads
 domain:kuyun.com
 domain:ladsp.com:@ads
 domain:leanplum.com

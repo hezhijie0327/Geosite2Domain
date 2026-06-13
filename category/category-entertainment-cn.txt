@@ -92,6 +92,7 @@ domain:aihst8.com
 domain:aisee.tv
 domain:aixifan.com
 domain:aki-game.com
+domain:aki-game2.com
 domain:ali213.net
 domain:aligames.com
 domain:aliwx.com.cn
@@ -476,8 +477,11 @@ domain:kugouvoice.com
 domain:kugouyouth.com
 domain:kujiang.com
 domain:kumiao.com
+domain:kurobbs.com
+domain:kurogame.com
+domain:kurogame.xyz
+domain:kurogames-ads.com:@ads
 domain:kurogames.com
-domain:kurogames.net
 domain:kuwo.cn
 domain:kuyin123.com
 domain:kuyinxiu.com
@@ -728,6 +732,7 @@ domain:wohst8.com
 domain:wsukwai.com
 domain:wting.info
 domain:wtzw.com
+domain:wutheringwaves.cn
 domain:xd.cn
 domain:xd.com
 domain:xdcdn.net

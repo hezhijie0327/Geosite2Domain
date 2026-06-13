@@ -40,6 +40,7 @@ domain:9game.cn
 domain:9xgame.com
 domain:abdf002.com
 domain:aki-game.com
+domain:aki-game2.com
 domain:aligames.com
 domain:anticheatexpert.com
 domain:appeeres.com
@@ -107,8 +108,11 @@ domain:in.th
 domain:jiaoyimao.cn
 domain:jiaoyimao.com
 domain:juequling.com
+domain:kurobbs.com
+domain:kurogame.com
+domain:kurogame.xyz
+domain:kurogames-ads.com:@ads
 domain:kurogames.com
-domain:kurogames.net
 domain:labycore.cn
 domain:langrenclub.com
 domain:ledu.com
@@ -211,6 +215,7 @@ domain:werepository.com.cn
 domain:winegame.net
 domain:wmsj.cn
 domain:wo1wan.com
+domain:wutheringwaves.cn
 domain:xd.cn
 domain:xd.com
 domain:xdcdn.net

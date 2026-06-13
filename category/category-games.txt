@@ -52,6 +52,7 @@ domain:ac-pocketcamp.com
 domain:acesofthunder.net
 domain:activematter.game
 domain:aki-game.com
+domain:aki-game2.com
 domain:aligames.com
 domain:amiibo.com
 domain:anthemgame.com
@@ -358,8 +359,11 @@ domain:konamiopen.jp
 domain:konamisportsclub.jp
 domain:konamistyle.jp
 domain:kraftonde.com
+domain:kurobbs.com
+domain:kurogame.com
+domain:kurogame.xyz
+domain:kurogames-ads.com:@ads
 domain:kurogames.com
-domain:kurogames.net
 domain:kyurem.com
 domain:labycore.cn
 domain:langrenclub.com
@@ -900,6 +904,7 @@ domain:worldofwarships.com
 domain:wotblitz.com
 domain:wowsblitz.com
 domain:wtmobile.com
+domain:wutheringwaves.cn
 domain:xbox
 domain:xbox.co
 domain:xbox.com
@@ -1026,6 +1031,7 @@ full:steampipe-kr.akamaized.net
 full:steampipe-partner.akamaized.net
 full:steampipe.akamaized.net
 full:steamstore-a.akamaihd.net
+full:steamugcquincy.blob.core.windows.net
 full:steamusercontent-a.akamaihd.net
 full:steamuserimages-a.akamaihd.net
 full:steamvideo-a.akamaihd.net

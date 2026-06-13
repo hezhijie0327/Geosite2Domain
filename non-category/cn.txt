@@ -512,6 +512,7 @@ domain:aizgtc.com
 domain:aizhan.com
 domain:ajzq.com
 domain:aki-game.com
+domain:aki-game2.com
 domain:akspeedy.com
 domain:aldwx.com
 domain:ali-api-test.net
@@ -589,6 +590,7 @@ domain:alizhaopin.com
 domain:allawnfs.com
 domain:allawno.com
 domain:allawntech.com
+domain:allday.work
 domain:allhistory.com
 domain:alloyteam.com
 domain:allyes.com
@@ -1075,6 +1077,7 @@ domain:calorietech.com
 domain:camcard.com
 domain:camscanner.com
 domain:cang.com
+domain:cangpeng.com
 domain:cankaoxiaoxi.com
 domain:capitalonline.net
 domain:cardbaobao.com
@@ -1936,6 +1939,7 @@ domain:eoffcn.com
 domain:eolink.com
 domain:er07.com
 domain:erji.net
+domain:erp198.com
 domain:erp321.com
 domain:erp321.net
 domain:ersjk.com
@@ -3216,8 +3220,11 @@ domain:kunlunta.com
 domain:kunlunvi.com
 domain:kunlunwe.com
 domain:kuqin.com
+domain:kurobbs.com
+domain:kurogame.com
+domain:kurogame.xyz
+domain:kurogames-ads.com:@ads
 domain:kurogames.com
-domain:kurogames.net
 domain:kuyin123.com
 domain:kuyinxiu.com
 domain:kuyinyun.com

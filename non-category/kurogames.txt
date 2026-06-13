@@ -1,3 +1,12 @@
 domain:aki-game.com
+domain:aki-game.net:@!cn
+domain:aki-game2.com
+domain:aki-game2.net:@!cn
+domain:kurobbs.com
+domain:kurogame.com
+domain:kurogame.net:@!cn
+domain:kurogame.xyz
+domain:kurogames-ads.com:@ads
 domain:kurogames.com
-domain:kurogames.net
+domain:kurogames.net:@!cn
+domain:wutheringwaves.cn
