@@ -5962,6 +5962,9 @@ domain:redtube.com.br
 domain:redtubepremium.com
 domain:redzonechannel.com
 domain:reform-apple.com
+domain:reg.cloud
+domain:reg.com
+domain:reg.ru
 domain:registeridm.com
 domain:relap.mail.ru:@ads
 domain:relateiq.com

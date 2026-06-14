@@ -59,6 +59,7 @@ domain:jtjms-mx.com
 domain:jtjms-sa.com
 domain:kd100.com
 domain:kjwugx.com
+domain:kuaidi.com
 domain:kuaidi100.com
 domain:kuaidilab.com
 domain:linliyz.com

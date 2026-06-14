@@ -24,7 +24,9 @@ domain:ksyungslb.com
 domain:liebao.cn
 domain:papocket.com
 domain:qwps.cn
+domain:seasungames.cn
 domain:seasungames.com
+domain:seasunwbl.com
 domain:testplus.cn
 domain:wps.cn
 domain:wps.com

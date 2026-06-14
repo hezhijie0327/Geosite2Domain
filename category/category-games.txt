@@ -124,8 +124,10 @@ domain:camelotherald.com
 domain:camelotherald.net
 domain:capitalgames.com
 domain:capturingreality.com
+domain:cbjq.com
 domain:cdncl.net
 domain:championshipseriesleague.com
+domain:changyou.com
 domain:chillingo.com
 domain:chunkbase.com
 domain:clash.com
@@ -147,6 +149,7 @@ domain:csgo.wmsj.cn:@cn
 domain:cubicmotion.com
 domain:cubicodyssey.game
 domain:curseforge.com
+domain:cy.com
 domain:cygames.co.jp
 domain:cygames.jp
 domain:daoc.net
@@ -707,6 +710,9 @@ domain:scsentry.cn
 domain:sdo.com
 domain:seagroup.com
 domain:seaofsolitude.com
+domain:seasungames.cn
+domain:seasungames.com
+domain:seasunwbl.com
 domain:seeurlpcl.com
 domain:sekai.colorfulpalette.org
 domain:shadowcomplex.com
@@ -760,6 +766,7 @@ domain:steam.ru.qtlglb.com
 domain:steam.tv
 domain:steamchina.com:@cn
 domain:steamcommunity.com
+domain:steamconnecttest.com
 domain:steamcontent.com
 domain:steamdb.info
 domain:steamdeck.com
@@ -812,6 +819,7 @@ domain:teamneedforspeed.com
 domain:tellmewhygame.com
 domain:tencent-gcloud.com
 domain:tencentstart.com
+domain:testplus.cn
 domain:texasholdemcup.cn
 domain:texasholdemcup.com
 domain:texasholdemcup.net
@@ -934,9 +942,12 @@ domain:xenoblade.com
 domain:xhlsgs.com
 domain:xindong.com
 domain:xinwuji.com
+domain:xishanju.com
 domain:xn--mts47c3w9b1qr.cn:@cn
 domain:xn--mts47c3w9b1qr.net
 domain:xn--owtw8cc49ajfl.cn
+domain:xoyo.com
+domain:xoyocdn.com
 domain:ycgame.com
 domain:yingxiong.com
 domain:ylands.com

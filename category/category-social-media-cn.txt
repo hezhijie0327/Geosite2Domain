@@ -29,6 +29,7 @@ domain:hupucdn.com
 domain:ivwen.com
 domain:jike.city
 domain:jikecdn.com
+domain:laiyagushi.com
 domain:log.mix.sina.com.cn:@ads
 domain:log.sina.cn:@ads
 domain:log2.sina.cn:@ads
@@ -65,6 +66,7 @@ domain:taou.com
 domain:tieba.baidu.com
 domain:tieba.com
 domain:videoself.cn
+domain:vzuu.com
 domain:wapwbclick.mobile.sina.cn:@ads
 domain:wbclick.mobile.sina.cn:@ads
 domain:wbimg.cn

@@ -1,4 +1,3 @@
-domain:appsflayer.com
 domain:binance.cc
 domain:binance.charity
 domain:binance.cloud
@@ -28,11 +27,19 @@ domain:binancezh.net
 domain:binancezh.pro
 domain:binancezh.sh
 domain:binancezh.top
+domain:bmwweb.solutions
+domain:bnappweb.black
+domain:bnbchain.org
 domain:bnbstatic.com
 domain:bntrace.com
+domain:bsappapi.cc
 domain:bsappapi.com
+domain:bscdnweb.com
 domain:nftstatic.com
 domain:saasexch.cc
 domain:saasexch.co
 domain:saasexch.com
+domain:saasexch.info
 domain:saasexch.io
+full:zftksc.cdn-settings.appsflyersdk.com
+full:zftksc.launches.appsflyersdk.com

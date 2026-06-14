@@ -43,7 +43,9 @@ domain:5054399.com
 domain:5054399.net
 domain:51zmt.top
 domain:5wyxi.com
+domain:6.cn
 domain:61.com
+domain:6rooms.com
 domain:71.am
 domain:71acg.com
 domain:71acg.net
@@ -175,11 +177,13 @@ domain:bsbsb.top
 domain:buke999.com
 domain:bx1k.com
 domain:c.uaa.iqiyi.com:@ads
+domain:cbjq.com
 domain:ccw.site
 domain:cdkeynogap.com
 domain:cdncl.net
 domain:cgames.com
 domain:changdunovel.com
+domain:changyou.com
 domain:chat.top
 domain:chuapp.com
 domain:cibn.cc
@@ -192,6 +196,7 @@ domain:codm.com
 domain:cookicut.com
 domain:cowlevel.net
 domain:cupid.iqiyi.com:@ads
+domain:cy.com
 domain:da.hunantv.com:@ads
 domain:da.mgtv.com:@ads
 domain:dandanplay.com
@@ -222,6 +227,7 @@ domain:douyuscdn.com
 domain:douyutv.com
 domain:dtstatic.com
 domain:duitang.com
+domain:duoduocdn.com
 domain:duoshan.com
 domain:duowan.com
 domain:dwstatic.com
@@ -245,6 +251,7 @@ domain:fanqiesdkstatic.com
 domain:fanqiesdkvod.com
 domain:fanxingliveshow.com
 domain:feihuo.com
+domain:fengniao.com
 domain:ffbuddy.com
 domain:forevernine.com
 domain:fqnovel-op.com
@@ -420,6 +427,7 @@ domain:ihuoshanvod.com
 domain:ihykb.com
 domain:ikstatic.cn
 domain:im9.com
+domain:img-space.com
 domain:img4399.com
 domain:imgo.tv
 domain:in.th
@@ -644,6 +652,9 @@ domain:scescdn.cn
 domain:scid.cn
 domain:scsentry.cn
 domain:sdo.com
+domain:seasungames.cn
+domain:seasungames.com
+domain:seasunwbl.com
 domain:sfacg.com
 domain:shengqugames.com
 domain:shoutanjjj.com
@@ -679,6 +690,7 @@ domain:tcfmglobal.com
 domain:tencent-gcloud.com
 domain:tencentmusic.com
 domain:tencentstart.com
+domain:testplus.cn
 domain:texasholdemcup.cn
 domain:texasholdemcup.com
 domain:texasholdemcup.net
@@ -743,8 +755,12 @@ domain:ximalaya.com
 domain:xindong.com
 domain:xinlishumeng.com
 domain:xinwuji.com
+domain:xishanju.com
+domain:xiu123.cn
 domain:xmcdn.com
 domain:xn--owtw8cc49ajfl.cn
+domain:xoyo.com
+domain:xoyocdn.com
 domain:xs.cn
 domain:xs8.cn
 domain:xxsy.net
@@ -785,6 +801,8 @@ domain:yystv.cn
 domain:yzyxgame.com
 domain:zcjbgame.com
 domain:zhanqi.tv
+domain:zhibo8.cc
+domain:zhibo8.com
 domain:zhulang.com
 domain:zhuoyou.com
 domain:zhuoyuegame.com

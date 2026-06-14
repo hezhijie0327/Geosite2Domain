@@ -60,9 +60,12 @@ domain:biligame.net
 domain:brawlstars.cn
 domain:buke999.com
 domain:bx1k.com
+domain:cbjq.com
 domain:cdncl.net
+domain:changyou.com
 domain:codm.com
 domain:cowlevel.net
+domain:cy.com
 domain:dobest.com
 domain:edu4399.com
 domain:feihuo.com
@@ -171,6 +174,9 @@ domain:scescdn.cn
 domain:scid.cn
 domain:scsentry.cn
 domain:sdo.com
+domain:seasungames.cn
+domain:seasungames.com
+domain:seasunwbl.com
 domain:shengqugames.com
 domain:shyxhy.com
 domain:skydweller.cn
@@ -187,6 +193,7 @@ domain:taptapdada.com
 domain:tcfmglobal.com
 domain:tencent-gcloud.com
 domain:tencentstart.com
+domain:testplus.cn
 domain:texasholdemcup.cn
 domain:texasholdemcup.com
 domain:texasholdemcup.net
@@ -222,7 +229,10 @@ domain:xdcdn.net
 domain:xhlsgs.com
 domain:xindong.com
 domain:xinwuji.com
+domain:xishanju.com
 domain:xn--owtw8cc49ajfl.cn
+domain:xoyo.com
+domain:xoyocdn.com
 domain:ycgame.com
 domain:yingxiong.com
 domain:yokaverse.com

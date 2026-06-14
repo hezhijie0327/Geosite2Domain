@@ -34,6 +34,7 @@ domain:caijing.com.cn
 domain:cailianpress.com
 domain:caixin.com
 domain:cankaoxiaoxi.com
+domain:cbinews.com
 domain:cctv.cn
 domain:cctv.com
 domain:cctv4g.com
@@ -46,6 +47,7 @@ domain:cctvpro.cn
 domain:cctvpro.com.cn
 domain:cfgw.net.cn
 domain:chaindd.com
+domain:cheaa.com
 domain:checkzeit.com
 domain:chinaaet.com
 domain:chinabyte.com
@@ -129,6 +131,7 @@ domain:hexin.cn
 domain:hexin.com.cn
 domain:hexun.com
 domain:hndt.com
+domain:hnol.net
 domain:hntv.tv
 domain:huanqiu.com
 domain:huanqiucdn.cn
@@ -162,6 +165,7 @@ domain:ipanda.com
 domain:ipanda.com.cn
 domain:ipanda.net
 domain:iresearch.cn
+domain:istv.cn
 domain:it168.com
 domain:itc.cn
 domain:ithome.com
@@ -306,6 +310,9 @@ domain:track.sohu.com:@ads
 domain:tvcc.cn
 domain:tvcc.com.cn
 domain:uranus.sogou.com:@ads
+domain:vbdata.cn
+domain:vcbeat.top
+domain:voc.com.cn
 domain:wallstcn.com
 domain:wallstreetcn.com
 domain:wannianqingjianzhan.com

@@ -2134,7 +2134,6 @@ domain:appmetrica.yandex.ru:@ads
 domain:appmetrica.yango.com:@ads
 domain:approvedusedbmw.com
 domain:appserviceenvironment.cn:@cn
-domain:appsflayer.com
 domain:appsmail.ru
 domain:appsonebay.net
 domain:appspot.com
@@ -2881,6 +2880,7 @@ domain:barrons-advisor.com
 domain:barrons-conferences.com
 domain:barrons.com
 domain:barss1207.pro
+domain:base.org
 domain:baselinestudy.com
 domain:baselinestudy.org
 domain:basilisk-browser.org
@@ -3538,6 +3538,7 @@ domain:bitfinex.com
 domain:bitflyer.com
 domain:bitflyer.jp
 domain:bitget.com
+domain:bitlayer.org
 domain:bitly.com
 domain:bitly.is
 domain:bitmex.com
@@ -3575,6 +3576,7 @@ domain:blacksonblondes.com
 domain:blackstonespoliceservice.com
 domain:blacktowhite.net
 domain:blaoshi.cc
+domain:blast.io
 domain:blazor.net
 domain:blender.org
 domain:blink.org
@@ -4128,11 +4130,14 @@ domain:bmwusatires.com
 domain:bmwusfactory.com
 domain:bmwusrideracademy.com
 domain:bmwvalueservice.com
+domain:bmwweb.solutions
 domain:bmwwholesaleconnect.com
 domain:bmwworld.com
 domain:bmwworld.net
 domain:bmwworld.tv
 domain:bmwzentrum.com
+domain:bnappweb.black
+domain:bnbchain.org
 domain:bnbstatic.com
 domain:bnef.com
 domain:bnext.com.tw
@@ -4374,7 +4379,9 @@ domain:brutalfetish.com
 domain:bs-adreview.com
 domain:bs-awh.ne.jp
 domain:bs.yandex.ru:@ads
+domain:bsappapi.cc
 domain:bsappapi.com
+domain:bscdnweb.com
 domain:bsi.ir
 domain:bsky.app
 domain:bsky.network
@@ -4910,6 +4917,7 @@ domain:cftest7.com:@cn
 domain:cftest8.com:@cn
 domain:cfwives.com
 domain:ch9.ms
+domain:chainid.network
 domain:championshipseriesleague.com
 domain:change.org
 domain:chargenow.com
@@ -5486,6 +5494,7 @@ domain:copy2000.online
 domain:coqnu.com
 domain:corbinfisher.com
 domain:cordcloud.org
+domain:coredao.org
 domain:coreduo.com
 domain:coreextreme.com
 domain:corel.com
@@ -6651,6 +6660,7 @@ domain:dropboxmail.com
 domain:dropboxpartners.com
 domain:dropboxstatic.com
 domain:dropboxusercontent.com
+domain:drpc.org
 domain:drtuber.com
 domain:drunk6.com
 domain:drunkenstepfather.com
@@ -7903,6 +7913,8 @@ domain:fansta.me
 domain:fansteek.com
 domain:fantasiasguatemala.com
 domain:fantasti.cc
+domain:fantom.foundation
+domain:fantom.network
 domain:fantv.hk
 domain:fap-xxx.com
 domain:fap18.net
@@ -8090,6 +8102,7 @@ domain:fgmtv.org
 domain:fi11.com
 domain:fi11av1.com
 domain:fi11tv1.com
+domain:fiat24.com
 domain:fibank.bg
 domain:fic.fan
 domain:ficador.com
@@ -8234,6 +8247,7 @@ domain:fjlkajhgfa.top
 domain:fl310.com
 domain:flagrasamadores.net
 domain:flameunleashed.com
+domain:flare.network
 domain:flaru.com
 domain:flashtranny.com
 domain:flatandfuckedmilfs.com
@@ -11720,6 +11734,7 @@ domain:ironna.jp
 domain:irotv301.top
 domain:irribay.com
 domain:is.gd
+domain:isafepal.com
 domain:isbgpsafeyet.com
 domain:isca-speech.org
 domain:ischool.com
@@ -13546,6 +13561,7 @@ domain:mega.co.nz
 domain:mega.io
 domain:mega.nz
 domain:megacamz.com
+domain:megaeth.com
 domain:megafilmporno.com
 domain:megafon.com
 domain:megafon.ru
@@ -13586,6 +13602,7 @@ domain:meraki-go.com
 domain:meraki.hk
 domain:merakigo.com
 domain:meridian.net
+domain:merkl.xyz
 domain:meshmixer.com
 domain:meshmixerforum.com
 domain:messenger.com
@@ -13602,6 +13619,7 @@ domain:metacpan.org
 domain:metacritic.com
 domain:metacubex.one
 domain:metalpha.finance
+domain:metamask.io
 domain:metamind.io
 domain:metaporn.com
 domain:metart.com
@@ -13618,6 +13636,7 @@ domain:metropolitana.tokyo
 domain:metrotoons.com
 domain:meuhentai.com
 domain:mewe.com
+domain:mexc.co
 domain:mexc.com
 domain:mexcsensors.com
 domain:mfg-inspector.com
@@ -15383,6 +15402,7 @@ domain:nodeget.com
 domain:nodeimage.com
 domain:nodejs.org
 domain:nodequality.com
+domain:nodereal.io
 domain:nodeseek.com
 domain:nodesource.com
 domain:noisullifb.com
@@ -15678,6 +15698,7 @@ domain:oaistatsig.com
 domain:oaiusercontent.com
 domain:oanencore.com
 domain:oann.com
+domain:oasis.io
 domain:oath.cloud
 domain:oath.com
 domain:oauthz.com
@@ -15851,6 +15872,7 @@ domain:onestore.ms
 domain:oneteamconference.com
 domain:onetrust.com
 domain:oneworldmanystories.com
+domain:onfinality.io
 domain:onindiansex.com
 domain:oninstagram.com
 domain:onionshare.org
@@ -17751,6 +17773,9 @@ domain:redzonechannel.com
 domain:ree007.xyz
 domain:refah-bank.ir
 domain:reform-apple.com
+domain:reg.cloud
+domain:reg.com
+domain:reg.ru
 domain:regex101.com
 domain:regiongold.com
 domain:registerhulu.com
@@ -17959,6 +17984,7 @@ domain:rsc.org
 domain:rsf.org
 domain:rsg.sc
 domain:rshb.ru
+domain:rsk.co
 domain:rspao.com
 domain:rsshub.app
 domain:rssing.com
@@ -18103,6 +18129,7 @@ domain:saas-support.com
 domain:saasexch.cc
 domain:saasexch.co
 domain:saasexch.com
+domain:saasexch.info
 domain:saasexch.io
 domain:sabuibo.net
 domain:sacduc.com
@@ -18112,6 +18139,7 @@ domain:saerock.com
 domain:safebooru.org
 domain:safechat.com
 domain:safeliner.tech
+domain:safepal.com
 domain:saffrontech.com
 domain:sagabank.co.jp
 domain:sage-observability.tech
@@ -19071,6 +19099,7 @@ domain:sokmil.com
 domain:sokuresu.ai
 domain:solarcity.com
 domain:solid.ru
+domain:solidifi.app
 domain:solostudioksale.com
 domain:solutionstation.com
 domain:solveforx.com
@@ -19477,6 +19506,7 @@ domain:steam.ru.qtlglb.com
 domain:steam.tv
 domain:steamchina.com:@cn
 domain:steamcommunity.com
+domain:steamconnecttest.com
 domain:steamcontent.com
 domain:steamdb.info
 domain:steamdeck.com
@@ -19798,6 +19828,7 @@ domain:tachusz.xyz
 domain:tagapie.com.tw
 domain:tagbank.ru
 domain:taiav.com
+domain:taiko.xyz
 domain:tail-f.com
 domain:tailf.com
 domain:tailscale.com
@@ -20183,6 +20214,7 @@ domain:thinkquarterly.co.uk
 domain:thinkquarterly.com
 domain:thinkwithgoogle.com
 domain:thirdns.de
+domain:thirdweb.com
 domain:thisav.com
 domain:thisisgame.com
 domain:thisismoney.co.uk
@@ -22565,6 +22597,7 @@ domain:xknoop.com
 domain:xkontakt18.com
 domain:xkorean.cam
 domain:xl-gaytube.com
+domain:xlayer.tech
 domain:xlecx.org
 domain:xlgirls.com
 domain:xlinkz.to
@@ -24528,6 +24561,8 @@ full:xray.mail.ru:@ads
 full:xtratime.qcomgeo2.com:@cn
 full:xz.pphimalayanrt.com:@cn
 full:yangzhi.app
+full:zftksc.cdn-settings.appsflyersdk.com
+full:zftksc.launches.appsflyersdk.com
 regexp:(^|\.)13mei[5-7]\.buzz$
 regexp:(^|\.)18j[efg]\.life$
 regexp:(^|\.)18jmttios[0-9]{2}\.com$

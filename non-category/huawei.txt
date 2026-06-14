@@ -154,6 +154,7 @@ domain:cdnhwczoy106.cn
 domain:cdnhwczth23.com
 domain:cdnhwcztu09.com
 domain:cdnhwczxh101.com
+domain:chaspark.com
 domain:cza84.cn
 domain:dbank.com
 domain:dbankcdn.cn
@@ -235,6 +236,7 @@ domain:huaweisre.com
 domain:huaweistatic.com
 domain:huaweiyun.cn
 domain:huaweiyun.com
+domain:hwad.net
 domain:hwastro.cn
 domain:hwastro.com
 domain:hwccpc.cn
@@ -316,6 +318,8 @@ domain:o7mu8.cn
 domain:owsgo.com
 domain:pagescube.cn
 domain:pagescube.com
+domain:petalmail.com
+domain:petalmaps.com
 domain:powerapp.io
 domain:r8zc9.cn
 domain:ru-moscow-1.myhuaweicloud.com:@!cn

@@ -7,3 +7,4 @@ domain:okx.ac
 domain:okx.cab
 domain:okx.com
 domain:okx.com.cdn.cloudflare.net
+domain:xlayer.tech

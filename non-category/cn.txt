@@ -9,6 +9,7 @@ domain:10010.com
 domain:100bt.com
 domain:100offer.com
 domain:100tal.com
+domain:100ycdn.com
 domain:10155.com
 domain:11467.com
 domain:114blog.com
@@ -1083,6 +1084,7 @@ domain:capitalonline.net
 domain:cardbaobao.com
 domain:carnoc.com
 domain:cb.baidu.com:@ads
+domain:cbinews.com
 domain:cbjq.com
 domain:cbjs.baidu.com:@ads
 domain:ccb.com
@@ -1210,17 +1212,20 @@ domain:changba.com
 domain:changdunovel.com
 domain:changxie.com
 domain:changyan.com
+domain:changyou.com
 domain:chaojituzi.net
 domain:chaoxing.cc
 domain:chaoxing.com
 domain:chaoxingv.com
 domain:chashebao.com
+domain:chaspark.com
 domain:chat.top
 domain:chaz.fun
 domain:chazhengla.com
 domain:chazidian.com
 domain:chaziyu.com
 domain:che168.com
+domain:cheaa.com
 domain:checkzeit.com
 domain:chememall.com
 domain:cheng.xin
@@ -1574,6 +1579,7 @@ domain:cupid.iqiyi.com:@ads
 domain:cwxzx.com
 domain:cxbiji.com
 domain:cxmt.com
+domain:cy.com
 domain:cyagen.com
 domain:cybtc.com
 domain:cyol.com
@@ -1588,6 +1594,7 @@ domain:dadajiasu.com
 domain:dadighost.com
 domain:daguzhe.com
 domain:daheapp.com
+domain:daikuan.com
 domain:dajiabao.com
 domain:dajie.com
 domain:dajieimg.com
@@ -1781,6 +1788,7 @@ domain:doubaocdn.com
 domain:doubo03.com
 domain:doucang.com
 domain:doudou.com
+domain:douguo.com
 domain:douxie.com
 domain:douyin.com
 domain:douyinact.com
@@ -2468,6 +2476,7 @@ domain:hnacargo.com
 domain:hnair.com
 domain:hnbntv.com
 domain:hndt.com
+domain:hnol.net
 domain:hnrcsc.com
 domain:hntv.tv
 domain:hnyuyuhui.com
@@ -2601,6 +2610,7 @@ domain:hupun.com
 domain:huxiu.com
 domain:huxiucdn.com
 domain:huya.com
+domain:hwad.net
 domain:hwads-t.api.my7v.com:@ads
 domain:hwastro.com
 domain:hwccpc.com
@@ -2728,6 +2738,7 @@ domain:imcapptest.com
 domain:imcome.net
 domain:imcoming.com
 domain:imedao.com
+domain:img-space.com
 domain:img-x.jd.com:@ads
 domain:img4399.com
 domain:imgcdc.com
@@ -3013,6 +3024,7 @@ domain:jmstatic.com
 domain:job5588.com
 domain:job910.com
 domain:jobjm.com
+domain:jobui.com
 domain:joinpay.com
 domain:jokecommunity.com
 domain:jokecommunity.net
@@ -3169,6 +3181,7 @@ domain:ku6.com
 domain:ku6cdn.com
 domain:ku6img.com
 domain:kuaaa.com
+domain:kuaidi.com
 domain:kuaidi100.com
 domain:kuaidilab.com
 domain:kuaiduizuoye.com
@@ -3236,6 +3249,7 @@ domain:kych5.com
 domain:lady8844.com
 domain:lagou.com
 domain:laiwang.com
+domain:laiyagushi.com
 domain:lancdn.com
 domain:landian.news
 domain:landian.vip
@@ -3540,7 +3554,7 @@ domain:meipai.com
 domain:meipian.me
 domain:meiqia.com
 domain:meishichina.com
-domain:meishij.net
+domain:meishitx.com
 domain:meitu.com
 domain:meituan.com
 domain:meituan.net
@@ -3939,6 +3953,8 @@ domain:pearvideo.com
 domain:peccn.com
 domain:pengyoudewu.com
 domain:peopleapp.com
+domain:petalmail.com
+domain:petalmaps.com
 domain:pgdt.gtimg.cn:@ads
 domain:pglstatp-sdk-toutiao.com:@ads
 domain:pglstatp-snssdk-toutiao.com:@ads
@@ -4216,7 +4232,6 @@ domain:ruguoapp.com
 domain:ruiwen.com
 domain:rumt-zh.com
 domain:runoob.com
-domain:runsheng.com
 domain:ruseer.com
 domain:rwkv.com
 domain:rzrc114.com
@@ -4261,6 +4276,7 @@ domain:sdo.com
 domain:searchstatic.com
 domain:searchtoutiaolive.com
 domain:seasungames.com
+domain:seasunwbl.com
 domain:sec-wiki.com
 domain:secec.com
 domain:seclab.online
@@ -4857,6 +4873,8 @@ domain:tuicool.com
 domain:tuiwen.net
 domain:tujia.com
 domain:tuniu.com
+domain:tuniu.net
+domain:tuniucdn.com
 domain:tutuapp.com
 domain:tuwan.com
 domain:tuwanjun.com
@@ -4979,6 +4997,7 @@ domain:vanjee.net
 domain:vaptcha.com
 domain:vaptcha.net
 domain:variflight.com
+domain:vcbeat.top
 domain:vcg.com
 domain:vcgapi.com
 domain:vcimg.com
@@ -5384,7 +5403,6 @@ domain:xinlishumeng.com
 domain:xinmeng.info
 domain:xinpianchang.com
 domain:xinrenxinshi.com
-domain:xinshipu.com
 domain:xinwuji.com
 domain:xinyuanfin.com
 domain:xishanju.com
@@ -5521,6 +5539,7 @@ domain:yingjia360.com
 domain:yingjiesheng.com
 domain:yingjiesheng.net
 domain:yingxiong.com
+domain:yingyonghui.com
 domain:yinhang123.net
 domain:yinxiang.com
 domain:yinyuetai.com
@@ -5668,6 +5687,7 @@ domain:z.ai
 domain:z.gds.cnzz.com:@ads
 domain:z28j.com
 domain:zaifan.com
+domain:zaih.com
 domain:zaixiankaoshi.com
 domain:zampda.net
 domain:zampdsp.com
@@ -5716,6 +5736,7 @@ domain:zhcw.com
 domain:zhenai.com
 domain:zhfund.com
 domain:zhibo8.cc
+domain:zhibo8.com
 domain:zhichanli.com
 domain:zhidemai.com
 domain:zhidx.com
