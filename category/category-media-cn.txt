@@ -58,6 +58,7 @@ domain:chinanews.com
 domain:chinanews.com.cn
 domain:chinaott.com
 domain:chinaqw.com
+domain:chinastarmarket.cn
 domain:citv.net.cn
 domain:ckxx.net
 domain:cls.cn
@@ -118,9 +119,11 @@ domain:ggowan.com
 domain:gjgbdszt.cn
 domain:gjgbdszt.com.cn
 domain:gjgbdszt.net.cn
-domain:gmw.com
+domain:gmdaily.cn
+domain:gmw.cn
 domain:go2map.com
 domain:guancha.cn
+domain:guangmingdaily.cn
 domain:guigu.org
 domain:gw.com.cn
 domain:gxtv.cn
@@ -175,6 +178,7 @@ domain:jiemian.com
 domain:jiemian.com.cn
 domain:jin10.com
 domain:jinantimes.com.cn
+domain:jingpt.com
 domain:jiqizhixin.com
 domain:jrj.com.cn
 domain:jrjimg.cn
@@ -193,6 +197,7 @@ domain:landian.news
 domain:landian.vip
 domain:landian.xyz
 domain:landiannews.com
+domain:lanjinger.com
 domain:lapin365.com
 domain:latepost.com
 domain:leikeji.com
@@ -206,7 +211,9 @@ domain:m.aty.sohu.com:@ads
 domain:miercn.com
 domain:minapp.com
 domain:mnw.cn
+domain:moer.cn
 domain:mydrivers.com
+domain:myzaker.com
 domain:nanyuenews.com
 domain:nbd.com.cn
 domain:neweekly.com.cn

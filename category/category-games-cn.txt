@@ -1,6 +1,10 @@
 domain:17roco.com
 domain:3304399.com
 domain:3304399.net
+domain:37.com
+domain:37.com.cn
+domain:37wan.net
+domain:37wanimg.com
 domain:3839.com
 domain:3839apk.com
 domain:3839app.com
@@ -153,6 +157,7 @@ domain:nextstudios.com
 domain:nextworkshop.net
 domain:nzsiteres.com
 domain:phira.cn
+domain:playcool.com
 domain:proximabeta.com
 domain:pubghelper.com
 domain:pubgno1.cn

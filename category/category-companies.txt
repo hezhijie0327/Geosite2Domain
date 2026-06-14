@@ -5476,8 +5476,10 @@ domain:nflhotsalejerseys.com
 domain:nginxconfig.io
 domain:nheos.com
 domain:nhncorp.jp
+domain:nic.ru
 domain:nicesrv.de
 domain:nicesshop.net
+domain:nichost.ru
 domain:niosii.com
 domain:niosii.net
 domain:nomachine.com
@@ -5927,6 +5929,7 @@ domain:qwant.it
 domain:qwapi.com:@ads
 domain:r.bing.com:@cn
 domain:r.mail.ru:@ads
+domain:r01.ru
 domain:rabbitcounter.com
 domain:rabota.by
 domain:radar.imgsmail.ru:@ads
@@ -6426,6 +6429,7 @@ domain:svc.ms
 domain:sverigebeatsbydrdre.com
 domain:sway-cdn.com
 domain:sway.com
+domain:sweb.ru
 domain:swift.org
 domain:swiftui.cn:@cn
 domain:swiftui.com.cn:@cn

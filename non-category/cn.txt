@@ -67,6 +67,7 @@ domain:16888.com
 domain:169ol.com
 domain:16rd.com
 domain:17173.com
+domain:17173cdn.com
 domain:172mix.com
 domain:178.com
 domain:178linux.com
@@ -162,6 +163,8 @@ domain:36krcdn.com
 domain:36krcnd.com
 domain:37.com
 domain:3733.com
+domain:37wan.net
+domain:37wanimg.com
 domain:3839.com
 domain:3839apk.com
 domain:3839app.com
@@ -2261,7 +2264,6 @@ domain:gk100.com
 domain:globrand.com
 domain:glxcc.net
 domain:gm86.com
-domain:gmw.com
 domain:gmz88.com
 domain:gneec.com
 domain:gneec3.com
@@ -2968,6 +2970,7 @@ domain:jingdongjinrong.com
 domain:jingheiot.com
 domain:jinglingbiaozhu.com
 domain:jingpinhui.com
+domain:jingpt.com
 domain:jingxi.com
 domain:jinianbi.com
 domain:jinjiang.com
@@ -3257,6 +3260,7 @@ domain:landian.xyz
 domain:landiannews.com
 domain:langrenclub.com
 domain:lanhuapp.com
+domain:lanjinger.com
 domain:lanosso.com
 domain:lanrar.com
 domain:lanzou.com
@@ -3991,6 +3995,7 @@ domain:piyipiba.com
 domain:pkoplink.com
 domain:pkulaw.com
 domain:pl.youku.com:@ads
+domain:playcool.com
 domain:plbslog.umeng.com:@ads
 domain:pmir.3g.qq.com:@ads
 domain:pmphmooc.com

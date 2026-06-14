@@ -84,6 +84,7 @@ domain:169ol.com
 domain:16q.cn
 domain:16rd.com
 domain:17173.com
+domain:17173cdn.com
 domain:172mix.com
 domain:178.com
 domain:178linux.com
@@ -200,7 +201,10 @@ domain:36kr.com
 domain:36krcdn.com
 domain:36krcnd.com
 domain:37.com
+domain:37.com.cn
 domain:3733.com
+domain:37wan.net
+domain:37wanimg.com
 domain:3839.com
 domain:3839apk.com
 domain:3839app.com
@@ -1581,6 +1585,7 @@ domain:chinapubmed.net
 domain:chinaqw.com
 domain:chinaso.com
 domain:chinasspp.com
+domain:chinastarmarket.cn
 domain:chinastock.com.cn
 domain:chinatea.com.cn
 domain:chinatelecom-h.com
@@ -2837,8 +2842,9 @@ domain:globrand.com
 domain:glsc.com.cn
 domain:glxcc.net
 domain:gm86.com
+domain:gmdaily.cn
 domain:gmedev.cn
-domain:gmw.com
+domain:gmw.cn
 domain:gmz88.com
 domain:gneec.com
 domain:gneec.com.cn
@@ -2915,6 +2921,7 @@ domain:guanaitong.com
 domain:guancha.cn
 domain:guanggaoad.youku.com:@ads
 domain:guanggaotongapp.cn
+domain:guangmingdaily.cn
 domain:guangyacdn.com
 domain:guangyapan.com
 domain:guanhaobio.com
@@ -3711,6 +3718,7 @@ domain:jingdongjinrong.com
 domain:jingheiot.com
 domain:jinglingbiaozhu.com
 domain:jingpinhui.com
+domain:jingpt.com
 domain:jingxi.com
 domain:jinianbi.com
 domain:jinjiang.com
@@ -4063,6 +4071,7 @@ domain:langeasy.cn
 domain:langeasy.com.cn
 domain:langrenclub.com
 domain:lanhuapp.com
+domain:lanjinger.com
 domain:lanosso.com
 domain:lanrar.com
 domain:lanzou.com
@@ -4537,6 +4546,7 @@ domain:modernjs.cn
 domain:modex.com.cn
 domain:moegirl.org
 domain:moegirl.org.cn
+domain:moer.cn
 domain:mofang.com
 domain:mofazhu.com
 domain:mogoo.com
@@ -4968,6 +4978,7 @@ domain:pkoplink.com
 domain:pkuh6.cn
 domain:pkulaw.com
 domain:pl.youku.com:@ads
+domain:playcool.com
 domain:plbslog.umeng.com:@ads
 domain:pmir.3g.qq.com:@ads
 domain:pmphmooc.com

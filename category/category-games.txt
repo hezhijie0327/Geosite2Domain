@@ -8,6 +8,10 @@ domain:2ksports.com
 domain:2kweb.online
 domain:3304399.com
 domain:3304399.net
+domain:37.com
+domain:37.com.cn
+domain:37wan.net
+domain:37wanimg.com
 domain:3839.com
 domain:3839apk.com
 domain:3839app.com
@@ -572,6 +576,7 @@ domain:play4free.com
 domain:playapex.com
 domain:playartifact.com
 domain:playbattlegrounds.com
+domain:playcool.com
 domain:playhearthstone.com
 domain:playnintendo.com
 domain:playoverwatch.com

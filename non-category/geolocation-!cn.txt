@@ -15129,6 +15129,7 @@ domain:nhk.jp
 domain:nhk.or.jp
 domain:nhkworld.jp
 domain:nhncorp.jp
+domain:nic.ru
 domain:niceanimegames.com
 domain:nicegram.app
 domain:nicegram.cloud
@@ -15137,6 +15138,7 @@ domain:nicesrv.de
 domain:nicesshop.net
 domain:nichepornsite.com
 domain:nichepornsites.com
+domain:nichost.ru
 domain:nickscipio.com
 domain:nicky.xxx
 domain:nico
@@ -17526,6 +17528,7 @@ domain:r-new-sale.blog.jp
 domain:r-project.org
 domain:r.bing.com:@cn
 domain:r.mail.ru:@ads
+domain:r01.ru
 domain:r10s.com
 domain:r10s.jp
 domain:r18.clickme.net
@@ -19712,6 +19715,7 @@ domain:swag.live
 domain:swapsmut.com
 domain:sway-cdn.com
 domain:sway.com
+domain:sweb.ru
 domain:sweetadult-tube.com
 domain:sweetandmaxwell.co.uk
 domain:sweetsext.com

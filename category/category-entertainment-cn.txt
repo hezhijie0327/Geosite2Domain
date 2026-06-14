@@ -1,6 +1,7 @@
 domain:11222.cn
 domain:13a.com
 domain:17173.com
+domain:17173cdn.com
 domain:172mix.com
 domain:17k.com
 domain:17roco.com
@@ -9,6 +10,10 @@ domain:1905.com
 domain:1xhh.cn
 domain:3304399.com
 domain:3304399.net
+domain:37.com
+domain:37.com.cn
+domain:37wan.net
+domain:37wanimg.com
 domain:3839.com
 domain:3839apk.com
 domain:3839app.com
@@ -594,6 +599,7 @@ domain:pearvideo.com
 domain:phira.cn
 domain:pipi.cn
 domain:pl.youku.com:@ads
+domain:playcool.com
 domain:podcast.xyz
 domain:policy.video.iqiyi.com:@ads
 domain:ppkankan01.com
@@ -656,6 +662,7 @@ domain:seasungames.cn
 domain:seasungames.com
 domain:seasunwbl.com
 domain:sfacg.com
+domain:sgamer.com
 domain:shengqugames.com
 domain:shoutanjjj.com
 domain:shuhai.com
