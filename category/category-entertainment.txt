@@ -1717,6 +1717,7 @@ full:bnetshopus.akamaized.net
 full:c.ppy.sh
 full:cdn-spotify-experiments.conductrics.com
 full:cdngarenanow-a.akamaihd.net
+full:chatscc-hamivideo2.cdn.hinet.net
 full:cloudsync-prod.s3.amazonaws.com
 full:d1g1f25tn8m2e6.cloudfront.net
 full:d1k2us671qcoau.cloudfront.net
@@ -1762,6 +1763,7 @@ full:ds0h3roq6wcgc.cloudfront.net
 full:dykkng5hnh52u.cloudfront.net
 full:ea.tt.omtrdc.net
 full:eaassets-a.akamaihd.net
+full:efe8f8a4-abd5-44c9-bf5c-cd217442c52f.t.ssp.hinet.net
 full:espn.hb.omtrdc.net
 full:espndotcom.tt.omtrdc.net
 full:f3b7q2p3.ssl.hwcdn.net
@@ -1779,6 +1781,7 @@ full:hb.imgix.net
 full:heads-ak-spotify-com.akamaized.net
 full:heads4-ak-spotify-com.akamaized.net
 full:hls-amt.itunes.apple.com
+full:hls-hamivideo.cdn.hinet.net
 full:hls.itunes.apple.com
 full:i.jeded.com
 full:images-eu.ssl-images-amazon.com
@@ -1823,6 +1826,7 @@ full:roovza-launches.appsflyersdk.com:@!cn
 full:roovza.inapps.appsflyersdk.com:@!cn
 full:roovza.launches.appsflyersdk.com:@!cn
 full:roovza.skadsdk.appsflyersdk.com:@!cn
+full:scc-hamivideo.cdn.hinet.net
 full:scc.ott.hinet.net
 full:sentry.ppy.sh
 full:spectator.ppy.sh
@@ -1846,6 +1850,7 @@ full:steamugcquincy.blob.core.windows.net
 full:steamusercontent-a.akamaihd.net
 full:steamuserimages-a.akamaihd.net
 full:steamvideo-a.akamaihd.net
+full:t.ssp.hinet.net
 full:thumbnail-hamivideo.cdn.hinet.net
 full:tlmr-hamivideo2.cdn.hinet.net
 full:tmdb-image-prod.b-cdn.net
@@ -1885,6 +1890,7 @@ full:videos-rockstargames-com.akamaized.net
 full:vod-abematv.akamaized.net
 full:wb-agora-hydra-file-storage-k1.s3.amazonaws.com
 full:weblive-hamivideo.cdn.hinet.net
+full:weblivea-hamivideo.cdn.hinet.net
 full:webvodad-hamivideo.cdn.hinet.net
 full:ws.audioscrobbler.com
 full:www4-static.gog-statics.com:@cn

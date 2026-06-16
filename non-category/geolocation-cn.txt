@@ -386,6 +386,7 @@ domain:91.com
 domain:917.com
 domain:91changxie.com
 domain:91danji.com
+domain:91q.com
 domain:91shenfan.com
 domain:91yunxiao.com
 domain:95015.com
@@ -2192,6 +2193,7 @@ domain:dlnel.com
 domain:dlnel.org
 domain:dmall.com
 domain:dmallcdn.com
+domain:dmhmusic.com
 domain:dmzj.com
 domain:dns.iqiyi.com:@ads
 domain:dns.jd.com:@ads
@@ -2956,6 +2958,7 @@ domain:gxxmt.com
 domain:gyzq.com.cn
 domain:gzcqs.com
 domain:gzctyiptv.cn
+domain:gzlzfm.com
 domain:gztv.com
 domain:gzurl.cn
 domain:gzwanju.com
@@ -3552,6 +3555,7 @@ domain:ivwen.com
 domain:ivwi3.cn
 domain:iwanad.baidu.com:@ads
 domain:ixgvideo.com
+domain:ixiaochuan.cn
 domain:ixigua.com
 domain:ixiguapi.com
 domain:ixiguavideo.com
@@ -3563,6 +3567,7 @@ domain:izto.com.cn
 domain:iztzq.com
 domain:izuche.com
 domain:izuchebao.com
+domain:izuiyou.com
 domain:j-test.com
 domain:ja.gamersky.com:@ads
 domain:ja1.gamersky.com:@ads
@@ -4254,6 +4259,7 @@ domain:lixiang.com
 domain:lixinger.com
 domain:lizhi.fm
 domain:lizhifm.com
+domain:lizhiinc.com
 domain:ljcdn.com
 domain:lkcoffee.com
 domain:lkkbrand.com
@@ -4333,6 +4339,8 @@ domain:lydaas.net
 domain:lydass.cn
 domain:lydass.com.cn
 domain:lydass.net
+domain:lz310.com
+domain:lzpipi.com
 domain:m-adash.m.taobao.com:@ads
 domain:m-now.cn
 domain:m.aty.sohu.com:@ads
@@ -4598,6 +4606,7 @@ domain:mszq.com
 domain:mti100.com
 domain:mtime.cn
 domain:mtime.com
+domain:mting.info
 domain:mtrace.qq.com:@ads
 domain:mtyun.com
 domain:mukewang.com
@@ -5436,6 +5445,7 @@ domain:shoujihuifu.com
 domain:shouqianba.com
 domain:shoutanjjj.com
 domain:shouyoubus.com
+domain:showstart.com
 domain:shrbank.com
 domain:shssp.org
 domain:shuanghui.net
@@ -5687,6 +5697,7 @@ domain:tai3.cn
 domain:taichuan.com
 domain:taichuan.net
 domain:taihe.com
+domain:taihemusic.cn
 domain:taihuoniao.com
 domain:taikang.com
 domain:taikanglife.com
@@ -5886,6 +5897,7 @@ domain:tgbus.com
 domain:tgovcloud.com
 domain:tgpro.top
 domain:tgprocs.net
+domain:th-music.com
 domain:thecover.cn
 domain:theduapp.cn
 domain:theduapp.com
@@ -6669,6 +6681,7 @@ domain:xiangrikuisite.com
 domain:xianjiqun.com
 domain:xiaoaiassist.com
 domain:xiaobaixitong.com
+domain:xiaochuankeji.cn
 domain:xiaodutv.com
 domain:xiaoe-tech.com
 domain:xiaogouh5.com

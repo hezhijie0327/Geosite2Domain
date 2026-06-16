@@ -315,6 +315,7 @@ domain:91.com
 domain:917.com
 domain:91changxie.com
 domain:91danji.com
+domain:91q.com
 domain:91shenfan.com
 domain:91yunxiao.com
 domain:95015.com
@@ -1733,6 +1734,7 @@ domain:dlnel.com
 domain:dlnel.org
 domain:dmall.com
 domain:dmallcdn.com
+domain:dmhmusic.com
 domain:dmzj.com
 domain:dns.iqiyi.com:@ads
 domain:dns.jd.com:@ads
@@ -2344,6 +2346,7 @@ domain:gxairlines.com
 domain:gxb.io
 domain:gxxmt.com
 domain:gzcqs.com
+domain:gzlzfm.com
 domain:gztv.com
 domain:gzwanju.com
 domain:gzyowin.com
@@ -2829,6 +2832,7 @@ domain:izto.com
 domain:iztzq.com
 domain:izuche.com
 domain:izuchebao.com
+domain:izuiyou.com
 domain:j-test.com
 domain:ja.gamersky.com:@ads
 domain:ja1.gamersky.com:@ads
@@ -3414,6 +3418,7 @@ domain:lixiang.com
 domain:lixinger.com
 domain:lizhi.fm
 domain:lizhifm.com
+domain:lizhiinc.com
 domain:ljcdn.com
 domain:lkcoffee.com
 domain:lkkbrand.com
@@ -3480,6 +3485,8 @@ domain:ly.com
 domain:lydaas.com
 domain:lydaas.net
 domain:lydass.net
+domain:lz310.com
+domain:lzpipi.com
 domain:m-adash.m.taobao.com:@ads
 domain:m.aty.sohu.com:@ads
 domain:m1.run
@@ -3695,6 +3702,7 @@ domain:mszdld.net
 domain:mszq.com
 domain:mti100.com
 domain:mtime.com
+domain:mting.info
 domain:mtrace.qq.com:@ads
 domain:mtyun.com
 domain:mukewang.com
@@ -4359,6 +4367,7 @@ domain:shoujihuifu.com
 domain:shouqianba.com
 domain:shoutanjjj.com
 domain:shouyoubus.com
+domain:showstart.com
 domain:shrbank.com
 domain:shssp.org
 domain:shuanghui.net
@@ -4717,6 +4726,7 @@ domain:tgbus.com
 domain:tgovcloud.com
 domain:tgpro.top
 domain:tgprocs.net
+domain:th-music.com
 domain:theduapp.com
 domain:thefastfile.com
 domain:thefastimg.com

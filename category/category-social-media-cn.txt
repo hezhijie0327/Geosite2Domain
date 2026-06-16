@@ -27,6 +27,8 @@ domain:hoopchina.com.cn
 domain:hupu.com
 domain:hupucdn.com
 domain:ivwen.com
+domain:ixiaochuan.cn
+domain:izuiyou.com
 domain:jike.city
 domain:jikecdn.com
 domain:laiyagushi.com
@@ -82,6 +84,7 @@ domain:xhscdn.com
 domain:xhscdn.net
 domain:xhslink.com
 domain:xhsrcdn.com
+domain:xiaochuankeji.cn
 domain:xiaohongshu.com
 domain:zhihu-web-analytics.zhihu.com:@ads
 domain:zhihu.com

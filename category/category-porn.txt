@@ -1189,6 +1189,7 @@ domain:cdnxxx-proxy.xyz
 domain:celebforum.co
 domain:celebmasta.live
 domain:celebritygay.com
+domain:celebritymoviearchive.com
 domain:celebritynakeds.com
 domain:celebrityslips.com
 domain:celebritystorysite.com
@@ -1939,6 +1940,7 @@ domain:foxgay.com
 domain:foxhq.com
 domain:foxporns.com
 domain:foxtube.com
+domain:fpo.xxx
 domain:free-3d-porn.com
 domain:free-abbywinters.com
 domain:free-avx.jp
@@ -1986,6 +1988,8 @@ domain:freesexvideos2k.com
 domain:freesexyindians.com
 domain:freesexyindians.org
 domain:freeuseporn.com
+domain:freexh.blog
+domain:freexh.live
 domain:freexvideos.org
 domain:freexxx.best
 domain:freexxx.win
@@ -4153,6 +4157,7 @@ domain:pictoa.com
 domain:pictocum.com
 domain:pigav.com
 domain:pikabu.monster
+domain:pimpbunny.com
 domain:pinduck.com
 domain:pinflix.com
 domain:pingguotv.xyz
@@ -4551,6 +4556,7 @@ domain:postegro.it
 domain:postyourgirls.ws
 domain:povpornonly.com
 domain:povr.com
+domain:powfans.com
 domain:pp6.info
 domain:ppb-mod.buzz
 domain:ppe.lawyer
@@ -4864,6 +4870,7 @@ domain:seqing.one
 domain:seqingwangzhan.pro
 domain:seqingx.com
 domain:ser7.cc
+domain:serakon.com
 domain:serbiporno.net
 domain:serlucap.lol
 domain:serlutv258.xyz
@@ -5796,6 +5803,7 @@ domain:vrpornranked.com
 domain:vrsexgames.biz
 domain:vrsmash.com
 domain:vrsumo.com
+domain:vsex.in
 domain:vsezoo.com
 domain:vtrahe.page
 domain:vulgarx.com
@@ -5995,6 +6003,7 @@ domain:xhamster19.com
 domain:xhamster2.com
 domain:xhamster3.com
 domain:xhamsterlive.com
+domain:xhapp.live
 domain:xhcdn.com
 domain:xhnews.live
 domain:xhot.pro

@@ -56,6 +56,7 @@ domain:71acg.com
 domain:71acg.net
 domain:71edge.com
 domain:7k7k.com
+domain:91q.com
 domain:97ting.com
 domain:9game.cn
 domain:9xgame.com
@@ -210,6 +211,7 @@ domain:dc.letv.com:@ads
 domain:ddmogo.com
 domain:debugmode.cn
 domain:diyring.cc
+domain:dmhmusic.com
 domain:dmzj.com
 domain:dobest.com
 domain:dongdianqiu.com
@@ -361,6 +363,7 @@ domain:gouhuo.qq.com
 domain:gtgres.com
 domain:guanggaoad.youku.com:@ads
 domain:guoping123.com
+domain:gzlzfm.com
 domain:h-adashx.ut.youku.com:@ads
 domain:haidubooks.com
 domain:haohaowan.net
@@ -518,6 +521,7 @@ domain:letvimg.com
 domain:lingxigames.com
 domain:lizhi.fm
 domain:lizhifm.com
+domain:lizhiinc.com
 domain:log-upload.mihoyo.com:@ads
 domain:log.hunantv.com:@ads
 domain:log.v2.hunantv.com:@ads
@@ -528,6 +532,8 @@ domain:lstat.youku.com:@ads
 domain:ludosuperstar.cn
 domain:ludoworld.net
 domain:luojilab.com
+domain:lz310.com
+domain:lzpipi.com
 domain:m1905.cn
 domain:m1905.com
 domain:mahjongai.net
@@ -576,6 +582,7 @@ domain:mszdld.com
 domain:mszdld.net
 domain:mtime.cn
 domain:mtime.com
+domain:mting.info
 domain:music.qq.com
 domain:muwai.com
 domain:muyewx.com
@@ -665,6 +672,7 @@ domain:sfacg.com
 domain:sgamer.com
 domain:shengqugames.com
 domain:shoutanjjj.com
+domain:showstart.com
 domain:shuhai.com
 domain:shuqi.com
 domain:shuqiapi.com
@@ -686,6 +694,8 @@ domain:supercellcommunity.cn
 domain:supercellsupport.cn
 domain:syxlgame.com
 domain:tadu.com
+domain:taihe.com
+domain:taihemusic.cn
 domain:taomee.com
 domain:tapapks.com
 domain:tapimg.com
@@ -704,6 +714,7 @@ domain:texasholdemcup.net
 domain:tgbus.com
 domain:tgpro.top
 domain:tgprocs.net
+domain:th-music.com
 domain:themisweeps.com
 domain:tiancity.com
 domain:tiancitycdn.com

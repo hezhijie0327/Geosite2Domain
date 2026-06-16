@@ -93,6 +93,8 @@ domain:maskanbourse.com
 domain:mehrnews.com
 domain:mellatbroker.com
 domain:mellatinsurance.com
+domain:melodify.app
+domain:melodify.pw
 domain:mihanwebhost.com
 domain:mofidonline.com
 domain:mrbilit.com

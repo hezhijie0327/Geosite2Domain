@@ -29,6 +29,7 @@ domain:kugouyouth.com
 domain:kuwo.cn
 domain:lrts.me
 domain:monitor.music.qq.com:@ads
+domain:mting.info
 domain:music.qq.com
 domain:qqmusic.com
 domain:report.tencentmusic.com:@ads
@@ -38,6 +39,7 @@ domain:tingmall.com
 domain:tmead.y.qq.com:@ads
 domain:tmeadcomm.y.qq.com:@ads
 domain:ultimatemusic.cn
+domain:wting.info
 domain:ximalaya.com
 domain:xmcdn.com
 domain:y.qq.com

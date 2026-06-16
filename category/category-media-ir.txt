@@ -9,6 +9,8 @@ domain:irib.ir
 domain:iribtv.ir
 domain:irinn.ir
 domain:jjtvn.ir
+domain:melodify.app
+domain:melodify.pw
 domain:namava.ir
 domain:qurantv.ir
 domain:radio.ir
