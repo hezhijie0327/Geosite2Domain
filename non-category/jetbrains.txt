@@ -1,12 +1,12 @@
 domain:cdn.jetbrains.com:@cn
 domain:datalore.io
-domain:download-cdn.jetbrains.com.cn:@cn
 domain:intellij.com
 domain:intellij.net
 domain:intellij.org
 domain:jb.gg
 domain:jetbrains.cloud
 domain:jetbrains.com
+domain:jetbrains.com.cn:@cn
 domain:jetbrains.net
 domain:jetbrains.space
 domain:jetbrains.team

@@ -98,7 +98,6 @@ domain:dockerstatic.com
 domain:docs.rs
 domain:dot.net
 domain:dotdeb.org
-domain:download-cdn.jetbrains.com.cn:@cn
 domain:draftjs.org
 domain:ecr.aws
 domain:electronjs.org
@@ -236,6 +235,7 @@ domain:jenkins.io
 domain:jetbrains.ai
 domain:jetbrains.cloud
 domain:jetbrains.com
+domain:jetbrains.com.cn:@cn
 domain:jetbrains.net
 domain:jetbrains.space
 domain:jetbrains.team

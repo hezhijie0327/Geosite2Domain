@@ -6044,6 +6044,7 @@ domain:salesforcemarketingcloud.com
 domain:samebags.com
 domain:samsung
 domain:samsung.com
+domain:samsungadhub.com:@ads
 domain:samsungads.com:@ads
 domain:samsungapps.com
 domain:samsungcloud.com

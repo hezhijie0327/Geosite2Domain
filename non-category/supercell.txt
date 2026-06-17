@@ -13,10 +13,11 @@ domain:mo.co
 domain:seeurlpcl.com
 domain:squadbusters.com
 domain:supercell.com
-domain:supercell.helpshift.com
 domain:supercell.net
 domain:supercellcreators.com
 domain:supercellgames.com
 domain:supercellid.com
 domain:supercellstore.com
 domain:supr.cl
+full:supercell.helpshift.com
+full:supercell.zendesk.com

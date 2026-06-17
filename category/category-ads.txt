@@ -548,6 +548,7 @@ domain:s.union.360.cn:@ads
 domain:s4yxaqyq95.com
 domain:sa.sina.cn:@ads
 domain:sabavision.com
+domain:samsungadhub.com:@ads
 domain:samsungads.com:@ads
 domain:sbeacon.sina.com.cn:@ads
 domain:sbermarketing.ru:@ads

@@ -1275,7 +1275,6 @@ domain:stellasora.jp
 domain:streamingdisney.net
 domain:subscene.com
 domain:supercell.com
-domain:supercell.helpshift.com
 domain:supercell.net
 domain:supercellcreators.com
 domain:supercellgames.com
@@ -1850,6 +1849,8 @@ full:steamugcquincy.blob.core.windows.net
 full:steamusercontent-a.akamaihd.net
 full:steamuserimages-a.akamaihd.net
 full:steamvideo-a.akamaihd.net
+full:supercell.helpshift.com
+full:supercell.zendesk.com
 full:t.ssp.hinet.net
 full:thumbnail-hamivideo.cdn.hinet.net
 full:tlmr-hamivideo2.cdn.hinet.net
