@@ -6170,6 +6170,7 @@ domain:devtools-paypal.com
 domain:dewitwithdurex.com
 domain:dexterhorn.com
 domain:dezyred.com
+domain:dfvpn.com
 domain:dgaqp.com
 domain:dgg.gg
 domain:dgwav.com
@@ -8836,6 +8837,7 @@ domain:gamesplanet.com
 domain:gamesstack.com
 domain:gametap.com
 domain:gameuxmasterguide.com
+domain:gamewtb.com
 domain:gaming-notebooks.com
 domain:gandhara.ru
 domain:gandi.net
@@ -9283,6 +9285,7 @@ domain:gobuyonlinestore.net
 domain:gockhuatviet.com
 domain:godaddy
 domain:godaddy.com
+domain:godaddy.net
 domain:godbolt.org
 domain:godoc.org
 domain:goduckgo.com
@@ -19906,6 +19909,7 @@ domain:taxitax.org
 domain:taylorandfrancis.com
 domain:taylorfrancis.com
 domain:tb-esim.ru
+domain:tb.pro
 domain:tbank-online.com
 domain:tbank.ru
 domain:tbib.org
@@ -20275,6 +20279,7 @@ domain:thumbnailseries.com
 domain:thumbzilla.com
 domain:thunderbird.net
 domain:thunderbolttechnology.net
+domain:thundermail.com
 domain:thz7.net
 domain:thzu.cc
 domain:tiandixing.org
@@ -22415,6 +22420,7 @@ domain:wpvip.com
 domain:wrenchead.com
 domain:ws-blau.com
 domain:ws-tcg.com
+domain:wsimg.com
 domain:wsj.com
 domain:wsj.jobs
 domain:wsj.net

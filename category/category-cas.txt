@@ -92,6 +92,7 @@ domain:globalsign.nl
 domain:globalsigncdn.com:@cn
 domain:godaddy
 domain:godaddy.com
+domain:godaddy.net
 domain:gtlsca.nat.gov.tw
 domain:hackerguardian.com
 domain:harica.gr
@@ -224,6 +225,7 @@ domain:wiseid.com
 domain:wisekey.com
 domain:wisekey.com.hk
 domain:ws.symantec.com
+domain:wsimg.com
 domain:x.co
 domain:zert.ch
 full:c.pki.goog:@cn

@@ -15,6 +15,7 @@ domain:cordcloud.org
 domain:ctyun.online
 domain:cylink.pro
 domain:cylink0122.icu
+domain:dfvpn.com
 domain:dlercloud.com
 domain:dlercloud.me
 domain:dlercloud.org

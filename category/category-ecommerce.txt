@@ -532,6 +532,7 @@ domain:fout.jp:@ads
 domain:fragrancebay.com
 domain:francemail.com
 domain:futureshop.ca
+domain:gamewtb.com
 domain:geek-squad-support.com
 domain:geek-squad.net
 domain:geek-squad.org

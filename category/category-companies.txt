@@ -3328,6 +3328,7 @@ domain:gobuildx.net
 domain:gobuyonlinestore.net
 domain:godaddy
 domain:godaddy.com
+domain:godaddy.net
 domain:godoc.org
 domain:gofile.me
 domain:gogettaxi.org
@@ -6467,6 +6468,7 @@ domain:taxel.media
 domain:taxiaid.org
 domain:taxiguru.org
 domain:taxitax.org
+domain:tb.pro
 domain:teamviewer.cn:@cn
 domain:teamviewer.com
 domain:teamviewer.us
@@ -6532,6 +6534,7 @@ domain:threatlabz.com
 domain:thumbzilla.com
 domain:thunderbird.net
 domain:thunderbolttechnology.net
+domain:thundermail.com
 domain:tiltbrush.com
 domain:timefxapp.com
 domain:timelinestoryteller.com
@@ -7031,6 +7034,7 @@ domain:worldsecureemail.com
 domain:worldsecuresystems.com
 domain:worldsfastestgamer.net
 domain:wpewebkit.org
+domain:wsimg.com
 domain:wuxiapple.com
 domain:wwapple.net
 domain:wwtbam.com

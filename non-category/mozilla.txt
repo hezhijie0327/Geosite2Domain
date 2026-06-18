@@ -58,7 +58,9 @@ domain:opentimetable.jp
 domain:popcornjs.org
 domain:publicsuffix.org
 domain:seamonkey-project.org
+domain:tb.pro
 domain:thunderbird.net
+domain:thundermail.com
 domain:webmademovies.org
 full:ads-img.mozilla.org:@ads
 full:ads.mozilla.org:@ads
