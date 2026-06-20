@@ -1771,10 +1771,9 @@ full:flightsimulator.azureedge.net
 full:gamedownloads-rockstargames-com.akamaized.net
 full:gamer-cds.cdn.hinet.net
 full:gamer2-cds.cdn.hinet.net
-full:gog-cdn-fastly.gog.com:@cn
-full:gog-cdn.akamaized.net:@cn
+full:gog-cdn-lumen.secure2.footprint.net
+full:gog-cdn.akamaized.net
 full:gog.qtlglb.com:@cn
-full:gogalaxy.gog-statics.com:@cn
 full:hamivideo.hinet.net
 full:hb.imgix.net
 full:heads-ak-spotify-com.akamaized.net
@@ -1794,7 +1793,6 @@ full:lolstatic-a.akamaihd.net
 full:lv.queniujq.cn:@cn
 full:m1.ppy.sh
 full:media-rockstargames-com.akamaized.net
-full:menu-static.gog-statics.com:@cn
 full:mobilelive-hamivideo.cdn.hinet.net
 full:msh.amazon.co.uk
 full:netflix.com.edgesuite.net
@@ -1815,7 +1813,6 @@ full:p16-tiktokcdn-com.akamaized.net:@!cn
 full:play-edge.itunes.apple.com
 full:prd-priconne-redive.akamaized.net
 full:prodforza.blob.core.windows.net
-full:productcard.gog-statics.com:@cn
 full:pubg1.battleye.com
 full:pvr-hamivideo.cdn.hinet.net
 full:roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
@@ -1833,7 +1830,6 @@ full:spotify.com.edgesuite.net
 full:spotify.map.fastly.net
 full:spotify.map.fastlylb.net
 full:static-hamivideo.cdn.hinet.net
-full:static-login.gog-statics.com:@cn
 full:static.siege-amazon.com
 full:steambroadcast.akamaized.net
 full:steamcdn-a.akamaihd.net
@@ -1894,7 +1890,6 @@ full:weblive-hamivideo.cdn.hinet.net
 full:weblivea-hamivideo.cdn.hinet.net
 full:webvodad-hamivideo.cdn.hinet.net
 full:ws.audioscrobbler.com
-full:www4-static.gog-statics.com:@cn
 full:xz.pphimalayanrt.com:@cn
 full:yt3.googleusercontent.com
 regexp:(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
@@ -1902,11 +1897,8 @@ regexp:(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$
 regexp:(^|\.)dualstack\.apiproxy-.+\.amazonaws\.com$
 regexp:(^|\.)dualstack\.ichnaea-web-.+\.amazonaws\.com$
 regexp:^[0-9]+vod-adaptive\.akamaized\.net$
-regexp:^cdn-akamai-.+\.gog-services\.com$:@cn
 regexp:^cdn\d-epicgames-\d+\.file\.myqcloud\.com$:@cn
 regexp:^epicgames-download\d-\d+\.file\.myqcloud\.com$:@cn
 regexp:^epicgames-download\d\.akamaized\.net$
 regexp:^ewcdn[0-9]+\.nowe\.com$
-regexp:^gog-cdn-.+\.footprint\.net$:@cn
 regexp:^hses[1-7]?\.akamaized\.net$
-regexp:^images(-\d)?\.gog-statics\.com$:@cn

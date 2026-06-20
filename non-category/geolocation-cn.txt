@@ -4659,6 +4659,7 @@ domain:myqcloud.com
 domain:myquark.cn
 domain:myshow360.net
 domain:mysiteres.com
+domain:mysqil.com
 domain:mysxl.cn
 domain:myypark.com
 domain:myyx618.com

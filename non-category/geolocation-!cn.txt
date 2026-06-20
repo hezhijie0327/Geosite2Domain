@@ -24113,10 +24113,8 @@ full:gbxgateway-dev.dell.com:@cn
 full:gbxgateway.dell.com:@cn
 full:github-api.arkoselabs.com
 full:gitlab-assets.oss-cn-hongkong.aliyuncs.com
-full:gog-cdn-fastly.gog.com:@cn
-full:gog-cdn.akamaized.net:@cn
+full:gog-cdn-lumen.secure2.footprint.net
 full:gog.qtlglb.com:@cn
-full:gogalaxy.gog-statics.com:@cn
 full:gonglchuangl.net:@cn
 full:gongyichuangyi.net:@cn
 full:google-analytics-cn.com:@cn
@@ -24256,7 +24254,6 @@ full:mc.yandex.net:@ads
 full:mc.yango.com:@ads
 full:mdr.ksn.kaspersky-labs.com:@cn
 full:medone-education.thieme.com
-full:menu-static.gog-statics.com:@cn
 full:mesu-cdn.apple.com.akadns.net:@cn
 full:mesu-china.apple.com.akadns.net:@cn
 full:mesu.apple.com:@cn
@@ -24356,7 +24353,6 @@ full:prod-controlbe.floonet.goog:@cn
 full:prod-databe.floonet.goog:@cn
 full:prod-support.apple-support.akadns.net:@cn
 full:prod.databe.floonet.goog:@cn
-full:productcard.gog-statics.com:@cn
 full:prodvizhenie-adv.ozon.ru:@ads
 full:public-us-pingsx.api.clonoth.com
 full:publicassets.cdn-apple.com:@cn
@@ -24478,7 +24474,6 @@ full:stacks.vk-portal.net:@ads
 full:staging-controlbe.floonet.goog:@cn
 full:staging-databe.floonet.goog:@cn
 full:staging.databe.floonet.goog:@cn
-full:static-login.gog-statics.com:@cn
 full:static.gc.apple.com:@cn
 full:statics.teams.cdn.office.net:@cn
 full:stats.avito.ru:@ads
@@ -24576,7 +24571,6 @@ full:www.pxcc.com:@cn
 full:www.recaptcha-cn.net:@cn
 full:www.recaptcha.net:@cn
 full:www.support.apple.com:@cn
-full:www4-static.gog-statics.com:@cn
 full:xapi.ozon.by:@ads
 full:xapi.ozon.com.by:@ads
 full:xapi.ozon.com.kz:@ads
@@ -24740,15 +24734,12 @@ regexp:.+\.awsdns-cn-[0-9][a-e0-9]\.cn$:@cn
 regexp:.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$
 regexp:^(.+\.)*zh\.okaapps\.com$:@cn
 regexp:^[0-9]+vod-adaptive\.akamaized\.net$
-regexp:^cdn-akamai-.+\.gog-services\.com$:@cn
 regexp:^cdn\d-epicgames-\d+\.file\.myqcloud\.com$:@cn
 regexp:^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
 regexp:^epicgames-download\d-\d+\.file\.myqcloud\.com$:@cn
 regexp:^epicgames-download\d\.akamaized\.net$
 regexp:^ewcdn[0-9]+\.nowe\.com$
-regexp:^gog-cdn-.+\.footprint\.net$:@cn
 regexp:^hses[1-7]?\.akamaized\.net$
-regexp:^images(-\d)?\.gog-statics\.com$:@cn
 regexp:^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$:@cn
 regexp:^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$:@cn
 regexp:javdb\d+\.com$

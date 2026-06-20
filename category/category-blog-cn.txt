@@ -7,6 +7,7 @@ domain:huangyuhui.net
 domain:lg3000.top
 domain:mryys.cn
 domain:mryys.com
+domain:mysqil.com
 domain:skywt.cn
 domain:soulteary.com
 domain:tai3.cn
