@@ -229,7 +229,7 @@ domain:hkgcloudcs.com
 domain:hongxiu.com
 domain:hq-tracking.qq.com:@ads
 domain:hr-welink.com
-domain:htrace.wetvinfo.com:@!cn,@ads
+domain:htrace.wetvinfo.com:@ads
 domain:idcgcloudcs.com
 domain:idqqimg.com
 domain:iemiq.com

@@ -45,6 +45,7 @@ domain:cb.baidu.com:@ads
 domain:cbjs.baidu.com:@ads
 domain:chuanke.com
 domain:cm.baidu.com:@ads
+domain:combofin.com
 domain:cpro.baidu.com:@ads
 domain:cpro.baidustatic.com:@ads
 domain:cpu.baidu.com:@ads
@@ -61,10 +62,12 @@ domain:duurl.cn
 domain:duxiaoman-int.com
 domain:duxiaoman.com
 domain:duxiaomanfintech.com
+domain:duxiaomanfund.com
 domain:duxiaomantech.com
 domain:dwz.cn
 domain:dxm-cdn.com
 domain:dxm-int.com
+domain:dxmbaoxian.com
 domain:dxmjinr.com
 domain:dxmlcf.com
 domain:dxmlcfintech.com

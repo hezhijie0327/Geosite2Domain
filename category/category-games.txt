@@ -149,6 +149,7 @@ domain:cowlevel.net
 domain:crossout.net
 domain:crsed.net
 domain:crysis.jp
+domain:csgo.com.cn:@cn
 domain:csgo.wmsj.cn:@cn
 domain:cubicmotion.com
 domain:cubicodyssey.game
@@ -179,6 +180,7 @@ domain:dodi-repacks.site
 domain:donkeykongcountryreturns.com
 domain:doom.com
 domain:dota2.com
+domain:dota2.com.cn:@cn
 domain:dota2.wmsj.cn:@cn
 domain:dragonage.com
 domain:dragonagekeep.com
@@ -293,8 +295,10 @@ domain:giratina.com
 domain:gloryofheracles.com
 domain:goblocks.com
 domain:goblox.com
+domain:gog-services.com
 domain:gog-statics.com
 domain:gog.com
+domain:gogalaxy.com
 domain:gooblox.com
 domain:goto-game.com
 domain:goto-game.mobi
@@ -339,6 +343,7 @@ domain:ihykb.com
 domain:img4399.com
 domain:in.th
 domain:industrialtoys.com
+domain:insights-collector.gog.com:@ads
 domain:instituteofwar.org
 domain:itch.io
 domain:itch.zone
@@ -374,6 +379,7 @@ domain:kurogames.com
 domain:kyurem.com
 domain:labycore.cn
 domain:langrenclub.com
+domain:laohu.com
 domain:lcsmerch.com
 domain:leaguehighschool.com
 domain:leagueoflegends.ca
@@ -905,6 +911,7 @@ domain:wiivc.net
 domain:winegame.net
 domain:wmsj.cn
 domain:wmsjsteam.com:@cn
+domain:wmupd.com
 domain:wo1wan.com
 domain:worldflipper.akamaized.net
 domain:worldflipper.jp

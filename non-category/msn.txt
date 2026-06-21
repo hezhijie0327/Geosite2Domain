@@ -1,4 +1,4 @@
-domain:browser.events.data.msn.cn:@ads,@cn
+domain:browser.events.data.msn.cn:@ads
 domain:browser.events.data.msn.com:@ads
 domain:microsoftnews.cc
 domain:microsoftnews.cn:@cn

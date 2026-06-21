@@ -122,6 +122,7 @@ domain:kurogames-ads.com:@ads
 domain:kurogames.com
 domain:labycore.cn
 domain:langrenclub.com
+domain:laohu.com
 domain:ledu.com
 domain:lingxigames.com
 domain:log-upload.mihoyo.com:@ads
@@ -226,6 +227,7 @@ domain:wegameplus.com
 domain:werepository.com.cn
 domain:winegame.net
 domain:wmsj.cn
+domain:wmupd.com
 domain:wo1wan.com
 domain:wutheringwaves.cn
 domain:xd.cn

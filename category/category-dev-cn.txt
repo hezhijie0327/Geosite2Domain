@@ -23,6 +23,7 @@ domain:cnb.cool
 domain:cnblogs.com
 domain:cnitblog.com
 domain:cnweblog.com
+domain:cocos.com
 domain:codechina.net
 domain:coding.me
 domain:coding.net
@@ -121,6 +122,7 @@ domain:ubuntukylin.com
 domain:uniontech.cn
 domain:uniontech.com
 domain:unity.cn
+domain:unity3dcloud.cn
 domain:unityads.unity.cn:@ads
 domain:unityads.unitychina.cn:@ads
 domain:unitychina.cn

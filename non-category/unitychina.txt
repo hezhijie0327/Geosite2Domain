@@ -3,6 +3,7 @@ domain:splash-ads.cdn.unity.cn:@ads
 domain:splash-ads.unitychina.cn:@ads
 domain:u3d.cn
 domain:unity.cn
+domain:unity3dcloud.cn
 domain:unityads.unity.cn:@ads
 domain:unityads.unitychina.cn:@ads
 domain:unitychina.cn

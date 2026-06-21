@@ -61,7 +61,7 @@ domain:ameblo.jp
 domain:amediateka.ru
 domain:amiibo.com
 domain:amp-api.podcast.apple.com
-domain:analytics.tiktok.com:@!cn,@ads
+domain:analytics.tiktok.com:@ads
 domain:angelbeats.jp
 domain:anigema.jp
 domain:animedao-tv.com
@@ -204,6 +204,7 @@ domain:crsed.net
 domain:crunchyroll.com
 domain:crypton.co.jp
 domain:crysis.jp
+domain:csgo.com.cn:@cn
 domain:csgo.wmsj.cn:@cn
 domain:cubicmotion.com
 domain:cubicodyssey.game
@@ -354,6 +355,7 @@ domain:dokusho-ojikan.jp
 domain:donkeykongcountryreturns.com
 domain:doom.com
 domain:dota2.com
+domain:dota2.com.cn:@cn
 domain:dota2.wmsj.cn:@cn
 domain:dragonage.com
 domain:dragonagekeep.com
@@ -501,8 +503,10 @@ domain:go-disneyworldgo.com
 domain:go.com
 domain:goblocks.com
 domain:goblox.com
+domain:gog-services.com
 domain:gog-statics.com
 domain:gog.com
+domain:gogalaxy.com
 domain:gogo-load.com
 domain:gogoanime.vc
 domain:gogoanime.wiki
@@ -649,6 +653,7 @@ domain:indazn.com
 domain:indaznlab.com
 domain:industrialtoys.com
 domain:inside-games.jp
+domain:insights-collector.gog.com:@ads
 domain:instituteofwar.org
 domain:internationalsaimoe.com
 domain:iole.tv

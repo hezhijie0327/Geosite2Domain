@@ -78,6 +78,7 @@ domain:convrgencegame.com
 domain:crossout.net
 domain:crsed.net
 domain:crysis.jp
+domain:csgo.com.cn:@cn
 domain:csgo.wmsj.cn:@cn
 domain:cubicmotion.com
 domain:cubicodyssey.game
@@ -106,6 +107,7 @@ domain:dodi-repacks.site
 domain:donkeykongcountryreturns.com
 domain:doom.com
 domain:dota2.com
+domain:dota2.com.cn:@cn
 domain:dota2.wmsj.cn:@cn
 domain:dragonage.com
 domain:dragonagekeep.com
@@ -202,8 +204,10 @@ domain:giratina.com
 domain:gloryofheracles.com
 domain:goblocks.com
 domain:goblox.com
+domain:gog-services.com
 domain:gog-statics.com
 domain:gog.com
+domain:gogalaxy.com
 domain:gooblox.com
 domain:gpstatic.com
 domain:gstore.val.manlaxy.com:@cn
@@ -225,6 +229,7 @@ domain:humblebundle.com
 domain:hutpromos.com
 domain:hyprsense.com
 domain:industrialtoys.com
+domain:insights-collector.gog.com:@ads
 domain:instituteofwar.org
 domain:itch.io
 domain:itch.zone

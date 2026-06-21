@@ -55,10 +55,12 @@ domain:alibabacloud.com.sg:@!cn
 domain:alibabacloud.com.tw:@!cn
 domain:alibabacloud.com:@!cn
 domain:alibabacorp.com
+domain:alibabadesign.com
 domain:alibabadns.com
 domain:alibabadoctor.com
 domain:alibabafuturehotel.com
 domain:alibabagroup.com
+domain:alibabapictures.com
 domain:alibabaplanet.com
 domain:alibabaued.com
 domain:alibabausercontent.com
@@ -73,10 +75,12 @@ domain:aliexpress.com
 domain:aliexpress.ru:@!cn
 domain:alifanyi.com
 domain:aligames.com
+domain:aligenie.com
 domain:aligfwaf.com
 domain:alihealth.cn
 domain:alihealth.com.cn
 domain:alihealth.hk:@!cn
+domain:alihive.com
 domain:aliimg.com
 domain:alikmd.com
 domain:alikunlun.com
@@ -183,6 +187,7 @@ domain:dongting.com
 domain:doservice.com
 domain:dratio.com
 domain:dualstack-logs.amap.com:@ads
+domain:duanqu.com
 domain:e.stat.ykimg.com:@ads
 domain:ele.me
 domain:ele.to
@@ -217,6 +222,7 @@ domain:hemamax.com
 domain:hemaos.com
 domain:hemashare.cn
 domain:hichina.com
+domain:hupan.com
 domain:ialicdn.com
 domain:ica-alliance.org
 domain:iconfont.cn
@@ -227,6 +233,7 @@ domain:iuynfg.com
 domain:jhgtgb.com
 domain:jiaoyimao.cn
 domain:jiaoyimao.com
+domain:jiyoujia.com
 domain:juhuasuan.com
 domain:kanbox.com
 domain:kaola.com
@@ -278,6 +285,7 @@ domain:mashort.cn
 domain:mdeer.com
 domain:mei.com
 domain:miaostreet.com
+domain:miaoya.cn
 domain:mmstat.com
 domain:mobilemsg.youku.com:@ads
 domain:mobmore.com
@@ -290,9 +298,11 @@ domain:nbsdk-baichuan.alicdn.com:@ads
 domain:nbsdk-baichuan.taobao.com:@ads
 domain:new-aaid.umeng.com.gds.alibabadns.com:@ads
 domain:new-aaid.umeng.com:@ads
+domain:newstjk.com
 domain:nic.xin
 domain:npmmirror.com
 domain:oc.umeng.com:@ads
+domain:open-uc.cn
 domain:optimus-ads.amap.com:@ads
 domain:oss-ap-northeast-1.aliyuncs.com:@!cn
 domain:oss-ap-northeast-2.aliyuncs.com:@!cn
@@ -338,12 +348,14 @@ domain:retcode.taobao.com:@ads
 domain:rexpos.cn
 domain:s-adashx.ut.youku.com:@ads
 domain:saee.org.cn
+domain:shejijia.com
 domain:shenjing.com
 domain:shujupie.com
 domain:shuqi.com
 domain:shuqiapi.com
 domain:shuqiread.com
 domain:shuqireader.com
+domain:shuqistat.com
 domain:shyhhema.com
 domain:sm.cn
 domain:soku.com
@@ -377,8 +389,10 @@ domain:tns.simba.taobao.com:@ads
 domain:track.lc.quark.cn:@ads
 domain:ttpod.com
 domain:tudou.com
+domain:uc-engine.cn
 domain:uc.cn
 domain:uc123.com
+domain:ucfly.com
 domain:ucweb.com
 domain:uczzd.cn
 domain:ulogs.umeng.com:@ads

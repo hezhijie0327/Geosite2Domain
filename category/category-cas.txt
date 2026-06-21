@@ -254,4 +254,4 @@ full:publicca.googleapis.com
 full:valid.apple.com:@cn
 full:valid.origin-apple.com.akadns.net:@cn
 full:www.entrust.cn:@cn
-full:www.microsoft.com:@cn
+full:www.microsoft.com

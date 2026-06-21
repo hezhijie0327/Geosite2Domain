@@ -90,4 +90,3 @@ domain:wsglb.com
 domain:wsglb.net
 domain:wswebcdn.com
 domain:wswebpic.com
-domain:yunaq.com

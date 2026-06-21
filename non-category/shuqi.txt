@@ -2,8 +2,10 @@ domain:11222.cn
 domain:aliwx.com.cn
 domain:aliwx.net
 domain:ishuqi.com
+domain:newstjk.com
 domain:shuqi.com
 domain:shuqiapi.com
 domain:shuqiread.com
 domain:shuqireader.com
+domain:shuqistat.com
 domain:sqreader.com

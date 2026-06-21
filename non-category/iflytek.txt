@@ -4,6 +4,7 @@ domain:iflyink.com
 domain:iflyrec.com
 domain:iflysec.com
 domain:iflytek.com
+domain:voicecloud.cn
 domain:xfyun.cn
 domain:xunfei.cn
 domain:xunfeixxj.com

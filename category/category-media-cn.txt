@@ -6,6 +6,7 @@ domain:36kr.com
 domain:36krcdn.com
 domain:36krcnd.com
 domain:3conline.com
+domain:3elife.net
 domain:56.com
 domain:56img.com
 domain:6655.com
@@ -29,6 +30,9 @@ domain:bandao.cn
 domain:bbtnews.com.cn
 domain:bdu.focus.cn:@ads
 domain:bianews.com
+domain:bjnews.com.cn
+domain:bkeconomy.com
+domain:btime.com
 domain:caijing.com.cn
 domain:cailianpress.com
 domain:caixin.com
@@ -44,6 +48,7 @@ domain:cctvlibrary.com.cn
 domain:cctvpic.com
 domain:cctvpro.cn
 domain:cctvpro.com.cn
+domain:ce.cn
 domain:cfgw.net.cn
 domain:chaindd.com
 domain:cheaa.com
@@ -71,6 +76,7 @@ domain:cnstock.com
 domain:cntv.cn
 domain:cntv.com.cn
 domain:cntvwb.cn
+domain:cnwest.com
 domain:coolbuy.com
 domain:cooldock.com
 domain:cqcb.com
@@ -92,6 +98,7 @@ domain:dahe.cn
 domain:daheapp.com
 domain:dahebao.cn
 domain:danjuanfunds.com
+domain:dayoo.com
 domain:dgtle.com
 domain:dianzhenkeji.com
 domain:donews.com
@@ -102,17 +109,20 @@ domain:dzwww.com
 domain:eastday.com
 domain:ecns.cn
 domain:eeo.com.cn
+domain:evolife.cn
 domain:expreview.com
 domain:feng.com
 domain:fengcx.com
 domain:fengedu.com
 domain:fengimg.com
+domain:fjsen.com
 domain:focus-img.cn
 domain:focus.cn
 domain:fpb.sohu.com:@ads
 domain:freebuf.com
 domain:geekbang.org
 domain:geekpark.net
+domain:gfan.com
 domain:gjgbdszt.cn
 domain:gjgbdszt.com.cn
 domain:gjgbdszt.net.cn
@@ -211,6 +221,7 @@ domain:nbd.com.cn
 domain:neweekly.com.cn
 domain:news.cn
 domain:newsimg.cn
+domain:newssc.org
 domain:nfpeople.com
 domain:oeeee.com
 domain:ofweek.com
@@ -234,6 +245,7 @@ domain:pingwest.com
 domain:pv.hd.sohu.com:@ads
 domain:pv.sohu.com:@ads
 domain:qbitai.com
+domain:qianlong.com
 domain:qianzhan.com
 domain:qiluyidian.net
 domain:qingdaochina.org
@@ -241,6 +253,7 @@ domain:qingdaonews.com
 domain:ql1d.com
 domain:qpb.sohu.com:@ads
 domain:qpb1.sohu.com:@ads
+domain:rednet.cn
 domain:reke.at.sohu.com:@ads
 domain:ruanmei.com
 domain:saayaa.com
@@ -266,6 +279,7 @@ domain:sspai.com
 domain:statickksmg.com
 domain:stcn.com
 domain:stockstar.com
+domain:sxtvs.com
 domain:szhk.com
 domain:sznews.com
 domain:szpgm.com
@@ -302,6 +316,8 @@ domain:xilu.com
 domain:xinhuanet.com
 domain:xinhuaxmt.com
 domain:xinmeng.info
+domain:xinmin.cn
+domain:xinminweekly.com.cn
 domain:xkb.com.cn
 domain:xn--fiq53l6wcx3kp9bc7joo6apn8a.cn
 domain:xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s
@@ -326,6 +342,7 @@ domain:zggbdszt.net.cn
 domain:zgjtb.com
 domain:zhichanli.com
 domain:zhiding.cn
+domain:zjol.com.cn
 domain:zjstv.com
 domain:zol-img.com.cn
 domain:zol.com.cn

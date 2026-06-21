@@ -126,6 +126,7 @@ domain:awemeuglang.com
 domain:awemeugsoul.com
 domain:awemeugwave.com
 domain:b23.tv
+domain:b612kaji.com
 domain:baofeng.com
 domain:baofeng.net
 domain:baozou.com
@@ -507,6 +508,7 @@ domain:kwaizt.com
 domain:kwimgs.com
 domain:labycore.cn
 domain:langrenclub.com
+domain:laohu.com
 domain:ldmnq.com
 domain:le.com
 domain:leautolink.com
@@ -592,6 +594,7 @@ domain:nadianshi.com
 domain:nagcloudcs.com
 domain:natfrp.com
 domain:news.yxrb.net
+domain:newstjk.com
 domain:nextstudios.com
 domain:nextvid.net
 domain:nextworkshop.net
@@ -678,6 +681,7 @@ domain:shuqi.com
 domain:shuqiapi.com
 domain:shuqiread.com
 domain:shuqireader.com
+domain:shuqistat.com
 domain:shyxhy.com
 domain:singworld.net
 domain:skydweller.cn
@@ -756,6 +760,7 @@ domain:werepository.com.cn
 domain:winegame.net
 domain:wmbd.gamersky.com:@ads
 domain:wmsj.cn
+domain:wmupd.com
 domain:wo1wan.com
 domain:woaihuoshan.com
 domain:wohst8.com

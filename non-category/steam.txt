@@ -1,7 +1,9 @@
 domain:client-update.queniuqe.com:@cn
+domain:csgo.com.cn:@cn
 domain:csgo.wmsj.cn:@cn
 domain:dl.steam.clngaa.com:@cn
 domain:dota2.com
+domain:dota2.com.cn:@cn
 domain:dota2.wmsj.cn:@cn
 domain:edge.steam-dns.top.comcast.net
 domain:gstore.val.manlaxy.com:@cn

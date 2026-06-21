@@ -36,6 +36,7 @@ domain:doubaocdn.com
 domain:doudou.com
 domain:dui.ai
 domain:duiopen.com
+domain:dumate.cn
 domain:faxingbao.com
 domain:hailuoai.com
 domain:hi-butterfly.cn
@@ -54,9 +55,11 @@ domain:mcbaas.work
 domain:mcdemo.show
 domain:mchost.guru
 domain:mcprev.cn
+domain:mcpworld.com
 domain:meta.law
 domain:metaso.cn
 domain:miaibox.com
+domain:miaoda.cn
 domain:miaoyanai.com
 domain:minimaxi.com
 domain:moonshot.ai

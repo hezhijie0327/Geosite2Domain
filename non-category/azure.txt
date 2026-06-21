@@ -55,6 +55,7 @@ domain:azure-dns.com
 domain:azure-dns.info
 domain:azure-dns.net
 domain:azure-dns.org
+domain:azure-mobile.cn:@cn
 domain:azure-mobile.net
 domain:azure-sphere.com
 domain:azure-test.net
@@ -132,11 +133,14 @@ domain:msn.net
 domain:playfab.com
 domain:playfabapi.com
 domain:serverlesslibrary.net
+domain:sovcloud-mx.cn:@cn
+domain:sovcloud-static.cn:@cn
+domain:sovcloud-usercontent.cn:@cn
+domain:sovcloud.cn:@cn
 domain:trafficmanager.cn:@cn
 domain:trafficmanager.net
 domain:trustcenter.cn:@cn
 domain:tryfunctions.com
-domain:unity3dcloud.cn:@cn
 domain:windowsazure.cn:@cn
 domain:windowsazure.com
 domain:windowsazurestatus.cn:@cn

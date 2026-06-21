@@ -13,4 +13,5 @@ domain:ctexcel.com.hk:@!cn
 domain:ctexcel.com:@!cn
 domain:ctexcel.fr:@!cn
 domain:ctexcel.us:@!cn
+domain:dlife.cn
 domain:vnet.cn

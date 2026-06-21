@@ -1,6 +1,9 @@
 domain:ads.uc.cn:@ads
 domain:adslot.uc.cn:@ads
+domain:open-uc.cn
+domain:uc-engine.cn
 domain:uc.cn
 domain:uc123.com
+domain:ucfly.com
 domain:ucweb.com
 domain:uczzd.cn
