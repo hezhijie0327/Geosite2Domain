@@ -1,4 +1,5 @@
 domain:byspotify.com
+domain:lifeatspotify.com
 domain:pscdn.co
 domain:scdn.co
 domain:spoti.fi
@@ -11,6 +12,7 @@ domain:spotifycdn.net
 domain:spotifycharts.com
 domain:spotifycodes.com
 domain:spotifyforbrands.com
+domain:spotifyforvendors.com
 domain:spotifyjobs.com
 domain:tospotify.com
 full:adeventtracker.spotify.com:@ads

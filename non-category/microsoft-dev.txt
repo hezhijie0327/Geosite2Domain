@@ -51,7 +51,10 @@ domain:visualstudio.net
 domain:vsassets.io
 domain:vscode-cdn.net
 domain:vscode-unpkg.net
+domain:vscode-webview.net
 domain:vscode.dev
+domain:vscodeedu.app
+domain:vscodeedu.com
 domain:xamarin.com
 full:az764295.vo.msecnd.net
 full:bingsettingssearch.trafficmanager.net

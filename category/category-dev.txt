@@ -3,6 +3,7 @@ domain:accountkit.com
 domain:acpica.com
 domain:adaptivecards.io
 domain:adventofcode.com
+domain:almalinux.org
 domain:alpinelinux.org
 domain:amp.dev
 domain:ampproject.com
@@ -47,6 +48,7 @@ domain:brew.sh
 domain:buck.build
 domain:buckbuild.com
 domain:bugsnag.com
+domain:busybox.net
 domain:calendarserver.org
 domain:canonical.com
 domain:carekit.org
@@ -177,6 +179,7 @@ domain:gitbook.io
 domain:gitgud.io
 domain:github.ai
 domain:github.blog
+domain:github.career
 domain:github.com
 domain:github.community
 domain:github.dev
@@ -272,6 +275,7 @@ domain:macruby.com
 domain:macruby.net
 domain:macruby.org
 domain:makeitopen.com
+domain:manjaro.org
 domain:mariadb.org
 domain:mate-desktop.org
 domain:mathoverflow.net
@@ -411,6 +415,7 @@ domain:researchkit.tv
 domain:rocksdb.com
 domain:rocksdb.net
 domain:rocksdb.org
+domain:rockylinux.org
 domain:rpmfusion.org
 domain:ruby-lang.org
 domain:rubygems.org
@@ -509,7 +514,10 @@ domain:visualstudio.net
 domain:vsassets.io
 domain:vscode-cdn.net
 domain:vscode-unpkg.net
+domain:vscode-webview.net
 domain:vscode.dev
+domain:vscodeedu.app
+domain:vscodeedu.com
 domain:w.org
 domain:wapm.io
 domain:wasmer.io

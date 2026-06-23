@@ -720,6 +720,7 @@ domain:leaguoflegends.com
 domain:learnwithleague.com
 domain:legendofzelda.cn:@cn
 domain:legendofzelda.com.cn:@cn
+domain:lifeatspotify.com
 domain:linetv.tw
 domain:litbus-anime.com
 domain:litv.tv
@@ -1223,6 +1224,7 @@ domain:spotifycdn.net
 domain:spotifycharts.com
 domain:spotifycodes.com
 domain:spotifyforbrands.com
+domain:spotifyforvendors.com
 domain:spotifyjobs.com
 domain:spyjinx.com
 domain:sqool.net

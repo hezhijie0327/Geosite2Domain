@@ -2681,6 +2681,7 @@ domain:evolverpro.com
 domain:eworld.com
 domain:exacttarget.com
 domain:exascale-tech.com
+domain:exp-tas.com
 domain:experience-vmware.com
 domain:exploreintel.com
 domain:expresswifi.com
@@ -3248,6 +3249,7 @@ domain:gipscorp.com
 domain:git.io
 domain:github.ai
 domain:github.blog
+domain:github.career
 domain:github.com
 domain:github.community
 domain:github.dev
@@ -6046,15 +6048,18 @@ domain:salesforcemarketingcloud.com
 domain:samebags.com
 domain:samsung
 domain:samsung.com
+domain:samsung.com.cn:@cn
 domain:samsungadhub.com:@ads
 domain:samsungads.com:@ads
 domain:samsungapps.com
 domain:samsungcloud.com
+domain:samsungcloudcn.com:@cn
 domain:samsungconsent.com
 domain:samsungdm.com
 domain:samsungeshop.com.cn:@cn
 domain:samsunggalaxyfriends.com
 domain:samsunghealth.com
+domain:samsunghealthcn.com:@cn
 domain:samsungiotcloud.com
 domain:samsungiots.com
 domain:samsungknox.com
@@ -6894,7 +6899,10 @@ domain:vscale.io
 domain:vscale.ru
 domain:vscode-cdn.net
 domain:vscode-unpkg.net
+domain:vscode-webview.net
 domain:vscode.dev
+domain:vscodeedu.app
+domain:vscodeedu.com
 domain:vsphere.com
 domain:vsphere.net
 domain:vultr.com
@@ -7790,7 +7798,6 @@ full:dc1-st.ksn.kaspersky-labs.com:@cn
 full:dc1.ksn.kaspersky-labs.com:@cn
 full:dd-cdn.origin-apple.com.akadns.net:@cn
 full:dds.dell.com:@cn
-full:default.exp-tas.com
 full:dejavu.apple.com:@cn
 full:developer.microsoft.com:@cn
 full:devimages-cdn.apple.com:@cn

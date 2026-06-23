@@ -184,6 +184,7 @@ domain:dynamics.com
 domain:efproject.net
 domain:elderscrolls.com
 domain:engkoo.com:@cn
+domain:exp-tas.com
 domain:fasttrackreadysupport.com
 domain:femalefounderscomp.com
 domain:flightsimulator.com
@@ -208,6 +209,7 @@ domain:gigjam.com
 domain:git.io
 domain:github.ai
 domain:github.blog
+domain:github.career
 domain:github.com
 domain:github.community
 domain:github.dev
@@ -580,7 +582,10 @@ domain:vsallin.net
 domain:vsassets.io
 domain:vscode-cdn.net
 domain:vscode-unpkg.net
+domain:vscode-webview.net
 domain:vscode.dev
+domain:vscodeedu.app
+domain:vscodeedu.com
 domain:wbd.ms
 domain:what-fan.net
 domain:windows
@@ -636,7 +641,6 @@ full:collaborateppe.download.prss.microsoft.com:@cn
 full:copilot-telemetry-service.githubusercontent.com:@ads
 full:copilot-telemetry.githubusercontent.com:@ads
 full:ctldl.windowsupdate.com:@cn
-full:default.exp-tas.com
 full:developer.microsoft.com:@cn
 full:download.microsoft.com:@cn
 full:download.visualstudio.microsoft.com:@cn

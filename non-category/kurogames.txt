@@ -3,6 +3,7 @@ domain:aki-game.net:@!cn
 domain:aki-game2.com
 domain:aki-game2.net:@!cn
 domain:kurobbs.com
+domain:kurogame-service.com:@!cn
 domain:kurogame.com
 domain:kurogame.net:@!cn
 domain:kurogame.xyz

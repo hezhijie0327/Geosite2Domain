@@ -1335,6 +1335,7 @@ domain:allpornsitespass.com
 domain:allspyclips.com
 domain:allswingersclubs.org
 domain:allthefallen.moe
+domain:almalinux.org
 domain:alohatube.com
 domain:alotporn.com
 domain:alphabet.asia
@@ -4476,6 +4477,7 @@ domain:bustymomsvideo.com
 domain:bustynudebabes.com
 domain:bustyoldsluts.com
 domain:bustysammieblack.com
+domain:busybox.net
 domain:buy-from-shanghai.com
 domain:buyaapl.com
 domain:buyaapl.net
@@ -7558,6 +7560,7 @@ domain:exiporn.com
 domain:exoav.com
 domain:exotic-ghana.com
 domain:exoticuganda.com
+domain:exp-tas.com
 domain:experience-vmware.com
 domain:experiencebillmelater.com
 domain:expertmaker.com
@@ -9158,6 +9161,7 @@ domain:gitbook.io
 domain:gitgud.io
 domain:github.ai
 domain:github.blog
+domain:github.career
 domain:github.com
 domain:github.community
 domain:github.dev
@@ -12782,6 +12786,7 @@ domain:licdn.com
 domain:licensebuttons.net
 domain:licenseparser.com
 domain:life-global.org
+domain:lifeatspotify.com
 domain:lifeselector.com
 domain:lifestyle-tec.ru
 domain:lifewire.com
@@ -13246,6 +13251,7 @@ domain:manhuntdaily.com
 domain:manhwa24h.com
 domain:manhwahentai.me
 domain:maniakey.homes
+domain:manjaro.org
 domain:manorama.com
 domain:manoramanews.com
 domain:manoramaonline.com
@@ -17955,6 +17961,7 @@ domain:rocksdb.org
 domain:rocksextube.com
 domain:rockstargames.com
 domain:rockstarnorth.com
+domain:rockylinux.org
 domain:roku.com
 domain:rokutime.com
 domain:rolfoundation.org
@@ -18190,15 +18197,18 @@ domain:samebags.com
 domain:samokat.ru
 domain:samsung
 domain:samsung.com
+domain:samsung.com.cn:@cn
 domain:samsungadhub.com:@ads
 domain:samsungads.com:@ads
 domain:samsungapps.com
 domain:samsungcloud.com
+domain:samsungcloudcn.com:@cn
 domain:samsungconsent.com
 domain:samsungdm.com
 domain:samsungeshop.com.cn:@cn
 domain:samsunggalaxyfriends.com
 domain:samsunghealth.com
+domain:samsunghealthcn.com:@cn
 domain:samsungiotcloud.com
 domain:samsungiots.com
 domain:samsungknox.com
@@ -19330,6 +19340,7 @@ domain:spotifycdn.net
 domain:spotifycharts.com
 domain:spotifycodes.com
 domain:spotifyforbrands.com
+domain:spotifyforvendors.com
 domain:spotifyjobs.com
 domain:spraynwash.com
 domain:spreadprivacy.com
@@ -21896,7 +21907,10 @@ domain:vscale.io
 domain:vscale.ru
 domain:vscode-cdn.net
 domain:vscode-unpkg.net
+domain:vscode-webview.net
 domain:vscode.dev
+domain:vscodeedu.app
+domain:vscodeedu.com
 domain:vsemrabota.ru
 domain:vsex.in
 domain:vsezoo.com
@@ -24050,7 +24064,6 @@ full:dc1-st.ksn.kaspersky-labs.com:@cn
 full:dc1.ksn.kaspersky-labs.com:@cn
 full:dd-cdn.origin-apple.com.akadns.net:@cn
 full:dds.dell.com:@cn
-full:default.exp-tas.com
 full:dejavu.apple.com:@cn
 full:deribit.cdn.prismic.io
 full:deutschewelle.h-cdn.com
