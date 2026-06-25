@@ -23846,6 +23846,7 @@ full:a3.mzstatic.com:@cn
 full:a4.mzstatic.com:@cn
 full:a4e8s8k3.map2.ssl.hwcdn.net
 full:a5.mzstatic.com:@cn
+full:account-cn.alibabacloud.com:@cn
 full:activate.activation-v2.kaspersky.com:@cn
 full:activation-v2.geo.kaspersky.com:@cn
 full:activation-v2.kaspersky.com:@cn
@@ -23931,6 +23932,7 @@ full:api-ru.mindbox.cloud:@ads
 full:api-secure.carrotquest.app:@ads
 full:api-secure.carrottrack.app:@ads
 full:api-staging.mindbox.ru:@ads
+full:api.alibabacloud.com:@cn
 full:api.carrotquest.app:@ads
 full:api.carrotquest.io:@ads
 full:api.carrottrack.app:@ads
@@ -24030,6 +24032,7 @@ full:clientperipherals.dell.com:@cn
 full:clientservices.googleapis.com:@cn
 full:cma.itunes.apple.com:@cn
 full:cn-smp-paymentservices.apple.com:@cn
+full:cn.alibabacloud.com:@cn
 full:cn.download.nvidia.com:@cn
 full:cn.widevine.com:@cn
 full:cn.windowssearch.com:@cn
@@ -24520,6 +24523,7 @@ full:stats.dev.telega.info:@ads
 full:stats.rustore.ru:@ads
 full:stats.telega.info:@ads
 full:stats.vk-portal.net:@ads
+full:status.alibabacloud.com:@cn
 full:stocks-sparkline-lb.apple.com.akadns.net:@cn
 full:stocks-sparkline.apple.com:@cn
 full:store.apple.com.edgekey.net.globalredir.akadns.net:@cn

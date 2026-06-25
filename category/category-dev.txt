@@ -563,7 +563,7 @@ full:developer.microsoft.com
 full:developers.facebook.com
 full:docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com
 full:docker-pinata-support.s3.amazonaws.com
-full:download.visualstudio.microsoft.com
+full:download.visualstudio.microsoft.com:@cn
 full:dtlgalleryint.cloudapp.net
 full:firebase-settings.crashlytics.com:@cn
 full:firebase.google.com

@@ -6,3 +6,7 @@ domain:alibabacloud.com.sg:@!cn
 domain:alibabacloud.com.tw:@!cn
 domain:alibabacloud.com:@!cn
 domain:alicloud.com:@!cn
+full:account-cn.alibabacloud.com:@cn
+full:api.alibabacloud.com:@cn
+full:cn.alibabacloud.com:@cn
+full:status.alibabacloud.com:@cn

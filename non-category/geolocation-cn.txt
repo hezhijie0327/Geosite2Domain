@@ -1816,6 +1816,8 @@ domain:cmpassport.com
 domain:cmpay.com
 domain:cmread.com
 domain:cmvideo.cn
+domain:cn-hangzhou.aliyuncs.com
+domain:cn-shanghai.aliyuncs.com
 domain:cn.pool.ntp.org:@cn
 domain:cnanzhi.com
 domain:cnb.cool
@@ -7348,11 +7350,14 @@ domain:zysou.com
 domain:zz.bdstatic.com:@ads
 domain:zzdtec.com
 domain:zztfly.com
+full:account-cn.alibabacloud.com:@cn
 full:ads3-normal-hl.zijieapi.com:@ads
 full:ads3-normal.zijieapi.com:@ads
 full:ads5-normal-hl.zijieapi.com:@ads
 full:ads5-normal.zijieapi.com:@ads
+full:api.alibabacloud.com:@cn
 full:apilog-web.acfun.cn:@ads
+full:cn.alibabacloud.com:@cn
 full:ctdsb.clouddiffuse.xyz
 full:end-api.shallow.ink
 full:end.shallow.ink
@@ -7383,6 +7388,7 @@ full:rtlog3-applog-hl.fqnovel.com:@ads
 full:rtlog3-applog.fqnovel.com:@ads
 full:rtlog5-applog-hl.fqnovel.com:@ads
 full:rtlog5-applog.fqnovel.com:@ads
+full:status.alibabacloud.com:@cn
 full:time.amazonaws.cn:@cn
 full:time.izatcloud.net:@cn
 full:time.xtracloud.net:@cn

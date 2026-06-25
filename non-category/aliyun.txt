@@ -18,10 +18,13 @@ domain:aliyuncdn.net
 domain:aliyunfile.com
 domain:aliyunidaas.com
 domain:aliyunpds.com
+domain:ap-southeast-1.aliyuncs.com:@!cn
 domain:atanx.alicdn.com:@ads
 domain:atanx2.alicdn.com:@ads
 domain:baichuan-sdk.alicdn.com:@ads
 domain:cdngslb.com
+domain:cn-hangzhou.aliyuncs.com
+domain:cn-shanghai.aliyuncs.com
 domain:fcapp.run
 domain:hichina.com
 domain:ica-alliance.org

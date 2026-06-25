@@ -140,6 +140,7 @@ domain:antfin.com
 domain:antfortune.com
 domain:antgroup-inc.cn
 domain:antgroup.com
+domain:ap-southeast-1.aliyuncs.com:@!cn
 domain:ar.umeng.com:@ads
 domain:asczwa.com
 domain:asczxcefsv.com
@@ -164,6 +165,8 @@ domain:ccs.umeng.com:@ads
 domain:cdngslb.com
 domain:cheng.xin
 domain:cloudeagle.cn
+domain:cn-hangzhou.aliyuncs.com
+domain:cn-shanghai.aliyuncs.com
 domain:cnlogs.umeng.com:@ads
 domain:cnlogs.umengcloud.com:@ads
 domain:cnzz.com
@@ -433,3 +436,7 @@ domain:zhisheng.com
 domain:zimgs.cn
 domain:ztna-dingtalk.com
 domain:zuodao.com
+full:account-cn.alibabacloud.com:@cn
+full:api.alibabacloud.com:@cn
+full:cn.alibabacloud.com:@cn
+full:status.alibabacloud.com:@cn
