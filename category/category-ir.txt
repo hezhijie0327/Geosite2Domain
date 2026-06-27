@@ -95,12 +95,14 @@ domain:mellatbroker.com
 domain:mellatinsurance.com
 domain:melodify.app
 domain:melodify.pw
+domain:melotar.com
 domain:mihanwebhost.com
 domain:mofidonline.com
 domain:mrbilit.com
 domain:mydigipay.com
 domain:najva.com
 domain:neshan.org
+domain:newdars.com
 domain:niniban.com
 domain:ninisite.com
 domain:niniweblog.com
