@@ -123,6 +123,7 @@ domain:stitch.withgoogle.com
 domain:tapnow.ai
 domain:themeforest.net
 domain:trae.ai:@!cn
+domain:tripo3d.ai
 domain:turn.livekit.cloud
 domain:windsurf.build
 domain:windsurf.com

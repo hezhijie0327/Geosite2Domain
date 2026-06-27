@@ -616,6 +616,7 @@ domain:wegame.com.cn
 domain:wegamedeveloper.com
 domain:wegameplus.com
 domain:weishi.com
+domain:weixin.com
 domain:weixinbridge.com
 domain:weiyun.com
 domain:werepository.com.cn

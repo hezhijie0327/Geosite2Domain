@@ -75,7 +75,6 @@ domain:acfunchina.com
 domain:acfunchina.net
 domain:acg.tv
 domain:acgvideo.com
-domain:acplay.net
 domain:activity-wbsj.com
 domain:activity-zhendingtech.com
 domain:ad.api.3g.youku.com:@ads
@@ -206,7 +205,6 @@ domain:cupid.iqiyi.com:@ads
 domain:cy.com
 domain:da.hunantv.com:@ads
 domain:da.mgtv.com:@ads
-domain:dandanplay.com
 domain:dataeye.com
 domain:dc.letv.com:@ads
 domain:ddmogo.com

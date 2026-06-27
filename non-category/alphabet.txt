@@ -141,6 +141,7 @@ domain:chrome.com
 domain:chromebook.com
 domain:chromecast.com
 domain:chromeos.dev
+domain:chromestatus.com
 domain:chromium.org
 domain:chronicle.security
 domain:chroniclesec.com

@@ -78,6 +78,7 @@ domain:linyaps.org.cn
 domain:mindspore.cn
 domain:mysxl.cn
 domain:nnthink.com
+domain:oend.net
 domain:openkylin.top
 domain:openmidas.com
 domain:openvela.com

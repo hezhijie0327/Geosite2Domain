@@ -3,6 +3,7 @@ domain:appleicloud.cn:@cn
 domain:applemx-icloud.com
 domain:icloud-apple.cn:@cn
 domain:icloud-content.com
+domain:icloud-content.com.cn:@cn
 domain:icloud-isupport.com
 domain:icloud-sandbox.com
 domain:icloud.ch

@@ -215,6 +215,8 @@ domain:cygames.jp
 domain:d4dj-pj.com
 domain:da-files.com
 domain:dailymotion.com
+domain:dandanplay.com
+domain:dandanplay.net
 domain:dandanzan.cc
 domain:daoc.net
 domain:darkageofcamelot.com
@@ -1389,6 +1391,7 @@ domain:unravel2.com
 domain:unraveltwo.com
 domain:unrealengine.com
 domain:unrealtournament.com
+domain:unsplash.com
 domain:uo.com
 domain:uoherald.com
 domain:uplay.com

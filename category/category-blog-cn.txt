@@ -5,11 +5,16 @@ domain:aloys233.top
 domain:fanmingming.com
 domain:huangyuhui.net
 domain:lg3000.top
+domain:misaka-net.top
+domain:moliranran.com
 domain:mryys.cn
 domain:mryys.com
 domain:mysqil.com
+domain:pljzy.top
 domain:skywt.cn
 domain:soulteary.com
 domain:tai3.cn
+domain:tianhw.top
 domain:topwd.top
+domain:vtdd.vip
 domain:zway.top

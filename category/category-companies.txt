@@ -767,6 +767,7 @@ domain:applepremiumresellers.com.au
 domain:applereach.com
 domain:applereach.net
 domain:apples-msk.ru
+domain:appleschoolcontent.com
 domain:applescreensavers.com
 domain:applescript.info
 domain:appleshare.info
@@ -858,6 +859,7 @@ domain:appule.com
 domain:appye.com
 domain:apture.com
 domain:apyle.com
+domain:apzones.com
 domain:architectural-cadcam.com
 domain:area120.com
 domain:aria.ms
@@ -1122,6 +1124,7 @@ domain:awsthinkbox.com
 domain:awstrack.me
 domain:awstrust.com
 domain:awswaf.com
+domain:axm-usercontent-apple.com
 domain:azbukainterneta.ru
 domain:azchcdna.com:@cn
 domain:azchcdnb.com:@cn
@@ -1954,6 +1957,7 @@ domain:chrome.com
 domain:chromebook.com
 domain:chromecast.com
 domain:chromeos.dev
+domain:chromestatus.com
 domain:chromium.org
 domain:chronicle.security
 domain:chroniclesec.com
@@ -3962,6 +3966,7 @@ domain:ibooksauthor.com
 domain:ichat.co.in
 domain:icloud-apple.cn:@cn
 domain:icloud-content.com
+domain:icloud-content.com.cn:@cn
 domain:icloud-isupport.com
 domain:icloud-sandbox.com
 domain:icloud.ch

@@ -2056,6 +2056,7 @@ domain:applepremiumresellers.com.au
 domain:applereach.com
 domain:applereach.net
 domain:apples-msk.ru
+domain:appleschoolcontent.com
 domain:applescreensavers.com
 domain:applescript.info
 domain:appleshare.info
@@ -2155,6 +2156,7 @@ domain:aptdn.net:@cn
 domain:aptoide.com
 domain:apture.com
 domain:apyle.com
+domain:apzones.com
 domain:aqdlt.net
 domain:arabianchicks.com
 domain:arabicrt.ru
@@ -2673,6 +2675,7 @@ domain:awxcdn.com
 domain:axbdoll.com.tw
 domain:axept.io
 domain:axios.com
+domain:axm-usercontent-apple.com
 domain:ayabank.com
 domain:ayshdade.info
 domain:ayshdee.xyz
@@ -5072,6 +5075,7 @@ domain:chrome.com
 domain:chromebook.com
 domain:chromecast.com
 domain:chromeos.dev
+domain:chromestatus.com
 domain:chromium.org
 domain:chronicle.security
 domain:chroniclesec.com
@@ -5769,6 +5773,8 @@ domain:dajiyuan.eu
 domain:damduc.org
 domain:damplips.com
 domain:dandalinvoa.com
+domain:dandanplay.com
+domain:dandanplay.net
 domain:dandanzan.cc
 domain:danemarket.com
 domain:danmarkbeatsbydrdre.com
@@ -10836,6 +10842,7 @@ domain:ichigocandy.com
 domain:ichineseporn.com
 domain:icloud-apple.cn:@cn
 domain:icloud-content.com
+domain:icloud-content.com.cn:@cn
 domain:icloud-isupport.com
 domain:icloud-sandbox.com
 domain:icloud.ch
@@ -20567,6 +20574,7 @@ domain:triballo.net
 domain:tribler.org
 domain:trikepatrol.com
 domain:triokini.com
+domain:tripo3d.ai
 domain:tristatebmw.com
 domain:trithucvn.net
 domain:trithucvn.org
@@ -20937,6 +20945,7 @@ domain:unravel2.com
 domain:unraveltwo.com
 domain:unrealengine.com
 domain:unrealtournament.com
+domain:unsplash.com
 domain:unstyle.us
 domain:unusualporn.net
 domain:unwire.hk

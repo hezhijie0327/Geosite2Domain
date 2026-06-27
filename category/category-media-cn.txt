@@ -10,6 +10,7 @@ domain:3elife.net
 domain:56.com
 domain:56img.com
 domain:6655.com
+domain:71shi.net
 domain:72whys.com
 domain:8531.cn
 domain:ad.cctv.com:@ads
@@ -128,6 +129,7 @@ domain:gjgbdszt.com.cn
 domain:gjgbdszt.net.cn
 domain:gmdaily.cn
 domain:gmw.cn
+domain:goodq.top
 domain:guancha.cn
 domain:guangmingdaily.cn
 domain:guigu.org
@@ -135,6 +137,7 @@ domain:gw.com.cn
 domain:gxtv.cn
 domain:gxxmt.com
 domain:gztv.com
+domain:haowenti.net
 domain:heimadata.com
 domain:hexin.cn
 domain:hexin.com.cn

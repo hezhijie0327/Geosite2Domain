@@ -350,6 +350,7 @@ domain:714.com
 domain:71acg.com
 domain:71acg.net
 domain:71edge.com
+domain:71shi.net
 domain:7230.com
 domain:72byte.com
 domain:72whys.com
@@ -384,6 +385,7 @@ domain:88cha.com
 domain:88y.cn
 domain:8btc.com
 domain:8gcdp.cn
+domain:8m2.net
 domain:8n82b.cn
 domain:8uri.cn
 domain:900.la
@@ -467,7 +469,6 @@ domain:acgvideo.com
 domain:acimg.cn
 domain:acjs.aliyun.com:@ads
 domain:acloudrender.com
-domain:acplay.net
 domain:activity-dy.com
 domain:activity-wbsj.com
 domain:activity-zhendingtech.com
@@ -748,6 +749,7 @@ domain:animetamashi.com
 domain:anitabi.cn
 domain:anitama.cn
 domain:anitama.net
+domain:anixplayer.net
 domain:anjuke.com
 domain:anjukestatic.com
 domain:anker.com.cn
@@ -774,7 +776,6 @@ domain:anycross.com
 domain:anytocopy.com
 domain:anywlan.com
 domain:anzhuo.cn
-domain:ao-x.ac.cn
 domain:aocde.com
 domain:aoshu.com
 domain:aotrip.net
@@ -951,7 +952,6 @@ domain:bdimg.com
 domain:bdispatch.com
 domain:bdispatch.net
 domain:bdmozon.com
-domain:bdmyandex.com
 domain:bdns-api-test.net
 domain:bdns-boe.com
 domain:bdns-boe.net
@@ -1662,6 +1662,7 @@ domain:cidp.com.cn
 domain:cignacmb-ipmi.com
 domain:cignacmb.com
 domain:cignacmbamc.com
+domain:cilisouou.com
 domain:cindasc.com
 domain:citibank.com.cn
 domain:citic
@@ -2054,7 +2055,6 @@ domain:dalongyun.com
 domain:damai.cn
 domain:dancf.com
 domain:dandan818.com
-domain:dandanplay.com
 domain:dandanvoice.com
 domain:dangbei.com
 domain:dangbei.net
@@ -2344,6 +2344,7 @@ domain:duba.net
 domain:dui.ai
 domain:dui88.com
 domain:duiba.com.cn
+domain:duifene.com
 domain:duiopen.com
 domain:duiou.com.cn
 domain:duitang.com
@@ -2905,6 +2906,7 @@ domain:gongqingyun.cn
 domain:gongxiangcj.com
 domain:gongxiangjizhang.com
 domain:gongyi.xin
+domain:goodq.top
 domain:goofish.com
 domain:goofish.pro
 domain:goosail.com
@@ -2970,6 +2972,7 @@ domain:guazi.net
 domain:guazistatic.com
 domain:guba.com.cn
 domain:gucheng.com
+domain:gugudata.com
 domain:guigu.org
 domain:guodu.com
 domain:guoguo-app.com
@@ -3043,6 +3046,7 @@ domain:haosou.com
 domain:haosou.com.cn
 domain:haosou.net
 domain:haote.com
+domain:haowenti.net
 domain:haowu.link
 domain:haoyouyinxiang.com
 domain:hapierxia.com
@@ -3717,6 +3721,7 @@ domain:jdx.com
 domain:jet-ego.com
 domain:jet-logistics.com
 domain:jetlogistic.com
+domain:jfcoop.com
 domain:jfdaily.com
 domain:jhgtgb.com
 domain:jhscm.com
@@ -3747,6 +3752,7 @@ domain:jibencaozuo.com
 domain:jiemeng8.com
 domain:jiemian.com
 domain:jiemian.com.cn
+domain:jigecili.com
 domain:jiguang.cn
 domain:jike.city
 domain:jikecdn.com
@@ -4565,6 +4571,7 @@ domain:mipcdn.com
 domain:miraclevision.com
 domain:mirrorcast.cn
 domain:mirrors.yun-idc.com
+domain:misaka-net.top
 domain:misc.in.duokanbox.com:@ads
 domain:missevan.com
 domain:missjia.net
@@ -4613,6 +4620,7 @@ domain:mojichina.com
 domain:mojidict.com
 domain:mokahr.com
 domain:moleecel.com
+domain:moliranran.com
 domain:monika.love
 domain:monitor.music.qq.com:@ads
 domain:monitor.uu.qq.com:@ads
@@ -4840,6 +4848,7 @@ domain:oceancloudapi.com
 domain:ocfund.cn
 domain:ocwms.com
 domain:oeeee.com
+domain:oend.net
 domain:offcn.com
 domain:officese.com
 domain:ofweek.com
@@ -5044,6 +5053,7 @@ domain:pkulaw.com
 domain:pl.youku.com:@ads
 domain:playcool.com
 domain:plbslog.umeng.com:@ads
+domain:pljzy.top
 domain:pmir.3g.qq.com:@ads
 domain:pmphmooc.com
 domain:pn1waq.com
@@ -5083,6 +5093,7 @@ domain:privateapi.xyz
 domain:procg.cn
 domain:programmer.com.cn
 domain:programmer.net.cn
+domain:proj101.cn
 domain:proximabeta.com
 domain:psbc.com
 domain:pstatp.com
@@ -5091,7 +5102,6 @@ domain:pubghelper.com
 domain:pubgno1.cn
 domain:pubgtool.com
 domain:pubyun.com
-domain:puddingcat.top
 domain:puh3.net.cn
 domain:pupuapi.com
 domain:pupumall.com
@@ -5200,6 +5210,7 @@ domain:qingque.cn
 domain:qingsongchou.com
 domain:qingstor.com
 domain:qingting.fm
+domain:qingtingai.net
 domain:qingtingtrip.com
 domain:qingzhouip.com
 domain:qiniu.com
@@ -5279,6 +5290,7 @@ domain:qunliao.info
 domain:quyaoya.com
 domain:qweather.com
 domain:qweather.net
+domain:qweatherapi.com
 domain:qwen.ai
 domain:qwenlm.ai
 domain:qwps.cn
@@ -5992,6 +6004,7 @@ domain:ti.com.cn
 domain:tiancity.com
 domain:tiancitycdn.com
 domain:tiangong.cn
+domain:tianhw.top
 domain:tianjimedia.com
 domain:tianjin-air.com
 domain:tianlailive.com
@@ -6060,7 +6073,6 @@ domain:to8to.com
 domain:tobosu.com
 domain:todesk.cn
 domain:todesk.com
-domain:tokcoder.com
 domain:tokyotrial.cn
 domain:tom.com
 domain:tongdun.net
@@ -6492,6 +6504,7 @@ domain:vrzwk.net
 domain:vrzwk.top
 domain:vscenevideo.com
 domain:vsread.com
+domain:vtdd.vip
 domain:vvstc.com
 domain:vxo7tu.com
 domain:vzuu.com
@@ -6564,6 +6577,7 @@ domain:weilaicaijing.com
 domain:weilaiyunxiao.com
 domain:weiphone.net
 domain:weishi.com
+domain:weixin.com
 domain:weixinbridge.com
 domain:weixing.com
 domain:weiyangx.com
@@ -6673,6 +6687,7 @@ domain:wscdns.org
 domain:wsdvs.com
 domain:wsglb.com
 domain:wsglb.net
+domain:wsjqnmmrmv.world
 domain:wsoso.com
 domain:wss.cc
 domain:wss.email
@@ -7180,6 +7195,7 @@ domain:zggbdszt.cn
 domain:zggbdszt.com.cn
 domain:zggbdszt.net.cn
 domain:zggqzp.com
+domain:zggx100.com
 domain:zgjm.org
 domain:zgjsks.com
 domain:zgjtb.com
