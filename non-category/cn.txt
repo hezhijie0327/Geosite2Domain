@@ -3179,6 +3179,7 @@ domain:kgimg.com
 domain:kidsccshow.com
 domain:kimi.com
 domain:kimiss.com
+domain:kimxz.com
 domain:kingdee.com
 domain:kinghomechina.com
 domain:kingsoft-office-service.com
@@ -3210,7 +3211,6 @@ domain:ks-cdn.com
 domain:ks-cdn1.com
 domain:ks-live.com
 domain:ksapisrv.com
-domain:kscord.com
 domain:kskwai.com
 domain:ksmobile.com
 domain:ksord.com

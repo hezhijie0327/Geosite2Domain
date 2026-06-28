@@ -2,7 +2,7 @@ domain:51dzt.com
 domain:docer.com
 domain:iciba.com
 domain:kdocs.cn
-domain:kscord.com
+domain:kimxz.com
 domain:papocket.com
 domain:qwps.cn
 domain:wps.cn

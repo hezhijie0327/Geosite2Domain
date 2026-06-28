@@ -10,13 +10,14 @@ domain:ijinshan.com
 domain:kcdnvip.com
 domain:kdocs.cn
 domain:kimg.cn
+domain:kimxz.com
 domain:kingsoft-office-service.com
 domain:kingsoft.com
 domain:ks-cdn.com
 domain:ks-cdn1.com
 domain:ks-live.com
-domain:kscord.com
 domain:ksmobile.com
+domain:ksord.com
 domain:ksosoft.com
 domain:ksyun.com
 domain:ksyuncdn.com
