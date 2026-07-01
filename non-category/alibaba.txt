@@ -179,6 +179,7 @@ domain:dfkhgj.com
 domain:dianwoda.cn
 domain:dianwoda.com
 domain:dingding.xin
+domain:dingstore.cn
 domain:dingtalk.cn
 domain:dingtalk.com
 domain:dingtalk.net

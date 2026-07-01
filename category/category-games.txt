@@ -46,6 +46,7 @@ domain:5054399.com
 domain:5054399.net
 domain:573.jp
 domain:5wyxi.com
+domain:66rpg.com
 domain:71acg.com
 domain:71acg.net
 domain:7k7k.com
@@ -130,6 +131,7 @@ domain:capitalgames.com
 domain:capturingreality.com
 domain:cbjq.com
 domain:cdncl.net
+domain:cgyouxi.com
 domain:championshipseriesleague.com
 domain:changyou.com
 domain:chillingo.com
@@ -485,6 +487,7 @@ domain:mythicentertainment.net
 domain:mythicgames.com
 domain:n0vadesktop.com
 domain:nagcloudcs.com
+domain:nalrer.cn
 domain:namemc.com
 domain:needforspeed.com
 domain:needforspeedboost.com
@@ -961,6 +964,7 @@ domain:xoyo.com
 domain:xoyocdn.com
 domain:ycgame.com
 domain:yingxiong.com
+domain:yjwujian.cn
 domain:ylands.com
 domain:ynoproject.net
 domain:yo-star.com
@@ -981,6 +985,7 @@ domain:yxhhdl.com
 domain:yxhimg.com
 domain:yximg.cn
 domain:yxwsgame.com
+domain:yysls.cn
 domain:yzyxgame.com
 domain:zcjbgame.com
 domain:zenlesszonezero.com

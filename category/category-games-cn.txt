@@ -37,6 +37,7 @@ domain:4399yyy.com
 domain:5054399.com
 domain:5054399.net
 domain:5wyxi.com
+domain:66rpg.com
 domain:71acg.com
 domain:71acg.net
 domain:7k7k.com
@@ -66,6 +67,7 @@ domain:buke999.com
 domain:bx1k.com
 domain:cbjq.com
 domain:cdncl.net
+domain:cgyouxi.com
 domain:changyou.com
 domain:codm.com
 domain:cowlevel.net
@@ -154,6 +156,7 @@ domain:mszdld.net
 domain:my4399.com
 domain:mysiteres.com
 domain:nagcloudcs.com
+domain:nalrer.cn
 domain:nextstudios.com
 domain:nextworkshop.net
 domain:nzsiteres.com
@@ -242,6 +245,7 @@ domain:xoyo.com
 domain:xoyocdn.com
 domain:ycgame.com
 domain:yingxiong.com
+domain:yjwujian.cn
 domain:yokaverse.com
 domain:youba.com
 domain:yuanshen.com
@@ -251,6 +255,7 @@ domain:yxhhdl.com
 domain:yxhimg.com
 domain:yximg.cn
 domain:yxwsgame.com
+domain:yysls.cn
 domain:yzyxgame.com
 domain:zcjbgame.com
 domain:zhuoyou.com

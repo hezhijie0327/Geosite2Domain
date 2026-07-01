@@ -12,6 +12,7 @@ domain:56img.com
 domain:6655.com
 domain:71shi.net
 domain:72whys.com
+domain:81.cn
 domain:8531.cn
 domain:ad.cctv.com:@ads
 domain:admin5.com
@@ -108,6 +109,7 @@ domain:dzh.com.cn
 domain:dzng.com
 domain:dzwww.com
 domain:eastday.com
+domain:ebrun.com
 domain:ecns.cn
 domain:eeo.com.cn
 domain:evolife.cn
@@ -197,6 +199,7 @@ domain:jxpp.com
 domain:jztvnews.com
 domain:kankanews.com
 domain:kankannews.com
+domain:kjrb.com.cn
 domain:kksmg.com
 domain:knewsmart.com
 domain:lancdn.com
@@ -281,6 +284,7 @@ domain:ssimg.cn
 domain:sspai.com
 domain:statickksmg.com
 domain:stcn.com
+domain:stdaily.com
 domain:stockstar.com
 domain:sxtvs.com
 domain:szhk.com
@@ -312,6 +316,7 @@ domain:weiphone.net
 domain:wfdata.club
 domain:win7china.com
 domain:win8china.com
+domain:workercn.cn
 domain:woshipm.com
 domain:wsoso.com
 domain:xhby.net

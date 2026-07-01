@@ -15,6 +15,7 @@ domain:spaceexplored.com
 domain:startupschool.org
 domain:technews.tw
 domain:techradar.com
+domain:techspot.com
 domain:thetype.cloud:@cn
 domain:thetype.com
 domain:theverge.com

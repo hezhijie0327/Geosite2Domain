@@ -41,10 +41,13 @@ domain:qiyukf.net
 domain:qiyukf.net.cn
 domain:sentry.music.163.com:@ads
 domain:static163.net
+domain:weiyang.cn
 domain:ydstatic.com
 domain:yeah.net
+domain:yjwujian.cn
 domain:youdao.com
 domain:youdaoads.com:@ads
 domain:yunxindns.com
 domain:yunxinfw.com
+domain:yysls.cn
 domain:zhuanzfx.com

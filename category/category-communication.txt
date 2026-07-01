@@ -3,6 +3,7 @@ domain:airhorn.solutions
 domain:airhornbot.com
 domain:arewereadyyet.com
 domain:bigbeans.solutions
+domain:botim.me
 domain:cdn-telegram.org
 domain:cinny.in
 domain:clubhouse.com

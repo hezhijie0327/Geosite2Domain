@@ -1303,6 +1303,7 @@ domain:taste.com.au
 domain:techatbloomberg.com
 domain:technews.tw
 domain:techradar.com
+domain:techspot.com
 domain:techtudo.com
 domain:techtudo.com.br
 domain:teenchoice.com

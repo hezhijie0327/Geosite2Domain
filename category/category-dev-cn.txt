@@ -21,6 +21,7 @@ domain:changxie.com
 domain:chinauos.com
 domain:cnb.cool
 domain:cnblogs.com
+domain:cnblogs.vip
 domain:cnitblog.com
 domain:cnweblog.com
 domain:cocos.com

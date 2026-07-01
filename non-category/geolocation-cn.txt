@@ -51,6 +51,7 @@ domain:1234567.com.cn
 domain:123624.com
 domain:123641.com
 domain:12365auto.com
+domain:12377.cn
 domain:123842.com
 domain:123860.com
 domain:123912.com
@@ -341,6 +342,7 @@ domain:6.cn
 domain:61.com
 domain:6655.com
 domain:66law.cn
+domain:66rpg.com
 domain:66wz.com
 domain:68h5.com
 domain:6rooms.com
@@ -354,6 +356,7 @@ domain:71shi.net
 domain:7230.com
 domain:72byte.com
 domain:72whys.com
+domain:777ppt.com
 domain:7down.com
 domain:7fresh.com
 domain:7k2k1.cn
@@ -373,6 +376,7 @@ domain:800bestapi.cn
 domain:800bestapi.com
 domain:800bestapp.cn
 domain:800bestapp.com
+domain:81.cn
 domain:818ps.com
 domain:8264.com
 domain:84399.com
@@ -519,6 +523,7 @@ domain:adimg.mobile.sina.cn:@ads
 domain:adimg.uve.weibo.com:@ads
 domain:adkwai.com:@ads
 domain:admin5.com
+domain:admincdn.com
 domain:admob.xiaomi.com:@ads
 domain:admusicpic.music.126.net:@ads
 domain:adnet.qq.com:@ads
@@ -601,6 +606,7 @@ domain:air-matters.com
 domain:airchangan.com
 domain:airchina.com.cn
 domain:airchinacargo.com
+domain:aireads.cn
 domain:airguilin.com
 domain:airitilibrary.cn
 domain:airstarfinance.net
@@ -984,6 +990,7 @@ domain:beacon.sina.com.cn:@ads
 domain:beaconcdn.qq.com:@ads
 domain:bearychat.com
 domain:beckyroom.com
+domain:beie.org
 domain:beifangsl.cn
 domain:beihaidc.com
 domain:beijing-lipin.com
@@ -1106,6 +1113,7 @@ domain:bocamchina.com
 domain:bocaviation.com
 domain:boccfc.cc
 domain:boccfc.cn
+domain:boce.com
 domain:bocfullertonbank.com
 domain:bocgi.com
 domain:bocgins.com
@@ -1257,6 +1265,7 @@ domain:byteorge.com
 domain:byteq5k.com
 domain:byteq8u.net
 domain:bytescm.com
+domain:bytespeech.com
 domain:bytesslb.net
 domain:bytetcc.com
 domain:bytetech.info
@@ -1517,6 +1526,7 @@ domain:cfzq.com
 domain:cgames.com
 domain:cgbchina.com.cn
 domain:cgws.com
+domain:cgyouxi.com
 domain:ch.com
 domain:chachaba.com
 domain:chaindd.com
@@ -1535,7 +1545,15 @@ domain:chaoxingv.com
 domain:chashebao.com
 domain:chaspark.com
 domain:chat.top
+domain:chatdrama.cn
+domain:chatdrama.net
 domain:chatglm.cn
+domain:chatqidian.cn
+domain:chatqidian.net
+domain:chattext.cn
+domain:chatwrite.net
+domain:chatxiaoxiang.com
+domain:chatyuewen.cn
 domain:chaz.fun
 domain:chazhengla.com
 domain:chazidian.com
@@ -1824,6 +1842,7 @@ domain:cnanzhi.com
 domain:cnb.cool
 domain:cnbksy.com
 domain:cnblogs.com
+domain:cnblogs.vip
 domain:cncqcloud.com
 domain:cnepub.com
 domain:cnfol.com
@@ -1928,6 +1947,8 @@ domain:cr173.com
 domain:crash.163.com:@ads
 domain:crash2.zhihu.com:@ads
 domain:crashlytics.163.com:@ads
+domain:cravatar.cn
+domain:cravatar.com
 domain:crggcn.com
 domain:crscm.com
 domain:crsky.com
@@ -2181,6 +2202,8 @@ domain:dianzhenkeji.com
 domain:dicos.com.cn
 domain:dict.cn
 domain:dida365.com
+domain:didachuxing.com
+domain:didapinche.com
 domain:didi.cn
 domain:didialift.com
 domain:didichuxing.com
@@ -2191,6 +2214,7 @@ domain:diiing.cn
 domain:dingdachuxing.com
 domain:dingdatech.com
 domain:dingding.xin
+domain:dingstore.cn
 domain:dingtalk.cn
 domain:dingtalk.com
 domain:dingtalk.net
@@ -2200,6 +2224,7 @@ domain:dingxiang-inc.com
 domain:diopic.net
 domain:discuz.net
 domain:discuz.org
+domain:dishu3.com
 domain:divoiotcloud.com
 domain:diyiyou.com
 domain:diyring.cc
@@ -2525,6 +2550,7 @@ domain:f.cx
 domain:fa-part.com
 domain:faasapp.cn
 domain:faasdev.cn
+domain:faceid.com
 domain:faceu.com
 domain:fadfunds.com
 domain:falconsending.com
@@ -2976,6 +3002,7 @@ domain:gugudata.com
 domain:guigu.org
 domain:guodu.com
 domain:guoguo-app.com
+domain:guojibk.com
 domain:guokr.com
 domain:guokr.net
 domain:guoocang.com
@@ -3011,6 +3038,7 @@ domain:h2os.com
 domain:h2tcbox.baidu.com:@ads
 domain:h5uc.com
 domain:hack520.com
+domain:hackernews.cc
 domain:hackhome.com
 domain:hackinn.com
 domain:hacl.cn
@@ -3173,6 +3201,7 @@ domain:hongsanban.com
 domain:hongshu.com
 domain:hongtastock.com
 domain:hongxiu.com
+domain:hongyibo.com.cn
 domain:hongyuanqh.com
 domain:honor.cn
 domain:honor.com
@@ -3537,6 +3566,7 @@ domain:intsig.com
 domain:intsig.net
 domain:ioppo.com.cn
 domain:ioppo.net
+domain:iot-tencent.com
 domain:iotronic.tech
 domain:ip138.com
 domain:ipanda.cn
@@ -3966,6 +3996,7 @@ domain:keepcdn.com
 domain:kejet.net
 domain:kekeniu.com
 domain:kemen.cn
+domain:keniu.com
 domain:kepuchina.cn
 domain:keruyun.com
 domain:kesong.co
@@ -3990,6 +4021,7 @@ domain:kingsoft.com
 domain:kiwa-tech.com
 domain:kiyuu.club
 domain:kjcdn.com
+domain:kjrb.com.cn
 domain:kjwugx.com
 domain:kk1.vip
 domain:kkmh.com
@@ -4727,6 +4759,7 @@ domain:n0q.cn
 domain:nadianshi.com
 domain:nagcloudcs.com
 domain:naixuecha.com
+domain:nalrer.cn
 domain:namiso.com
 domain:nanhaicorp.com
 domain:nanyuenews.com
@@ -4884,6 +4917,7 @@ domain:oojsq.com
 domain:oortgslb.com
 domain:opdown.com
 domain:opdwz.cn
+domain:open-douyin.com
 domain:open-uc.cn
 domain:openapp.run
 domain:openbcs.com
@@ -5350,6 +5384,7 @@ domain:roomeet.cn
 domain:route53.cn:@cn
 domain:routewize.com
 domain:rqnoj.cn
+domain:rrmj.plus
 domain:rs.sinajs.cn:@ads
 domain:rsproxy.cn
 domain:rt-mart.com.cn
@@ -5362,6 +5397,7 @@ domain:rubyconfchina.org
 domain:ruguoapp.com
 domain:ruiwen.com
 domain:rumt-zh.com
+domain:runningcheese.com
 domain:runoob.com
 domain:ruseer.com
 domain:rwkv.cn
@@ -5690,6 +5726,7 @@ domain:stats.music.xiaomi.com:@ads
 domain:statusfeishu.cn
 domain:statuslarkoffice.com
 domain:stcn.com
+domain:stdaily.com
 domain:steam302.xyz
 domain:steampp.net
 domain:sto-express.cn
@@ -6074,6 +6111,7 @@ domain:tobosu.com
 domain:todesk.cn
 domain:todesk.com
 domain:tokyotrial.cn
+domain:tol.vip
 domain:tom.com
 domain:tongdun.net
 domain:tongfangpc.com
@@ -6498,6 +6536,7 @@ domain:volcwaf.com
 domain:volcwaf001.com
 domain:voleai.com
 domain:vpgame.com
+domain:vpsvs.com
 domain:vrzwk.cn
 domain:vrzwk.com
 domain:vrzwk.net
@@ -6558,6 +6597,7 @@ domain:webank.com
 domain:webankcdn.net
 domain:webgame163.com
 domain:webmasterhome.cn
+domain:webportal.top
 domain:webterren.com
 domain:wechat.com
 domain:wechatpay.cn
@@ -6580,6 +6620,8 @@ domain:weishi.com
 domain:weixin.com
 domain:weixinbridge.com
 domain:weixing.com
+domain:weixinsxy.com
+domain:weiyang.cn
 domain:weiyangx.com
 domain:weiyun.com
 domain:welltrend-edu.com
@@ -6587,6 +6629,7 @@ domain:wenjuan.com
 domain:wenkeju.com
 domain:wenkub.com
 domain:wenmingban.com
+domain:wenpai.org
 domain:wenshushu.cn
 domain:wenshushu.com
 domain:wenwo.com
@@ -6613,6 +6656,7 @@ domain:win7china.com
 domain:win8.net
 domain:win8china.com
 domain:wind.com.cn
+domain:windfonts.com
 domain:windows10zj.com
 domain:windows7en.com
 domain:windowszj.com
@@ -6658,6 +6702,7 @@ domain:woodo.cn
 domain:wooyun.org
 domain:woozooo.com
 domain:woread.com.cn
+domain:workercn.cn
 domain:worktile.com
 domain:worldofship.cn
 domain:worldoftank.cn
@@ -6671,6 +6716,7 @@ domain:wowsgame.cn
 domain:woxihuan.com
 domain:woyaogexing.com
 domain:woyoo.com
+domain:wpcy.com
 domain:wps.cn
 domain:wps.com
 domain:wpscdn.cn
@@ -6720,6 +6766,7 @@ domain:wxcloudrun.com
 domain:wxdw.top
 domain:wxgateway.com
 domain:wxlivecdn.com
+domain:wxmpurl.cn
 domain:wxsbank.com
 domain:wxzq.com
 domain:wywyx.com
@@ -6906,6 +6953,7 @@ domain:xunyou.mobi
 domain:xwbank.com
 domain:xxghh.biz
 domain:xxsy.net
+domain:xxsypro.com
 domain:xxtmail.com
 domain:xycdn.com
 domain:xycloud.com
@@ -6990,6 +7038,7 @@ domain:yiyouliao.com
 domain:yizhibo.com
 domain:yizhitou.com
 domain:yjbys.com
+domain:yjwujian.cn
 domain:yk-ssp.ad.youku.com:@ads
 domain:ykad-data.youku.com:@ads
 domain:ykimg.com
@@ -7117,6 +7166,7 @@ domain:yunos-inc.com
 domain:yunos.com
 domain:yunpan.cn
 domain:yunpan.com
+domain:yunpian.com
 domain:yunqishi.net
 domain:yunshipei.com
 domain:yunxiao.com
@@ -7142,6 +7192,7 @@ domain:yxwsgame.com
 domain:yy.com
 domain:yyds.co
 domain:yyshub.top
+domain:yysls.cn
 domain:yystatic.com
 domain:yystv.cn
 domain:yytcdn.com

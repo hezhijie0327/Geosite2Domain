@@ -3582,6 +3582,7 @@ domain:blackshemalevideo.com
 domain:blacksonblondes.com
 domain:blackstonespoliceservice.com
 domain:blacktowhite.net
+domain:blanc.ru
 domain:blaoshi.cc
 domain:blast.io
 domain:blazor.net
@@ -4228,6 +4229,7 @@ domain:bossae.com
 domain:bossagency.co.uk
 domain:boswp.com
 domain:botframework.com
+domain:botim.me
 domain:botmechanic.io
 domain:botorch.org
 domain:botstop.com
@@ -10375,6 +10377,9 @@ domain:horizontal-llc.com
 domain:horizontal-systems.com
 domain:horizontalglue.com
 domain:horizontalsystems.com
+domain:hornet.com
+domain:hornetapp.com
+domain:hornetx.com
 domain:hornyasianmilfs.com
 domain:hornybitches.org
 domain:hornybutt.com
@@ -12861,6 +12866,7 @@ domain:list.ru
 domain:listenbrainz.org
 domain:listinganalytics.net
 domain:litbus-anime.com
+domain:litecoin.org
 domain:literatumonline.com
 domain:literotica.com
 domain:littleasians.com
@@ -15003,7 +15009,9 @@ domain:netflixinvestor.com
 domain:netflixtechblog.com
 domain:netlify.app
 domain:netlify.com
+domain:netlifydns.com
 domain:netlifystatus.com
+domain:netlifyusercontent.com
 domain:netlock.hu
 domain:netname.com.br
 domain:netpornsex.com
@@ -15517,6 +15525,7 @@ domain:ntdtv.se
 domain:ntdtvla.com
 domain:ntdvideo.tw
 domain:ntdvn.com
+domain:ntl.fyi
 domain:ntnews.com.au
 domain:ntp-os01.ocn.ad.jp
 domain:ntp-tk01.ocn.ad.jp
@@ -19973,6 +19982,7 @@ domain:technogym.ru
 domain:technogym.su
 domain:technologyandsociety.org
 domain:techradar.com
+domain:techspot.com
 domain:techstreet.com
 domain:techtimes.com
 domain:techtudo.com

@@ -54,6 +54,7 @@ domain:ihuoshanvod.com
 domain:kesong.co
 domain:kolbuyer.cn
 domain:nextvid.net
+domain:open-douyin.com
 domain:ppkankan01.com
 domain:qishui.cn
 domain:qishui.com

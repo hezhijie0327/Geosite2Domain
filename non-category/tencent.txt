@@ -31,6 +31,7 @@ domain:adsview.qq.com:@ads
 domain:adsview2.qq.com:@ads
 domain:adv.app.qq.com:@ads
 domain:adver.qq.com:@ads
+domain:aireads.cn
 domain:aitransfy.com
 domain:alloyteam.com
 domain:anticheatexpert.com
@@ -93,6 +94,14 @@ domain:cdntips.net
 domain:cdnv1.cn
 domain:cdnv2.cn
 domain:cdnv3.cn
+domain:chatdrama.cn
+domain:chatdrama.net
+domain:chatqidian.cn
+domain:chatqidian.net
+domain:chattext.cn
+domain:chatwrite.net
+domain:chatxiaoxiang.com
+domain:chatyuewen.cn
 domain:cloud-industry-delivery.site
 domain:cloudbase.cn
 domain:cloudbase.net
@@ -120,6 +129,7 @@ domain:dcloudvod.com
 domain:dcloudvod.net
 domain:discuz.net
 domain:discuz.org
+domain:dishu3.com
 domain:dns.pub
 domain:dnsapi.cn
 domain:dnse0.cn
@@ -243,6 +253,7 @@ domain:in.th
 domain:inte.sogou.com:@ads
 domain:inte.sogoucdn.com:@ads
 domain:intltencentcos.com:@!cn
+domain:iot-tencent.com
 domain:isd.com
 domain:isdspeed.qq.com:@ads
 domain:ispqcloud.com
@@ -618,6 +629,7 @@ domain:wegameplus.com
 domain:weishi.com
 domain:weixin.com
 domain:weixinbridge.com
+domain:weixinsxy.com
 domain:weiyun.com
 domain:werepository.com.cn
 domain:wetv.vip:@!cn
@@ -631,6 +643,7 @@ domain:wxaurl.cn
 domain:wxcloudrun.com
 domain:wxgateway.com
 domain:wxlivecdn.com
+domain:wxmpurl.cn
 domain:xiangrikuijianzhan.com
 domain:xiangrikuisite.com
 domain:ximalaya.com
@@ -642,6 +655,7 @@ domain:xqymuy.com
 domain:xs.cn
 domain:xs8.cn
 domain:xxsy.net
+domain:xxsypro.com
 domain:yeyousg.com
 domain:yidianliulan.cn
 domain:yidianliulan.com

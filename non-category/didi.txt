@@ -7,5 +7,6 @@ domain:didiglobal.com:@!cn
 domain:didimobility.co.jp:@!cn
 domain:didistatic.com
 domain:diditaxi.com.cn
+domain:hongyibo.com.cn
 domain:udache.com
 domain:xiaojukeji.com

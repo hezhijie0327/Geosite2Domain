@@ -137,6 +137,7 @@ domain:kucoin.com
 domain:kucoin.plus
 domain:lighter.exchange
 domain:lighter.xyz
+domain:litecoin.org
 domain:localbitcoins.com
 domain:localbitcoinschain.com
 domain:maple.finance

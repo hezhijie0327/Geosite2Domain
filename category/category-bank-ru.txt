@@ -46,6 +46,7 @@ domain:bbr.ru
 domain:bcs-bank.ru
 domain:bcs.ru
 domain:bfa.ru
+domain:blanc.ru
 domain:bm-bank.ru
 domain:booking-tec.ru
 domain:bps-sberbank.by

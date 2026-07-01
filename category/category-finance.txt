@@ -66,6 +66,7 @@ domain:bcs.ru
 domain:bfa.ru
 domain:bim.ir
 domain:bk.mufg.jp
+domain:blanc.ru
 domain:blubank.com
 domain:bm-bank.ru
 domain:bmi.ir

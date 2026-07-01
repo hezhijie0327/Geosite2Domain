@@ -50,6 +50,7 @@ domain:51zmt.top
 domain:5wyxi.com
 domain:6.cn
 domain:61.com
+domain:66rpg.com
 domain:6rooms.com
 domain:71.am
 domain:71acg.com
@@ -96,6 +97,7 @@ domain:adukwai.com:@ads
 domain:afp.iqiyi.com:@ads
 domain:aichongzoo.cn
 domain:aihst8.com
+domain:aireads.cn
 domain:aisee.tv
 domain:aixifan.com
 domain:aki-game.com
@@ -188,9 +190,18 @@ domain:ccw.site
 domain:cdkeynogap.com
 domain:cdncl.net
 domain:cgames.com
+domain:cgyouxi.com
 domain:changdunovel.com
 domain:changyou.com
 domain:chat.top
+domain:chatdrama.cn
+domain:chatdrama.net
+domain:chatqidian.cn
+domain:chatqidian.net
+domain:chattext.cn
+domain:chatwrite.net
+domain:chatxiaoxiang.com
+domain:chatyuewen.cn
 domain:chuapp.com
 domain:cibn.cc
 domain:cibntv.net
@@ -209,6 +220,7 @@ domain:dataeye.com
 domain:dc.letv.com:@ads
 domain:ddmogo.com
 domain:debugmode.cn
+domain:dishu3.com
 domain:diyring.cc
 domain:dmhmusic.com
 domain:dmzj.com
@@ -590,6 +602,7 @@ domain:my4399.com
 domain:mysiteres.com
 domain:nadianshi.com
 domain:nagcloudcs.com
+domain:nalrer.cn
 domain:natfrp.com
 domain:news.yxrb.net
 domain:newstjk.com
@@ -601,6 +614,7 @@ domain:novelfmpic.com
 domain:novelfmstatic.com
 domain:novelfmvod.com
 domain:nzsiteres.com
+domain:open-douyin.com
 domain:p-log.ykimg.com:@ads
 domain:passport-log.youku.com:@ads
 domain:pearvideo.com
@@ -785,6 +799,7 @@ domain:xoyocdn.com
 domain:xs.cn
 domain:xs8.cn
 domain:xxsy.net
+domain:xxsypro.com
 domain:xyys.com
 domain:xyzcdn.net
 domain:xyzfm.link
@@ -795,6 +810,7 @@ domain:ycgame.com
 domain:yeshen.com
 domain:yingxiong.com
 domain:yiyouliao.com
+domain:yjwujian.cn
 domain:yk-ssp.ad.youku.com:@ads
 domain:ykad-data.youku.com:@ads
 domain:ykimg.com
@@ -817,6 +833,7 @@ domain:yximg.cn
 domain:yximgs.com
 domain:yxwsgame.com
 domain:yy.com
+domain:yysls.cn
 domain:yystatic.com
 domain:yystv.cn
 domain:yzyxgame.com

@@ -3,6 +3,7 @@ domain:360doc.com
 domain:51pptmoban.com
 domain:51wendang.com
 domain:52ppt.com
+domain:777ppt.com
 domain:badou.com
 domain:book118.com
 domain:daodoc.com
@@ -12,6 +13,7 @@ domain:douding.cn
 domain:goldhoe.com
 domain:haohaodoc.com
 domain:jinchutou.com
+domain:keniu.com
 domain:lazyer.net
 domain:renrendoc.com
 domain:safewk.com

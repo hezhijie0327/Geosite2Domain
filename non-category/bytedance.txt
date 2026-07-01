@@ -161,6 +161,7 @@ domain:byteoversea.net:@!cn
 domain:byteq5k.com
 domain:byteq8u.net
 domain:bytescm.com
+domain:bytespeech.com
 domain:bytesslb.net
 domain:bytetcc.com
 domain:bytetech.info
@@ -449,6 +450,7 @@ domain:okr.cn
 domain:okr.com
 domain:okr.com.cn
 domain:oortgslb.com
+domain:open-douyin.com
 domain:openbcs.com
 domain:openve.cn
 domain:originalimg.com
