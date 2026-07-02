@@ -15,6 +15,7 @@ domain:bluehatnights.com
 domain:cn.bing.com:@cn
 domain:cn.bing.net:@cn
 domain:cn.mm.bing.net:@cn
+domain:copilot.com
 domain:copilot.microsoft.com
 domain:dictate.ms
 domain:ditu.live.com:@cn

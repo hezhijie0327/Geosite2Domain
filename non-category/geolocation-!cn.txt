@@ -5503,6 +5503,7 @@ domain:coomer.su
 domain:coova.com
 domain:coova.net
 domain:coova.org
+domain:copilot.com
 domain:copro.pw
 domain:copy-manga.com
 domain:copy20.com
@@ -24367,6 +24368,7 @@ full:officecdn.microsoft.com:@cn
 full:officemkt.download.prss.microsoft.com:@cn
 full:officemktuat.download.prss.microsoft.com:@cn
 full:ood.opsource.net
+full:openai.qualtrics.com:@ads
 full:oscdn.apple.com:@cn
 full:oscdn.origin-apple.com.akadns.net:@cn
 full:osrelease.download.prss.microsoft.com:@cn

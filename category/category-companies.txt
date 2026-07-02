@@ -2090,6 +2090,7 @@ domain:coolmonster.net
 domain:coova.com
 domain:coova.net
 domain:coova.org
+domain:copilot.com
 domain:coreduo.com
 domain:coreextreme.com
 domain:corel.com

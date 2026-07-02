@@ -161,6 +161,7 @@ domain:cn.bing.net:@cn
 domain:cn.mm.bing.net:@cn
 domain:codethemicrobit.com
 domain:collector.github.com:@ads
+domain:copilot.com
 domain:cortanaanalytics.com
 domain:cortanaskills.com
 domain:cosmosdb.info

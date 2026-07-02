@@ -179,6 +179,7 @@ domain:flocktory.com:@ads
 domain:flomni.com
 domain:fon.bet
 domain:fon.promo
+domain:foto-planeta.com
 domain:freeassange.tech
 domain:freede.tech
 domain:freedert.online
@@ -431,6 +432,7 @@ domain:prod-my.games
 domain:prodcontest.com
 domain:promodj.com
 domain:psk
+domain:ptsecurity.com
 domain:pushgrow.io
 domain:pvubank.com
 domain:pz.help
@@ -438,6 +440,7 @@ domain:r.mail.ru:@ads
 domain:rabbitcounter.com
 domain:rabota.by
 domain:radar.imgsmail.ru:@ads
+domain:randomgodbot.com
 domain:rbth.com
 domain:reg.cloud
 domain:reg.com
@@ -536,6 +539,7 @@ domain:selectel.io
 domain:selectel.live
 domain:servercore.com
 domain:servercore.live
+domain:servicepipe.tech
 domain:shedevrum.ai
 domain:shop-rt.com
 domain:sistema-capital.com
@@ -557,6 +561,7 @@ domain:sputnikimages.com
 domain:sputnikmediabank.com
 domain:sputniknews.com
 domain:srv-hub.org
+domain:standoff365.com
 domain:static-storage.net
 domain:staticmy.com
 domain:su
