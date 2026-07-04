@@ -763,6 +763,7 @@ domain:ankerwork.cn
 domain:anlaiye.com
 domain:anlaiye.com.cn
 domain:anmo.com
+domain:anquan
 domain:anquan.org
 domain:anquanke.com
 domain:anruan.com
@@ -5551,6 +5552,7 @@ domain:shopoppo.cn
 domain:shopoppo.com.cn
 domain:shoppingads.cn:@ads
 domain:shopss.com
+domain:shouji
 domain:shoujihuifu.com
 domain:shouqianba.com
 domain:shoutanjjj.com
@@ -5582,6 +5584,7 @@ domain:sichuanair.com
 domain:sifou.com
 domain:simei8.com
 domain:simuwang.com
+domain:sina
 domain:sina.cn
 domain:sina.com
 domain:sina.com.cn
@@ -6606,6 +6609,7 @@ domain:wegame.com.cn
 domain:wegamedeveloper.com
 domain:wegameplus.com
 domain:wegobank.cn
+domain:weibo
 domain:weibo.cn
 domain:weibo.com
 domain:weibo.com.cn
@@ -6871,6 +6875,7 @@ domain:xiguashipin.cn
 domain:xiguashipin.net
 domain:xiguavideo.cn
 domain:xiguavideo.net
+domain:xihuan
 domain:xilu.com
 domain:ximalaya.com
 domain:xin.xin
@@ -6911,6 +6916,7 @@ domain:xkw.com
 domain:xmcdn.com
 domain:xmhouse.com
 domain:xn--8y0a063a
+domain:xn--9krt00a
 domain:xn--fiq53l6wcx3kp9bc7joo6apn8a.cn
 domain:xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s
 domain:xn--fiq53l90et9fpncc7joo6apn8a.cn
@@ -7147,6 +7153,7 @@ domain:yufuid.com.cn
 domain:yufuid.net
 domain:yuketang.cn
 domain:yumchina.com
+domain:yun
 domain:yunaq.com
 domain:yunba.io
 domain:yunda56.com

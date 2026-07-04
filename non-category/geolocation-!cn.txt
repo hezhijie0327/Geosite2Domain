@@ -1820,6 +1820,7 @@ domain:apple-pay.wang
 domain:apple-store.cn:@cn
 domain:apple-store.net
 domain:apple-store.wang
+domain:apple-studies.com
 domain:apple-usa.net
 domain:apple-watch.com.ru
 domain:apple.ae
@@ -2318,6 +2319,7 @@ domain:atlasonepoint.com
 domain:atlassian-dev.net
 domain:atlassian.com
 domain:atlassian.net
+domain:atmeta.com
 domain:atnext.com
 domain:atokara.jp
 domain:atom.io
@@ -2716,6 +2718,7 @@ domain:aznude.com
 domain:aztask.cn:@cn
 domain:azure
 domain:azure-api.cn:@cn
+domain:azure-api.net
 domain:azure-apihub.cn:@cn
 domain:azure-automation.cn:@cn
 domain:azure-connectedvehicles-stage.cn:@cn
@@ -2780,6 +2783,7 @@ domain:azuresandbox.cn:@cn
 domain:azureserviceprofiler.com
 domain:azuresmartspaces.net
 domain:azurestackvalidation.com
+domain:azurestaticapps.net
 domain:azurewebsites.net
 domain:b-cdn.net
 domain:b-eroland.net
@@ -24136,6 +24140,7 @@ full:ea2cn-staging-outlet.dell.com:@cn
 full:edge.geo.kaspersky.com:@cn
 full:elib.maruzen.co.jp
 full:emoi-cncdn.bing.com:@cn
+full:entitlements-edge.itunes.apple.com:@cn
 full:error-tracking.megamarket.tech:@ads
 full:experiments.apple.com:@cn
 full:f.c2r.ts.cdn.office.net:@cn
@@ -24148,6 +24153,7 @@ full:firstsearch.oclc.org
 full:fontfiles.googleapis.com:@cn
 full:fonts.googleapis.com:@cn
 full:fonts.gstatic.com:@cn
+full:fpinit.itunes.apple.com:@cn
 full:fta.dell.com:@cn
 full:ftaapj.dell.com:@cn
 full:ftaemea.dell.com:@cn
@@ -24228,7 +24234,6 @@ full:inappcheck.itunes.apple.com:@cn
 full:incoming-telemetry.thunderbird.net:@ads
 full:incoming.telemetry.mozilla.org:@ads
 full:informer.yandex.ru:@ads
-full:ingest.apple-studies.com
 full:init-kt.apple.com:@cn
 full:init-p01md-lb.push-apple.com.akadns.net:@cn
 full:init-p01md.apple.com:@cn

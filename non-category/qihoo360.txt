@@ -31,6 +31,7 @@ domain:360tpcdn.com
 domain:360tres.com
 domain:360webcache.com
 domain:360zqaq.com
+domain:anquan
 domain:anquanke.com
 domain:appjiagu.com
 domain:baomitu.com
@@ -79,6 +80,7 @@ domain:qikucdn.com
 domain:s.360.cn:@ads
 domain:s.so.360.cn:@ads
 domain:s.union.360.cn:@ads
+domain:shouji
 domain:so.com
 domain:sou.cn
 domain:sou.com
@@ -98,9 +100,11 @@ domain:wztsy.cn
 domain:wztsy.com
 domain:xiaoluyouxuan.com
 domain:xiaoluzhidian.com
+domain:xihuan
 domain:xjietiao.com
 domain:yiwanzhushou.com
 domain:youhua.com
+domain:yun
 domain:yunpan.cn
 domain:zhaomi.cn
 domain:zhaomishijie.com

@@ -35,6 +35,7 @@ domain:cohere.com
 domain:comfy.org
 domain:comfyci.org
 domain:comfyregistry.org
+domain:copilot.cloud.microsoft
 domain:copilot.com
 domain:copilot.microsoft.com
 domain:coze.com:@!cn

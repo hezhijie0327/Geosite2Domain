@@ -32,6 +32,7 @@ domain:aznbcontent.cn:@cn
 domain:aztask.cn:@cn
 domain:azure
 domain:azure-api.cn:@cn
+domain:azure-api.net
 domain:azure-apihub.cn:@cn
 domain:azure-automation.cn:@cn
 domain:azure-connectedvehicles-stage.cn:@cn
@@ -95,6 +96,7 @@ domain:azuresandbox.cn:@cn
 domain:azureserviceprofiler.com
 domain:azuresmartspaces.net
 domain:azurestackvalidation.com
+domain:azurestaticapps.net
 domain:azurewebsites.net
 domain:b2clogin.cn:@cn
 domain:b3itech.cn:@cn

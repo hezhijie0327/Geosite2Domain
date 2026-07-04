@@ -17,7 +17,6 @@ domain:aetna
 domain:af
 domain:afl
 domain:africa
-domain:africamagic
 domain:ag
 domain:agakhan
 domain:ai
@@ -90,6 +89,7 @@ domain:bh
 domain:bharti
 domain:bi
 domain:bible
+domain:bing
 domain:bingo
 domain:bj
 domain:blockbuster

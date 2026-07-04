@@ -647,6 +647,7 @@ domain:anjuke.com
 domain:anjukestatic.com
 domain:anlaiye.com
 domain:anmo.com
+domain:anquan
 domain:anquan.org
 domain:anquanke.com
 domain:anruan.com
@@ -4441,6 +4442,7 @@ domain:shmetro.com
 domain:shobserver.com
 domain:shoppingads.cn:@ads
 domain:shopss.com
+domain:shouji
 domain:shoujihuifu.com
 domain:shouqianba.com
 domain:shoutanjjj.com
@@ -4470,6 +4472,7 @@ domain:sichuanair.com
 domain:sifou.com
 domain:simei8.com
 domain:simuwang.com
+domain:sina
 domain:sina.com
 domain:sina.net
 domain:sinaapp.com
@@ -5293,6 +5296,7 @@ domain:wechat.com
 domain:wegame.com
 domain:wegamedeveloper.com
 domain:wegameplus.com
+domain:weibo
 domain:weibo.com
 domain:weibocdn.com
 domain:weibopay.com
@@ -5499,6 +5503,7 @@ domain:xiezuocat.com
 domain:xiguaapp.com
 domain:xiguashipin.net
 domain:xiguavideo.net
+domain:xihuan
 domain:xilu.com
 domain:ximalaya.com
 domain:xin.xin
@@ -5541,6 +5546,7 @@ domain:xn--6frz82g
 domain:xn--6qq986b3xl
 domain:xn--8y0a063a
 domain:xn--9et52u
+domain:xn--9krt00a
 domain:xn--czr694b
 domain:xn--czrs0t
 domain:xn--czru2d
@@ -5750,6 +5756,7 @@ domain:yuewen.com
 domain:yufuid.com
 domain:yufuid.net
 domain:yumchina.com
+domain:yun
 domain:yunaq.com
 domain:yunba.io
 domain:yunda56.com

@@ -51,6 +51,7 @@ domain:sa.sina.cn:@ads
 domain:sbeacon.sina.com.cn:@ads
 domain:sdkclick.mobile.sina.cn:@ads
 domain:shihuo.cn
+domain:sina
 domain:sina.cn
 domain:sina.com
 domain:sina.com.cn
@@ -74,6 +75,7 @@ domain:wbclick.mobile.sina.cn:@ads
 domain:wbimg.cn
 domain:wbimg.com
 domain:wcdn.cn
+domain:weibo
 domain:weibo.cn
 domain:weibo.com
 domain:weibo.com.cn
@@ -86,6 +88,7 @@ domain:xhslink.com
 domain:xhsrcdn.com
 domain:xiaochuankeji.cn
 domain:xiaohongshu.com
+domain:xn--9krt00a
 domain:zhihu-web-analytics.zhihu.com:@ads
 domain:zhihu.com
 domain:zhimg.com
