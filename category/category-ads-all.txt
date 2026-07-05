@@ -556,6 +556,7 @@ domain:policy.video.iqiyi.com:@ads
 domain:pos.baidu.com:@ads
 domain:prd-lender.cdp.internal.unity3d.com:@ads
 domain:presage.io:@ads
+domain:pub.network
 domain:pubmatic.co.jp
 domain:pubmatic.com
 domain:push.qq.com:@ads

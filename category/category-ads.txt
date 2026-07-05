@@ -519,6 +519,7 @@ domain:pmir.3g.qq.com:@ads
 domain:policy.video.iqiyi.com:@ads
 domain:pos.baidu.com:@ads
 domain:prd-lender.cdp.internal.unity3d.com:@ads
+domain:pub.network
 domain:push.qq.com:@ads
 domain:pv.hd.sohu.com:@ads
 domain:pv.sohu.com:@ads
