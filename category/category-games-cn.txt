@@ -1,3 +1,5 @@
+domain:17173.com
+domain:17173cdn.com
 domain:17roco.com
 domain:3304399.com
 domain:3304399.net
@@ -159,7 +161,11 @@ domain:nagcloudcs.com
 domain:nalrer.cn
 domain:nextstudios.com
 domain:nextworkshop.net
+domain:nikkigames.cn
+domain:nikkigames.com.cn
 domain:nzsiteres.com
+domain:papegames.cn
+domain:papegames.com
 domain:phira.cn
 domain:playcool.com
 domain:proximabeta.com
@@ -193,6 +199,7 @@ domain:sl916.com
 domain:supercellcommunity.cn
 domain:supercellsupport.cn
 domain:syxlgame.com
+domain:tanwan.com
 domain:tapapks.com
 domain:tapimg.com
 domain:tapimg.net
@@ -214,6 +221,8 @@ domain:tiancitycdn.com
 domain:timibase.com
 domain:tuer123.com
 domain:tuyoo.com
+domain:twyx.cn
+domain:twyxh.com
 domain:videoxiaoyouxi.com
 domain:vrzwk.cn
 domain:vrzwk.com
@@ -244,6 +253,8 @@ domain:xn--owtw8cc49ajfl.cn
 domain:xoyo.com
 domain:xoyocdn.com
 domain:ycgame.com
+domain:yeyou.com
+domain:yeyoucdn.com
 domain:yingxiong.com
 domain:yjwujian.cn
 domain:yokaverse.com
@@ -261,6 +272,7 @@ domain:zcjbgame.com
 domain:zhuoyou.com
 domain:zhuoyuegame.com
 domain:zjshulong.com
+domain:zx.com
 full:end-api.shallow.ink
 full:end.shallow.ink
 regexp:^.+-mihayo\.akamaized\.net$:@cn

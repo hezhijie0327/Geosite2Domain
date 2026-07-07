@@ -48,6 +48,7 @@ domain:kunlunso.com
 domain:kunlunta.com
 domain:kunlunvi.com
 domain:kunlunwe.com
+domain:log-global.aliyuncs.com
 domain:mxhichina.com
 domain:myalicdn.com
 domain:nbsdk-baichuan.alicdn.com:@ads

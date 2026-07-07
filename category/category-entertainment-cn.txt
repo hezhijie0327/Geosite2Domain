@@ -609,6 +609,8 @@ domain:newstjk.com
 domain:nextstudios.com
 domain:nextvid.net
 domain:nextworkshop.net
+domain:nikkigames.cn
+domain:nikkigames.com.cn
 domain:novelfm.com
 domain:novelfmpic.com
 domain:novelfmstatic.com
@@ -616,6 +618,8 @@ domain:novelfmvod.com
 domain:nzsiteres.com
 domain:open-douyin.com
 domain:p-log.ykimg.com:@ads
+domain:papegames.cn
+domain:papegames.com
 domain:passport-log.youku.com:@ads
 domain:pearvideo.com
 domain:phira.cn
@@ -712,6 +716,7 @@ domain:syxlgame.com
 domain:tadu.com
 domain:taihe.com
 domain:taihemusic.cn
+domain:tanwan.com
 domain:taomee.com
 domain:tapapks.com
 domain:tapimg.com
@@ -742,6 +747,8 @@ domain:tmeadcomm.y.qq.com:@ads
 domain:tudou.com
 domain:tuer123.com
 domain:tuyoo.com
+domain:twyx.cn
+domain:twyxh.com
 domain:u17.com
 domain:u17i.com
 domain:u17t.com
@@ -751,6 +758,7 @@ domain:ultracachenode.com
 domain:v6-adashx.ut.youku.com:@ads
 domain:vgtime.com
 domain:videoxiaoyouxi.com
+domain:vistopia.com.cn
 domain:viviv.com
 domain:vrzwk.cn
 domain:vrzwk.com
@@ -808,6 +816,8 @@ domain:y.qq.com
 domain:yamibo.com
 domain:ycgame.com
 domain:yeshen.com
+domain:yeyou.com
+domain:yeyoucdn.com
 domain:yingxiong.com
 domain:yiyouliao.com
 domain:yjwujian.cn
@@ -846,6 +856,7 @@ domain:zhuoyou.com
 domain:zhuoyuegame.com
 domain:zjshulong.com
 domain:zongheng.com
+domain:zx.com
 full:ads3-normal-hl.zijieapi.com:@ads
 full:ads3-normal.zijieapi.com:@ads
 full:ads5-normal-hl.zijieapi.com:@ads

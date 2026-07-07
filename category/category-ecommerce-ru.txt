@@ -4,6 +4,10 @@ domain:digital-wb.ru
 domain:digitalwb.ru
 domain:etradebook.ru
 domain:ewisdom.us.kg
+domain:flowwow-images.com
+domain:flowwow.com
+domain:funpay.com
+domain:funpay.ru
 domain:geobasket.ru
 domain:mp.world
 domain:o-courier.ru
@@ -52,6 +56,7 @@ domain:rwb.ru
 domain:rwbautomation.ru
 domain:rwbautomation.tech
 domain:rwbgeo.ru
+domain:sfunpay.com
 domain:vamzakaz.ru
 domain:velberis.ru
 domain:vildberis.ru

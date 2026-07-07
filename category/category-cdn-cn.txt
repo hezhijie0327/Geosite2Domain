@@ -44,6 +44,7 @@ domain:flxdns.cn
 domain:flxdns.com
 domain:funcdn.com
 domain:globalcdn.cn
+domain:hydun.com
 domain:jiashule.com
 domain:jiasule.com
 domain:lxdns.cn

@@ -891,6 +891,7 @@ domain:zjfcdn.com
 domain:zjgslb.com
 domain:zjytxd.cn
 domain:zjytxp.cn
+domain:zlinkurl.cn
 domain:zml81.cn
 domain:zvip.cn
 full:ads3-normal-hl.zijieapi.com:@ads

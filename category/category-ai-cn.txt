@@ -1,6 +1,7 @@
 domain:aispeech.com
 domain:antafu.com
 domain:antaq.com
+domain:aorizon.cn
 domain:api-building.fun
 domain:askdiandian.com
 domain:baichuan-ai.com
@@ -39,6 +40,8 @@ domain:duiopen.com
 domain:dumate.cn
 domain:faxingbao.com
 domain:hailuoai.com
+domain:happyhorse.cn
+domain:happyshrimp.cn
 domain:hi-butterfly.cn
 domain:hunyuan.tencent.com
 domain:instreet.com
@@ -80,6 +83,7 @@ domain:rwkv.cn
 domain:rwkv.com
 domain:safeskill.cn
 domain:skillhub.cn
+domain:sleeplesshorizon.cn
 domain:tapnow.top
 domain:tcwqqdy.guru
 domain:tiangong.cn

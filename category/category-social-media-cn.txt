@@ -31,6 +31,7 @@ domain:ixiaochuan.cn
 domain:izuiyou.com
 domain:jike.city
 domain:jikecdn.com
+domain:krcom.cn
 domain:laiyagushi.com
 domain:log.mix.sina.com.cn:@ads
 domain:log.sina.cn:@ads

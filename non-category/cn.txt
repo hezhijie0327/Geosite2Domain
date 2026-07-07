@@ -1382,6 +1382,7 @@ domain:ciweimao.com
 domain:cjjd19.com
 domain:cjol.com
 domain:cjsc.com
+domain:cjyun.org
 domain:ckd.im
 domain:ckxx.net
 domain:clawhub-mirror.com
@@ -2724,6 +2725,7 @@ domain:hxfy888.com
 domain:hxnews.com
 domain:hxsd.com
 domain:hybiome.com
+domain:hydun.com
 domain:hypercachenet.com
 domain:hypercachenode.com
 domain:hzdtv.tv
@@ -3530,6 +3532,7 @@ domain:lnlib.net
 domain:local-ip.online
 domain:lofter.com
 domain:lofter.httpdns.c.163.com:@ads
+domain:log-global.aliyuncs.com
 domain:log-upload.mihoyo.com:@ads
 domain:log.hunantv.com:@ads
 domain:log.mix.sina.com.cn:@ads
@@ -3550,6 +3553,7 @@ domain:longzhu.com
 domain:lorhf.com
 domain:lotpc.com
 domain:loupan.com
+domain:lovestu.com
 domain:lppz.com
 domain:lppzimg.com
 domain:lrts.me
@@ -4062,6 +4066,7 @@ domain:pangolin.snssdk.com:@ads
 domain:panplayable-toutiao-b.com:@ads
 domain:panplayable-toutiao.com:@ads
 domain:paopaoche.net
+domain:papegames.com
 domain:papocket.com
 domain:passport-log.youku.com:@ads
 domain:paydxm.com
@@ -4707,6 +4712,7 @@ domain:talkingdata.com
 domain:talkinggame.com
 domain:tamaegis.com
 domain:tangeche.com
+domain:tanwan.com
 domain:tanx.com
 domain:tao123.com
 domain:taobao
@@ -5033,6 +5039,7 @@ domain:tuyoo.com
 domain:tvmao.com
 domain:tvzhe.com
 domain:twscholar.com
+domain:twyxh.com
 domain:tx-exhibition.com
 domain:txbyod.com
 domain:txidc.wang
@@ -5732,6 +5739,8 @@ domain:yeepay.com
 domain:yeshen.com
 domain:yeshj.com
 domain:yesky.com
+domain:yeyou.com
+domain:yeyoucdn.com
 domain:yeyousg.com
 domain:yfcache.com
 domain:yfcalc.com
@@ -6060,6 +6069,7 @@ domain:zuowenwang.net
 domain:zuoyebang.cc
 domain:zuoyebang.com
 domain:zway.top
+domain:zx.com
 domain:zxhgroup.com
 domain:zxxk.com
 domain:zybang.com

@@ -1,4 +1,6 @@
 domain:100classicbooks.com
+domain:17173.com
+domain:17173cdn.com
 domain:17roco.com
 domain:2k.com
 domain:2kcoretech.online
@@ -523,6 +525,8 @@ domain:nikke-fr.com
 domain:nikke-jp.com
 domain:nikke-kr.com
 domain:nikke-sea.com
+domain:nikkigames.cn
+domain:nikkigames.com.cn
 domain:nintendo-europe-sales.com
 domain:nintendo-europe.com
 domain:nintendo.at
@@ -572,6 +576,8 @@ domain:origin.com
 domain:origin.tv
 domain:orithegame.com
 domain:pandanet-igs.com
+domain:papegames.cn
+domain:papegames.com
 domain:papermc.io
 domain:paragon.com
 domain:personaltrainermath.com
@@ -820,6 +826,7 @@ domain:swtor.com
 domain:swtor.net
 domain:syxlgame.com
 domain:take2games.com
+domain:tanwan.com
 domain:tapapks.com
 domain:tapimg.com
 domain:tapimg.net
@@ -856,6 +863,8 @@ domain:tnt-ea.com
 domain:tuer123.com
 domain:tuyoo.com
 domain:twinmotion.com
+domain:twyx.cn
+domain:twyxh.com
 domain:ubi.com
 domain:ubisoft.com
 domain:ubisoftconnect.com
@@ -963,6 +972,8 @@ domain:xn--owtw8cc49ajfl.cn
 domain:xoyo.com
 domain:xoyocdn.com
 domain:ycgame.com
+domain:yeyou.com
+domain:yeyoucdn.com
 domain:yingxiong.com
 domain:yjwujian.cn
 domain:ylands.com
@@ -992,6 +1003,7 @@ domain:zenlesszonezero.com
 domain:zhuoyou.com
 domain:zhuoyuegame.com
 domain:zjshulong.com
+domain:zx.com
 domain:zynga.com
 domain:zyngaplayersupport.com
 domain:zyngapoker.com

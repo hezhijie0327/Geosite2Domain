@@ -11,6 +11,7 @@ domain:biz.weibo.com:@ads
 domain:click.uve.mobile.sina.cn:@ads
 domain:click.uve.weibo.com:@ads
 domain:hk.weibo.com:@!cn
+domain:krcom.cn
 domain:log.mix.sina.com.cn:@ads
 domain:log.sina.cn:@ads
 domain:log2.sina.cn:@ads

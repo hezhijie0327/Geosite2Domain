@@ -788,6 +788,7 @@ domain:anytocopy.com
 domain:anywlan.com
 domain:anzhuo.cn
 domain:aocde.com
+domain:aorizon.cn
 domain:aoshu.com
 domain:aotrip.net
 domain:aoyou.com
@@ -1733,6 +1734,7 @@ domain:ciweimao.com
 domain:cjjd19.com
 domain:cjol.com
 domain:cjsc.com
+domain:cjyun.org
 domain:ckd.im
 domain:ckxx.net
 domain:clawhub-mirror.com
@@ -3126,6 +3128,8 @@ domain:hapipixia.com
 domain:hapiyixia.com
 domain:hapjs.org
 domain:happyhlddz.com
+domain:happyhorse.cn
+domain:happyshrimp.cn
 domain:harmonyos.com
 domain:haydaypop.cn
 domain:hazq.com
@@ -3444,6 +3448,7 @@ domain:hxnews.com
 domain:hxsd.com
 domain:hxzq.cn
 domain:hybiome.com
+domain:hydun.com
 domain:hypercachenet.com
 domain:hypercachenode.com
 domain:hytung.cn
@@ -4106,6 +4111,7 @@ domain:kouclo.com
 domain:koudai.com
 domain:koudai8.com
 domain:kq7.com
+domain:krcom.cn
 domain:ks-cdn.com
 domain:ks-cdn1.com
 domain:ks-live.com
@@ -4406,6 +4412,7 @@ domain:lnlib.net
 domain:local-ip.online
 domain:lofter.com
 domain:lofter.httpdns.c.163.com:@ads
+domain:log-global.aliyuncs.com
 domain:log-upload.mihoyo.com:@ads
 domain:log.hunantv.com:@ads
 domain:log.mix.sina.com.cn:@ads
@@ -4428,6 +4435,7 @@ domain:loongair.cn
 domain:lorhf.com
 domain:lotpc.com
 domain:loupan.com
+domain:lovestu.com
 domain:lppz.com
 domain:lppzimg.com
 domain:lrts.me
@@ -4879,6 +4887,8 @@ domain:nic.xin
 domain:nicaifu.com
 domain:nihaoafrica.org
 domain:nihaorwanda.cn
+domain:nikkigames.cn
+domain:nikkigames.com.cn
 domain:ningtingche.com
 domain:nio.cn
 domain:nio.com
@@ -5064,6 +5074,8 @@ domain:pangolin.snssdk.com:@ads
 domain:panplayable-toutiao-b.com:@ads
 domain:panplayable-toutiao.com:@ads
 domain:paopaoche.net
+domain:papegames.cn
+domain:papegames.com
 domain:papocket.com
 domain:passport-log.youku.com:@ads
 domain:paydxm.com
@@ -5674,6 +5686,7 @@ domain:skysea.com
 domain:skywt.cn
 domain:sl916.com
 domain:slbauto.com
+domain:sleeplesshorizon.cn
 domain:slk1.net
 domain:sllssrq.com
 domain:slog.sina.cn:@ads
@@ -5890,6 +5903,7 @@ domain:talkingdata.com
 domain:talkinggame.com
 domain:tamaegis.com
 domain:tangeche.com
+domain:tanwan.com
 domain:tanx.com
 domain:tao123.com
 domain:taobao
@@ -6296,6 +6310,8 @@ domain:tvcc.com.cn
 domain:tvmao.com
 domain:tvzhe.com
 domain:twscholar.com
+domain:twyx.cn
+domain:twyxh.com
 domain:tx-exhibition.com
 domain:txbyod.com
 domain:txidc.wang
@@ -6507,6 +6523,7 @@ domain:vipexam.org
 domain:vipmro.com
 domain:vipmro.net
 domain:vipstatic.com
+domain:vistopia.com.cn
 domain:viviv.com
 domain:vivo.cn
 domain:vivo.com
@@ -7060,6 +7077,7 @@ domain:xpccdn.com
 domain:xpgod.com
 domain:xqfunds.com
 domain:xqymuy.com
+domain:xrbk.cn
 domain:xs.cn
 domain:xs8.cn
 domain:xsa239.com
@@ -7125,6 +7143,8 @@ domain:yeepay.com
 domain:yeshen.com
 domain:yeshj.com
 domain:yesky.com
+domain:yeyou.com
+domain:yeyoucdn.com
 domain:yeyousg.com
 domain:yfcache.com
 domain:yfcalc.com
@@ -7493,6 +7513,7 @@ domain:zjytxp.cn
 domain:zjzs.net
 domain:zjzsa.com
 domain:zlfund.cn
+domain:zlinkurl.cn
 domain:zmengzhu.com
 domain:zmifi.com
 domain:zml81.cn
@@ -7541,6 +7562,7 @@ domain:zuoyebang.cc
 domain:zuoyebang.com
 domain:zvip.cn
 domain:zway.top
+domain:zx.com
 domain:zxhgroup.com
 domain:zxsales.cn
 domain:zxxk.com

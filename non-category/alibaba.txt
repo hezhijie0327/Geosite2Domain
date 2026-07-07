@@ -269,6 +269,7 @@ domain:lazada.com
 domain:liangxinyao.com
 domain:lingshoujia.com
 domain:lingxigames.com
+domain:log-global.aliyuncs.com
 domain:log.umtrack.com:@ads
 domain:logs.amap.com:@ads
 domain:lstat.youku.com:@ads

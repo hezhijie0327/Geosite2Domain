@@ -1,3 +1,5 @@
+domain:17173.com
+domain:17173cdn.com
 domain:56.com
 domain:56img.com
 domain:adnet.sohu.com:@ads
@@ -6,6 +8,8 @@ domain:adv-sv-show.focus.cn:@ads
 domain:adv-sv-stat.focus.cn:@ads
 domain:assp.sohu.com:@ads
 domain:bdu.focus.cn:@ads
+domain:changyou.com
+domain:cy.com
 domain:focus-img.cn
 domain:focus.cn
 domain:fpb.sohu.com:@ads
@@ -13,6 +17,7 @@ domain:imp.go.sohu.com:@ads
 domain:itc.cn
 domain:m.aty.sohu.com:@ads
 domain:p.aty.sohu.com:@ads
+domain:playcool.com
 domain:pv.hd.sohu.com:@ads
 domain:pv.sohu.com:@ads
 domain:qpb.sohu.com:@ads
@@ -22,3 +27,5 @@ domain:sohu
 domain:sohu.com
 domain:sohucs.com
 domain:track.sohu.com:@ads
+domain:yeyou.com
+domain:yeyoucdn.com

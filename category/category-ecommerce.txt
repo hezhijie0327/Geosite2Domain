@@ -527,10 +527,14 @@ domain:fashionnike.com
 domain:fatwallet.com
 domain:fflnk.net
 domain:finenike.com
+domain:flowwow-images.com
+domain:flowwow.com
 domain:foampositeshoes.com
 domain:fout.jp:@ads
 domain:fragrancebay.com
 domain:francemail.com
+domain:funpay.com
+domain:funpay.ru
 domain:futureshop.ca
 domain:gamewtb.com
 domain:geek-squad-support.com
@@ -1037,6 +1041,7 @@ domain:rwbautomation.ru
 domain:rwbautomation.tech
 domain:rwbgeo.ru
 domain:sale-nikeshoes.com
+domain:sfunpay.com
 domain:shop.app
 domain:shopadidas.ca
 domain:shopadidas.com
