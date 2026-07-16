@@ -422,6 +422,7 @@ domain:ixgvideo.com
 domain:ixigua.com
 domain:ixiguavideo.com
 domain:jianying.com
+domain:jimeng.com
 domain:jinritemai.com
 domain:jokecommunity.cn
 domain:jokecommunity.com
@@ -696,6 +697,9 @@ domain:vestack-preview.com
 domain:vestack-sandbox.com
 domain:vestack.cloud
 domain:vfcdnrd.com
+domain:vlabimg.com
+domain:vlabstatic.com
+domain:vlabvod.com
 domain:vol1.cn
 domain:vol6.cn
 domain:volc-dns.com

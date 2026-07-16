@@ -45,7 +45,9 @@ domain:happyshrimp.cn
 domain:hi-butterfly.cn
 domain:hunyuan.tencent.com
 domain:instreet.com
+domain:kechuangai.com
 domain:kimi.com
+domain:kling-ai.com
 domain:klingai.com
 domain:liblib.art
 domain:liblib.cloud
@@ -101,6 +103,7 @@ domain:yiyan.baidu.com
 domain:yoma.cn
 domain:yuanbao.tencent.com
 domain:yuanqi.tencent.com
+domain:yzsgo.com
 domain:z.ai
 domain:zhiexa.com
 domain:zhipuai.cn

@@ -1235,7 +1235,6 @@ domain:alexafund.cn:@cn
 domain:alexafund.com.cn:@cn
 domain:alexanderstreet.com
 domain:alfa.me
-domain:alfabank.oavdo.amc
 domain:alfabank.ru
 domain:alfabank.st
 domain:alfadirect.ru
@@ -2768,6 +2767,7 @@ domain:azuredns-prd.info
 domain:azuredns-prd.org
 domain:azureedge-test.net
 domain:azureedge.net
+domain:azureedge.us
 domain:azurefd.net
 domain:azurehdinsight.cn:@cn
 domain:azureiotcentral.com
@@ -3330,6 +3330,9 @@ domain:bestbuystores.com
 domain:bestbuytradein.com
 domain:bestbuyus.com
 domain:bestcamsites.net
+domain:bestchange.com
+domain:bestchange.net
+domain:bestchange.ru
 domain:bestclouddrive.com
 domain:bestdori.com
 domain:besterpornos.com
@@ -4154,6 +4157,7 @@ domain:bnbstatic.com
 domain:bnef.com
 domain:bnext.com.tw
 domain:bntrace.com
+domain:bnxz.net
 domain:boboporn.com
 domain:boboporn.net
 domain:bobovip.cc
@@ -4550,6 +4554,7 @@ domain:byjhd.com
 domain:bymj.io
 domain:bypasscensorship.org
 domain:byspotify.com
+domain:bystys.tech
 domain:bytedapm.com:@!cn
 domain:byteoversea.com:@!cn
 domain:bytick.com
@@ -4946,6 +4951,7 @@ domain:chat.com
 domain:chatango.com
 domain:chatgpt.com
 domain:chatgpt.livekit.cloud
+domain:chatgpt.site
 domain:chatgptvideo.xyz
 domain:chatgptvideob.buzz
 domain:chatsex.xxx
@@ -5507,6 +5513,7 @@ domain:coomer.su
 domain:coova.com
 domain:coova.net
 domain:coova.org
+domain:copilot-stg.com
 domain:copilot.com
 domain:copro.pw
 domain:copy-manga.com
@@ -5605,6 +5612,7 @@ domain:critiquebrainz.org
 domain:crixet.com
 domain:crmdynint-gcc.com
 domain:crmdynint.com
+domain:crocoblock.com
 domain:crocotube.com
 domain:cromite.org
 domain:crossborderexpansion.com
@@ -5913,6 +5921,7 @@ domain:delcamna.com
 domain:delcamtv.com
 domain:delcamuniversity.com
 domain:delcamusa.com
+domain:delets.online
 domain:delicious.com.au
 domain:dell
 domain:dell-alw.com:@cn
@@ -7489,8 +7498,8 @@ domain:esm.sh
 domain:esmarthealth.com
 domain:esmatube.com
 domain:esopworld.com
-domain:esp32.com
-domain:esp8266.com
+domain:esp32.com:@!cn
+domain:esp8266.com:@!cn
 domain:espadoldettol.com.ar
 domain:esperanzagomez.org
 domain:espn.co.uk
@@ -7500,7 +7509,7 @@ domain:espncdn.com
 domain:espnqa.com
 domain:esports.gg
 domain:esposasymaridos.com
-domain:espressif.com
+domain:espressif.com:@!cn
 domain:esri.com
 domain:esrt.online
 domain:esrt.press
@@ -9057,6 +9066,7 @@ domain:getpocket.com
 domain:getporn.tv
 domain:getprintersupports.com
 domain:getscorecash.com
+domain:getsentry.com
 domain:getsexgames.com
 domain:getsynapse.io
 domain:gettr.com
@@ -9351,7 +9361,6 @@ domain:gonglchuangl.net
 domain:gonike.com
 domain:gonzo-movies.com
 domain:gonzo.com
-domain:goo
 domain:goo.gl
 domain:gooblox.com
 domain:good-apps.jp
@@ -9867,6 +9876,8 @@ domain:hao21.xyz
 domain:hao62.xyz
 domain:haori888.com
 domain:haplorrhini.com
+domain:happ.info
+domain:happ.su
 domain:happymeal.co.nz
 domain:happymeal.com
 domain:happymeal.com.au
@@ -11376,7 +11387,6 @@ domain:intagram.com
 domain:intagrm.com
 domain:intc.com
 domain:integral7.com
-domain:intel
 domain:intel-research.net
 domain:intel-university-collaboration.net
 domain:intel.ac
@@ -12456,6 +12466,7 @@ domain:khanacademy.org
 domain:khangar.net
 domain:khotruyentranhx.com
 domain:kichikuou.com
+domain:kick.com
 domain:kickporn.com
 domain:kickshatchannel.com
 domain:kicksnike1.com
@@ -12573,7 +12584,6 @@ domain:kompoz2.com
 domain:konachan.com
 domain:konachan.net
 domain:konachan.wjcodes.com
-domain:konami
 domain:konami-igaming.online
 domain:konami.co.jp
 domain:konami.com
@@ -12818,7 +12828,14 @@ domain:lightxxxtube.com
 domain:lih.kg
 domain:lihkg.com
 domain:lihksnap.com
+domain:like-video.com
 domain:like.com
+domain:like.video
+domain:likee.com
+domain:likee.video
+domain:likeeapp.ru
+domain:likeevideo.com
+domain:likeevideo.ru
 domain:likeseiyu.com
 domain:liketruyen.net
 domain:liketwice.com
@@ -13696,6 +13713,7 @@ domain:mgo-images.com
 domain:mgo.com
 domain:mhcb.ru
 domain:mhcbr.ru
+domain:mhgui.com
 domain:mhhanman.xyz
 domain:mhqwe.xyz
 domain:mhradio.org
@@ -14426,6 +14444,7 @@ domain:motherless.com
 domain:motiongraphicsandmore.com
 domain:motionpictureser.com
 domain:moto.com
+domain:motocms.com
 domain:motolia.com
 domain:motopress.com
 domain:motorola.ca
@@ -15031,6 +15050,7 @@ domain:nettyinternet.com
 domain:netvideogirls.com
 domain:netvigator.com
 domain:network-auth.cn:@cn
+domain:netxh.blog
 domain:netzerobuildings.com
 domain:netzerobuildingstudio.com
 domain:neuerporno.com
@@ -15915,6 +15935,7 @@ domain:onekey-asset.com
 domain:onekey.so
 domain:onekeycn.com
 domain:oneme.ru
+domain:onemoment.cc
 domain:onemozilla.org
 domain:onenote.com
 domain:onenote.net
@@ -16104,6 +16125,7 @@ domain:overcast.fm
 domain:overleaf.com
 domain:overthumbs.com
 domain:ovid.com
+domain:owxd.xyz
 domain:oxfordaasc.com
 domain:oxfordartonline.com
 domain:oxfordbibliographies.com
@@ -16260,6 +16282,7 @@ domain:paxful.com
 domain:paxlicense.org
 domain:paydiant.com
 domain:payecom.ru
+domain:payget.pro
 domain:paygonline.com
 domain:payhulu.com
 domain:paylike.com
@@ -16728,6 +16751,7 @@ domain:plastics-cadcam.com
 domain:platform.dell.com:@cn
 domain:platiecom.ru
 domain:platinumlinks.org
+domain:platov.co
 domain:play-bmm.shop
 domain:play-bmmer.buzz
 domain:play4free.com
@@ -17626,6 +17650,8 @@ domain:rakuten.tw
 domain:rakutenadvertising.com
 domain:rakutengiftcards.ca
 domain:rakuya.com.tw
+domain:ramon.cash
+domain:ramon.money
 domain:randyblue.com
 domain:rapefilms.net
 domain:rapetube.me
@@ -18502,6 +18528,7 @@ domain:sensualgirls.org
 domain:sensualmothers.com
 domain:sensueel.net
 domain:sentry-cdn.com
+domain:sentry.dev
 domain:sentry.io
 domain:senzuritv.net
 domain:seo-dash.net
@@ -19526,6 +19553,7 @@ domain:starfieldtech.com
 domain:starfox.com
 domain:stargazer-games.com
 domain:stark-verlag.ch
+domain:starlink.com
 domain:starott.com
 domain:starp2p.com
 domain:starplus.com
@@ -20056,6 +20084,7 @@ domain:tellme.pw
 domain:tellmewhygame.com
 domain:temetube.xyz
 domain:temp-mail.org
+domain:templatemonster.com
 domain:tenbin.ai
 domain:tenbyfotolia.com
 domain:tenor.com
@@ -21048,6 +21077,7 @@ domain:uweb.ru
 domain:uwn.com:@cn
 domain:uwpcommunitytoolkit.com
 domain:uxthemes.com
+domain:uxzw.club
 domain:v-av.com
 domain:v-has.com
 domain:v.gd
@@ -22065,6 +22095,7 @@ domain:wballiance.com
 domain:wbautomation.ru
 domain:wbautomation.tech
 domain:wbbasket.ru
+domain:wbcontent.net
 domain:wbd.ms
 domain:wbdnbo.net
 domain:wbdubna.ru
@@ -23666,6 +23697,7 @@ domain:ysx-mm.com
 domain:yt.be
 domain:ytimg.com
 domain:yuanming.net
+domain:yucf.top
 domain:yuenuge113.xyz
 domain:yuenuge18.cc
 domain:yugioh-card.com
@@ -23924,6 +23956,7 @@ full:advert-media-api.wb.ru:@ads
 full:advert-media-api.wildberries.ru:@ads
 full:advk.vk.ru:@ads
 full:afcs.dell.com:@cn
+full:agb9r0ad.qllfkl.com
 full:agency-adv.ozon.ru:@ads
 full:alibaba.cdn.steampipe.steamcontent.com:@cn
 full:alt-r.my.com:@ads
@@ -23943,6 +23976,7 @@ full:amp-api-updates.apps.apple.com:@cn
 full:amp-api.apps.apple.com:@cn
 full:amp-api.media.apple.com:@cn
 full:amp-api.music.apple.com:@cn
+full:amp-api.podcasts.apple.com:@cn
 full:an.mail.ru:@ads
 full:analytics-adv.ozon.ru:@ads
 full:analytics-stage.wildberries.ru:@ads
@@ -23982,7 +24016,6 @@ full:appleid.cdn-apple.com:@cn
 full:apps.mzstatic.com:@cn
 full:apps5.oingo.com:@cn
 full:apptrailers.itunes.apple.com:@cn
-full:auth.music.apple.com:@cn
 full:avail.googleflights.net:@cn
 full:azuremigrate.download.prss.microsoft.com:@cn
 full:azuremigratetest.download.prss.microsoft.com:@cn
@@ -24225,6 +24258,7 @@ full:gtm.oasisfeng.com:@cn
 full:guzzoni-apple-com.v.aaplimg.com:@cn
 full:guzzoni.apple.com:@cn
 full:guzzoni.smoot.apple.com:@cn
+full:hb4bbbbb.pmhcjk.com
 full:holoxx.f5.si
 full:hpstore.corpmerchandise.com
 full:hub.slarker.me
@@ -24338,6 +24372,7 @@ full:musicstatus.music.apple.com:@cn
 full:mvod.itunes.apple.com:@cn
 full:myapp.itunes.apple.com:@cn
 full:myvs.download.prss.microsoft.com:@cn
+full:nbbb1bb7.pmhcjk.com
 full:new-adv.ozon.ru:@ads
 full:nexus.dell.com:@cn
 full:np-edge.itunes.apple.com:@cn
@@ -24418,12 +24453,11 @@ full:performanceparameters.googleapis.com:@cn
 full:pixel.rustore.ru:@ads
 full:pixel.yandex.com:@ads
 full:pki-goog.l.google.com:@cn
+full:play-edge.itunes.apple.com:@cn
 full:play.itunes.apple.com:@cn
 full:play.music.apple.com:@cn
-full:practivate.adobe
-full:practivate.adobe.ipp
-full:practivate.adobe.newoa
-full:practivate.adobe.ntp
+full:podcasts.apple.com:@cn
+full:podcasts.itunes.apple.com:@cn
 full:probe.siri.apple.com:@cn
 full:prod-controlbe.floonet.goog:@cn
 full:prod-databe.floonet.goog:@cn
@@ -24432,6 +24466,7 @@ full:prod.databe.floonet.goog:@cn
 full:prodvizhenie-adv.ozon.ru:@ads
 full:public-us-pingsx.api.clonoth.com
 full:publicassets.cdn-apple.com:@cn
+full:q676790b.pmhcjk.com
 full:qiao-cn.com:@cn
 full:qpx.googleflights.net:@cn
 full:questions-adv.ozon.ru:@ads
@@ -24592,8 +24627,6 @@ full:sync.itunes.apple.com:@cn
 full:t.mail.ru:@ads
 full:tac.googleapis.com:@cn
 full:target.vk.com:@ads
-full:tesla-cdn.thron.cn:@cn
-full:tesla-cdn.thron.com
 full:tf-feedback.itunes.apple.com:@cn
 full:time.amazonaws.cn:@cn
 full:time.izatcloud.net:@cn

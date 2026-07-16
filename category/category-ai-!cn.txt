@@ -14,6 +14,7 @@ domain:cerebras.ai
 domain:chat.com
 domain:chatgpt.com
 domain:chatgpt.livekit.cloud
+domain:chatgpt.site
 domain:chutes.ai
 domain:cici.com:@!cn
 domain:ciciai.com:@!cn
@@ -35,6 +36,7 @@ domain:cohere.com
 domain:comfy.org
 domain:comfyci.org
 domain:comfyregistry.org
+domain:copilot-stg.com
 domain:copilot.cloud.microsoft
 domain:copilot.com
 domain:copilot.microsoft.com
@@ -58,6 +60,7 @@ domain:elevenlabs.io
 domain:envato-static.com
 domain:envato.com
 domain:envatousercontent.com
+domain:flow.google
 domain:gateway.ai.cloudflare.com
 domain:geller-pa.googleapis.com
 domain:gemini.google

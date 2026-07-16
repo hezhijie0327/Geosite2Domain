@@ -231,7 +231,6 @@ domain:golang.com
 domain:golang.net
 domain:golang.org
 domain:gonglchuangl.net
-domain:goo
 domain:goo.gl
 domain:goog
 domain:googel.com

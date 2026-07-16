@@ -17,7 +17,7 @@ domain:ad-srv.net
 domain:ad.12306.cn
 domain:ad.api.3g.youku.com:@ads
 domain:ad.api.mobile.youku.com:@ads
-domain:ad.api.moji.com
+domain:ad.api.moji.com:@ads
 domain:ad.browser.qq.com:@ads
 domain:ad.cctv.com:@ads
 domain:ad.games.dmm.com:@ads
@@ -335,6 +335,7 @@ domain:g1.tagtic.cn
 domain:g3.letv.com:@ads
 domain:gdt.qq.com:@ads
 domain:gemini.yahoo.com:@ads
+domain:getsentry.com
 domain:gia.jd.com:@ads
 domain:gio.ren
 domain:giocdn.com
@@ -600,8 +601,11 @@ domain:segment.io:@ads
 domain:segmenthub.com:@ads
 domain:segmentify.com:@ads
 domain:sensors.umetrip.com.cn
+domain:sentry-cdn.com
 domain:sentry.d.mi.com:@ads
 domain:sentry.d.xiaomi.net:@ads
+domain:sentry.dev
+domain:sentry.io
 domain:sentry.music.163.com:@ads
 domain:serving-sys.com:@ads
 domain:sf3-ttcdn-tos.pstatp.com:@ads

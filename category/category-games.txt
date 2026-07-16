@@ -193,6 +193,9 @@ domain:drmario-world.com
 domain:dungeonkeeper.cn
 domain:dungeonkeeper.com
 domain:dungeonkeeper.com.cn
+domain:duoyi.com
+domain:duoyigroup.cn
+domain:duoyiwangluo.com
 domain:ea-anz-press.com
 domain:ea.com
 domain:eaaccess.com
@@ -316,6 +319,7 @@ domain:gtgres.com
 domain:guoping123.com
 domain:hackyourconsole.com
 domain:haohaowan.net
+domain:happyelements.com
 domain:happyhlddz.com
 domain:hayday.com
 domain:haydaygame.com
@@ -360,7 +364,6 @@ domain:kgisystems.com
 domain:kirbysepicyarn.com
 domain:kirbysuperstarultra.com
 domain:kiwi.jp
-domain:konami
 domain:konami-igaming.online
 domain:konami.co.jp
 domain:konami.com
@@ -401,6 +404,7 @@ domain:learnwithleague.com
 domain:ledu.com
 domain:legendofzelda.cn:@cn
 domain:legendofzelda.com.cn:@cn
+domain:leyuansu.com
 domain:lingxigames.com
 domain:log-upload-os.hoyoverse.com:@ads
 domain:log-upload.mihoyo.com:@ads
@@ -974,6 +978,7 @@ domain:xoyocdn.com
 domain:ycgame.com
 domain:yeyou.com
 domain:yeyoucdn.com
+domain:ygduoyi.com
 domain:yingxiong.com
 domain:yjwujian.cn
 domain:ylands.com

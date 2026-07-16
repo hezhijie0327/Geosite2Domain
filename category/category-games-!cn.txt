@@ -239,7 +239,6 @@ domain:kgisystems.com
 domain:kirbysepicyarn.com
 domain:kirbysuperstarultra.com
 domain:kiwi.jp
-domain:konami
 domain:konami-igaming.online
 domain:konami.co.jp
 domain:konami.com

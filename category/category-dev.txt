@@ -73,6 +73,7 @@ domain:consul.io
 domain:cpan.org
 domain:crashlytics.com
 domain:crates.io
+domain:crocoblock.com
 domain:cups.org
 domain:cve.org
 domain:cygwin.com
@@ -168,6 +169,7 @@ domain:getbootstrap.com
 domain:getcomposer.org
 domain:getfedora.org
 domain:getpaint.net
+domain:getsentry.com
 domain:getzola.org
 domain:gh.io
 domain:ghcr.io
@@ -305,6 +307,7 @@ domain:modperl.pl
 domain:mongodb.com
 domain:mongodb.org
 domain:mono-project.com
+domain:motocms.com
 domain:motopress.com
 domain:mpv.io
 domain:msdn.com
@@ -427,6 +430,7 @@ domain:scala-sbt.org
 domain:scientificlinux.org
 domain:scoop.sh
 domain:sentry-cdn.com
+domain:sentry.dev
 domain:sentry.io
 domain:serverfault.com
 domain:servicetalk.io

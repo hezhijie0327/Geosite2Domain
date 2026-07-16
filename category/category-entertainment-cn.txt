@@ -248,6 +248,9 @@ domain:duitang.com
 domain:duoduocdn.com
 domain:duoshan.com
 domain:duowan.com
+domain:duoyi.com
+domain:duoyigroup.cn
+domain:duoyiwangluo.com
 domain:dwstatic.com
 domain:e.kuaishou.cn:@ads
 domain:e.kuaishou.com:@ads
@@ -378,6 +381,7 @@ domain:gzlzfm.com
 domain:h-adashx.ut.youku.com:@ads
 domain:haidubooks.com
 domain:haohaowan.net
+domain:happyelements.com
 domain:happyhlddz.com
 domain:haydaypop.cn
 domain:hbooker.com
@@ -530,6 +534,7 @@ domain:leso.cn
 domain:letv.com
 domain:letvcdn.com
 domain:letvimg.com
+domain:leyuansu.com
 domain:lingxigames.com
 domain:lizhi.fm
 domain:lizhifm.com
@@ -658,6 +663,8 @@ domain:qqgameapp.com
 domain:qqmusic.com
 domain:qtfm.cn
 domain:quehu.com
+domain:qwapp.top
+domain:qwdjapp.com
 domain:qy.net
 domain:qznovel.com
 domain:qznovelpic.com
@@ -674,6 +681,9 @@ domain:roblox.qq.com
 domain:robloxdev.cn
 domain:roco.qq.com
 domain:rongshuxia.com
+domain:rrmj.plus
+domain:rrsp.app
+domain:rrsp.com.cn
 domain:s-adashx.ut.youku.com:@ads
 domain:sanguosha.com
 domain:sao.cn
@@ -755,6 +765,7 @@ domain:u17t.com
 domain:ucg.cn
 domain:ultimatemusic.cn
 domain:ultracachenode.com
+domain:updream.cn
 domain:v6-adashx.ut.youku.com:@ads
 domain:vgtime.com
 domain:videoxiaoyouxi.com
@@ -818,6 +829,8 @@ domain:ycgame.com
 domain:yeshen.com
 domain:yeyou.com
 domain:yeyoucdn.com
+domain:ygduoyi.com
+domain:yichengwlkj.com
 domain:yingxiong.com
 domain:yiyouliao.com
 domain:yjwujian.cn

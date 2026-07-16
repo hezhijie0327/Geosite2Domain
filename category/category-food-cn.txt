@@ -38,6 +38,7 @@ domain:mcdonalds.com.cn:@cn
 domain:meican.com
 domain:meicanstatic.com
 domain:mengniu.com.cn
+domain:micun.com
 domain:mxbc.com
 domain:mxbc.net
 domain:nongfuspring.com

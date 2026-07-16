@@ -1,7 +1,6 @@
 domain:573.jp
 domain:kgisystems.com
 domain:kiwi.jp
-domain:konami
 domain:konami-igaming.online
 domain:konami.co.jp
 domain:konami.com

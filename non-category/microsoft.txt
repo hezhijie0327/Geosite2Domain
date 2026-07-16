@@ -97,6 +97,7 @@ domain:azuredns-prd.info
 domain:azuredns-prd.org
 domain:azureedge-test.net
 domain:azureedge.net
+domain:azureedge.us
 domain:azurefd.net
 domain:azurehdinsight.cn:@cn
 domain:azureiotcentral.com
@@ -163,6 +164,7 @@ domain:cn.bing.net:@cn
 domain:cn.mm.bing.net:@cn
 domain:codethemicrobit.com
 domain:collector.github.com:@ads
+domain:copilot-stg.com
 domain:copilot.com
 domain:cortanaanalytics.com
 domain:cortanaskills.com

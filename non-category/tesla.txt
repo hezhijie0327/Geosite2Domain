@@ -9,5 +9,3 @@ domain:teslamotors.com
 domain:teslamotors.com.cn:@cn
 domain:teslazta.net
 domain:ts.la
-full:tesla-cdn.thron.cn:@cn
-full:tesla-cdn.thron.com

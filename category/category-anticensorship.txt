@@ -33,6 +33,8 @@ domain:googlecensorship.org
 domain:greatfire.org
 domain:greatfirevpn.com
 domain:guardianproject.info
+domain:happ.info
+domain:happ.su
 domain:haveibeenpwned.com
 domain:hiddify.com
 domain:ipfs-gateway.cloud

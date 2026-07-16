@@ -8,6 +8,7 @@ domain:antigravity.google
 domain:bard.google.com
 domain:deepmind.com
 domain:deepmind.google
+domain:flow.google
 domain:geller-pa.googleapis.com
 domain:gemini.google
 domain:gemini.google.com

@@ -81,6 +81,7 @@ domain:azuredns-prd.info
 domain:azuredns-prd.org
 domain:azureedge-test.net
 domain:azureedge.net
+domain:azureedge.us
 domain:azurefd.net
 domain:azurehdinsight.cn:@cn
 domain:azureiotcentral.com

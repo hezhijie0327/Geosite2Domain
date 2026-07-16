@@ -15,6 +15,7 @@ domain:focus.cn
 domain:fpb.sohu.com:@ads
 domain:imp.go.sohu.com:@ads
 domain:itc.cn
+domain:kuaizhan.com
 domain:m.aty.sohu.com:@ads
 domain:p.aty.sohu.com:@ads
 domain:playcool.com

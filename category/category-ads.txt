@@ -14,7 +14,7 @@ domain:ad-srv.net
 domain:ad.12306.cn
 domain:ad.api.3g.youku.com:@ads
 domain:ad.api.mobile.youku.com:@ads
-domain:ad.api.moji.com
+domain:ad.api.moji.com:@ads
 domain:ad.browser.qq.com:@ads
 domain:ad.cctv.com:@ads
 domain:ad.games.dmm.com:@ads

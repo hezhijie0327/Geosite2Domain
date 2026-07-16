@@ -1555,6 +1555,7 @@ full:amp-api-updates.apps.apple.com:@cn
 full:amp-api.apps.apple.com:@cn
 full:amp-api.media.apple.com:@cn
 full:amp-api.music.apple.com:@cn
+full:amp-api.podcasts.apple.com:@cn
 full:aod-ssl.itunes.apple.com:@cn
 full:aod.itunes.apple.com:@cn
 full:api-edge.apps.apple.com:@cn
@@ -1567,7 +1568,6 @@ full:appleworldwidedeveloper.hb-api.omtrdc.net
 full:appleworldwidedeveloper.sc.omtrdc.net
 full:apps.mzstatic.com:@cn
 full:apptrailers.itunes.apple.com:@cn
-full:auth.music.apple.com:@cn
 full:bag-cdn.itunes-apple.com.akadns.net:@cn
 full:bag.itunes.apple.com:@cn
 full:beatselectronicsllc.tt.omtrdc.net
@@ -1710,8 +1710,11 @@ full:pancake.apple.com:@cn
 full:pba0.apple.com:@cn
 full:pd-nk.itunes.apple.com:@cn
 full:pd.itunes.apple.com:@cn
+full:play-edge.itunes.apple.com:@cn
 full:play.itunes.apple.com:@cn
 full:play.music.apple.com:@cn
+full:podcasts.apple.com:@cn
+full:podcasts.itunes.apple.com:@cn
 full:probe.siri.apple.com:@cn
 full:prod-support.apple-support.akadns.net:@cn
 full:publicassets.cdn-apple.com:@cn

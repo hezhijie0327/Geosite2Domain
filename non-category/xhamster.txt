@@ -1,6 +1,7 @@
 domain:collector.xhamster.com:@ads
 domain:freexh.blog
 domain:freexh.live
+domain:netxh.blog
 domain:xhamster.com
 domain:xhamster.desi
 domain:xhamster.xxx

@@ -39,6 +39,7 @@ domain:chsi.cn
 domain:chsi.com.cn
 domain:cnmooc.org
 domain:cugbonline.cn
+domain:dcshfu.com
 domain:dearedu.com
 domain:dgjy.net
 domain:dict.cn
@@ -54,6 +55,7 @@ domain:fenbike.cn
 domain:fenbike.com
 domain:fenbilantian.cn
 domain:fenbilantian.com
+domain:gaojidata.com
 domain:gaokao.com
 domain:gatzs.com.cn
 domain:gfbzb.cn
@@ -63,6 +65,7 @@ domain:gfbzb.gov.cn
 domain:gfbzb.net
 domain:gk100.com
 domain:guojibk.com
+domain:gzasc.com
 domain:haofenshu.com
 domain:hjapi.com
 domain:hjfile.cn

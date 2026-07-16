@@ -13,7 +13,6 @@ domain:douding.cn
 domain:goldhoe.com
 domain:haohaodoc.com
 domain:jinchutou.com
-domain:keniu.com
 domain:lazyer.net
 domain:renrendoc.com
 domain:safewk.com

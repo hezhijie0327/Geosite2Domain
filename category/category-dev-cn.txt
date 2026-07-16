@@ -128,6 +128,7 @@ domain:unity3dcloud.cn
 domain:unityads.unity.cn:@ads
 domain:unityads.unitychina.cn:@ads
 domain:unitychina.cn
+domain:weboss.hk
 domain:wegamedeveloper.com
 domain:weixinbridge.com
 domain:weui.io

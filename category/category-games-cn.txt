@@ -75,6 +75,9 @@ domain:codm.com
 domain:cowlevel.net
 domain:cy.com
 domain:dobest.com
+domain:duoyi.com
+domain:duoyigroup.cn
+domain:duoyiwangluo.com
 domain:edu4399.com
 domain:feihuo.com
 domain:ffbuddy.com
@@ -102,6 +105,7 @@ domain:gouhuo.qq.com
 domain:gtgres.com
 domain:guoping123.com
 domain:haohaowan.net
+domain:happyelements.com
 domain:happyhlddz.com
 domain:haydaypop.cn
 domain:hdyxgame.com
@@ -128,6 +132,7 @@ domain:labycore.cn
 domain:langrenclub.com
 domain:laohu.com
 domain:ledu.com
+domain:leyuansu.com
 domain:lingxigames.com
 domain:log-upload.mihoyo.com:@ads
 domain:longtugame.com
@@ -255,6 +260,7 @@ domain:xoyocdn.com
 domain:ycgame.com
 domain:yeyou.com
 domain:yeyoucdn.com
+domain:ygduoyi.com
 domain:yingxiong.com
 domain:yjwujian.cn
 domain:yokaverse.com

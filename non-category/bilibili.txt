@@ -48,5 +48,6 @@ domain:maoer.com
 domain:maoercdn.com
 domain:mincdn.com
 domain:missevan.com
+domain:updream.cn
 domain:yo9.com
 full:upos-hz-mirrorakam.akamaized.net:@!cn

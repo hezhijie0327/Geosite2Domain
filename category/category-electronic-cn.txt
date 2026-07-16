@@ -52,6 +52,7 @@ domain:jlcsj.com
 domain:jlcsmt.com
 domain:lceda.cn
 domain:lckfb.com
+domain:listenai.com
 domain:maixhub.com
 domain:oshwhub.com
 domain:quecmall.cn

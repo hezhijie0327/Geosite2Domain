@@ -70,6 +70,7 @@ domain:lanzov.com
 domain:pan.baidu.com
 domain:pan.quark.cn
 domain:pan.xunlei.com
+domain:share123.top
 domain:sq.cc
 domain:weiyun.com
 domain:wenshushu.cn

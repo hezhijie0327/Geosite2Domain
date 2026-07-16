@@ -11,6 +11,7 @@ domain:moliranran.com
 domain:mryys.cn
 domain:mryys.com
 domain:mysqil.com
+domain:mystery0.vip
 domain:pljzy.top
 domain:runningcheese.com
 domain:skywt.cn

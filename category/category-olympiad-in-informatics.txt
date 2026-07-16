@@ -1,5 +1,6 @@
 domain:51nod.com
 domain:acwing.com
+domain:adacpp.com
 domain:hihocoder.com
 domain:jisuanke.com
 domain:kidsccshow.com

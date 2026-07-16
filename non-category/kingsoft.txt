@@ -1,14 +1,17 @@
 domain:51dzt.com
 domain:cbjq.com
+domain:cheetahfun.com
 domain:cmcm.com
 domain:cmcmcdn.com
 domain:docer.com
+domain:drivergenius.com
 domain:duba.com
 domain:duba.net
 domain:iciba.com
 domain:ijinshan.com
 domain:kcdnvip.com
 domain:kdocs.cn
+domain:keniu.com
 domain:kimg.cn
 domain:kimxz.com
 domain:kingsoft-office-service.com

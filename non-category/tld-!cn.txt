@@ -266,7 +266,6 @@ domain:gmx
 domain:gn
 domain:godaddy
 domain:goldpoint
-domain:goo
 domain:goodyear
 domain:goog
 domain:google
@@ -767,7 +766,6 @@ domain:xn--mgb2ddes
 domain:xn--mgb9awbf
 domain:xn--mgba3a3ejt
 domain:xn--mgba3a4f16a
-domain:xn--mgba3a4fra
 domain:xn--mgba7c0bbn0a
 domain:xn--mgbaam7a8h
 domain:xn--mgbah1a3hjkrd

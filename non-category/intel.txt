@@ -33,7 +33,6 @@ domain:hyperscan.io
 domain:insidefilms.com
 domain:insight.tech
 domain:intc.com
-domain:intel
 domain:intel-research.net
 domain:intel-university-collaboration.net
 domain:intel.ac
