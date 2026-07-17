@@ -14726,6 +14726,7 @@ domain:mycartoonsexgames.com
 domain:mycdn.me
 domain:myciscobenefits.com
 domain:myclitgames.com
+domain:mycloudnas.com:@cn
 domain:mycomicsxxx.com
 domain:myconstructionworld.net
 domain:mydirectgroove.com
@@ -17510,6 +17511,7 @@ domain:qmov.net
 domain:qmttqg3k.me
 domain:qnap.com
 domain:qnap.com.cn:@cn
+domain:qnapsupport.net
 domain:qobuz.com
 domain:qoder.com
 domain:qombol.com

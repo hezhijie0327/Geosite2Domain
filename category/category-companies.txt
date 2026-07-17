@@ -5380,6 +5380,7 @@ domain:mybeatsbydreuk.com
 domain:mybeatscheapbydre.com
 domain:mycdn.me
 domain:myciscobenefits.com
+domain:mycloudnas.com:@cn
 domain:mydirectgroove.com
 domain:mydirectvchannels.com
 domain:mydirtyhobby.com
@@ -5886,6 +5887,7 @@ domain:qlink.to
 domain:qlinkto.cn:@cn
 domain:qnap.com
 domain:qnap.com.cn:@cn
+domain:qnapsupport.net
 domain:qprize.com
 domain:qualcomm-email.com
 domain:qualcomm-inc.com
