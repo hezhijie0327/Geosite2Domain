@@ -10,6 +10,7 @@ domain:censorship.no
 domain:cf-ipfs.com
 domain:citizenlab.ca
 domain:citizenlab.org
+domain:clashyun.com
 domain:cloudflare-ipfs.com
 domain:crustwebsites.net
 domain:dat.foundation
@@ -76,7 +77,6 @@ domain:stunnel.org
 domain:telex.cc
 domain:torproject.org
 domain:tribler.org
-domain:trojan-gfw.github.io
 domain:tunsafe.com
 domain:turkeyblocks.org
 domain:twister.net.co
@@ -93,5 +93,6 @@ domain:whonix.org
 domain:wikileaks.org
 domain:wikiunblocked.org
 domain:wireguard.com
-domain:xtls.github.io
 domain:zeronet.io
+full:trojan-gfw.github.io
+full:xtls.github.io
