@@ -448,6 +448,8 @@ domain:espnqa.com
 domain:esports.gg
 domain:excitebots.com
 domain:ext-twitch.tv
+domain:f1.com
+domain:f1tv.com
 domain:fab.com
 domain:fabricmc.net
 domain:faceit-cdn.net
@@ -475,6 +477,7 @@ domain:fitgirl-repacks.site
 domain:flightsimulator.com
 domain:flipnotestudio.com
 domain:forgecdn.net
+domain:formula1.com
 domain:forthethrone.com
 domain:fortnite-vod.akamaized.net
 domain:fortnite.com

@@ -12,6 +12,8 @@ domain:mofoms.ru
 domain:mosgorzdrav.ru
 domain:oms.karelia.ru
 domain:polyclinika.ru
+domain:reaviz.com
+domain:reaviz.ru
 domain:reso-med.com
 domain:reso-med.ru
 domain:smartmed.pro

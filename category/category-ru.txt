@@ -68,6 +68,7 @@ domain:baranky.com
 domain:bargipsy.com
 domain:beeline.tv
 domain:beget.com
+domain:best2pay.net
 domain:bizmrg.com
 domain:bk6bba-resources.com
 domain:book1917.live
@@ -227,6 +228,7 @@ domain:haicomdc.com
 domain:hayya.ae
 domain:hh.by
 domain:hh.kz
+domain:hva.im
 domain:icq-download.com
 domain:icq-mobile.com
 domain:icq-online.com
@@ -337,6 +339,7 @@ domain:magnit.com
 domain:mail-carrotquest.io
 domain:mailicq.org
 domain:mc.yandex.ru:@ads
+domain:mcc250.pub.3gppnetwork.org
 domain:mcs.st
 domain:medsi.com
 domain:medsi.pro
@@ -445,7 +448,10 @@ domain:rabbitcounter.com
 domain:rabota.by
 domain:radar.imgsmail.ru:@ads
 domain:randomgodbot.com
+domain:rbsgate.com
+domain:rbsuat.com
 domain:rbth.com
+domain:reaviz.com
 domain:reg.cloud
 domain:reg.com
 domain:relap.mail.ru:@ads

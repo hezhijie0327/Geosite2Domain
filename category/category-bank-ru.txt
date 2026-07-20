@@ -44,6 +44,7 @@ domain:bankline.ru
 domain:bbr.ru
 domain:bcs-bank.ru
 domain:bcs.ru
+domain:best2pay.net
 domain:bfa.ru
 domain:blanc.ru
 domain:bm-bank.ru
@@ -93,6 +94,7 @@ domain:gitverse.ru
 domain:gosdolgi.ru
 domain:gpb.ru
 domain:homecredit.ru
+domain:hva.im
 domain:ibamoscow.ru
 domain:id.ru
 domain:it-katok.ru
@@ -166,6 +168,8 @@ domain:raiffeisen-media.ru
 domain:raiffeisen.ru
 domain:rbcollect.ru
 domain:rbcredit.ru
+domain:rbsgate.com
+domain:rbsuat.com
 domain:rencapbank.ru
 domain:rencredit.ru
 domain:restnproducts.ru

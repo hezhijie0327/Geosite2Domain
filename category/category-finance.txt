@@ -62,6 +62,7 @@ domain:banksepah.ir
 domain:bbr.ru
 domain:bcs-bank.ru
 domain:bcs.ru
+domain:best2pay.net
 domain:bfa.ru
 domain:bim.ir
 domain:bk.mufg.jp
@@ -215,6 +216,7 @@ domain:hsbcnet.com
 domain:hsbcprivatebank.com
 domain:hsbcqh.com.cn
 domain:hsbctrinkaus.de
+domain:hva.im
 domain:hyakugo.co.jp
 domain:ibamoscow.ru
 domain:ibkr.ca
@@ -395,6 +397,8 @@ domain:rakuten-bank.co.jp
 domain:rb24.ir
 domain:rbcollect.ru
 domain:rbcredit.ru
+domain:rbsgate.com
+domain:rbsuat.com
 domain:refah-bank.ir
 domain:rencapbank.ru
 domain:rencredit.ru
