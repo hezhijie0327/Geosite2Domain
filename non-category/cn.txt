@@ -628,6 +628,7 @@ domain:alogus.umeng.com:@ads
 domain:alookweb.com
 domain:aloys233.top
 domain:amap.com
+domain:amap.net
 domain:amapauto.com
 domain:amazonaws.cn:@cn
 domain:amazonaws.com.cn:@cn
@@ -1001,6 +1002,7 @@ domain:build9s.io
 domain:building.fun
 domain:buke999.com
 domain:burningvocabulary.com
+domain:buyjingxi.com
 domain:bvfcdn.com
 domain:bvfcdn2.com
 domain:bvfcdn3.com
@@ -1172,6 +1174,7 @@ domain:ccw.site
 domain:cczq.com
 domain:cczq.net
 domain:cd120.com
+domain:cd120.info
 domain:cdkeynogap.com
 domain:cdn20.com
 domain:cdn30.org
@@ -1341,6 +1344,7 @@ domain:chinanews.com
 domain:chinaott.com
 domain:chinapay.com
 domain:chinapost-life.com
+domain:chinapp.com
 domain:chinapp.net
 domain:chinapubmed.net
 domain:chinaqw.com
@@ -1571,6 +1575,7 @@ domain:colorfulclouds.com
 domain:colorfulclouds.net
 domain:coloros.com
 domain:coloros.net
+domain:colorv.com
 domain:combofin.com
 domain:comfylink.com
 domain:commonpcs-test.com
@@ -1995,6 +2000,7 @@ domain:eastday.com
 domain:eastmoney.com
 domain:eastmoneyfutures.com
 domain:eastsoo.com
+domain:easyliao.com
 domain:easytomessage.com
 domain:easytrip.com
 domain:eayyou.com
@@ -2400,6 +2406,7 @@ domain:goofish.pro
 domain:goosail.com
 domain:goproxy.io
 domain:goselling.com
+domain:gosinoic.com
 domain:goto-game.com
 domain:goto-game.mobi
 domain:goto-game.org
@@ -2471,6 +2478,7 @@ domain:h-adashx.ut.youku.com:@ads
 domain:h-adashx4yt.ut.taobao.com:@ads
 domain:h2os.com
 domain:h2tcbox.baidu.com:@ads
+domain:h3c.com
 domain:h5uc.com
 domain:hack520.com
 domain:hackernews.cc
@@ -2670,6 +2678,7 @@ domain:httpdns.yunxindns.com:@ads
 domain:httpdns.zhihu.com:@ads
 domain:httpdns.zybang.com:@ads
 domain:httpdns1.cc.cdnhwc5.com:@ads
+domain:httpdnsmultiapivip.meituan.com:@ads
 domain:httpdnsvip.meituan.com:@ads
 domain:httpsdns.baidu.com:@ads
 domain:huaban.com
@@ -2681,6 +2690,7 @@ domain:hualv.com
 domain:huangyuhui.net
 domain:huanleguang.com
 domain:huanqiu.com
+domain:huashangtop.com
 domain:huashengdaili.com
 domain:huatu.com
 domain:huawei.com
@@ -2917,6 +2927,7 @@ domain:iprdp.net
 domain:ipshu.com
 domain:ipshudi.com
 domain:ipssh.net
+domain:iqilu.com
 domain:iqiyi.com
 domain:iqiyipic.com
 domain:iqoo.com
@@ -3052,6 +3063,7 @@ domain:jdcloudwaf.com
 domain:jddapeigou.com
 domain:jddebug.com
 domain:jddglobal.com
+domain:jddj.com
 domain:jdemall.com
 domain:jdfw1.com
 domain:jdgslb.com
@@ -3396,6 +3408,7 @@ domain:kwimgs.com
 domain:kych5.com
 domain:lady8844.com
 domain:lagou.com
+domain:laifeng.com
 domain:laiwang.com
 domain:laiyagushi.com
 domain:lancdn.com
@@ -3480,6 +3493,7 @@ domain:leautolink.com
 domain:lebo.top
 domain:lecloud.com
 domain:lecloudapi.com
+domain:lecoo.com
 domain:ledu.com
 domain:leetcode-cn.com
 domain:lehuipay.com
@@ -3544,6 +3558,7 @@ domain:linglonglife.com
 domain:lingshoujia.com
 domain:lingxigames.com
 domain:linka2a.net
+domain:linkflowtech.com
 domain:linkheer.com
 domain:linkvans.com
 domain:linliyz.com
@@ -3817,6 +3832,7 @@ domain:mobmore.com
 domain:mobsdks.com
 domain:modelarts-infer.com
 domain:modelarts-maas.com
+domain:moedu.com
 domain:moegirl.org
 domain:mofang.com
 domain:mofazhu.com
@@ -3882,6 +3898,7 @@ domain:mwcloudcdn.com
 domain:mxbc.com
 domain:mxbc.net
 domain:mxhichina.com
+domain:my-imcloud.com
 domain:my-qcloud.com
 domain:my4399.com
 domain:my7v.com
@@ -4284,6 +4301,7 @@ domain:qiangbus.com
 domain:qianjia.com
 domain:qianlima.com
 domain:qianlong.com
+domain:qiantucdn.com
 domain:qianwen.com
 domain:qianxin.com
 domain:qianxincdn.com
@@ -4374,6 +4392,7 @@ domain:qunarzz.com
 domain:qunjielong.com
 domain:qunliao.info
 domain:quyaoya.com
+domain:quyixian.com
 domain:qwapp.top
 domain:qwdjapp.com
 domain:qweather.com
@@ -4875,12 +4894,14 @@ domain:teambition.com
 domain:teambition.net
 domain:teambitionapis.com
 domain:tebiefuza.cloud
+domain:tec73.com
 domain:techo.chat
 domain:techwalker.com
 domain:tefscloud.com
 domain:tefscloud.net
 domain:tekkenthree.com
 domain:teleows.com
+domain:telunsu.net
 domain:tenant-zone-dev.com
 domain:tencdns.net
 domain:tencent-cloud.com
@@ -4926,6 +4947,7 @@ domain:tendcloud.com
 domain:tendis.net
 domain:tenpay.com
 domain:tenxcloud.com
+domain:tesoon.com
 domain:test-cignacmb.com
 domain:testads.api.my7v.com:@ads
 domain:testwaf.com
@@ -4955,6 +4977,7 @@ domain:threatbook.com
 domain:ths123.com
 domain:thundercdn.com
 domain:thunderurl.com
+domain:thunis.com
 domain:tiancity.com
 domain:tiancitycdn.com
 domain:tianhw.top
@@ -5091,6 +5114,8 @@ domain:trustasia.net
 domain:trustexporter.com
 domain:trustie.net
 domain:trustutn.org
+domain:tsinghuaic.com
+domain:tsingtengms.com
 domain:tsparkling.com
 domain:ttbyte.com
 domain:ttbyte.net
@@ -5189,6 +5214,7 @@ domain:umsns.com
 domain:umtrack.com
 domain:unaming.info
 domain:unaming.net
+domain:unicloud.com
 domain:unicom
 domain:unicompayment.com
 domain:union.baidu.com:@ads
@@ -5198,6 +5224,11 @@ domain:unionpay.net
 domain:unionpayintl.com
 domain:unionpaysecure.com
 domain:uniontech.com
+domain:unisdigital.com
+domain:unisemicon.com
+domain:unisoc.com
+domain:unispc.com
+domain:uniswdc.com
 domain:unityads.unity.cn:@ads
 domain:unityads.unitychina.cn:@ads
 domain:uoj.ac
@@ -5495,6 +5526,8 @@ domain:weicaifu.com
 domain:weidian.com
 domain:weilaicaijing.com
 domain:weilaiyunxiao.com
+domain:weimob.com
+domain:weimobdc.com
 domain:weiphone.net
 domain:weishi.com
 domain:weixin.com
@@ -5622,6 +5655,8 @@ domain:xbext.com
 domain:xbiao.com
 domain:xboxfan.com
 domain:xcsc.com
+domain:xcz.im
+domain:xczim.com
 domain:xd.com
 domain:xdcdn.net
 domain:xdqtech.com
@@ -5978,6 +6013,8 @@ domain:yunxindns.com
 domain:yunxinfw.com
 domain:yunzhijia.com
 domain:yunzhuxue.com
+domain:yupao.com
+domain:yupaowang.com
 domain:yupoo.com
 domain:yuque.com
 domain:yushanfang.com
@@ -6073,6 +6110,7 @@ domain:zhipucn.com
 domain:zhisheng.com
 domain:zhixue.com
 domain:zhiye.com
+domain:zhizhuma.com
 domain:zhiziyun.com
 domain:zhlyen.com
 domain:zhongkao.com
@@ -6127,6 +6165,7 @@ domain:zofund.com
 domain:zongheng.com
 domain:zpb365.com
 domain:zs-jlc.com
+domain:zstatic.net
 domain:zsxq.com
 domain:zszq.com
 domain:zt-express.com
@@ -6147,6 +6186,7 @@ domain:zuhaowan.com
 domain:zui.com
 domain:zuidaima.com
 domain:zuihuimai.com
+domain:zuimeitianqi.com
 domain:zuk.com
 domain:zuodao.com
 domain:zuowen.com

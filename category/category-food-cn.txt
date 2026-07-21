@@ -48,6 +48,7 @@ domain:qmimg.cn
 domain:shuanghui.net
 domain:shuxinyc.com
 domain:starbucks.com.cn:@cn
+domain:telunsu.net
 domain:tracking.mcdonalds.com.cn:@ads
 domain:trackingprd.hwwt8.com:@ads
 domain:trackserver.shuxinyc.com:@ads

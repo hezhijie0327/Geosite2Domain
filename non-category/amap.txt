@@ -5,6 +5,7 @@ domain:a-map.vip
 domain:acloudrender.com
 domain:adashx.ut.amap.com:@ads
 domain:amap.com
+domain:amap.net
 domain:amapauto.com
 domain:anav.com
 domain:autonavi.com

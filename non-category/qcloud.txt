@@ -139,6 +139,7 @@ domain:m1.run
 domain:m6.run
 domain:m9.run
 domain:ma.run
+domain:my-imcloud.com
 domain:my-qcloud.com
 domain:myelasticsearch.com
 domain:myqcloud.com

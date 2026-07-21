@@ -96,6 +96,7 @@ domain:worldoftanks.com.cn
 domain:wotgame.cn
 domain:wowsgame.cn
 domain:woxihuan.com
+domain:wukongsafe.cn
 domain:wztsy.cn
 domain:wztsy.com
 domain:xiaoluyouxuan.com

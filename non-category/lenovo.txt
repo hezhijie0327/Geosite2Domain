@@ -15,6 +15,7 @@ domain:jhwan.com.cn
 domain:juhuiwan.com
 domain:juhuiwan.com.cn
 domain:juhuiwan.net
+domain:lecoo.com
 domain:lenauth.com
 domain:lenovo.cn
 domain:lenovo.com

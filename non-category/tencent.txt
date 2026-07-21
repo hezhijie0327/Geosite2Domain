@@ -304,6 +304,7 @@ domain:mszdld.com
 domain:mszdld.net
 domain:mting.info
 domain:mtrace.qq.com:@ads
+domain:my-imcloud.com
 domain:my-qcloud.com
 domain:myapp.com
 domain:myelasticsearch.com

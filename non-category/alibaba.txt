@@ -134,6 +134,7 @@ domain:alogs.umeng.com:@ads
 domain:alogus.umeng.com:@ads
 domain:alyms.cn
 domain:amap.com
+domain:amap.net
 domain:amapauto.com
 domain:anav.com
 domain:antfin.com

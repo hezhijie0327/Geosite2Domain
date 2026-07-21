@@ -13,6 +13,8 @@ domain:espressif.cn
 domain:espressif.com.cn
 domain:fa-part.com
 domain:forface3d.com
+domain:gosinoic.com
+domain:h3c.com
 domain:hqchip.com
 domain:hqdoc.com
 domain:hqpcb.com
@@ -54,6 +56,7 @@ domain:lceda.cn
 domain:lckfb.com
 domain:listenai.com
 domain:maixhub.com
+domain:moedu.com
 domain:oshwhub.com
 domain:quecmall.cn
 domain:quectel.com.cn
@@ -67,7 +70,18 @@ domain:sipeed.com
 domain:sz-jlc.com
 domain:szjlc.cn
 domain:szlcsc.com
+domain:thunis.com
 domain:ti.com.cn
+domain:tsinghuaic.com
+domain:tsingtengms.com
+domain:unicloud.com
+domain:unigroup.com.cn
+domain:uniscan.cn
+domain:unisdigital.com
+domain:unisemicon.com
+domain:unisoc.com
+domain:unispc.com
+domain:uniswdc.com
 domain:wch-ic.com
 domain:wch.cn
 domain:ymtc.cn

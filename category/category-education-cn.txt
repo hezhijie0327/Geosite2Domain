@@ -25,6 +25,7 @@ domain:cctalk.com
 domain:cedf.cn
 domain:cedf.org.cn
 domain:centuryenglish.com
+domain:cepsp.cn
 domain:chdi.com.cn
 domain:chei.com.cn
 domain:chesicc.cn
@@ -48,7 +49,9 @@ domain:edu.cn
 domain:eduei.com
 domain:eduu.com
 domain:eduuu.com
+domain:eduyun.cn
 domain:eoffcn.com
+domain:eol.cn
 domain:fbstatic.cn
 domain:fenbi.com
 domain:fenbike.cn
@@ -115,7 +118,10 @@ domain:qgzb.com.cn
 domain:qgzb.gov.cn
 domain:qgzb.net
 domain:qingtingai.net
+domain:quyixian.com
 domain:rainclassroom.com
+domain:rongdeji.cn
+domain:rudder.com.cn
 domain:saduck.top
 domain:schoopia.com
 domain:shanbay.com
@@ -124,6 +130,7 @@ domain:smartedu.cn
 domain:speiyou.com
 domain:sydw8.com
 domain:tal.com
+domain:tesoon.com
 domain:tongxuepie.com
 domain:unipus.cn
 domain:weilaiyunxiao.com

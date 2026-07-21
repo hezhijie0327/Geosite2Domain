@@ -12,6 +12,7 @@ domain:ads-union.jd.com:@ads
 domain:ads.union.jd.com:@ads
 domain:baitiao.com
 domain:blackdragon.com
+domain:buyjingxi.com
 domain:c-nfa.jd.com:@ads
 domain:caiyu.com
 domain:chicalot.cn
@@ -186,6 +187,7 @@ domain:jdcloudwaf.com
 domain:jddapeigou.com
 domain:jddebug.com
 domain:jddglobal.com
+domain:jddj.com
 domain:jdemall.com
 domain:jdfw1.com
 domain:jdgslb.com
@@ -202,6 +204,7 @@ domain:jdwl.com
 domain:jdx.com
 domain:jhscm.com
 domain:jingdong.com
+domain:jingdonghealth.cn
 domain:jingdongjinrong.com
 domain:jingpinhui.com
 domain:jingxi.com

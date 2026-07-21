@@ -34,6 +34,7 @@ domain:bandao.cn
 domain:bbtnews.com.cn
 domain:bdu.focus.cn:@ads
 domain:bianews.com
+domain:bjd.com.cn
 domain:bjnews.com.cn
 domain:bkeconomy.com
 domain:btime.com
@@ -67,6 +68,7 @@ domain:chinalive.com
 domain:chinanews.com
 domain:chinanews.com.cn
 domain:chinaott.com
+domain:chinapp.com
 domain:chinaqw.com
 domain:chinastarmarket.cn
 domain:chuanbaoguancha.cn
@@ -110,6 +112,7 @@ domain:danjuanfunds.com
 domain:dayoo.com
 domain:dgtle.com
 domain:dianzhenkeji.com
+domain:dingxinwen.cn
 domain:donews.com
 domain:dutenews.com
 domain:dzh.com.cn
@@ -155,8 +158,10 @@ domain:hexun.com
 domain:hndt.com
 domain:hnol.net
 domain:hntv.tv
+domain:hsw.cn
 domain:huanqiu.com
 domain:huanqiucdn.cn
+domain:huashangtop.com
 domain:hubeidaily.net
 domain:huxiu.com
 domain:huxiucdn.com
@@ -185,6 +190,7 @@ domain:ipanda.cn
 domain:ipanda.com
 domain:ipanda.com.cn
 domain:ipanda.net
+domain:iqilu.com
 domain:iresearch.cn
 domain:istv.cn
 domain:it168.com
@@ -208,6 +214,7 @@ domain:jxpp.com
 domain:jztvnews.com
 domain:kankanews.com
 domain:kankannews.com
+domain:kf.cn
 domain:kjrb.com.cn
 domain:kksmg.com
 domain:knewsmart.com
@@ -231,6 +238,7 @@ domain:minapp.com
 domain:mnw.cn
 domain:moer.cn
 domain:mydrivers.com
+domain:myhsw.cn
 domain:myzaker.com
 domain:nanyuenews.com
 domain:nbd.com.cn
@@ -320,6 +328,7 @@ domain:tivitv.com
 domain:tmtpost.com
 domain:tmtsmartlife.com
 domain:tmtsmartrun.com
+domain:topnews.cn
 domain:track.sohu.com:@ads
 domain:tvcc.cn
 domain:tvcc.com.cn

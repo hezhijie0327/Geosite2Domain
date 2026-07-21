@@ -210,6 +210,7 @@ domain:click.gamersky.com:@ads
 domain:click.hunantv.com:@ads
 domain:cloudpush.iqiyi.com:@ads
 domain:codm.com
+domain:colorv.com
 domain:cookicut.com
 domain:cowlevel.net
 domain:cupid.iqiyi.com:@ads
@@ -521,6 +522,7 @@ domain:kwaicdn.com
 domain:kwaizt.com
 domain:kwimgs.com
 domain:labycore.cn
+domain:laifeng.com
 domain:langrenclub.com
 domain:laohu.com
 domain:ldmnq.com
@@ -559,6 +561,8 @@ domain:mahjongcup.com
 domain:mahjongcup.net
 domain:mail4399.com
 domain:maindown4399.com
+domain:mamecn.com
+domain:manmankan.com
 domain:maoer.com
 domain:maoercdn.com
 domain:max-c.com
@@ -799,6 +803,8 @@ domain:wsukwai.com
 domain:wting.info
 domain:wtzw.com
 domain:wutheringwaves.cn
+domain:xcz.im
+domain:xczim.com
 domain:xd.cn
 domain:xd.com
 domain:xdcdn.net
