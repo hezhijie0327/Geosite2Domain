@@ -15,6 +15,7 @@ domain:cloudflare-ipfs.com
 domain:crustwebsites.net
 domain:dat.foundation
 domain:democracy.earth
+domain:docs.rw
 domain:dweb.link
 domain:eff.org
 domain:epicbrowser.com
@@ -52,6 +53,7 @@ domain:ipns.co
 domain:jitsi.org
 domain:jorropo.net
 domain:lantern.io
+domain:log.rw
 domain:lokinet.org
 domain:metacubex.one
 domain:nftstorage.link
@@ -77,6 +79,7 @@ domain:stunnel.org
 domain:telex.cc
 domain:torproject.org
 domain:tribler.org
+domain:try.rw
 domain:tunsafe.com
 domain:turkeyblocks.org
 domain:twister.net.co
