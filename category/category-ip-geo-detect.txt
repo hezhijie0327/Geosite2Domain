@@ -114,6 +114,7 @@ domain:myexternalip.com
 domain:myip.com
 domain:myip.expert
 domain:myip.la:@!cn
+domain:myip.link
 domain:myip.ms
 domain:myip.ru
 domain:myip.wtf
