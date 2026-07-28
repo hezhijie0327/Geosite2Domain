@@ -5,6 +5,7 @@ domain:applecensorship.com
 domain:browserleaks.com
 domain:bypasscensorship.org
 domain:c4rex.co
+domain:ceno.app
 domain:censorship.ai
 domain:censorship.no
 domain:cf-ipfs.com

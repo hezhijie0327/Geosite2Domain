@@ -3746,6 +3746,7 @@ domain:bluemix.com
 domain:bluemix.net
 domain:bluestacks.com
 domain:bluffyporn.com
+domain:blurams.app
 domain:blurams.com
 domain:blylq.buzz
 domain:blz-contentstack.com
@@ -4892,6 +4893,7 @@ domain:celeron.net
 domain:cell.com
 domain:cencoastbmw.com
 domain:cenkei.com
+domain:ceno.app
 domain:censorship.ai
 domain:censorship.no
 domain:centervillage.co.jp
@@ -9736,6 +9738,7 @@ domain:greenplum.net
 domain:greginhollywood.com
 domain:gridaware.app
 domain:grok.com
+domain:grokipedia.com
 domain:grooby.com
 domain:groq.com
 domain:group-ib.ae

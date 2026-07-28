@@ -1,6 +1,7 @@
 domain:ads-twitter.com:@ads
 domain:cms-twdigitalassets.com
 domain:grok.com
+domain:grokipedia.com
 domain:periscope.tv
 domain:pscp.tv
 domain:t.co

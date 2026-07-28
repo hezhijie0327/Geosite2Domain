@@ -2,6 +2,7 @@ domain:basilisk-browser.org
 domain:brave.com
 domain:bromite.org
 domain:browser.kagi.com
+domain:ceno.app
 domain:censorship.no
 domain:chrome
 domain:chrome.com
