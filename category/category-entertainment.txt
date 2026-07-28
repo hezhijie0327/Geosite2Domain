@@ -725,6 +725,7 @@ domain:itunesu.com
 domain:itunesu.net
 domain:iutunes.com
 domain:ivi.ru
+domain:ivicdn.tv
 domain:iyf.tv
 domain:joinmaidez.com
 domain:joinsquad.com
@@ -736,6 +737,7 @@ domain:kamisama-maeda-lab.com
 domain:kfs.io
 domain:kgisystems.com
 domain:kick.com
+domain:kinescopecdn.net
 domain:kingkong.com.tw
 domain:kingkongapp.com
 domain:kinopoisk-ru.clstorage.net

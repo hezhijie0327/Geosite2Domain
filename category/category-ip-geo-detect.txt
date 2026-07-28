@@ -94,6 +94,7 @@ domain:ipqualityscore.com
 domain:ipquery.io
 domain:ipregistry.co
 domain:iproyal.com
+domain:ipsimple.org
 domain:ipstack.com
 domain:ipv4-internet.yandex.net
 domain:ipv4.internet.yandex.net
@@ -122,6 +123,7 @@ domain:myipaddress.com
 domain:myiplookup.com
 domain:mylocation.org
 domain:nodedata.io
+domain:nossl.sh
 domain:osint.sh
 domain:proxycheck.io
 domain:realip.cc
@@ -158,4 +160,5 @@ full:checkip.dyndns.org
 full:ip.comss.net
 full:ipv4-check-perf.radar.cloudflare.com
 full:ipv6-check-perf.radar.cloudflare.com
+full:myip.dnsomatic.com
 full:whatismyip.akamai.com

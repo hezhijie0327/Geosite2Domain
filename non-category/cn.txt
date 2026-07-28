@@ -5764,6 +5764,7 @@ domain:xjoycity.com
 domain:xkw.com
 domain:xmcdn.com
 domain:xmhouse.com
+domain:xmoj.tech
 domain:xn--1qqw23a
 domain:xn--3bst00m
 domain:xn--3ds443g

@@ -7221,6 +7221,7 @@ domain:xkb.com.cn
 domain:xkw.com
 domain:xmcdn.com
 domain:xmhouse.com
+domain:xmoj.tech
 domain:xn--8y0a063a
 domain:xn--9krt00a
 domain:xn--fiq53l6wcx3kp9bc7joo6apn8a.cn

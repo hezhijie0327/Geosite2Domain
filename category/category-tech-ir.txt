@@ -24,6 +24,7 @@ domain:p30download.com
 domain:p30download.ir
 domain:parsonline.com
 domain:parspack.com
+domain:pazhnetwork.com
 domain:picofile.com
 domain:pishgaman.net
 domain:rightel.ir

@@ -117,6 +117,7 @@ domain:parsian-bank.com
 domain:parsine.com
 domain:parsonline.com
 domain:parspack.com
+domain:pazhnetwork.com
 domain:picofile.com
 domain:pishgaman.net
 domain:podro.com

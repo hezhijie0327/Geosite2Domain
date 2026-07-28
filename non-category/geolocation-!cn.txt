@@ -11876,6 +11876,7 @@ domain:itunesu.net
 domain:ius.io
 domain:iutunes.com
 domain:ivi.ru
+domain:ivicdn.tv
 domain:ivintageporn.com
 domain:iwank.tv
 domain:iwantavnow.com
@@ -12526,6 +12527,7 @@ domain:kindleoasisnews.com
 domain:kindleproject.com
 domain:kindnudist.com
 domain:kindteenporn.com
+domain:kinescopecdn.net
 domain:kingcomix.com
 domain:kingextre.me
 domain:kingf-av.buzz
@@ -18356,6 +18358,7 @@ domain:sber.pro
 domain:sber.ru
 domain:sberauto.com
 domain:sberbank-insurance.ru
+domain:sberbank-tele.com
 domain:sberbank.com
 domain:sberbank.ru
 domain:sberbankaktivno.ru

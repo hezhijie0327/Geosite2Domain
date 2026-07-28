@@ -6,6 +6,7 @@ domain:avtovokzaly.ru
 domain:blablacar.ru
 domain:fasten.ru
 domain:gorodpay.ru
+domain:greywallpass.com
 domain:mosmetro.ru
 domain:mosmetro.tech
 domain:ostrovok.ru

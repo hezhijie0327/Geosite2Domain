@@ -193,6 +193,7 @@ domain:sber.pro
 domain:sber.ru
 domain:sberauto.com
 domain:sberbank-insurance.ru
+domain:sberbank-tele.com
 domain:sberbank.com
 domain:sberbank.ru
 domain:sberbankaktivno.ru

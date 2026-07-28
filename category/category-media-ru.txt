@@ -43,6 +43,8 @@ domain:gazetarussa.com.br
 domain:green-box-tv.com
 domain:gw2ru.com
 domain:inosmi.ru
+domain:ixbt.com
+domain:ixbt.site
 domain:jinrieluosi.cn
 domain:kanzlerdaddy.ru
 domain:khangar.net

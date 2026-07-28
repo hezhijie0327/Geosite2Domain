@@ -44,6 +44,7 @@ domain:notik.ru
 domain:okolo.app
 domain:oskelly.co
 domain:oskelly.ru
+domain:ostin.com
 domain:perekrestok.com
 domain:perekrestok.ru
 domain:regard.ru
