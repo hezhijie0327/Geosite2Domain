@@ -4528,6 +4528,7 @@ domain:lu.com
 domain:lu.sogou.com:@ads
 domain:lu.sogoucdn.com:@ads
 domain:lu1da.cn
+domain:lubiao.wiki
 domain:luckincoffeecdn.com
 domain:luckyair.net
 domain:luckysf.net
