@@ -43,6 +43,7 @@ domain:cailianpress.com
 domain:caixin.com
 domain:cankaoxiaoxi.com
 domain:cbinews.com
+domain:ccidcom.com
 domain:cctv.cn
 domain:cctv.com
 domain:cctv4g.com
@@ -95,9 +96,11 @@ domain:cqliving.com
 domain:cqn.com.cn
 domain:cqnews.net
 domain:cqsjb.com
+domain:cri.cn
 domain:cs.com.cn
 domain:ctdsb.net
 domain:ctoutiao.com
+domain:cww.net.cn
 domain:cy.com
 domain:cyol.com
 domain:cyol.net
@@ -122,6 +125,7 @@ domain:eastday.com
 domain:ebrun.com
 domain:ecns.cn
 domain:eeo.com.cn
+domain:egsea.com
 domain:evolife.cn
 domain:expreview.com
 domain:feng.com
@@ -147,8 +151,11 @@ domain:guancha.cn
 domain:guangmingdaily.cn
 domain:guigu.org
 domain:gw.com.cn
+domain:gxnews.com.cn
+domain:gxrb.com.cn
 domain:gxtv.cn
 domain:gxxmt.com
+domain:gxxw.com
 domain:gztv.com
 domain:haowenti.net
 domain:heimadata.com
@@ -197,6 +204,7 @@ domain:it168.com
 domain:itc.cn
 domain:ithome.com
 domain:jfdaily.com
+domain:jfdaily.com.cn
 domain:jianyuweb.com
 domain:jiemian.com
 domain:jiemian.com.cn
@@ -278,6 +286,7 @@ domain:qingdaonews.com
 domain:ql1d.com
 domain:qpb.sohu.com:@ads
 domain:qpb1.sohu.com:@ads
+domain:qstheory.cn
 domain:qzwb.com
 domain:rednet.cn
 domain:reke.at.sohu.com:@ads
@@ -293,6 +302,7 @@ domain:secrss.com
 domain:sfccn.com
 domain:shangyexinzhi.com
 domain:shedunews.net
+domain:shobserver.cn
 domain:shobserver.com
 domain:snowballsecurities.com
 domain:snxw.com
@@ -358,6 +368,7 @@ domain:xn--fiq53l90et9fpncc7joo6apn8a.cn
 domain:xn--kprv4ewxfr9cpxcc7joo6apn8a.cn
 domain:xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s
 domain:xueqiu.com
+domain:xuexi.cn
 domain:xxcb.cn
 domain:yangshipin.cn
 domain:ycwb.com

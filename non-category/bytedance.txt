@@ -248,6 +248,7 @@ domain:cozesdk.com
 domain:cozetest.cn
 domain:cozetest2.cn
 domain:cozetest3.cn
+domain:csjplatform.com:@ads
 domain:ctobsnssdk.com:@ads
 domain:datawindexmarket.com
 domain:dbbuilding.fun
@@ -515,6 +516,7 @@ domain:originalimg.com
 domain:originalstatic.com
 domain:originalvod.com
 domain:pacmantwo.com
+domain:pangle.cn:@ads
 domain:pangolin-dsp-toutiao-b.com:@ads
 domain:pangolin-dsp-toutiao.com:@ads
 domain:pangolin-hl.snssdk.com:@ads
@@ -864,6 +866,7 @@ domain:xiguavideo.net
 domain:xitu.io
 domain:xsgtvacct.com
 domain:xyf61.cn
+domain:yhgfb-cn-static.com
 domain:yoma.cn
 domain:ytxptd.cn
 domain:ytxptz.cn

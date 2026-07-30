@@ -1,4 +1,5 @@
 domain:1ptba.com
+domain:52dic.vip
 domain:52pt.site
 domain:animebytes.tv
 domain:audiences.me
@@ -16,6 +17,7 @@ domain:ccfbits.org
 domain:chdbits.co
 domain:chdbits.xyz
 domain:chddiy.xyz
+domain:cinefiles.info
 domain:cinemaz.to
 domain:cyanbug.net
 domain:dicmusic.com
@@ -48,6 +50,7 @@ domain:hdtime.org
 domain:hdvideo.one
 domain:hdzone.me
 domain:hhan.club
+domain:hhanclub.net
 domain:hhanclub.top
 domain:hitpt.com
 domain:hudbt.hust.edu.cn
@@ -95,6 +98,7 @@ domain:ptcafe.club
 domain:ptchdbits.co
 domain:ptchina.org
 domain:pterclub.com
+domain:pterclub.net
 domain:pthome.net
 domain:ptsbao.club
 domain:pttime.org

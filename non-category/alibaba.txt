@@ -47,6 +47,7 @@ domain:alibaba-inc.com
 domain:alibaba.com
 domain:alibabacapital.com
 domain:alibabachengdun.com
+domain:alibabachengdun.net
 domain:alibabacloud.co.in:@!cn
 domain:alibabacloud.com.au:@!cn
 domain:alibabacloud.com.hk:@!cn
@@ -58,6 +59,8 @@ domain:alibabacorp.com
 domain:alibabadesign.com
 domain:alibabadns.com
 domain:alibabadoctor.com
+domain:alibabafonts.com
+domain:alibabafoundation.com
 domain:alibabafuturehotel.com
 domain:alibabagroup.com
 domain:alibabapictures.com
@@ -133,6 +136,7 @@ domain:alog.umengcloud.com:@ads
 domain:alogs.umeng.com:@ads
 domain:alogus.umeng.com:@ads
 domain:alyms.cn
+domain:alysm.cn
 domain:amap.com
 domain:amap.net
 domain:amapauto.com
@@ -207,6 +211,7 @@ domain:etao.com
 domain:fcapp.run
 domain:feizhu.cn
 domain:feizhu.com
+domain:fengniaojipei.net
 domain:fliggy.com
 domain:fliggy.hk:@!cn
 domain:fourier.taobao.com:@ads
@@ -228,6 +233,8 @@ domain:hemaos.com
 domain:hemashare.cn
 domain:hichina.com
 domain:hupan.com
+domain:hzchengdun.com
+domain:hzchengdun.net
 domain:ialicdn.com
 domain:ica-alliance.org
 domain:iconfont.cn
@@ -378,6 +385,7 @@ domain:taobao.org
 domain:taobaocdn.com
 domain:taobizhong.com
 domain:taopiaopiao.com
+domain:taotian.com
 domain:tb.cn
 domain:tbcache.com
 domain:tbcdn.cn
@@ -388,6 +396,7 @@ domain:teambition.net
 domain:teambitionapis.com
 domain:tmall
 domain:tmall.com
+domain:tmall.hk:@!cn
 domain:tmall.ru:@!cn
 domain:tmalltv.com
 domain:tmjl.ai
@@ -423,6 +432,8 @@ domain:xiami.fm
 domain:xiami.net
 domain:xin.xin
 domain:xinlingshou.cn
+domain:xixikf.cn
+domain:yisou.com
 domain:yk-ssp.ad.youku.com:@ads
 domain:ykad-data.youku.com:@ads
 domain:ykimg.com

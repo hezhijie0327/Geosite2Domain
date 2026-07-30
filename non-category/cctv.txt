@@ -17,6 +17,7 @@ domain:cnms.net.cn
 domain:cntv.cn
 domain:cntv.com.cn
 domain:cntvwb.cn
+domain:cri.cn
 domain:gjgbdszt.cn
 domain:gjgbdszt.com.cn
 domain:gjgbdszt.net.cn

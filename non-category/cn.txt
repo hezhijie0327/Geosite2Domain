@@ -551,10 +551,13 @@ domain:alibaba-inc.com
 domain:alibaba.com
 domain:alibabacapital.com
 domain:alibabachengdun.com
+domain:alibabachengdun.net
 domain:alibabacorp.com
 domain:alibabadesign.com
 domain:alibabadns.com
 domain:alibabadoctor.com
+domain:alibabafonts.com
+domain:alibabafoundation.com
 domain:alibabafuturehotel.com
 domain:alibabagroup.com
 domain:alibabapictures.com
@@ -1164,6 +1167,7 @@ domain:ccbfund.com
 domain:ccbfutures.com
 domain:ccbleasing.com
 domain:ccbxt.com
+domain:ccidcom.com
 domain:ccnew.com
 domain:ccrgt.com
 domain:ccs.umeng.com:@ads
@@ -1384,6 +1388,8 @@ domain:chuapp.com
 domain:chugou360.com
 domain:chuimg.com
 domain:chujingapp.com
+domain:chunyu.mobi
+domain:chunyuyisheng.com
 domain:chushi.cool
 domain:chushou.tv
 domain:chuyu.me
@@ -1634,6 +1640,7 @@ domain:csc108.com
 domain:csdn.com
 domain:csdn.net
 domain:csfounder.com
+domain:csjplatform.com:@ads
 domain:csmjzs.com
 domain:cspro.org
 domain:csslcloud.net
@@ -1713,6 +1720,7 @@ domain:dao123.com
 domain:daocloud.io
 domain:daocloud.vip
 domain:daodoc.com
+domain:daogou.ai
 domain:daojia.com
 domain:daovoice.io
 domain:data.mistat.india.xiaomi.com:@ads
@@ -2043,6 +2051,7 @@ domain:eduu.com
 domain:eduuu.com
 domain:eeyy.com
 domain:eflycloud.com
+domain:egsea.com
 domain:ehaier.com
 domain:eiv.baidu.com:@ads
 domain:ejoy.com
@@ -2163,6 +2172,7 @@ domain:fengimg.com
 domain:fengkongbao.com
 domain:fengkongcloud.com
 domain:fengniao.com
+domain:fengniaojipei.net
 domain:fengxian110.com
 domain:fenxi.360.cn:@ads
 domain:fenxi.com:@ads
@@ -2471,6 +2481,7 @@ domain:gwdang.com
 domain:gxairlines.com
 domain:gxb.io
 domain:gxxmt.com
+domain:gxxw.com
 domain:gzasc.com
 domain:gzcqs.com
 domain:gzlzfm.com
@@ -2781,6 +2792,8 @@ domain:hybiome.com
 domain:hydun.com
 domain:hypercachenet.com
 domain:hypercachenode.com
+domain:hzchengdun.com
+domain:hzchengdun.net
 domain:hzdtv.tv
 domain:hzman.net
 domain:i.snssdk.com:@ads
@@ -2970,6 +2983,7 @@ domain:ivolces.com
 domain:ivweb.io
 domain:ivwen.com
 domain:iwanad.baidu.com:@ads
+domain:iwangding.com
 domain:ixgvideo.com
 domain:ixigua.com
 domain:ixiguapi.com
@@ -3256,6 +3270,7 @@ domain:jzt.jd.com:@ads
 domain:jztvnews.com
 domain:k366.com
 domain:kaadas.com
+domain:kada.com
 domain:kaifayun.com
 domain:kaifubiao.com
 domain:kaihong.com
@@ -3329,6 +3344,7 @@ domain:koubei.com
 domain:kouclo.com
 domain:koudai.com
 domain:koudai8.com
+domain:koudaitong.com
 domain:kq7.com
 domain:ks-cdn.com
 domain:ks-cdn1.com
@@ -4144,6 +4160,7 @@ domain:pailitao.com
 domain:paipai.com
 domain:paipaibang.com
 domain:pandarzli.com
+domain:pangle.cn:@ads
 domain:pangolin-dsp-toutiao-b.com:@ads
 domain:pangolin-dsp-toutiao.com:@ads
 domain:pangolin-hl.snssdk.com:@ads
@@ -4453,6 +4470,7 @@ domain:rock-chips.com
 domain:rockyenglish.com
 domain:rong360.com
 domain:rongechain.com
+domain:ronghub.com
 domain:rongshuxia.com
 domain:route53.cn:@cn
 domain:routewize.com
@@ -4687,6 +4705,7 @@ domain:sojson.com
 domain:sojump.com
 domain:soku.com
 domain:solarcloud.top
+domain:solepic.com
 domain:solidot.org
 domain:somode.com
 domain:sootoo.com
@@ -4828,6 +4847,7 @@ domain:taoche.com
 domain:taodocs.com
 domain:taomee.com
 domain:taopiaopiao.com
+domain:taotian.com
 domain:taou.com
 domain:tapapks.com
 domain:tapimg.com
@@ -5608,6 +5628,7 @@ domain:wonnder.com
 domain:wooyun.org
 domain:woozooo.com
 domain:worktile.com
+domain:wosaimg.com
 domain:woshipm.com
 domain:woxihuan.com
 domain:woyaogexing.com
@@ -5753,6 +5774,7 @@ domain:xingtan001.com
 domain:xingyeai.com
 domain:xinhuanet.com
 domain:xinhuaxmt.com
+domain:xinlingshou.com
 domain:xinlishumeng.com
 domain:xinmeng.info
 domain:xinpianchang.com
@@ -5882,6 +5904,7 @@ domain:yfscdn.net
 domain:ygduoyi.com
 domain:yh31.com
 domain:yhd.com
+domain:yhgfb-cn-static.com
 domain:yicai.com
 domain:yiche.com
 domain:yichengwlkj.com
@@ -5907,6 +5930,7 @@ domain:yinyuetai.com
 domain:yinzhaowang.com
 domain:yiqifa.com
 domain:yiqifa.org
+domain:yisou.com
 domain:yisu.com
 domain:yitaifang.com
 domain:yiwan.com
@@ -6019,6 +6043,7 @@ domain:yunpan.com
 domain:yunpian.com
 domain:yunqishi.net
 domain:yunshipei.com
+domain:yunxi.tv
 domain:yunxiao.com
 domain:yunxindns.com
 domain:yunxinfw.com

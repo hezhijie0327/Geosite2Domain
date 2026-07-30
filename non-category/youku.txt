@@ -10,7 +10,6 @@ domain:guanggaoad.youku.com:@ads
 domain:h-adashx.ut.youku.com:@ads
 domain:kumiao.com
 domain:lstat.youku.com:@ads
-domain:mmstat.com
 domain:mobilemsg.youku.com:@ads
 domain:msg.youku.com:@ads
 domain:p-log.ykimg.com:@ads
@@ -29,3 +28,4 @@ domain:youku.com
 domain:youku.tv:@!cn
 domain:youkuhonor.com
 domain:youkuplay.com:@!cn
+full:ykimg.alicdn.com

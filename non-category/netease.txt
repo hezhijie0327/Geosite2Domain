@@ -28,6 +28,7 @@ domain:iadmatapk.nosdn.127.net:@ads
 domain:iadmusicmat.music.126.net:@ads
 domain:iadmusicmatvideo.music.126.net:@ads
 domain:icourse163.org
+domain:kada.com
 domain:lf126.net
 domain:lf127.net
 domain:lofter.com

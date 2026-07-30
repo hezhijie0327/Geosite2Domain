@@ -255,6 +255,7 @@ domain:crash.163.com:@ads
 domain:crash2.zhihu.com:@ads
 domain:crashlytics.163.com:@ads
 domain:cretgate.com
+domain:csjplatform.com:@ads
 domain:cstm.baidu.com:@ads
 domain:ctobsnssdk.com:@ads
 domain:cupid.iqiyi.com:@ads
@@ -488,6 +489,7 @@ domain:p-log.ykimg.com:@ads
 domain:p.aty.sohu.com:@ads
 domain:p4p.sina.com.cn:@ads
 domain:pagead.l.google.com:@ads
+domain:pangle.cn:@ads
 domain:pangolin-dsp-toutiao-b.com:@ads
 domain:pangolin-dsp-toutiao.com:@ads
 domain:pangolin-hl.snssdk.com:@ads

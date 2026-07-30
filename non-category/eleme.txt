@@ -7,5 +7,6 @@ domain:eleme.io
 domain:elemecdn.cn
 domain:elemecdn.com
 domain:elenet.me
+domain:fengniaojipei.net
 domain:h-adashx.ut.ele.me:@ads
 domain:v6-adashx.ut.ele.me:@ads

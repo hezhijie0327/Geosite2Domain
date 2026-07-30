@@ -597,7 +597,6 @@ domain:mihoyomall.com
 domain:mincdn.com
 domain:missevan.com
 domain:miyoushe.com
-domain:mmstat.com
 domain:mobilemsg.youku.com:@ads
 domain:mogoo.com
 domain:monitor.music.qq.com:@ads
@@ -908,4 +907,5 @@ full:rtlog3-applog.fqnovel.com:@ads
 full:rtlog5-applog-hl.fqnovel.com:@ads
 full:rtlog5-applog.fqnovel.com:@ads
 full:wlog.kuaishou.com:@ads
+full:ykimg.alicdn.com
 regexp:^.+-mihayo\.akamaized\.net$:@cn
