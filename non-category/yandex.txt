@@ -30,6 +30,7 @@ domain:metrika.yandex.net:@ads
 domain:metrika.yandex.ru:@ads
 domain:my-manager-account.com
 domain:naydex.net
+domain:realtyverif.ru
 domain:rostaxi.org
 domain:shedevrum.ai
 domain:sourcecraft.dev
@@ -111,6 +112,7 @@ domain:yastat.net
 domain:yastatic-net.ru
 domain:yastatic.net
 domain:yccdn.ru
+domain:yndx.net
 full:adfstat.yandex.ru:@ads
 full:ads.yandex.com:@ads
 full:ads.yango.com:@ads

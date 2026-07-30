@@ -58,6 +58,7 @@ domain:asiangooglenetwork.com
 domain:at.ua
 domain:atomyze.tech
 domain:attachmy.com
+domain:autoru.me
 domain:aviasales.com
 domain:avito.st
 domain:avs.io
@@ -90,11 +91,13 @@ domain:cdnvideohub.com
 domain:cert-gib.com
 domain:chipcore.com
 domain:chizhik.club
+domain:cian.site
 domain:ciciq.net
 domain:clck.yandex.ru:@ads
 domain:clickstream.sberbank.ru:@ads
 domain:cloudru.cn
 domain:clstorage.net
+domain:cm.expert
 domain:codeseason.by
 domain:comss.club
 domain:comss.info
@@ -145,12 +148,14 @@ domain:drweb.com
 domain:drweb.fr
 domain:drweb.kz
 domain:drweb.uz
+domain:durovscode.com
 domain:e.mindbox.ru:@ads
 domain:eadaily.com
 domain:eadaily.info
 domain:eadaily.net
 domain:eadaily.org
 domain:eaptechka.online
+domain:edu22.info
 domain:eligens.cl
 domain:eligens.com.br
 domain:eligens.io
@@ -215,6 +220,7 @@ domain:gogettaxi.org
 domain:goicq.org
 domain:gorzdrav.org
 domain:goup.ai
+domain:gramotei.online
 domain:green-box-tv.com
 domain:greywallpass.com
 domain:group-ib.ae
@@ -277,7 +283,13 @@ domain:ideco.dev
 domain:it-territory.com
 domain:ivicdn.tv
 domain:ixbt.com
+domain:ixbt.games
+domain:ixbt.market
+domain:ixbt.media
+domain:ixbt.pro
+domain:ixbt.shop
 domain:ixbt.site
+domain:ixbt.video
 domain:jinrieluosi.cn
 domain:jivo.chat
 domain:jivochat.co.in
@@ -352,6 +364,7 @@ domain:medsi.com
 domain:medsi.pro
 domain:megafon.com
 domain:megamarket.tech
+domain:mel.fm
 domain:memealerts.com
 domain:meteofor.com
 domain:meteofor.st
@@ -397,6 +410,7 @@ domain:netcraze.club
 domain:netcraze.link
 domain:netcraze.pro
 domain:netmonet.co
+domain:netschool.website
 domain:ngenix.net
 domain:noticias-rt.com
 domain:notimundo.press
@@ -416,6 +430,7 @@ domain:okko.tv
 domain:okkoapi.tv
 domain:okl.lt
 domain:okolo.app
+domain:opennet.dev
 domain:oskelly.co
 domain:ostin.com
 domain:ozon.by
@@ -446,6 +461,7 @@ domain:pixonic.com
 domain:pobeda.page
 domain:polza.ai
 domain:popmechanic.io
+domain:poudobnee.com
 domain:premier.one
 domain:premiumlive.site
 domain:prod-my.games
@@ -555,6 +571,7 @@ domain:sberbank-tele.com
 domain:sberbank.com
 domain:sbercloud.tech
 domain:sbermarketing.ru:@ads
+domain:seclab.lat
 domain:selcdn.net
 domain:selectel.academy
 domain:selectel.blog
@@ -600,6 +617,7 @@ domain:t-tech.dev
 domain:t-tech.team
 domain:t.finance
 domain:t1.cloud
+domain:tak-pravilno.com
 domain:tamtam.chat
 domain:tarantool.io
 domain:target.my.com:@ads
@@ -712,6 +730,7 @@ domain:vkuservideo.com
 domain:vkuservideo.net
 domain:vkworkspace.kz
 domain:vmailru.net
+domain:volganet.net
 domain:vscale.blog
 domain:vscale.io
 domain:vtb-direct.com
@@ -835,9 +854,11 @@ domain:yango.qa
 domain:yango.taxi
 domain:yango.tech
 domain:yangofellowship.com
+domain:yaplakal.com
 domain:yastat.net
 domain:yastatic.net
 domain:yclients.com
+domain:yndx.net
 domain:youla.io
 domain:yourgood.app
 domain:zvuk-b2b.com

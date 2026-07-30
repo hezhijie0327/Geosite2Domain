@@ -5565,6 +5565,7 @@ domain:nwcddns.cn:@cn
 domain:nwcdinfosec.cn:@cn
 domain:nxta.org
 domain:nyansa.com
+domain:o-uchi.ru
 domain:o365cn.com:@cn
 domain:o365files.cn:@cn
 domain:o365weve-dev.com
@@ -5973,6 +5974,7 @@ domain:reality-computing.com
 domain:realitykings.com
 domain:realpeople-realprojects.com
 domain:realpeoplerealprojects.com
+domain:realtyverif.ru
 domain:realviz.com
 domain:recoiljs.org
 domain:reconinstruments.com
@@ -6648,6 +6650,7 @@ domain:ubnt.com.cn:@cn
 domain:ubnt.com:@cn
 domain:ubnw.net
 domain:uchi.ru
+domain:uchilk.ru
 domain:ucoz.ae
 domain:ucoz.club
 domain:ucoz.co
@@ -7116,6 +7119,7 @@ domain:xn----7sbbab6bregnh7b8if5b.com
 domain:xn----7sbbamm1bv2bh7i.com
 domain:xn----8sbaroledu6bi7j.com
 domain:xn----8sbeoy5bze.com
+domain:xn----otbzjdu.xn--p1ai
 domain:xn--6eup7j.com
 domain:xn--6eup7j.net
 domain:xn--74q434dwff.com
@@ -7406,6 +7410,7 @@ domain:yho.com
 domain:yimg.com
 domain:yimg.jp
 domain:ymail.com
+domain:yndx.net
 domain:yogalayout.com
 domain:yopornshop.com
 domain:yota.ru
@@ -8021,6 +8026,7 @@ full:mesu.apple.com:@cn
 full:misc-assets.itunes.apple.com:@cn
 full:ml.cdn-apple.com:@cn
 full:mozilla-ohttp.fastly-edge.com
+full:mozilla.map.fastly.net
 full:mpnbenefits.download.prss.microsoft.com:@cn
 full:mpnbenefitsrtl.download.prss.microsoft.com:@cn
 full:mpnbenefitsrtluat.download.prss.microsoft.com:@cn

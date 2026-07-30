@@ -120,6 +120,7 @@ domain:myadx.net:@ads
 domain:mycdn.me
 domain:mytopf.com
 domain:mytrk.link
+domain:o-uchi.ru
 domain:odkl.ru
 domain:odnoklasniki.by
 domain:odnoklasniki.ua
@@ -173,6 +174,7 @@ domain:tracker-api.my.com:@ads
 domain:tracker.my.com:@ads
 domain:tusco.ru
 domain:uchi.ru
+domain:uchilk.ru
 domain:uma.media
 domain:umschool.net
 domain:userapi.com
@@ -240,6 +242,7 @@ domain:xn----7sbbab6bregnh7b8if5b.com
 domain:xn----7sbbamm1bv2bh7i.com
 domain:xn----8sbaroledu6bi7j.com
 domain:xn----8sbeoy5bze.com
+domain:xn----otbzjdu.xn--p1ai
 domain:xn--80aqcf7a6do.com
 domain:xn--80asgb.xn--p1ai
 domain:xn--e1aigb.xn--p1ai

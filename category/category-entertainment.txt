@@ -199,6 +199,8 @@ domain:cdnvideohub.com
 domain:cf-vanguard.com
 domain:championshipseriesleague.com
 domain:charlotte-anime.jp
+domain:chess.com
+domain:chesscomfiles.com
 domain:chii.in
 domain:chillingo.com
 domain:chobit.cc

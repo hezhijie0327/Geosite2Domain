@@ -1,7 +1,9 @@
 domain:1917live.red
 domain:1prime.ru
+domain:72.ru
 domain:actualidad-rt.com
 domain:ahilesva.info
+domain:amic.ru
 domain:arabicrt.ru
 domain:arctic.ru
 domain:artel.watch
@@ -22,11 +24,13 @@ domain:dert.online
 domain:dert.site
 domain:dert.tech
 domain:drobbox.pro
+domain:e1.ru
 domain:eadaily.com
 domain:eadaily.info
 domain:eadaily.net
 domain:eadaily.org
 domain:eadaily.su
+domain:ekat.ru
 domain:es-rt.com
 domain:esrt.online
 domain:esrt.press
@@ -39,12 +43,11 @@ domain:freeassange.tech
 domain:freede.tech
 domain:freedert.online
 domain:gatewaytorussia.ru
+domain:gazeta.ru
 domain:gazetarussa.com.br
 domain:green-box-tv.com
 domain:gw2ru.com
 domain:inosmi.ru
-domain:ixbt.com
-domain:ixbt.site
 domain:jinrieluosi.cn
 domain:kanzlerdaddy.ru
 domain:khangar.net
@@ -56,6 +59,7 @@ domain:pobeda.page
 domain:premiumlive.site
 domain:pressria.ru
 domain:radiosputnik.ru
+domain:rambler.ru
 domain:rbth.com
 domain:ria.ru
 domain:romanovs100.com

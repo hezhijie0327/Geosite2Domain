@@ -7,6 +7,7 @@ domain:17k.com
 domain:17roco.com
 domain:18183.com
 domain:1905.com
+domain:1kkk.com
 domain:1xhh.cn
 domain:3304399.com
 domain:3304399.net
@@ -189,6 +190,7 @@ domain:cbjq.com
 domain:ccw.site
 domain:cdkeynogap.com
 domain:cdncl.net
+domain:cdndm5.com
 domain:cgames.com
 domain:cgyouxi.com
 domain:changdunovel.com
@@ -223,6 +225,9 @@ domain:ddmogo.com
 domain:debugmode.cn
 domain:dishu3.com
 domain:diyring.cc
+domain:dm5.cn
+domain:dm5.com
+domain:dm9.com
 domain:dmhmusic.com
 domain:dmzj.com
 domain:dobest.com
@@ -368,6 +373,7 @@ domain:gdtimg.com
 domain:gifshow.com
 domain:gitv.cn
 domain:gitv.tv
+domain:gmanhua.com
 domain:goka.top
 domain:goto-game.com
 domain:goto-game.mobi
@@ -398,6 +404,7 @@ domain:herogame.com
 domain:hifuntv.com
 domain:hitv.com
 domain:hkgcloudcs.com
+domain:hkmanga.com
 domain:hnbntv.com
 domain:hongshu.com
 domain:hongxiu.com
@@ -562,6 +569,9 @@ domain:mahjongcup.net
 domain:mail4399.com
 domain:maindown4399.com
 domain:mamecn.com
+domain:manben.com
+domain:manbenapi.com
+domain:manhuaren.com
 domain:manmankan.com
 domain:maoer.com
 domain:maoercdn.com

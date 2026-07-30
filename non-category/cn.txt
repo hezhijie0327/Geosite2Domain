@@ -89,6 +89,7 @@ domain:189smarthome.com
 domain:1905.com
 domain:19yxw.com
 domain:1huizhan.com
+domain:1kkk.com
 domain:1nongjing.com
 domain:1ppt.com
 domain:1ting.com
@@ -1181,6 +1182,7 @@ domain:cdn30.org
 domain:cdnbuild.com
 domain:cdnbuild.net
 domain:cdncl.net
+domain:cdndm5.com
 domain:cdndns1.com
 domain:cdndns2.com
 domain:cdndo.com
@@ -1831,6 +1833,8 @@ domain:djiservice.org
 domain:dlgslb.net
 domain:dlnel.com
 domain:dlnel.org
+domain:dm5.com
+domain:dm9.com
 domain:dmall.com
 domain:dmallcdn.com
 domain:dmhmusic.com
@@ -2382,6 +2386,7 @@ domain:gk100.com
 domain:globrand.com
 domain:glxcc.net
 domain:gm86.com
+domain:gmanhua.com
 domain:gmz88.com
 domain:gneec.com
 domain:gneec3.com
@@ -2598,6 +2603,7 @@ domain:hitv.com
 domain:hiyd.com
 domain:hjapi.com
 domain:hkgcloudcs.com
+domain:hkmanga.com
 domain:hktheone.com
 domain:hlgdata.com
 domain:hlzqgs.com
@@ -3675,6 +3681,9 @@ domain:maitix.com
 domain:maixhub.com
 domain:mamayz.com
 domain:mamecn.com
+domain:manben.com
+domain:manbenapi.com
+domain:manhuaren.com
 domain:manhuatai.com
 domain:manmanbuy.com
 domain:manmankan.com

@@ -114,6 +114,7 @@ domain:1905.com
 domain:19yxw.com
 domain:1hai.cn
 domain:1huizhan.com
+domain:1kkk.com
 domain:1nongjing.com
 domain:1ppt.com
 domain:1ting.com
@@ -1430,6 +1431,7 @@ domain:cdn30.org
 domain:cdnbuild.com
 domain:cdnbuild.net
 domain:cdncl.net
+domain:cdndm5.com
 domain:cdndns1.com
 domain:cdndns2.com
 domain:cdndo.com
@@ -2328,6 +2330,9 @@ domain:dlgslb.net
 domain:dlife.cn
 domain:dlnel.com
 domain:dlnel.org
+domain:dm5.cn
+domain:dm5.com
+domain:dm9.com
 domain:dmall.com
 domain:dmallcdn.com
 domain:dmhmusic.com
@@ -3007,6 +3012,7 @@ domain:globrand.com
 domain:glsc.com.cn
 domain:glxcc.net
 domain:gm86.com
+domain:gmanhua.com
 domain:gmdaily.cn
 domain:gmedev.cn
 domain:gmw.cn
@@ -3284,6 +3290,7 @@ domain:hiyd.com
 domain:hjapi.com
 domain:hjfile.cn
 domain:hkgcloudcs.com
+domain:hkmanga.com
 domain:hktheone.com
 domain:hlgdata.com
 domain:hlzqgs.com
@@ -4599,6 +4606,9 @@ domain:mama.cn
 domain:mamayz.cn
 domain:mamayz.com
 domain:mamecn.com
+domain:manben.com
+domain:manbenapi.com
+domain:manhuaren.com
 domain:manhuatai.com
 domain:manmanbuy.com
 domain:manmankan.com

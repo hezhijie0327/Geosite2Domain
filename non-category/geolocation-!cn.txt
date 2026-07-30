@@ -1740,6 +1740,7 @@ domain:api-extractor.com
 domain:api.ai
 domain:api.news
 domain:api2.amplitude.com:@ads
+domain:apiauto.ru
 domain:apibay.org
 domain:apigee.com
 domain:apihub-internal.cn:@cn
@@ -2397,6 +2398,7 @@ domain:auth0.com
 domain:authorxml.com
 domain:authpass.app
 domain:authy.com
+domain:auto.ru
 domain:autocad-schulungen.com
 domain:autocad.com
 domain:autocad360.com
@@ -2535,6 +2537,7 @@ domain:autokreditbank.ru
 domain:automaton-media.com
 domain:automobile.fr
 domain:automotive-cadcam.com
+domain:autoru.me
 domain:autosketch.com
 domain:autumn-jade.com
 domain:auxdubai.com
@@ -2627,6 +2630,7 @@ domain:avstar5.com
 domain:avstar6.com
 domain:avstar8.com
 domain:avstar9.com
+domain:avto.ru
 domain:avwong.com
 domain:avwto.com
 domain:avxde.org
@@ -5038,6 +5042,8 @@ domain:cherrypai.com
 domain:cherrypanpan.com
 domain:cherrypimps.com
 domain:cherrypornhd.com
+domain:chess.com
+domain:chesscomfiles.com
 domain:chianxv.buzz
 domain:chibabank.co.jp
 domain:chibakogyo-bank.co.jp
@@ -5111,6 +5117,9 @@ domain:chwr7s8u.com
 domain:chyoa.com
 domain:ci-en.jp
 domain:ci-en.net
+domain:cian.ru
+domain:cian.site
+domain:ciangroup.ru
 domain:ciattackers.com
 domain:cici.com:@!cn
 domain:ciciai.com:@!cn
@@ -5325,6 +5334,7 @@ domain:clubsweethearts.com
 domain:clubtubes.com
 domain:clusterconnection.com
 domain:clzz2.xyz
+domain:cm.expert
 domain:cmhalq.com
 domain:cmmedia.com.tw
 domain:cmpaas.com
@@ -6489,6 +6499,7 @@ domain:dmcdn.net
 domain:dmed.technology
 domain:dmgmediaprivacy.co.uk
 domain:dmhy.org
+domain:dmir.ru
 domain:dmit.io
 domain:dmit.sh
 domain:dml-lang.org
@@ -6685,6 +6696,7 @@ domain:drkogyi.com
 domain:drmario-world.com
 domain:drnastran.com
 domain:drobbox.pro
+domain:drom.ru
 domain:dronedj.com
 domain:dropbox-dns.com
 domain:dropbox.com
@@ -15771,6 +15783,7 @@ domain:nyti.ms
 domain:nytimes.com
 domain:nytstyle.com
 domain:o-courier.ru
+domain:o-uchi.ru
 domain:o2action.co.kr
 domain:o3.ru
 domain:o365cn.com:@cn
@@ -17239,6 +17252,7 @@ domain:postini.com
 domain:posty.kr
 domain:postyourgirls.ws
 domain:potenza.jp
+domain:poudobnee.com
 domain:povpornonly.com
 domain:povr.com
 domain:poweranimator.com
@@ -17739,6 +17753,7 @@ domain:rbxlabs.com
 domain:rbxtrk.com
 domain:rcl07.xyz
 domain:rclon.com
+domain:rdrom.ru
 domain:rds-yes.buzz
 domain:rdtcdn.com
 domain:re25.vip
@@ -17809,6 +17824,7 @@ domain:realteengirls.com
 domain:realtor.com
 domain:realtype.co.jp
 domain:realtype.jp
+domain:realtyverif.ru
 domain:realvision.com
 domain:realviz.com
 domain:realzoomovies.com
@@ -20912,6 +20928,7 @@ domain:ubuntu.net
 domain:ubuntuforums.org
 domain:uchi.ru
 domain:uchicago.edu
+domain:uchilk.ru
 domain:ucla.edu
 domain:ucoz.ae
 domain:ucoz.club
@@ -22756,6 +22773,7 @@ domain:xn----8sbaroledu6bi7j.com
 domain:xn----8sbeoy5bze.com
 domain:xn----8sbkfzespdwig.xn--p1ai
 domain:xn----8sbwjbxyd.xn--p1ai
+domain:xn----otbzjdu.xn--p1ai
 domain:xn--096-4g6em5t.com
 domain:xn--201-4g6em5t.com
 domain:xn--202-4g6em5t.com
@@ -22774,6 +22792,8 @@ domain:xn--74q434dwff.net
 domain:xn--7hv594h.com
 domain:xn--7hvy28f.cn:@cn
 domain:xn--80a9a4b.xn--p1ai
+domain:xn--80aaafbpzn5blfby1p.xn--p1ai
+domain:xn--80aaeib8abrryx4k.xn--p1ai
 domain:xn--80aafgovrgbc7am.xn--p1ai
 domain:xn--80acbjgmges7ca.xn--p1ai
 domain:xn--80acbjgsdq2cl.xn--p1ai
@@ -23443,6 +23463,7 @@ domain:ymail.com
 domain:ymhsf.top
 domain:ymhsf1.top
 domain:ync.ne.jp
+domain:yndx.net
 domain:ynoproject.net
 domain:yo-star.com
 domain:yo1health.com

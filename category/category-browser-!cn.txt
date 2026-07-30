@@ -32,3 +32,4 @@ domain:vivaldi.com
 domain:waterfox.net
 domain:zen-browser.app
 full:mozilla-ohttp.fastly-edge.com
+full:mozilla.map.fastly.net

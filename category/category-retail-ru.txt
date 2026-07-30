@@ -7,11 +7,14 @@ domain:audiohead.ru
 domain:av.ru
 domain:bristol.ru
 domain:chizhik.club
+domain:citilink.ru
 domain:clubx5.ru
 domain:coolera.ru
 domain:detmir.ru
 domain:dialogx5.ru
 domain:dixy.ru
+domain:dns-com.ru
+domain:dns-shop.ru
 domain:doctorhead.ru
 domain:dodois.com
 domain:dodois.io
