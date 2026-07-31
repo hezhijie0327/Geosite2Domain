@@ -117,6 +117,8 @@ domain:pmphmooc.com
 domain:qgzb.com.cn
 domain:qgzb.gov.cn
 domain:qgzb.net
+domain:qianxuecloud.com
+domain:qianxueyunke.com
 domain:qingtingai.net
 domain:quyixian.com
 domain:rainclassroom.com
@@ -147,6 +149,7 @@ domain:xueersi.com
 domain:xuetangx.com
 domain:ybccode.com
 domain:yeshj.com
+domain:yooc.me
 domain:youjiao.com
 domain:ystbds.com
 domain:yuanfudao.com
@@ -165,6 +168,7 @@ domain:zgjsks.com
 domain:zgsydw.com
 domain:zhan.com
 domain:zhihuishu.com
+domain:zhixingyunke.com
 domain:zhongkao.com
 domain:zjzs.net
 domain:zuowen.com

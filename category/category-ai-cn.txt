@@ -84,6 +84,7 @@ domain:qwenlm.ai
 domain:rwkv.cn
 domain:rwkv.com
 domain:safeskill.cn
+domain:shunjing.xin
 domain:skillhub.cn
 domain:sleeplesshorizon.cn
 domain:tapnow.top

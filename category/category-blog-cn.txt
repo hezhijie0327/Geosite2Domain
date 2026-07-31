@@ -3,6 +3,7 @@ domain:4thworkshop.cn
 domain:4thworkshop.com
 domain:aloys233.top
 domain:fanmingming.com
+domain:gmya.net
 domain:huangyuhui.net
 domain:lg3000.top
 domain:lovestu.com

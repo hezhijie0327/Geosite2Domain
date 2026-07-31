@@ -1,6 +1,7 @@
 domain:cd120.com
 domain:cd120.info
 domain:fuwai.com
+domain:hnxzctec.com
 domain:pkuh6.cn
 domain:puh3.net.cn
 domain:smuszh.com
