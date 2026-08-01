@@ -6,6 +6,7 @@ domain:2mdn-cn.net:@ads
 domain:2mdn.net:@ads
 domain:466453.com
 domain:abc.xyz
+domain:actifio.com
 domain:adgoogle.net
 domain:admeld.com
 domain:admob-cn.com:@ads
@@ -29,6 +30,7 @@ domain:androidify.com
 domain:angulardart.org
 domain:api.ai
 domain:apigee.com
+domain:app-ads-services.com:@ads
 domain:app-analytics-services-att.com:@ads
 domain:app-analytics-services.com:@ads
 domain:app-measurement-cn.com:@ads
@@ -567,6 +569,7 @@ domain:opensourceinsight.dev
 domain:opensourceinsights.dev
 domain:openthread.io
 domain:openweave.io
+domain:openxla.org
 domain:orbitera.com
 domain:page.link
 domain:pagead.l.google.com:@ads

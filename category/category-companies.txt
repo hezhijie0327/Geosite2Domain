@@ -146,6 +146,7 @@ domain:acmvalidations.com
 domain:acmvalidationsaws.com
 domain:acpica.com
 domain:acrobat.com
+domain:actifio.com
 domain:ad.mail.ru:@ads
 domain:adam.jp
 domain:adaptivecards.io
@@ -484,6 +485,7 @@ domain:aple.com
 domain:aplestore.com
 domain:aplleipods.com
 domain:apole.com
+domain:app-ads-services.com:@ads
 domain:app-analytics-services-att.com:@ads
 domain:app-analytics-services.com:@ads
 domain:app-dynamics.com
@@ -5690,6 +5692,7 @@ domain:openvinotoolkit.org
 domain:openweather.co.uk
 domain:openweathermap.org
 domain:openweave.io
+domain:openxla.org
 domain:optanedifference.com
 domain:opticore.com
 domain:opticsforthecloud.net

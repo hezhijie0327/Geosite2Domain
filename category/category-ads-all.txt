@@ -184,6 +184,7 @@ domain:analytics.vk.com:@ads
 domain:analytics.vpc.duolingo.com:@ads
 domain:api-adservices.apple.com:@ads
 domain:api2.amplitude.com:@ads
+domain:app-ads-services.com:@ads
 domain:app-analytics-services-att.com:@ads
 domain:app-analytics-services.com:@ads
 domain:app-measurement-cn.com:@ads

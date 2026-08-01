@@ -20,6 +20,7 @@ domain:jules.google.com
 domain:labs.google
 domain:labs.google.com
 domain:makersuite.google.com
+domain:notebook.google.com
 domain:notebooklm.google
 domain:notebooklm.google.com
 domain:opal.google

@@ -657,6 +657,7 @@ domain:acrobat.com
 domain:acs.org
 domain:actalis.com
 domain:actalis.it
+domain:actifio.com
 domain:activelearnprimary.co.uk
 domain:activelearnprimary.com.au
 domain:activematter.game
@@ -1760,6 +1761,7 @@ domain:apole.com
 domain:apornotube.net
 domain:aporntv.com
 domain:apornvideo.com
+domain:app-ads-services.com:@ads
 domain:app-analytics-services-att.com:@ads
 domain:app-analytics-services.com:@ads
 domain:app-dynamics.com
@@ -16075,6 +16077,7 @@ domain:openweather.co.uk
 domain:openweathermap.org
 domain:openweave.io
 domain:openwrt.org
+domain:openxla.org
 domain:opera.com
 domain:opinionjournal.com
 domain:oppai-doga.info

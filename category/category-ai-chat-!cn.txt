@@ -101,6 +101,7 @@ domain:midjourney.com
 domain:minimax.io
 domain:mistral.ai
 domain:mozilla.ai
+domain:notebook.google.com
 domain:notebooklm.google
 domain:notebooklm.google.com
 domain:oaistatic.com
