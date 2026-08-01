@@ -2053,6 +2053,7 @@ domain:cqliving.com
 domain:cqn.com.cn
 domain:cqnews.net
 domain:cqsjb.com
+domain:cqtk.com.cn
 domain:cqvip.com
 domain:cr-cts.com
 domain:cr173.com

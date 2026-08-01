@@ -12135,7 +12135,10 @@ domain:jetbrains.ai
 domain:jetbrains.cloud
 domain:jetbrains.com
 domain:jetbrains.com.cn:@cn
+domain:jetbrains.dev
 domain:jetbrains.net
+domain:jetbrains.org
+domain:jetbrains.ru
 domain:jetbrains.space
 domain:jetbrains.team
 domain:jetfuelapp.com
@@ -12628,6 +12631,8 @@ domain:korewaeroi.com
 domain:korona.com
 domain:koshelek.app
 domain:kostenlosepornoclips.com
+domain:kotl.in
+domain:kotlinconf.com
 domain:kotlinlang.org
 domain:koubaibu.jp
 domain:koukoku.jp
@@ -12651,6 +12656,7 @@ domain:ksd235qw.com
 domain:ksescortclub.com
 domain:ksyp10.com
 domain:ktech.team
+domain:ktor.io
 domain:ktvu.com
 domain:ku77.xyz
 domain:kuaimao-app.com
@@ -14811,6 +14817,7 @@ domain:myhtlmebook.com
 domain:myhulu.com
 domain:myicloud.net
 domain:myipod.net
+domain:myjetbrains.com
 domain:myjkwd.com
 domain:mylcloud.net
 domain:mylf.com
@@ -19980,6 +19987,7 @@ domain:takporn.com
 domain:talantix.ru
 domain:talentlens.com
 domain:taleofthenight.com
+domain:talkingkotlin.com
 domain:talksport.com
 domain:tamilsexvideos.cc
 domain:tampermonkey.net
