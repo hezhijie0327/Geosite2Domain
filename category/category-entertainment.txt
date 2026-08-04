@@ -530,6 +530,7 @@ domain:gimy.co
 domain:gimy.to
 domain:gimy.tv
 domain:giratina.com
+domain:glitchwave.com
 domain:gloryofheracles.com
 domain:go-disneyworldgo.com
 domain:go.com
@@ -1165,6 +1166,7 @@ domain:quixel.se
 domain:radgametools.com
 domain:radiko-cf.com
 domain:radiko.jp
+domain:rateyourmusic.com
 domain:ravm.tv
 domain:rayark.download
 domain:rayark.net
@@ -1245,7 +1247,9 @@ domain:rstatic.net
 domain:rtbcdn.ru
 domain:ruinedking.com
 domain:rutube.ru
+domain:rutube.sport
 domain:rutubelist.ru
+domain:rym.fm
 domain:s.team
 domain:saiganak.com
 domain:scdn.co
@@ -1277,7 +1281,10 @@ domain:sndcdn.com
 domain:snk-corp.co.jp
 domain:snk-corp.info
 domain:snkplaymore.info
+domain:snmc.io
 domain:snowmiku.com
+domain:sonematic.net
+domain:sonemic.com
 domain:sonyclassics.com
 domain:sonyentertainmentnetwork.com
 domain:sonypictures.com

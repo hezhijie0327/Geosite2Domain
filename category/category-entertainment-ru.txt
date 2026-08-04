@@ -20,6 +20,7 @@ domain:restream-media.net
 domain:restream.ru
 domain:rtbcdn.ru
 domain:rutube.ru
+domain:rutube.sport
 domain:rutubelist.ru
 domain:smotreshka.tv
 domain:start.ru

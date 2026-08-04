@@ -7,14 +7,17 @@ domain:ocourier.ru
 domain:ozon-credit.ru
 domain:ozon-dostavka.ru
 domain:ozon-tech.ru
+domain:ozon.app
 domain:ozon.by
 domain:ozon.com
 domain:ozon.com.by
 domain:ozon.com.kz
 domain:ozon.dev
 domain:ozon.express
+domain:ozon.global
 domain:ozon.kz
 domain:ozon.li
+domain:ozon.market
 domain:ozon.ru
 domain:ozon.tech
 domain:ozon.tm

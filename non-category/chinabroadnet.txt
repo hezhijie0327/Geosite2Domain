@@ -1,6 +1,6 @@
 domain:10099.com.cn
 domain:ahitv.com
-domain:chn.cn
+domain:cbn.cn
 domain:cqccn.com
 domain:gcable.com.cn
 domain:isxtv.com

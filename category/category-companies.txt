@@ -8242,6 +8242,8 @@ full:target.vk.com:@ads
 full:teamviewer.com.cdn.cloudflare.net
 full:tf-feedback.itunes.apple.com:@cn
 full:tj-pod1-smp-device.apple.com:@cn
+full:tj-pod2-smp-device.apple.com:@cn
+full:tj-pod3-smp-device.apple.com:@cn
 full:tools.google.com:@cn
 full:top-staging.mail.ru:@ads
 full:tp.louisvuitton.com:@cn

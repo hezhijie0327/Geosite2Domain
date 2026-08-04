@@ -1,3 +1,4 @@
 domain:rtbcdn.ru
 domain:rutube.ru
+domain:rutube.sport
 domain:rutubelist.ru

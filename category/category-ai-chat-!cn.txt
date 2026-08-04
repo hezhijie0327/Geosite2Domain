@@ -49,6 +49,8 @@ domain:cursor.sh
 domain:cursorapi.com
 domain:deepmind.com
 domain:deepmind.google
+domain:deepwiki.com
+domain:deepwiki.org
 domain:devin.ai
 domain:diabrowser.com
 domain:diabrowser.engineering

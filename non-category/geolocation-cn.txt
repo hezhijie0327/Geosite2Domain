@@ -1408,6 +1408,7 @@ domain:cbern.com.cn
 domain:cbinews.com
 domain:cbjq.com
 domain:cbjs.baidu.com:@ads
+domain:cbn.cn
 domain:cc-pay.cn
 domain:ccb-life.com.cn
 domain:ccb.cn
@@ -1743,7 +1744,6 @@ domain:chinaz.net
 domain:chinazns.com
 domain:chinesemooc.org
 domain:chiphell.com
-domain:chn.cn
 domain:chndoi.org
 domain:chnppmuseum.com
 domain:chntel.com
