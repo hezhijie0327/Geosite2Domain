@@ -347,6 +347,7 @@ domain:95516.com
 domain:95516.net
 domain:9553.com
 domain:95588.com
+domain:95598pay.com
 domain:962.net
 domain:9718.com
 domain:97973.com
@@ -2053,6 +2054,7 @@ domain:ebscn-am.com
 domain:ebscn.com
 domain:ebtrust.com
 domain:eceshi.com
+domain:echargenet.com
 domain:ecitic.com
 domain:ecjobhome.com
 domain:eclick.baidu.com:@ads
@@ -4324,6 +4326,7 @@ domain:policy.video.iqiyi.com:@ads
 domain:polyv.net
 domain:pos.baidu.com:@ads
 domain:powerapp.io
+domain:poweremarket.com
 domain:ppkankan01.com
 domain:pplive.com
 domain:pps.tv

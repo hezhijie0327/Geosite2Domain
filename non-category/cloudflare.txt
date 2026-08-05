@@ -21,6 +21,7 @@ domain:cloudflare-gateway.com
 domain:cloudflare-ipfs.com
 domain:cloudflare-quic.com
 domain:cloudflare-terms-of-service-abuse.com
+domain:cloudflare.app
 domain:cloudflare.com
 domain:cloudflare.dev
 domain:cloudflare.net

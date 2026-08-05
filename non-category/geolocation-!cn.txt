@@ -5278,6 +5278,7 @@ domain:cloudflare-gateway.com
 domain:cloudflare-ipfs.com
 domain:cloudflare-quic.com
 domain:cloudflare-terms-of-service-abuse.com
+domain:cloudflare.app
 domain:cloudflare.com
 domain:cloudflare.dev
 domain:cloudflare.net
@@ -15019,6 +15020,7 @@ domain:nbdh15.buzz
 domain:nbys.tv
 domain:nbys1.tv
 domain:nbyy.tv
+domain:ncbi.nlm.nih.gov
 domain:ncl.edu.tw
 domain:ncloud.com
 domain:near.by

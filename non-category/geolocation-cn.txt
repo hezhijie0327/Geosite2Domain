@@ -429,6 +429,8 @@ domain:95516.net
 domain:9553.com
 domain:95588.com
 domain:95588.com.cn
+domain:95598.cn
+domain:95598pay.com
 domain:962.net
 domain:9718.com
 domain:97973.com
@@ -2079,6 +2081,7 @@ domain:csdn.net
 domain:csdn.net.cn
 domain:csdnimg.cn
 domain:csfounder.com
+domain:csg.cn
 domain:csjplatform.com:@ads
 domain:csmjzs.com
 domain:cspro.org
@@ -2589,6 +2592,7 @@ domain:ebscn-am.com
 domain:ebscn.com
 domain:ebtrust.com
 domain:eceshi.com
+domain:echargenet.com
 domain:ecitic.com
 domain:ecjobhome.com
 domain:eclick.baidu.com:@ads
@@ -2599,6 +2603,7 @@ domain:ecmc.bdimg.com:@ads
 domain:ecns.cn
 domain:ecombdapi.com
 domain:ecombdstatic.com
+domain:ecsg.com.cn
 domain:ectencent.cn
 domain:ectencent.com.cn
 domain:ecukwai.com
@@ -2659,6 +2664,7 @@ domain:erp321.cn
 domain:erp321.com
 domain:erp321.net
 domain:ersjk.com
+domain:esgcc.com.cn
 domain:esp8266.cn
 domain:esp8266.com.cn
 domain:espressif.cn
@@ -5401,6 +5407,7 @@ domain:postfund.com.cn
 domain:postmail.cn
 domain:postoa.com.cn
 domain:powerapp.io
+domain:poweremarket.com
 domain:pp.cn
 domain:ppkankan01.com
 domain:pplive.cn
@@ -5822,6 +5829,7 @@ domain:sffix.cn
 domain:sfgy.org
 domain:sg.cn
 domain:sgamer.com
+domain:sgcc.com.cn
 domain:sgsic.com
 domain:sgtmos.com
 domain:sgyeyou.com
