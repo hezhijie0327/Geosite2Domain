@@ -3,5 +3,3 @@ domain:kk.stream
 domain:kkbox.com
 domain:kkbox.com.tw
 domain:kktix.com
-domain:kktv.com.tw
-domain:kktv.me

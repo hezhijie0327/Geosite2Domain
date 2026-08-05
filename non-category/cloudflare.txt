@@ -24,6 +24,7 @@ domain:cloudflare-terms-of-service-abuse.com
 domain:cloudflare.com
 domain:cloudflare.dev
 domain:cloudflare.net
+domain:cloudflare.pay
 domain:cloudflare.tv
 domain:cloudflareaccess.com
 domain:cloudflareanycast.net:@cn

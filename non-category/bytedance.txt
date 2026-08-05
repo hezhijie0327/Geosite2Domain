@@ -216,6 +216,8 @@ domain:bytexopen.com
 domain:bytexservice.com
 domain:cache4ever.com
 domain:cache666.com
+domain:capcut.com:@!cn
+domain:capcutcdn-us.com:@!cn
 domain:cdnbuild.com
 domain:cdnbuild.net
 domain:cdndns1.com

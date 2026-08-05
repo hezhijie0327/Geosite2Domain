@@ -566,7 +566,17 @@ full:appleworldwidedeveloper.hb-api.omtrdc.net
 full:appleworldwidedeveloper.sc.omtrdc.net
 full:az764295.vo.msecnd.net
 full:bingsettingssearch.trafficmanager.net
+full:cdn-cn.apple-mapkit.com:@cn
+full:cdn-cn1.apple-mapkit.com:@cn
+full:cdn-cn2.apple-mapkit.com:@cn
+full:cdn-cn3.apple-mapkit.com:@cn
+full:cdn-cn4.apple-mapkit.com:@cn
 full:cdn.ampproject.org:@cn
+full:cdn.apple-mapkit.com:@cn
+full:cdn1.apple-mapkit.com:@cn
+full:cdn2.apple-mapkit.com:@cn
+full:cdn3.apple-mapkit.com:@cn
+full:cdn4.apple-mapkit.com:@cn
 full:copilot-telemetry-service.githubusercontent.com:@ads
 full:copilot-telemetry.githubusercontent.com:@ads
 full:copilotprodattachments.blob.core.windows.net

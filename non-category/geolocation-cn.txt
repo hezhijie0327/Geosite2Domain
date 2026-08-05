@@ -586,6 +586,7 @@ domain:adv.app.qq.com:@ads
 domain:adv.sec.intl.miui.com:@ads
 domain:adv.sec.miui.com:@ads
 domain:adver.qq.com:@ads
+domain:adx.36kr.com:@ads
 domain:adx.xiaodutv.com:@ads
 domain:adxvip.com
 domain:afd.baidu.com:@ads
@@ -2822,6 +2823,7 @@ domain:fnnas.net
 domain:fnos.net
 domain:focus-img.cn
 domain:focus.cn
+domain:focuschina.com
 domain:fofa.info
 domain:fofa.so
 domain:fofuai.com
@@ -4303,7 +4305,6 @@ domain:kuaikanmanhua.com
 domain:kuailepipixia.com
 domain:kuaishou.cn
 domain:kuaishou.com
-domain:kuaishou.httpdns.pro:@ads
 domain:kuaishouapps.com
 domain:kuaishoupay.com
 domain:kuaishouzt.com
@@ -4673,6 +4674,7 @@ domain:m1905.com
 domain:m6.run
 domain:m9.run
 domain:ma.run
+domain:made-in-china.com
 domain:mafengwo.cn
 domain:mafengwo.com
 domain:mafengwo.net
@@ -4815,6 +4817,7 @@ domain:miaowu.baidu.com:@ads
 domain:miaoya.cn
 domain:miaoyanai.com
 domain:miaozhen.com
+domain:micstatic.com
 domain:micun.com
 domain:midasbuy.com
 domain:midea.cn
@@ -6538,6 +6541,7 @@ domain:tracking.miui.com:@ads
 domain:trackingprd.hwwt8.com:@ads
 domain:trackserver.shuxinyc.com:@ads
 domain:tracup.com
+domain:trademessenger.com
 domain:trae.cn
 domain:trae.com.cn
 domain:trae.guru
@@ -6789,6 +6793,7 @@ domain:veigagslb.net
 domain:vemarsdev.com
 domain:vemarsstatic.com
 domain:vemarsweb.com
+domain:vemic.com
 domain:vertciot.com
 domain:veryhuo.com
 domain:veryzhun.com
@@ -7957,7 +7962,6 @@ full:rtlog3-applog.fqnovel.com:@ads
 full:rtlog5-applog-hl.fqnovel.com:@ads
 full:rtlog5-applog.fqnovel.com:@ads
 full:status.alibabacloud.com:@cn
-full:time.amazonaws.cn:@cn
 full:time.izatcloud.net:@cn
 full:time.xtracloud.net:@cn
 full:wlog.kuaishou.com:@ads

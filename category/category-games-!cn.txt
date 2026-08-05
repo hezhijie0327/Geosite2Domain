@@ -18,6 +18,7 @@ domain:arcraiders.com
 domain:arma3.com
 domain:armaplatform.com
 domain:artstation.com
+domain:artstationmedia.com
 domain:artstorm.com
 domain:asobostudio.com
 domain:awayoutgame.com

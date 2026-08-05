@@ -57,7 +57,7 @@ domain:compresspdf.new
 domain:cotolia.com
 domain:creativecloud.com
 domain:creativesdk.com
-domain:demdex.net
+domain:demdex.net:@ads
 domain:developria.com
 domain:dollarfotoclub.com
 domain:dollarphotoclub.com

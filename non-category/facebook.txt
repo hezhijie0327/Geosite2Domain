@@ -373,7 +373,6 @@ domain:opencreate.org
 domain:pixel.facebook.com:@ads
 domain:reachtheworldonfacebook.com
 domain:redkix.com
-domain:rocksdb.org
 domain:shopfacebook.com
 domain:sportsfacebook.com
 domain:sportstream.com

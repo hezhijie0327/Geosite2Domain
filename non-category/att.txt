@@ -38,6 +38,7 @@ domain:atttvnow.com
 domain:attuverseoffers.com
 domain:attuverseonline.com
 domain:attvoip.com
+domain:attwatchtv.com
 domain:attwifi.com
 domain:attwirelessinternet.com
 domain:attwirelessonline.com
@@ -104,6 +105,7 @@ domain:direectv.com
 domain:diretv.com
 domain:dkrecttv.com
 domain:dtv2009offers.com
+domain:dtvce.com
 domain:enterprisepaging.com
 domain:freedirecttvspecial.com
 domain:getdirect.tv

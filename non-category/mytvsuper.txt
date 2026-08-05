@@ -1,2 +1,1 @@
 domain:mytvsuper.com
-domain:tvb.com

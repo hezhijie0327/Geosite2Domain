@@ -57,6 +57,8 @@ domain:adbox.sina.com.cn:@ads
 domain:adbutter.net
 domain:adc.hpplay.cn
 domain:adcolony.com:@ads
+domain:addthis.com
+domain:addthiscdn.com
 domain:addthisedge.com
 domain:adeng.hpplay.cn
 domain:adfilter.imtt.qq.com:@ads
@@ -82,7 +84,6 @@ domain:adnet.sohu.com:@ads
 domain:adnxs.com:@ads
 domain:adping.qq.com:@ads
 domain:adpm.app.qq.com:@ads
-domain:adq.chinaso.com
 domain:ads-api.duolingo.com:@ads
 domain:ads-pixiv.net:@ads
 domain:ads-twitter.com:@ads
@@ -98,7 +99,6 @@ domain:ads.service.kugou.com:@ads
 domain:ads.sina.com:@ads
 domain:ads.sohu.com:@ads
 domain:ads.trafficjunky.net
-domain:ads.trafficjunky.net:@ads
 domain:ads.uc.cn:@ads
 domain:ads.union.jd.com:@ads
 domain:ads.unitychina.cn:@ads
@@ -158,7 +158,7 @@ domain:adview.cn:@ads
 domain:adwords-community.com:@ads
 domain:adwords.com:@ads
 domain:adwordsexpress.com:@ads
-domain:adx.36kr.com
+domain:adx.36kr.com:@ads
 domain:adx.xiaodutv.com:@ads
 domain:adxprtz.com
 domain:afd.baidu.com:@ads
@@ -237,7 +237,6 @@ domain:cb.baidu.com:@ads
 domain:cbjs.baidu.com:@ads
 domain:ccs.umeng.com:@ads
 domain:cdn.banclip.com
-domain:cdn.pocoiq.cn
 domain:cdp.cloud.unity3d.com:@ads
 domain:cfts1tifqr.com
 domain:china-caa.org
@@ -280,7 +279,6 @@ domain:cupid.iqiyi.com:@ads
 domain:cxhub.ru:@ads
 domain:da.hunantv.com:@ads
 domain:da.mgtv.com:@ads
-domain:das-rpt-log.ucloud.cn
 domain:data.flurry.com
 domain:data.mistat.india.xiaomi.com:@ads
 domain:data.mistat.intl.xiaomi.com:@ads
@@ -291,7 +289,6 @@ domain:dc.letv.com:@ads
 domain:decide.mixpanel.com
 domain:demdex.net:@ads
 domain:dig.bdurl.net:@ads
-domain:dn-growing.qbox.me
 domain:doubleclick-cn.net:@ads
 domain:doubleclick.cn:@ads
 domain:doubleclick.com:@ads
@@ -512,7 +509,6 @@ domain:nsclick.baidu.com:@ads
 domain:nsclickvideo.baidu.com:@ads
 domain:obs.mts.ru:@ads
 domain:oc.umeng.com:@ads
-domain:oct.pocoiq.cn
 domain:ogury.co:@ads
 domain:ogury.com:@ads
 domain:onesignal.com
@@ -627,7 +623,6 @@ domain:splash-ads.unitychina.cn:@ads
 domain:spotxchange.com:@ads
 domain:ssacdn.com:@ads
 domain:ssp.api.tappx.com
-domain:stat.chinaso.com
 domain:stat.m.jd.com:@ads
 domain:stat.y.qq.com:@ads
 domain:stat.youku.com:@ads
@@ -841,16 +836,6 @@ full:openai.qualtrics.com:@ads
 full:p3-ad-sign.byteimg.com:@ads
 full:p6-ad-sign.byteimg.com:@ads
 full:p9-ad-sign.byteimg.com:@ads
-full:pinggai0.caixin.com
-full:pinggai1.caixin.com
-full:pinggai2.caixin.com
-full:pinggai3.caixin.com
-full:pinggai4.caixin.com
-full:pinggai5.caixin.com
-full:pinggai6.caixin.com
-full:pinggai7.caixin.com
-full:pinggai8.caixin.com
-full:pinggai9.caixin.com
 full:pixel.rustore.ru:@ads
 full:pixel.yandex.com:@ads
 full:prodvizhenie-adv.ozon.ru:@ads

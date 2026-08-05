@@ -1,6 +1,10 @@
 domain:18p2p.com
 domain:22112211.xyz
+domain:2ch.hk
+domain:2ch.life
 domain:2ch.net
+domain:2ch.org
+domain:2ch.su
 domain:4cdn.org
 domain:4chan.org
 domain:4channel.org

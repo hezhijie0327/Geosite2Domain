@@ -599,8 +599,6 @@ domain:fujinkoron.jp
 domain:fundfire.com
 domain:funnyordie.com
 domain:fxn.ws
-domain:fxnetwork.com
-domain:fxnetworks.com
 domain:g-tvapp.com
 domain:g1.com.br
 domain:ganjing.com
@@ -892,6 +890,7 @@ domain:nbcsports.com
 domain:nbcudigitaladops.com
 domain:nbcuni.com
 domain:nbcuniversal.com
+domain:neigbuy.com
 domain:neow.in
 domain:neowin.net
 domain:newcastlenewslocal.com.au

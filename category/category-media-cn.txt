@@ -22,6 +22,7 @@ domain:adnet.sohu.com:@ads
 domain:ads.sohu.com:@ads
 domain:adv-sv-show.focus.cn:@ads
 domain:adv-sv-stat.focus.cn:@ads
+domain:adx.36kr.com:@ads
 domain:ahcaijing.com
 domain:ahcjw.com
 domain:ahwang.cn

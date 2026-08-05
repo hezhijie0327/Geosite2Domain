@@ -173,8 +173,6 @@ domain:foxweatherwatch.com
 domain:fse.tv
 domain:fssta.com
 domain:fxn.ws
-domain:fxnetwork.com
-domain:fxnetworks.com
 domain:geraldoatlarge.com
 domain:gooddaychicago.com
 domain:joeswall.com

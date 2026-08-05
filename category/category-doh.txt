@@ -1,6 +1,7 @@
 domain:cloudflare-dns.com
 domain:nextdns.io
 domain:opendns.com
+full:5u35p8m9i7.cloudflare-gateway.com
 full:ada.openbld.net
 full:adblock.dns.mullvad.net
 full:all.dns.mullvad.net
@@ -21,6 +22,7 @@ full:dns.adguard-dns.com
 full:dns.adguard.com
 full:dns.alidns.com
 full:dns.arapurayil.com
+full:dns.astracat.ru
 full:dns.bebasid.com
 full:dns.caliph.dev
 full:dns.cfiec.net
@@ -30,8 +32,11 @@ full:dns.de.futuredns.eu.org
 full:dns.decloudus.com
 full:dns.digitale-gesellschaft.ch
 full:dns.dnswarden.com
+full:dns.geohide.ru
 full:dns.google
 full:dns.jupitrdns.com
+full:dns.mafioznik.xyz
+full:dns.malw.link
 full:dns.marbledfennec.net
 full:dns.mullvad.net
 full:dns.oszx.co
@@ -118,4 +123,5 @@ full:us-nyc.doh.sb
 full:us-sjc.doh.sb
 full:v.recipes
 full:wikimedia-dns.org
+full:xbox-dns.ru
 full:zero.dns0.eu

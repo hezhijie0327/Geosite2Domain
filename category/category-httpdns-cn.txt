@@ -45,6 +45,5 @@ domain:httpdns1.cc.cdnhwc5.com:@ads
 domain:httpdnsmultiapivip.meituan.com:@ads
 domain:httpdnsvip.meituan.com:@ads
 domain:httpsdns.baidu.com:@ads
-domain:kuaishou.httpdns.pro:@ads
 domain:lofter.httpdns.c.163.com:@ads
 domain:music.httpdns.c.163.com:@ads

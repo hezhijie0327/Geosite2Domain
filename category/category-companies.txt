@@ -945,6 +945,7 @@ domain:atttvnow.com
 domain:attuverseoffers.com
 domain:attuverseonline.com
 domain:attvoip.com
+domain:attwatchtv.com
 domain:attwifi.com
 domain:attwirelessinternet.com
 domain:attwirelessonline.com
@@ -2385,7 +2386,7 @@ domain:delltechnologies.com.cn:@cn
 domain:delltechnologiescapital.com
 domain:delltechnologiesworld.com
 domain:demandware.com
-domain:demdex.net
+domain:demdex.net:@ads
 domain:demoprint.com
 domain:dentry.jp
 domain:dependabot.com
@@ -2599,6 +2600,7 @@ domain:dsmynas.net
 domain:dsmynas.org
 domain:dtsell.com
 domain:dtv2009offers.com
+domain:dtvce.com
 domain:duolingo.cn:@cn
 domain:duolingo.com
 domain:dvdstudiopro.biz

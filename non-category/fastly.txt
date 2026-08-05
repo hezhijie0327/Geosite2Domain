@@ -5,4 +5,3 @@ domain:fastly.io
 domain:fastly.net
 domain:fastlylabs.com
 domain:fastlylb.net
-domain:zencdn.net

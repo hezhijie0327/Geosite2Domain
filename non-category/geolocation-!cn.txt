@@ -187,6 +187,7 @@ domain:2014cheapbeatsbydre.com
 domain:2019baidu.xyz
 domain:2023aga.oen.tw
 domain:2025copy.com
+domain:20thcenturystudios.com
 domain:20thcenturystudios.com.au
 domain:20thcenturystudios.com.br
 domain:20thcenturystudios.jp
@@ -216,10 +217,14 @@ domain:2beeg.me
 domain:2bit8.com
 domain:2buybeatsbydre.com
 domain:2ch.hk
+domain:2ch.life
 domain:2ch.net
+domain:2ch.org
+domain:2ch.su
 domain:2chav.com
 domain:2dgen.com
 domain:2drdrebeats.com
+domain:2dust.link
 domain:2gayboys.com
 domain:2gis.ae
 domain:2gis.am
@@ -570,6 +575,7 @@ domain:abc.com
 domain:abc.xyz
 domain:abcheadphones.com
 domain:abclider.com
+domain:abcnews.com
 domain:abeatsbydrdre.com
 domain:abellalist.com
 domain:abema-tv.com
@@ -1579,6 +1585,7 @@ domain:amerikayidzayn.com
 domain:amerikiskhma.com
 domain:amiibo.com
 domain:amlg.io
+domain:amnezia.org
 domain:amodoll.com
 domain:amourangels.com
 domain:amp.dev
@@ -2853,6 +2860,7 @@ domain:baltimorebmw.com
 domain:baltnews.com
 domain:baltnews.lt
 domain:bamgrid.com
+domain:bamtech.net
 domain:bamtoki.com
 domain:banan.tv
 domain:bananacall.ru
@@ -4564,7 +4572,6 @@ domain:bypasscensorship.org
 domain:byspotify.com
 domain:bystys.tech
 domain:bytedapm.com:@!cn
-domain:byteoversea.com:@!cn
 domain:bytick.com
 domain:c-ij.com
 domain:c-msedge.net
@@ -5204,10 +5211,13 @@ domain:claravenger.com
 domain:clarity.ms:@ads
 domain:clarivate.com
 domain:clash.com
+domain:clashmi.app
 domain:clashmini.com
 domain:clashofclans.com
+domain:clashparty.org
 domain:clashroyale.com
 domain:clashroyaleapp.com
+domain:clashverge.dev
 domain:clashyun.com
 domain:clasporno.org
 domain:classicnike.com
@@ -5271,6 +5281,7 @@ domain:cloudflare-terms-of-service-abuse.com
 domain:cloudflare.com
 domain:cloudflare.dev
 domain:cloudflare.net
+domain:cloudflare.pay
 domain:cloudflare.tv
 domain:cloudflareaccess.com
 domain:cloudflareanycast.net:@cn
@@ -6107,7 +6118,7 @@ domain:deltacredit.ru
 domain:deluxe.com.hk
 domain:delvenetworks.com
 domain:demandware.com
-domain:demdex.net
+domain:demdex.net:@ads
 domain:democracy.earth
 domain:demonoid.is
 domain:demoprint.com
@@ -6152,6 +6163,7 @@ domain:destinationbim.com
 domain:detaliczny.com
 domain:detentiongirls.com
 domain:detodosparatodos.org
+domain:detpress.com
 domain:dettol-prize.com
 domain:dettol.at
 domain:dettol.be
@@ -6415,7 +6427,9 @@ domain:disney.ro
 domain:disney.ru
 domain:disney.se
 domain:disney.sg
+domain:disneyaccount.com
 domain:disneyadsales.com
+domain:disneyanimation.com
 domain:disneyarena.com
 domain:disneyaulani.com
 domain:disneybaby.com
@@ -6431,6 +6445,7 @@ domain:disneyinternational.com
 domain:disneyinternationalhd.com
 domain:disneyjunior.com
 domain:disneyjuniortreataday.com
+domain:disneylandparis.com
 domain:disneylatino.com
 domain:disneymagicmoments.co.il
 domain:disneymagicmoments.co.uk
@@ -6452,11 +6467,13 @@ domain:disneynow.com
 domain:disneypeoplesurveys.com
 domain:disneyplus.bn5x.net
 domain:disneyplus.com
+domain:disneyprivacycenter.com
 domain:disneyredirects.com
 domain:disneysrivieraresort.com
 domain:disneystore.com
 domain:disneystreaming.com
 domain:disneysubscription.com
+domain:disneytermsofuse.com
 domain:disneytickets.co.uk
 domain:disneyturkiye.com.tr
 domain:disneytvajobs.com
@@ -8313,6 +8330,7 @@ domain:flathub.org
 domain:flatmates.com.au
 domain:flatpak.org
 domain:flatt.tech
+domain:flclashx.app
 domain:fldz8.buzz
 domain:fleshbot.com
 domain:fleshlyx.com
@@ -8338,6 +8356,7 @@ domain:flow.org
 domain:flowfront.com
 domain:flowfront.net
 domain:flowtype.org
+domain:flowvy.io
 domain:flowwow-images.com
 domain:flowwow.com
 domain:fluffychat.im
@@ -8642,6 +8661,7 @@ domain:freefacebook.net
 domain:freefacebookads.net
 domain:freefblikes.com
 domain:freefbx.com
+domain:freeform.com
 domain:freegaypornhdtube.com
 domain:freegaysexgames.com
 domain:freehdinterracialporn.in
@@ -10410,6 +10430,7 @@ domain:honawalaan.com
 domain:honestpornreviews.com
 domain:hongjie10.xyz
 domain:hongjie11.xyz
+domain:hongkongdisneyland.com
 domain:hongkongdoll.tv
 domain:hongkongdollvideo.org
 domain:hongkongfp.com
@@ -11279,6 +11300,7 @@ domain:incestvidz.com
 domain:incezt.net
 domain:inclusivegrowthscore.com
 domain:incommon-rsa.org
+domain:incy.cc
 domain:ind.sh
 domain:indazn.com
 domain:indaznlab.com
@@ -12414,6 +12436,7 @@ domain:karafarinbank.ir
 domain:karechat.ai
 domain:karger.com
 domain:karinahart.com
+domain:karing.app
 domain:karlajames.com
 domain:karmahelp.ru
 domain:karta-banka-rf.ru
@@ -13121,6 +13144,7 @@ domain:luanlunmv.cc
 domain:lubetube.com
 domain:lucahmelayu.club
 domain:lucasentertainment.com
+domain:lucasfilm.com
 domain:luckyissue.com
 domain:luckysrv.de
 domain:lululu.one
@@ -15021,6 +15045,7 @@ domain:negoziomonsterbeats.com
 domain:neicad.com
 domain:neiexplicit.com
 domain:neifea.com
+domain:neigbuy.com
 domain:neimotion.com
 domain:neinastranincad.com
 domain:neisoftware.com
@@ -15575,6 +15600,7 @@ domain:nsfw.xxx
 domain:nsfw247.to
 domain:nsfwmemes.com
 domain:nsimg.net
+domain:nsloon.com
 domain:nspk.ru
 domain:ntc.party
 domain:ntd.com
@@ -15988,6 +16014,7 @@ domain:onestore.ms
 domain:oneteamconference.com
 domain:onetrust.com
 domain:oneworldmanystories.com
+domain:onexray.com
 domain:onfinality.io
 domain:onindiansex.com
 domain:oninstagram.com
@@ -16756,6 +16783,7 @@ domain:pivotalinitiative.com
 domain:piwheels.org
 domain:pixanalytics.com
 domain:pixapp.net
+domain:pixar.com
 domain:pixate.com
 domain:pixel.facebook.com:@ads
 domain:pixfs.net
@@ -17391,6 +17419,7 @@ domain:privatemarketplaces.us
 domain:privatevoyeurvideos.com
 domain:privilege.hk
 domain:privilege.tw
+domain:prizrak.app
 domain:proctoscopeexam.com
 domain:prod-my.games
 domain:prodcontest.com
@@ -18518,6 +18547,7 @@ domain:seancody.com
 domain:seaofsolitude.com
 domain:seaporn.org
 domain:search.xxx
+domain:searchlightpictures.com
 domain:seasidestory.tokyo
 domain:seattlespheres.com
 domain:seb.ru
@@ -18818,6 +18848,7 @@ domain:sh-xuxingda.com
 domain:sh83.xyz
 domain:shadbase.com
 domain:shadowcomplex.com
+domain:shadowlaunch.com
 domain:shadowslaves.com
 domain:shadowsocks.com
 domain:shadowsocks.nl
@@ -18828,6 +18859,7 @@ domain:shahvani.com
 domain:shahvani.site
 domain:shakethesnake.com
 domain:shameless.com
+domain:shanghaidisneyresort.com:@cn
 domain:shaparak.ir
 domain:shapelcounset.xyz
 domain:sharefile.com
@@ -19633,6 +19665,8 @@ domain:starwarsgalacticstarcruiser.com
 domain:starwarsjedifallenorder.com
 domain:starwarskids.com
 domain:starwarstheoldrepublic.com
+domain:stash.wiki
+domain:stash.ws
 domain:stateofthemap.com
 domain:stateofthemap.org
 domain:static-cisco.com
@@ -20363,6 +20397,7 @@ domain:thetype.com
 domain:theuab.net
 domain:theverge.com
 domain:thevirtualsexreview.com
+domain:thewaltdisneycompany.com
 domain:theweek.in
 domain:thewonderful101.com
 domain:theyxxx.com
@@ -20534,6 +20569,7 @@ domain:tok.media
 domain:tokyo-hot.com
 domain:tokyo-sports.co.jp
 domain:tokyo-tosho.net
+domain:tokyodisneyresort.jp
 domain:tokyomotion.com
 domain:tokyomotion.net
 domain:tokyonightstyle.com
@@ -22083,6 +22119,7 @@ domain:walmart.cn:@cn
 domain:walmart.com
 domain:walmart.pharmacy
 domain:walmartimages.com
+domain:waltdisneystudios.com
 domain:wana-tv.sbs
 domain:wancctv.asia
 domain:wandan-dh.buzz
@@ -22275,6 +22312,7 @@ domain:weverse.io
 domain:wfm.com
 domain:wgcdn.co
 domain:wgcrowd.io
+domain:wgtunnel.com
 domain:whasil.xyz
 domain:what-fan.net
 domain:whatboyswant.com
@@ -22463,6 +22501,7 @@ domain:wirelessgroup.co.uk
 domain:wirelessreach.com
 domain:wiremoneytoirelandwithxoomeasierandcheaper.com
 domain:wireshark.org
+domain:wiresock.net
 domain:wise-research.com
 domain:wise.com
 domain:wisecoin.com
@@ -24695,8 +24734,6 @@ full:t.mail.ru:@ads
 full:tac.googleapis.com:@cn
 full:target.vk.com:@ads
 full:tf-feedback.itunes.apple.com:@cn
-full:time.amazonaws.cn:@cn
-full:time.izatcloud.net:@cn
 full:time.xtracloud.net:@cn
 full:tj-pod1-smp-device.apple.com:@cn
 full:tj-pod2-smp-device.apple.com:@cn
