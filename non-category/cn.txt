@@ -530,7 +530,10 @@ domain:aipai.com
 domain:aiqicha.com
 domain:air-matters.com
 domain:airchangan.com
+domain:airchina.com
 domain:airchinacargo.com
+domain:airchinagroup.com
+domain:airchinalimited.com
 domain:airguilin.com
 domain:airnut.com
 domain:airstarfinance.net
@@ -1558,6 +1561,9 @@ domain:cmpassport.com
 domain:cmpay.com
 domain:cmread.com
 domain:cn
+domain:cn-beijing.aliyuncs.com
+domain:cn-chengdu.aliyuncs.com
+domain:cn-guangzhou.aliyuncs.com
 domain:cn-hangzhou.aliyuncs.com
 domain:cn-shanghai.aliyuncs.com
 domain:cn.pool.ntp.org:@cn
@@ -2230,6 +2236,7 @@ domain:fixdown.com
 domain:fjsen.com
 domain:fliggy.com
 domain:flxdns.com
+domain:fly-airchina.com
 domain:flycua.com
 domain:flyme.com
 domain:flymeauto.com
@@ -2699,6 +2706,7 @@ domain:hongxiu.com
 domain:hongyuanqh.com
 domain:honor.com
 domain:honorfile.com
+domain:hotfix-api.aliyuncs.com
 domain:hotread.com
 domain:houdao.com
 domain:houyicaiji.com
@@ -4292,6 +4300,7 @@ domain:pgyer.com
 domain:pgzs.com
 domain:pharmacodia.com
 domain:philanthropy.xin
+domain:phoenixmiles.com
 domain:phpcomposer.com
 domain:phpweblog.net
 domain:phpwind.com
@@ -4547,6 +4556,7 @@ domain:realmebbs.com
 domain:realmemobile.com
 domain:redenmc.com
 domain:redmagic.com
+domain:registry.aliyuncs.com
 domain:reke.at.sohu.com:@ads
 domain:renren-inc.com
 domain:renren.com
@@ -4587,6 +4597,7 @@ domain:rumt-zh.com
 domain:runningcheese.com
 domain:runoob.com
 domain:ruseer.com
+domain:ruubypay.com
 domain:rwkv.com
 domain:rzrc114.com
 domain:s-adashx.ut.youku.com:@ads
@@ -4623,6 +4634,7 @@ domain:sclick.baidu.com:@ads
 domain:scm121.com
 domain:scoregg.com
 domain:scratch5.com
+domain:sctcd.com
 domain:sctv-tf.com
 domain:sctv.com
 domain:scyol.com
@@ -4694,6 +4706,7 @@ domain:shengyizhuanjia.com
 domain:shenjing.com
 domain:shenmayouxi.com
 domain:shenzhenair.com
+domain:shenzhentong.com
 domain:sheui.com
 domain:shfft.com
 domain:shgsec.com
@@ -4785,6 +4798,7 @@ domain:sngmta.qq.com:@ads
 domain:snimay.com
 domain:snodehome.com
 domain:snowballsecurities.com
+domain:snowballtech.com
 domain:snssdk.com
 domain:snxw.com
 domain:so.com
@@ -4837,6 +4851,7 @@ domain:splash-ads.cdn.unity.cn:@ads
 domain:splash-ads.unitychina.cn:@ads
 domain:springairlines.com
 domain:springtour.com
+domain:sptcc.com
 domain:sq.cc
 domain:sqqnh.org
 domain:sqreader.com

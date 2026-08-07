@@ -170,7 +170,11 @@ domain:ccs.umeng.com:@ads
 domain:cdngslb.com
 domain:cheng.xin
 domain:cloudeagle.cn
+domain:cn-beijing.aliyuncs.com
+domain:cn-chengdu.aliyuncs.com
+domain:cn-guangzhou.aliyuncs.com
 domain:cn-hangzhou.aliyuncs.com
+domain:cn-hongkong.aliyuncs.com:@!cn
 domain:cn-shanghai.aliyuncs.com
 domain:cnlogs.umeng.com:@ads
 domain:cnlogs.umengcloud.com:@ads
@@ -232,6 +236,7 @@ domain:hemamax.com
 domain:hemaos.com
 domain:hemashare.cn
 domain:hichina.com
+domain:hotfix-api.aliyuncs.com
 domain:hupan.com
 domain:hzchengdun.com
 domain:hzchengdun.net
@@ -356,6 +361,7 @@ domain:pp.cn
 domain:puata.info
 domain:qingtingtrip.com
 domain:quark.cn
+domain:registry.aliyuncs.com
 domain:resolve.umeng.com:@ads
 domain:retcode.taobao.com:@ads
 domain:rexpos.cn

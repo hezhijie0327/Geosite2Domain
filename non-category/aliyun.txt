@@ -23,10 +23,15 @@ domain:atanx.alicdn.com:@ads
 domain:atanx2.alicdn.com:@ads
 domain:baichuan-sdk.alicdn.com:@ads
 domain:cdngslb.com
+domain:cn-beijing.aliyuncs.com
+domain:cn-chengdu.aliyuncs.com
+domain:cn-guangzhou.aliyuncs.com
 domain:cn-hangzhou.aliyuncs.com
+domain:cn-hongkong.aliyuncs.com:@!cn
 domain:cn-shanghai.aliyuncs.com
 domain:fcapp.run
 domain:hichina.com
+domain:hotfix-api.aliyuncs.com
 domain:ica-alliance.org
 domain:kunlunaq.com
 domain:kunlunar.com
@@ -79,4 +84,5 @@ domain:oss-eu-west-1.aliyuncs.com:@!cn
 domain:oss-me-east-1.aliyuncs.com:@!cn
 domain:oss-us-east-1.aliyuncs.com:@!cn
 domain:oss-us-west-1.aliyuncs.com:@!cn
+domain:registry.aliyuncs.com
 domain:tce.alicdn.com:@ads

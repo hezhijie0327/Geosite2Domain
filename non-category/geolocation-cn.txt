@@ -630,8 +630,14 @@ domain:aiqicha.cn
 domain:aiqicha.com
 domain:air-matters.com
 domain:airchangan.com
+domain:airchina.cn
+domain:airchina.com
 domain:airchina.com.cn
 domain:airchinacargo.com
+domain:airchinagroup.com
+domain:airchinalimited.cn
+domain:airchinalimited.com
+domain:airchinalimited.com.cn
 domain:aireads.cn
 domain:airguilin.com
 domain:airitilibrary.cn
@@ -1946,6 +1952,9 @@ domain:cmpassport.com
 domain:cmpay.com
 domain:cmread.com
 domain:cmvideo.cn
+domain:cn-beijing.aliyuncs.com
+domain:cn-chengdu.aliyuncs.com
+domain:cn-guangzhou.aliyuncs.com
 domain:cn-hangzhou.aliyuncs.com
 domain:cn-shanghai.aliyuncs.com
 domain:cn.pool.ntp.org:@cn
@@ -2827,6 +2836,7 @@ domain:fliggy.com
 domain:flowus.cn
 domain:flxdns.cn
 domain:flxdns.com
+domain:fly-airchina.com
 domain:flycua.com
 domain:flyme.cn
 domain:flyme.com
@@ -3407,6 +3417,7 @@ domain:honorfile.com
 domain:hoopchina.com.cn
 domain:hophing.cn
 domain:hophing.com.cn
+domain:hotfix-api.aliyuncs.com
 domain:hotread.com
 domain:houdao.com
 domain:houyicaiji.com
@@ -5111,6 +5122,7 @@ domain:nextstudios.com
 domain:nextvid.net
 domain:nextworkshop.net
 domain:neyetwatcher.com
+domain:nfcos.cn
 domain:nffund.com
 domain:nfpeople.com
 domain:nga.cn
@@ -5358,6 +5370,9 @@ domain:phfund.com.cn
 domain:philanthropy.xin
 domain:phira.cn
 domain:phoenixcenter.cn
+domain:phoenixmiles.cn
+domain:phoenixmiles.com
+domain:phoenixmiles.com.cn
 domain:php.cn
 domain:phpcomposer.com
 domain:phpweblog.net
@@ -5682,6 +5697,7 @@ domain:redelight.cn
 domain:redenmc.com
 domain:redmagic.com
 domain:rednet.cn
+domain:registry.aliyuncs.com
 domain:reke.at.sohu.com:@ads
 domain:renren-inc.com
 domain:renren.com
@@ -5737,6 +5753,7 @@ domain:rumt-zh.com
 domain:runningcheese.com
 domain:runoob.com
 domain:ruseer.com
+domain:ruubypay.com
 domain:rwkv.cn
 domain:rwkv.com
 domain:rzrc114.com
@@ -5790,6 +5807,7 @@ domain:scoregg.com
 domain:scratch5.com
 domain:scsentry.cn
 domain:scsjb.cn
+domain:sctcd.com
 domain:sctv-tf.com
 domain:sctv.com
 domain:scyol.com
@@ -5877,6 +5895,7 @@ domain:shengyizhuanjia.com
 domain:shenjing.com
 domain:shenmayouxi.com
 domain:shenzhenair.com
+domain:shenzhentong.com
 domain:sheui.com
 domain:shfft.com
 domain:shgsec.com
@@ -5992,6 +6011,7 @@ domain:snimay.com
 domain:snodehome.cn
 domain:snodehome.com
 domain:snowballsecurities.com
+domain:snowballtech.com
 domain:snssdk.com
 domain:snxw.com
 domain:so-quick.cn
@@ -6051,6 +6071,7 @@ domain:splash-ads.cdn.unity.cn:@ads
 domain:splash-ads.unitychina.cn:@ads
 domain:springairlines.com
 domain:springtour.com
+domain:sptcc.com
 domain:sq.cc
 domain:sqqnh.cn
 domain:sqqnh.org
