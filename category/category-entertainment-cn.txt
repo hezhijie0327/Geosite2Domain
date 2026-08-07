@@ -237,6 +237,7 @@ domain:douyin.com
 domain:douyinact.com
 domain:douyinact.net
 domain:douyincdn.com
+domain:douyinec.com
 domain:douyinfe.com
 domain:douyinliving.com
 domain:douyinpay.com
@@ -544,6 +545,7 @@ domain:letv.com
 domain:letvcdn.com
 domain:letvimg.com
 domain:leyuansu.com
+domain:lifexue.com
 domain:lingxigames.com
 domain:lizhi.fm
 domain:lizhifm.com
@@ -776,6 +778,7 @@ domain:u17.com
 domain:u17i.com
 domain:u17t.com
 domain:ucg.cn
+domain:ulpay.com
 domain:ultimatemusic.cn
 domain:ultracachenode.com
 domain:updream.cn

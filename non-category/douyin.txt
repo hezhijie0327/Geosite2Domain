@@ -14,6 +14,7 @@ domain:douyin.com
 domain:douyinact.com
 domain:douyinact.net
 domain:douyincdn.com
+domain:douyinec.com
 domain:douyinfe.com
 domain:douyinliving.com
 domain:douyinpay.com
@@ -53,6 +54,7 @@ domain:ihuoshanstatic.com
 domain:ihuoshanvod.com
 domain:kesong.co
 domain:kolbuyer.cn
+domain:lifexue.com
 domain:nextvid.net
 domain:open-douyin.com
 domain:ppkankan01.com
@@ -63,6 +65,7 @@ domain:qishuimusic.cn
 domain:qishuimusic.com.cn
 domain:supercachenet.com
 domain:supercachenode.com
+domain:ulpay.com
 domain:ultracachenode.com
 domain:woaihuoshan.com
 domain:wohst8.com

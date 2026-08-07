@@ -1022,6 +1022,7 @@ domain:build9s.io
 domain:building.fun
 domain:buke999.com
 domain:burningvocabulary.com
+domain:buydouke.com
 domain:buyjingxi.com
 domain:bvfcdn.com
 domain:bvfcdn2.com
@@ -1362,6 +1363,7 @@ domain:chinalions.com
 domain:chinalive.com
 domain:chinamcloud.com
 domain:chinamobile.com
+domain:chinamobiledevice.com
 domain:chinamobileltd.com
 domain:chinanetcenter.com
 domain:chinanews.com
@@ -1547,6 +1549,7 @@ domain:cmbimg.com
 domain:cmbuat.com
 domain:cmcm.com
 domain:cmcmcdn.com
+domain:cmdcxls.com
 domain:cmf.biz
 domain:cmf.ltd
 domain:cmfchina.com
@@ -1725,6 +1728,7 @@ domain:dadighost.com
 domain:daguzhe.com
 domain:daheapp.com
 domain:daikuan.com
+domain:dailygn.com
 domain:dajiabao.com
 domain:dajie.com
 domain:dajieimg.com
@@ -2063,7 +2067,9 @@ domain:ecma.bdimg.com:@ads
 domain:ecmb.bdimg.com:@ads
 domain:ecmc.bdimg.com:@ads
 domain:ecombdapi.com
+domain:ecombdimg.com
 domain:ecombdstatic.com
+domain:ecombdvod.com
 domain:ecukwai.com
 domain:edgeceler.com
 domain:edgemonix.top
@@ -2133,6 +2139,7 @@ domain:f.cx
 domain:fa-part.com
 domain:faceid.com
 domain:faceu.com
+domain:faceu.mobi
 domain:fadfunds.com
 domain:falconsending.com
 domain:faloo.com
@@ -2329,6 +2336,7 @@ domain:funshion.net
 domain:fuwai.com
 domain:fuwj.com
 domain:fxbaogao.com
+domain:fxltsbl.com
 domain:fxt365.com
 domain:fxxz.com
 domain:fyeds.com
@@ -3630,6 +3638,7 @@ domain:liepin.com
 domain:lietou-static.com
 domain:lietou.com
 domain:lieyunwang.com
+domain:lifexue.com
 domain:lightmake.site
 domain:lightonus.com
 domain:likuso.com
@@ -4138,6 +4147,7 @@ domain:obriccloud.com
 domain:obricclouddw.com
 domain:oc.umeng.com:@ads
 domain:oceancloudapi.com
+domain:oceanengine.com
 domain:ocwms.com
 domain:oeeee.com
 domain:oend.net
@@ -5337,6 +5347,7 @@ domain:ulife.group
 domain:ulikecam.com
 domain:ulogs.umeng.com:@ads
 domain:ulogs.umengcloud.com:@ads
+domain:ulpay.com
 domain:ultracachenode.com
 domain:um.run
 domain:umajor.net
@@ -6215,6 +6226,7 @@ domain:zdnscloud.biz
 domain:zdnscloud.com
 domain:zdnscloud.info
 domain:zdnscloud.net
+domain:zdsdp.com
 domain:zealer.com
 domain:zebracdn.com
 domain:zeekrgroup.com

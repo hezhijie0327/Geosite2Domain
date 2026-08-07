@@ -83,6 +83,7 @@ domain:bpltm.com
 domain:building.fun
 domain:butterfly-static.cn
 domain:butterflyai.cn
+domain:buydouke.com
 domain:bvfcdn.com
 domain:bvfcdn2.com
 domain:bvfcdn3.com
@@ -203,6 +204,7 @@ domain:bytetos.com
 domain:bytetraffic.net
 domain:bytetstatic.com
 domain:bytetstatic.net
+domain:byteurl.cn
 domain:bytevalk.com
 domain:bytevcloudapi.com
 domain:bytevcloudvod.com
@@ -216,6 +218,7 @@ domain:bytexopen.com
 domain:bytexservice.com
 domain:cache4ever.com
 domain:cache666.com
+domain:capcut.cn
 domain:capcut.com:@!cn
 domain:capcutcdn-us.com:@!cn
 domain:cdnbuild.com
@@ -252,6 +255,7 @@ domain:cozetest2.cn
 domain:cozetest3.cn
 domain:csjplatform.com:@ads
 domain:ctobsnssdk.com:@ads
+domain:dailygn.com
 domain:datawindexmarket.com
 domain:dbbuilding.fun
 domain:dcarapi.com
@@ -288,11 +292,14 @@ domain:duoshan.com
 domain:dycloud.run
 domain:dycloudbk.com
 domain:ecombdapi.com
+domain:ecombdimg.com
 domain:ecombdstatic.com
+domain:ecombdvod.com
 domain:edgeceler.com
 domain:emr-volces.com
 domain:extlog.snssdk.com:@ads
 domain:faceu.com
+domain:faceu.mobi
 domain:falconsending.com
 domain:fanqiecopyright.com
 domain:fanqienovel.com
@@ -468,6 +475,7 @@ domain:larksuiteimg-boe.com
 domain:larksuiteimg-pre.com
 domain:larksuiteimg.com
 domain:larkvc.com
+domain:lifexue.com
 domain:livecdnstatic.com
 domain:livesaascdn.com
 domain:livesaasvolccdn.com
@@ -502,9 +510,11 @@ domain:novelfm.com
 domain:novelfmpic.com
 domain:novelfmstatic.com
 domain:novelfmvod.com
+domain:nvsgames.cn
 domain:obriccloud.com
 domain:obricclouddw.com
 domain:oceancloudapi.com
+domain:oceanengine.com
 domain:okr.cn
 domain:okr.com
 domain:okr.com.cn
@@ -667,6 +677,7 @@ domain:ttwebview.com
 domain:ttwstatic.com:@!cn
 domain:ugshare-img.com
 domain:ulikecam.com
+domain:ulpay.com
 domain:ultracachenode.com
 domain:v2ig.cn
 domain:v2mg.cn

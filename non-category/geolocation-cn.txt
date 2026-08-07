@@ -1238,6 +1238,7 @@ domain:burningvocabulary.cn
 domain:burningvocabulary.com
 domain:butterfly-static.cn
 domain:butterflyai.cn
+domain:buydouke.com
 domain:buyjingxi.com
 domain:bvfcdn.com
 domain:bvfcdn2.com
@@ -1360,6 +1361,7 @@ domain:bytetos.com
 domain:bytetraffic.net
 domain:bytetstatic.com
 domain:bytetstatic.net
+domain:byteurl.cn
 domain:bytevalk.com
 domain:bytevcloudapi.com
 domain:bytevcloudvod.com
@@ -1403,6 +1405,7 @@ domain:cangpeng.com
 domain:cankaoxiaoxi.com
 domain:caocao.com.cn
 domain:caocaokeji.cn
+domain:capcut.cn
 domain:capitalonline.net
 domain:cardbaobao.com
 domain:carnoc.com
@@ -1704,6 +1707,7 @@ domain:chinalions.com
 domain:chinalive.com
 domain:chinamcloud.com
 domain:chinamobile.com
+domain:chinamobiledevice.com
 domain:chinamobileltd.com
 domain:chinanature.com.cn
 domain:chinanetcenter.com
@@ -1929,6 +1933,7 @@ domain:cmburl.cn
 domain:cmcc-cs.cn
 domain:cmcm.com
 domain:cmcmcdn.com
+domain:cmdcxls.com
 domain:cmf.biz
 domain:cmf.ltd
 domain:cmfchina.com
@@ -2170,6 +2175,7 @@ domain:cww.net.cn
 domain:cwxzx.com
 domain:cxbiji.com
 domain:cxmt.com
+domain:cxzx10086.cn
 domain:cy.com
 domain:cyagen.com
 domain:cybtc.com
@@ -2191,6 +2197,7 @@ domain:dahe.cn
 domain:daheapp.com
 domain:dahebao.cn
 domain:daikuan.com
+domain:dailygn.com
 domain:dajiabao.com
 domain:dajie.com
 domain:dajieimg.com
@@ -2602,7 +2609,9 @@ domain:ecmb.bdimg.com:@ads
 domain:ecmc.bdimg.com:@ads
 domain:ecns.cn
 domain:ecombdapi.com
+domain:ecombdimg.com
 domain:ecombdstatic.com
+domain:ecombdvod.com
 domain:ecsg.com.cn
 domain:ectencent.cn
 domain:ectencent.com.cn
@@ -2699,6 +2708,7 @@ domain:faasapp.cn
 domain:faasdev.cn
 domain:faceid.com
 domain:faceu.com
+domain:faceu.mobi
 domain:fadfunds.com
 domain:falconsending.com
 domain:faloo.com
@@ -2934,6 +2944,7 @@ domain:furamc.com.cn
 domain:fuwai.com
 domain:fuwj.com
 domain:fxbaogao.com
+domain:fxltsbl.com
 domain:fxt365.com
 domain:fxxz.com
 domain:fyeds.com
@@ -4539,6 +4550,7 @@ domain:liepin.com
 domain:lietou-static.com
 domain:lietou.com
 domain:lieyunwang.com
+domain:lifexue.com
 domain:lightmake.site
 domain:lightonus.com
 domain:likuso.com
@@ -5151,6 +5163,7 @@ domain:ntp.org.cn:@cn
 domain:nubia.cn
 domain:nubia.com
 domain:nuomi.com
+domain:nvsgames.cn
 domain:nvsheng.com
 domain:nwcdcloud.cn:@cn
 domain:nwcdcloud.com.cn:@cn
@@ -5167,6 +5180,7 @@ domain:obriccloud.com
 domain:obricclouddw.com
 domain:oc.umeng.com:@ads
 domain:oceancloudapi.com
+domain:oceanengine.com
 domain:ocfund.cn
 domain:ocwms.com
 domain:oeeee.com
@@ -6682,6 +6696,7 @@ domain:ulife.group
 domain:ulikecam.com
 domain:ulogs.umeng.com:@ads
 domain:ulogs.umengcloud.com:@ads
+domain:ulpay.com
 domain:ultimatemusic.cn
 domain:ultracachenode.com
 domain:um.run
@@ -7732,6 +7747,7 @@ domain:zdnscloud.info
 domain:zdnscloud.net
 domain:zdnscloud.net.cn
 domain:zdnscloud.org.cn
+domain:zdsdp.com
 domain:zdzq.com.cn
 domain:zealer.com
 domain:zebracdn.com
