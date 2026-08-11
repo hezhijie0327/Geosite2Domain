@@ -2,7 +2,9 @@ domain:battle.net
 domain:blizzard.com
 domain:blizzardgearstore.com
 domain:blz-contentstack.com
+domain:diablo.com
 domain:diablo3.com
+domain:diablo4.com
 domain:diabloimmortal.com
 domain:firesidegatherings.com
 domain:heroesofthestorm.com

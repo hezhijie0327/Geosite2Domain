@@ -50,6 +50,9 @@ domain:abow.jp
 domain:ac-pocketcamp.com
 domain:acesofthunder.net
 domain:activematter.game
+domain:activision.com
+domain:activisionblizzard.com
+domain:activisionblizzardmedia.com
 domain:ads-pixiv.net:@ads
 domain:ads.youtube.com:@ads
 domain:adventuresbydisney.com
@@ -143,6 +146,7 @@ domain:beeline.tv
 domain:beforeigners.com
 domain:bejeweledstars.com
 domain:bejewled-stars.com
+domain:benefitsforeveryworld.com
 domain:bestdori.com
 domain:beth.games
 domain:bethesda.net
@@ -190,9 +194,15 @@ domain:bystys.tech
 domain:bytedapm.com:@!cn
 domain:callersbane.com
 domain:callhulu.com
+domain:callofduty.com
+domain:callofdutyendowment.com
+domain:callofdutyendowment.org
+domain:callofdutyleague.com
+domain:callofdutymobile.com
 domain:camelot-europe.com
 domain:camelotherald.com
 domain:camelotherald.net
+domain:candycrush.com
 domain:capitalgames.com
 domain:capturingreality.com
 domain:castro.fm
@@ -229,6 +239,7 @@ domain:convrgencegame.com
 domain:copy-manga.com
 domain:copy20.com
 domain:copy2000.online
+domain:crashbandicoot.com
 domain:crossout.net
 domain:crsed.net
 domain:crunchyroll.com
@@ -262,12 +273,15 @@ domain:daznplayer.com
 domain:daznservices.com
 domain:deadspacegame.com
 domain:deezer.com
+domain:demonware.net
 domain:denfaminicogamer.jp
 domain:dengekionline.com
 domain:detpress.com
 domain:deviantart.com
 domain:deviantart.net
+domain:diablo.com
 domain:diablo3.com
+domain:diablo4.com
 domain:diabloimmortal.com
 domain:dialga.com
 domain:dice.se
@@ -455,6 +469,7 @@ domain:espn.net
 domain:espncdn.com
 domain:espnqa.com
 domain:esports.gg
+domain:europeanwarzoneseries.com
 domain:excitebots.com
 domain:ext-twitch.tv
 domain:f1.com
@@ -629,6 +644,7 @@ domain:heroesofdragonage.com
 domain:heroesofthestorm.com
 domain:hibiki-cast.jp
 domain:hidive.com
+domain:highmoonstudios.com
 domain:hikosen.co.jp
 domain:historyofdota.com
 domain:historyofdota.net
@@ -696,6 +712,7 @@ domain:imdb.to
 domain:indazn.com
 domain:indaznlab.com
 domain:industrialtoys.com
+domain:infinityward.com
 domain:inside-games.jp
 domain:insights-collector.gog.com:@ads
 domain:instituteofwar.org
@@ -752,6 +769,7 @@ domain:kfs.io
 domain:kgisystems.com
 domain:kick.com
 domain:kinescopecdn.net
+domain:king.com
 domain:kingkong.com.tw
 domain:kingkongapp.com
 domain:kinopoisk-ru.clstorage.net
@@ -1180,6 +1198,7 @@ domain:radgametools.com
 domain:radiko-cf.com
 domain:radiko.jp
 domain:rateyourmusic.com
+domain:ravensoftware.com
 domain:ravm.tv
 domain:rayark.download
 domain:rayark.net
@@ -1272,6 +1291,7 @@ domain:seaofsolitude.com
 domain:searchlightpictures.com
 domain:seeurlpcl.com
 domain:sekai.colorfulpalette.org
+domain:sekirothegame.com
 domain:sendvid.com
 domain:shadowcomplex.com
 domain:shadowverse-evolve.com
@@ -1280,6 +1300,7 @@ domain:shopdisney.com
 domain:shops-disney.com
 domain:showtime.com
 domain:showtimeanytime.com
+domain:sierragames.com
 domain:sih-db.com
 domain:sih.app
 domain:silicagame.com
@@ -1288,6 +1309,8 @@ domain:simcity.com
 domain:simg.jp
 domain:skate2.com
 domain:sketchfab.com
+domain:skylanders.com
+domain:sledgehammergames.com
 domain:sling.com
 domain:slinginternational.com
 domain:smartstream.ne.jp
@@ -1298,6 +1321,7 @@ domain:snk-corp.info
 domain:snkplaymore.info
 domain:snmc.io
 domain:snowmiku.com
+domain:solidstate.com
 domain:sonematic.net
 domain:sonemic.com
 domain:sonyclassics.com
@@ -1331,6 +1355,7 @@ domain:spotifyforbrands.com
 domain:spotifyforvendors.com
 domain:spotifyjobs.com
 domain:spyjinx.com
+domain:spyrothedragon.com
 domain:sqool.net
 domain:squadbusters.com
 domain:ssx3.com
@@ -1460,10 +1485,13 @@ domain:titanfall.com
 domain:tmdb.org
 domain:tnt-ea.com
 domain:tokyodisneyresort.jp
+domain:tonyhawk.com
+domain:tonyhawkthegame.com
 domain:tospotify.com
 domain:toy-people.com
 domain:tra-ww000-cp.akamaized.net
 domain:trbcdn.net
+domain:treyarch.com
 domain:triokini.com
 domain:ttcdn-us.com:@!cn
 domain:ttlivecdn.com:@!cn
@@ -1572,6 +1600,7 @@ domain:worldoftanks.eu
 domain:worldofwarcraft.com
 domain:worldofwarplanes.com
 domain:worldofwarships.com
+domain:worldseriesofwarzone.com
 domain:wotblitz.com
 domain:wowsblitz.com
 domain:ws-blau.com

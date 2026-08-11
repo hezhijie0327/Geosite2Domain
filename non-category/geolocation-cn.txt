@@ -4908,6 +4908,7 @@ domain:mmarket.com
 domain:mmarket6.com
 domain:mmbang.com
 domain:mmbang.info
+domain:mmbizurl.cn
 domain:mmstat.com
 domain:mndqlib.net
 domain:mnw.cn
@@ -6773,6 +6774,7 @@ domain:upfos.cn
 domain:upfos.com
 domain:upyun.com
 domain:uranus.sogou.com:@ads
+domain:url.cn
 domain:urlqh.cn
 domain:urselect.com
 domain:urtc.com.cn

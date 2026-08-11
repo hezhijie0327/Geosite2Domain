@@ -58,6 +58,9 @@ domain:abdf002.com
 domain:ac-pocketcamp.com
 domain:acesofthunder.net
 domain:activematter.game
+domain:activision.com
+domain:activisionblizzard.com
+domain:activisionblizzardmedia.com
 domain:aki-game.com
 domain:aki-game2.com
 domain:aligames.com
@@ -95,6 +98,7 @@ domain:battlelog.com
 domain:bcfmglobal.com
 domain:bejeweledstars.com
 domain:bejewled-stars.com
+domain:benefitsforeveryworld.com
 domain:benghuai.com
 domain:beth.games
 domain:bethesda.net
@@ -127,9 +131,15 @@ domain:brawlstarsgame.com
 domain:buke999.com
 domain:bx1k.com
 domain:callersbane.com
+domain:callofduty.com
+domain:callofdutyendowment.com
+domain:callofdutyendowment.org
+domain:callofdutyleague.com
+domain:callofdutymobile.com
 domain:camelot-europe.com
 domain:camelotherald.com
 domain:camelotherald.net
+domain:candycrush.com
 domain:capitalgames.com
 domain:capturingreality.com
 domain:cbjq.com
@@ -151,6 +161,7 @@ domain:commandandconquer.com
 domain:conquerwithcharacter.com
 domain:convrgencegame.com
 domain:cowlevel.net
+domain:crashbandicoot.com
 domain:crossout.net
 domain:crsed.net
 domain:crysis.jp
@@ -169,7 +180,10 @@ domain:dawngate.com
 domain:dawngatechronicles.com
 domain:dayz.com
 domain:deadspacegame.com
+domain:demonware.net
+domain:diablo.com
 domain:diablo3.com
+domain:diablo4.com
 domain:diabloimmortal.com
 domain:dialga.com
 domain:dice.se
@@ -237,6 +251,7 @@ domain:epicgames.com
 domain:epicgames.dev
 domain:epicgamescdn.com
 domain:escapefromtarkov.com
+domain:europeanwarzoneseries.com
 domain:excitebots.com
 domain:fab.com
 domain:fabricmc.net
@@ -332,6 +347,7 @@ domain:heroesofdragonage.com
 domain:heroesofthestorm.com
 domain:heroesports.com
 domain:herogame.com
+domain:highmoonstudios.com
 domain:historyofdota.com
 domain:historyofdota.net
 domain:historyofdota.org
@@ -352,6 +368,7 @@ domain:ihykb.com
 domain:img4399.com
 domain:in.th
 domain:industrialtoys.com
+domain:infinityward.com
 domain:insights-collector.gog.com:@ads
 domain:instituteofwar.org
 domain:itch.io
@@ -362,6 +379,7 @@ domain:joinsquad.com
 domain:joyjoy.net
 domain:juequling.com
 domain:kgisystems.com
+domain:king.com
 domain:kirbysepicyarn.com
 domain:kirbysuperstarultra.com
 domain:kiwi.jp
@@ -652,6 +670,7 @@ domain:quiltmc.org
 domain:quixel.com
 domain:quixel.se
 domain:radgametools.com
+domain:ravensoftware.com
 domain:rayark.download
 domain:rayark.net
 domain:rblx.co
@@ -740,9 +759,11 @@ domain:seasungames.com
 domain:seasunwbl.com
 domain:seeurlpcl.com
 domain:sekai.colorfulpalette.org
+domain:sekirothegame.com
 domain:shadowcomplex.com
 domain:shengqugames.com
 domain:shyxhy.com
+domain:sierragames.com
 domain:sih-db.com
 domain:sih.app
 domain:silicagame.com
@@ -751,10 +772,13 @@ domain:simcity.com
 domain:skate2.com
 domain:sketchfab.com
 domain:skydweller.cn
+domain:skylanders.com
 domain:sl916.com
+domain:sledgehammergames.com
 domain:snk-corp.co.jp
 domain:snk-corp.info
 domain:snkplaymore.info
+domain:solidstate.com
 domain:sonyentertainmentnetwork.com
 domain:spearhead.kr
 domain:speedhunters.com
@@ -763,6 +787,7 @@ domain:spigotmc.org
 domain:splatoon2tournament.com
 domain:spore.com
 domain:spyjinx.com
+domain:spyrothedragon.com
 domain:squadbusters.com
 domain:ssx3.com
 domain:st.dl.bscstorage.net:@cn
@@ -865,6 +890,9 @@ domain:tiburon.com
 domain:timibase.com
 domain:titanfall.com
 domain:tnt-ea.com
+domain:tonyhawk.com
+domain:tonyhawkthegame.com
+domain:treyarch.com
 domain:tuer123.com
 domain:tuyoo.com
 domain:twinmotion.com
@@ -937,6 +965,7 @@ domain:worldoftanks.eu
 domain:worldofwarcraft.com
 domain:worldofwarplanes.com
 domain:worldofwarships.com
+domain:worldseriesofwarzone.com
 domain:wotblitz.com
 domain:wowsblitz.com
 domain:wtmobile.com

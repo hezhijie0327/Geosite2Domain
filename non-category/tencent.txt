@@ -296,6 +296,7 @@ domain:mahjongcup.net
 domain:mdt.qq.com:@ads
 domain:metalrevolution.com
 domain:midasbuy.com
+domain:mmbizurl.cn
 domain:monitor.music.qq.com:@ads
 domain:monitor.uu.qq.com:@ads
 domain:mpush.qq.com:@ads
@@ -612,6 +613,7 @@ domain:ultimatemusic.cn
 domain:um.run
 domain:uncnn.cn
 domain:uranus.sogou.com:@ads
+domain:url.cn
 domain:vcloudstc.com
 domain:vcloudstc.net
 domain:vcloudvod.com

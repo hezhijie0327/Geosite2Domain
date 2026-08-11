@@ -668,6 +668,9 @@ domain:activelearnprimary.co.uk
 domain:activelearnprimary.com.au
 domain:activematter.game
 domain:activeteachonline.com
+domain:activision.com
+domain:activisionblizzard.com
+domain:activisionblizzardmedia.com
 domain:actualidad-rt.com
 domain:ad.games.dmm.com:@ads
 domain:ad.mail.ru:@ads
@@ -3299,6 +3302,7 @@ domain:bellesa.co
 domain:bellotube.com
 domain:bellsouth.net
 domain:benaughty.fun
+domain:benefitsforeveryworld.com
 domain:bengalisexvideos.com
 domain:benliton.com
 domain:bentobox.tv
@@ -4624,6 +4628,11 @@ domain:callabitch.org
 domain:callbackkiller.com
 domain:callersbane.com
 domain:callhulu.com
+domain:callofduty.com
+domain:callofdutyendowment.com
+domain:callofdutyendowment.org
+domain:callofdutyleague.com
+domain:callofdutymobile.com
 domain:cam-duct.com
 domain:cam4.com
 domain:cam69.com
@@ -4672,6 +4681,7 @@ domain:camwhoreshd.com
 domain:camwhoria.com
 domain:canada-beatsbydre.com
 domain:candidforum-videos.com
+domain:candycrush.com
 domain:candycumcity.com
 domain:candypleasure.com
 domain:canny.io
@@ -5604,6 +5614,7 @@ domain:cqcorea.com
 domain:crabporn.com
 domain:craigslist.org
 domain:crankplayer.com
+domain:crashbandicoot.com
 domain:crashlytics.com
 domain:crates.io
 domain:crazy-amateurs.com
@@ -6122,6 +6133,7 @@ domain:demandware.com
 domain:demdex.net:@ads
 domain:democracy.earth
 domain:demonoid.is
+domain:demonware.net
 domain:demoprint.com
 domain:denfaminicogamer.jp
 domain:dengeamerika.com
@@ -6233,7 +6245,9 @@ domain:dgg.gg
 domain:dgwav.com
 domain:dh44.lol
 domain:dhlestudio.com.co
+domain:diablo.com
 domain:diablo3.com
+domain:diablo4.com
 domain:diabloimmortal.com
 domain:diabrowser.com
 domain:diabrowser.engineering
@@ -7587,6 +7601,7 @@ domain:europeansustainabledesign.com
 domain:europeansustainabledesign.net
 domain:europeansustainabledesigncouncil.com
 domain:europeansustainabledesigncouncil.net
+domain:europeanwarzoneseries.com
 domain:europepmc.org
 domain:europornstar.com
 domain:eurosexscene.com
@@ -10309,6 +10324,7 @@ domain:hifixxx.fun
 domain:hifuli.com
 domain:highbolt.net
 domain:highdefinitionbeatsbydre.com
+domain:highmoonstudios.com
 domain:highporn.net
 domain:hightopnikes.com
 domain:highwirepress.com
@@ -11329,6 +11345,7 @@ domain:indonesiaporn.name
 domain:industrialtoys.com
 domain:infinitetoons.com
 domain:infinitetube.com
+domain:infinityward.com
 domain:influencersgonewild.com
 domain:infocert.digital
 domain:infocert.it
@@ -12578,6 +12595,7 @@ domain:kindleproject.com
 domain:kindnudist.com
 domain:kindteenporn.com
 domain:kinescopecdn.net
+domain:king.com
 domain:kingcomix.com
 domain:kingextre.me
 domain:kingf-av.buzz
@@ -17759,6 +17777,7 @@ domain:raspbian.org
 domain:rat.xxx
 domain:ratedgross.com
 domain:rateyourmusic.com
+domain:ravensoftware.com
 domain:ravm.tv
 domain:rayark.download
 domain:rayark.net
@@ -18586,6 +18605,7 @@ domain:seiroganmania.com
 domain:seiron-sankei.com
 domain:sejie80.com
 domain:sekai.colorfulpalette.org
+domain:sekirothegame.com
 domain:seksmet.nl
 domain:sekswebsite.nl
 domain:sekur1213.guru
@@ -19016,6 +19036,7 @@ domain:siam.org
 domain:sibreal.org
 domain:sider.ai
 domain:siege-amazon.com
+domain:sierragames.com
 domain:sifangclub.com
 domain:sigcomm.org
 domain:sigmoidoscopeexam.com
@@ -19121,6 +19142,7 @@ domain:sky
 domain:sky.com
 domain:skyassets.com
 domain:skycdn.com.cn:@cn
+domain:skylanders.com
 domain:skymansion.net
 domain:skymatter.com
 domain:skyoceanrescue.com
@@ -19158,6 +19180,7 @@ domain:slavicstar.com
 domain:slc.tl
 domain:sldolls.com
 domain:sleazyneasy.com
+domain:sledgehammergames.com
 domain:slides.new
 domain:slideshare.com
 domain:slideshare.net
@@ -19283,6 +19306,7 @@ domain:sokuresu.ai
 domain:solarcity.com
 domain:solid.ru
 domain:solidifi.app
+domain:solidstate.com
 domain:solostudioksale.com
 domain:solutionstation.com
 domain:solveforx.com
@@ -19503,6 +19527,7 @@ domain:sputnikimages.com
 domain:sputnikmediabank.com
 domain:sputniknews.com
 domain:spyjinx.com
+domain:spyrothedragon.com
 domain:sqlite.org
 domain:sqlserveronlinux.com
 domain:sqool.net
@@ -20586,6 +20611,8 @@ domain:ton.org
 domain:toncenter.com
 domain:tonec.com
 domain:tonicmovies.com
+domain:tonyhawk.com
+domain:tonyhawkthegame.com
 domain:toolforge.org
 domain:toolmaking-cadcam.com
 domain:toomadporn.pro
@@ -20720,6 +20747,7 @@ domain:trello.com
 domain:trellocdn.com
 domain:trendmicro.com
 domain:trendyporn.com
+domain:treyarch.com
 domain:trezor.io
 domain:triballo.net
 domain:tribler.org
@@ -22593,6 +22621,7 @@ domain:worldpornvideos.com
 domain:worldscientific.com
 domain:worldsecureemail.com
 domain:worldsecuresystems.com
+domain:worldseriesofwarzone.com
 domain:worldsex.com
 domain:worldsfastestgamer.net
 domain:wotblitz.com
