@@ -48,6 +48,7 @@ domain:brew.sh
 domain:buck.build
 domain:buckbuild.com
 domain:bugsnag.com
+domain:builtwithnix.org
 domain:busybox.net
 domain:calendarserver.org
 domain:canonical.com
@@ -323,6 +324,7 @@ domain:mspairlift.com
 domain:msropendata.com
 domain:msys2.org
 domain:myjetbrains.com
+domain:mynixos.com
 domain:myoctocat.com
 domain:mysql.com
 domain:mystrikingly.com
@@ -332,7 +334,15 @@ domain:newpipe.net
 domain:nftables.org
 domain:nginx.com
 domain:nginx.org
+domain:nix-community.org
+domain:nix.dev
+domain:nix.store
+domain:nixcon.org
+domain:nixcon2017.org
+domain:nixlang.com
 domain:nixos.org
+domain:nixos.wiki
+domain:nixpkgs.org
 domain:nodejs.org
 domain:nodesource.com
 domain:nomadproject.io

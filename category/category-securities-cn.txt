@@ -17,6 +17,7 @@ domain:cfund108.com
 domain:cfzq.com
 domain:cgws.com
 domain:changanfunds.com
+domain:chinaclear.cn
 domain:chinalions.com
 domain:chinanature.com.cn
 domain:chinastock.com.cn

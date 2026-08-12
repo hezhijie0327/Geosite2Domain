@@ -7,6 +7,7 @@ domain:17k.com
 domain:17roco.com
 domain:18183.com
 domain:1905.com
+domain:1958xy.com
 domain:1kkk.com
 domain:1xhh.cn
 domain:3304399.com
@@ -676,6 +677,7 @@ domain:qq163.com
 domain:qq163.net
 domain:qqgameapp.com
 domain:qqmusic.com
+domain:qqtf.com
 domain:qtfm.cn
 domain:quehu.com
 domain:qwapp.top
@@ -782,6 +784,7 @@ domain:ulpay.com
 domain:ultimatemusic.cn
 domain:ultracachenode.com
 domain:updream.cn
+domain:v3mh.com
 domain:v6-adashx.ut.youku.com:@ads
 domain:vgtime.com
 domain:videoxiaoyouxi.com

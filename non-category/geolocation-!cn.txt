@@ -4449,6 +4449,7 @@ domain:buhidoh.net
 domain:buicha.social
 domain:building3dcontent.com
 domain:builtfromebay.com
+domain:builtwithnix.org
 domain:bukkake-jav.com
 domain:bululusexdoll.com
 domain:bumpshare.com
@@ -14886,6 +14887,7 @@ domain:mymusclevideo.com
 domain:mynavi.jp
 domain:mynetname.net
 domain:mynike.com
+domain:mynixos.com
 domain:myoctocat.com
 domain:mypearson.com
 domain:mypearsonenglish.ch
@@ -15543,7 +15545,15 @@ domain:niuc2.com
 domain:nivod.tv
 domain:nivodi.tv
 domain:nivodz.com
+domain:nix-community.org
+domain:nix.dev
+domain:nix.store
+domain:nixcon.org
+domain:nixcon2017.org
+domain:nixlang.com
 domain:nixos.org
+domain:nixos.wiki
+domain:nixpkgs.org
 domain:niziero.info
 domain:njav.tv
 domain:njavtv.com
@@ -23463,6 +23473,7 @@ domain:yandex.ee
 domain:yandex.eu
 domain:yandex.fi
 domain:yandex.fr
+domain:yandex.it
 domain:yandex.jobs
 domain:yandex.kg
 domain:yandex.kz

@@ -22,15 +22,14 @@ domain:chinahr.com
 domain:chrstatic.com
 domain:daojia.com
 domain:diandao.org
-domain:fang.com
 domain:ganji.com
 domain:ganjistatic1.com
 domain:jxedt.com
 domain:jxksw.net
 domain:kaoshibao.com
+domain:kgdc.cn
+domain:kgtest.cn
 domain:roomeet.cn
-domain:sofun.com
-domain:soufunimg.com
 domain:xgo-img.com.cn
 domain:xinchong.com
 domain:xueche.com

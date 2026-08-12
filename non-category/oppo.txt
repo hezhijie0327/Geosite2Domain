@@ -12,6 +12,7 @@ domain:heytapimage.com
 domain:heytapmobi.com
 domain:ioppo.com.cn
 domain:ioppo.net
+domain:keke.cn
 domain:myoppo.com
 domain:nearme.com.cn
 domain:oneplus.cn
@@ -40,4 +41,5 @@ domain:realmebbs.com
 domain:realmemobile.com
 domain:shopoppo.cn
 domain:shopoppo.com.cn
+domain:wanyol.com
 full:community.oneplus.com:@!cn

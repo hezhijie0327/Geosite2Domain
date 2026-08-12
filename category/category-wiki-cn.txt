@@ -13,3 +13,4 @@ domain:qiuwen.wiki
 domain:qiuwenbaike.cn
 domain:sec-wiki.com
 domain:shidianbaike.com
+domain:zdic.net
