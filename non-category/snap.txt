@@ -1,4 +1,6 @@
 domain:sc-cdn.net
+domain:sc-gw.com
+domain:sc-static.net
 domain:snap-dev.net
 domain:snap.com
 domain:snapads.com:@ads

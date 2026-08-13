@@ -6113,6 +6113,8 @@ domain:savoycomputing.com
 domain:sayeasy.eu
 domain:saynow.com
 domain:sc-cdn.net
+domain:sc-gw.com
+domain:sc-static.net
 domain:scaleform.com
 domain:scartel.ru
 domain:scene7.com
