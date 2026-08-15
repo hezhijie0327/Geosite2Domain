@@ -721,6 +721,7 @@ domain:appeeres.com
 domain:appinn.com
 domain:appjiagu.com
 domain:apple.www.letv.com:@ads
+domain:applogcdn.com
 domain:applysquare.com
 domain:applysquare.net
 domain:appsimg.com
@@ -4668,6 +4669,7 @@ domain:sdkclick.mobile.sina.cn:@ads
 domain:sdo.com
 domain:sealsuite.com
 domain:sealsuite.net
+domain:searchpstatp.com
 domain:searchstatic.com
 domain:searchtoutiaolive.com
 domain:seasungames.com

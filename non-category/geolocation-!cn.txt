@@ -6501,6 +6501,7 @@ domain:disquscdn.com
 domain:disqusservice.com
 domain:ditu.live.com:@cn
 domain:divas.com.uy
+domain:divdyn.com
 domain:diwodiwo.xyz
 domain:diyarbakirescort.com
 domain:diyuser.buzz
@@ -18295,6 +18296,7 @@ domain:rutracker.me
 domain:rutracker.net
 domain:rutracker.nl
 domain:rutracker.org
+domain:rutracker.wiki
 domain:rutrk.org
 domain:rutube.ru
 domain:rutube.sport

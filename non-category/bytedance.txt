@@ -27,6 +27,7 @@ domain:amemv.net
 domain:analytics.tiktok.com:@ads
 domain:anycross.com
 domain:api-building.fun
+domain:applogcdn.com
 domain:arco.design
 domain:ark-doc-resources.cn
 domain:auto-validation.com
@@ -574,6 +575,7 @@ domain:rsproxy.cn
 domain:samasty.com
 domain:sealsuite.com
 domain:sealsuite.net
+domain:searchpstatp.com
 domain:searchstatic.com
 domain:searchtoutiaolive.com
 domain:securityfeishu.cn
