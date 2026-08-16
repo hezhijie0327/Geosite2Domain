@@ -17,6 +17,7 @@ domain:douyincdn.com
 domain:douyinec.com
 domain:douyinfe.com
 domain:douyinliving.com
+domain:douyinmusicpromotion.com
 domain:douyinpay.com
 domain:douyinpic.com
 domain:douyinstatic.com
@@ -52,7 +53,6 @@ domain:ihuoshanimg.com
 domain:ihuoshanlive.com
 domain:ihuoshanstatic.com
 domain:ihuoshanvod.com
-domain:kesong.co
 domain:kolbuyer.cn
 domain:lifexue.com
 domain:nextvid.net

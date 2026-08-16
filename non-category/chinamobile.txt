@@ -1,5 +1,6 @@
 domain:10086.cn
 domain:139.com
+domain:5gxcx.net
 domain:andfx.cn
 domain:andfx.net
 domain:chinamobile.com
@@ -20,6 +21,8 @@ domain:cytxl.com.cn
 domain:fetion-portal.com
 domain:fetionpic.com
 domain:fxltsbl.com
+domain:hfx.net
+domain:komect.com
 domain:migu.cn
 domain:migucloud.com
 domain:migufun.com

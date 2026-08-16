@@ -1,3 +1,0 @@
-domain:u17.com
-domain:u17i.com
-domain:u17t.com

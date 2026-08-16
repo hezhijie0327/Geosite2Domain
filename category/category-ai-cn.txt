@@ -79,6 +79,7 @@ domain:picpic-ai.cn
 domain:pixeldance.com
 domain:qianwen.aliyun.com
 domain:qianwen.com
+domain:qianwenai.com
 domain:qwen.ai
 domain:qwenlm.ai
 domain:rwkv.cn

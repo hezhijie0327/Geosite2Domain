@@ -224,6 +224,7 @@ domain:dataeye.com
 domain:dc.letv.com:@ads
 domain:ddmogo.com
 domain:debugmode.cn
+domain:dedao.cn
 domain:dishu3.com
 domain:diyring.cc
 domain:dm5.cn
@@ -241,6 +242,7 @@ domain:douyincdn.com
 domain:douyinec.com
 domain:douyinfe.com
 domain:douyinliving.com
+domain:douyinmusicpromotion.com
 domain:douyinpay.com
 domain:douyinpic.com
 domain:douyinstatic.com
@@ -263,6 +265,7 @@ domain:dwstatic.com
 domain:e.kuaishou.cn:@ads
 domain:e.kuaishou.com:@ads
 domain:e.stat.ykimg.com:@ads
+domain:eckwai.com
 domain:ecukwai.com
 domain:edgesrv.com
 domain:edu4399.com
@@ -481,7 +484,6 @@ domain:juequling.com
 domain:jvcsmart.cn
 domain:jvcsmart.com.cn
 domain:kajicam.com
-domain:kesong.co
 domain:kg.qq.com
 domain:kgimg.com
 domain:kglink.cn
@@ -528,6 +530,9 @@ domain:kuyin123.com
 domain:kuyinxiu.com
 domain:kuyinyun.com
 domain:kwaicdn.com
+domain:kwaishop.com
+domain:kwaixiaodian.com
+domain:kwaiying.com
 domain:kwaizt.com
 domain:kwimgs.com
 domain:labycore.cn
@@ -602,6 +607,7 @@ domain:missevan.com
 domain:miyoushe.com
 domain:mobilemsg.youku.com:@ads
 domain:mogoo.com
+domain:mojidoc.com
 domain:monitor.music.qq.com:@ads
 domain:morefreegame.com
 domain:motie.com
@@ -776,13 +782,11 @@ domain:tuer123.com
 domain:tuyoo.com
 domain:twyx.cn
 domain:twyxh.com
-domain:u17.com
-domain:u17i.com
-domain:u17t.com
 domain:ucg.cn
 domain:ulpay.com
 domain:ultimatemusic.cn
 domain:ultracachenode.com
+domain:umiwi.com
 domain:updream.cn
 domain:v3mh.com
 domain:v6-adashx.ut.youku.com:@ads
@@ -814,6 +818,7 @@ domain:wmupd.com
 domain:wo1wan.com
 domain:woaihuoshan.com
 domain:wohst8.com
+domain:wskwai.com
 domain:wsukwai.com
 domain:wting.info
 domain:wtzw.com

@@ -284,6 +284,7 @@ domain:58xueche.com
 domain:5bite.com
 domain:5ddd.com
 domain:5fun.com
+domain:5gxcx.net
 domain:5gzm.net
 domain:5ifund.com
 domain:5khouse.com
@@ -1964,6 +1965,7 @@ domain:douyincloud.run
 domain:douyinec.com
 domain:douyinfe.com
 domain:douyinliving.com
+domain:douyinmusicpromotion.com
 domain:douyinpay.com
 domain:douyinpic.com
 domain:douyinstatic.com
@@ -2080,6 +2082,7 @@ domain:eceshi.com
 domain:echargenet.com
 domain:ecitic.com
 domain:ecjobhome.com
+domain:eckwai.com
 domain:eclick.baidu.com:@ads
 domain:ecloud-gdu.com
 domain:ecma.bdimg.com:@ads
@@ -2658,6 +2661,7 @@ domain:heytea.com
 domain:hezuvip.com
 domain:hf-aw.com
 domain:hftfund.com
+domain:hfx.net
 domain:hhtravel.com
 domain:hiaiabc.com
 domain:hiascend.com
@@ -3427,6 +3431,7 @@ domain:klpbbs.com
 domain:kmeila.com
 domain:knewsmart.com
 domain:knownsec.com
+domain:komect.com
 domain:kongfz.com
 domain:koocdn.com
 domain:kookong.com
@@ -3518,6 +3523,9 @@ domain:kuyinxiu.com
 domain:kuyinyun.com
 domain:kuyiso.com
 domain:kwaicdn.com
+domain:kwaishop.com
+domain:kwaixiaodian.com
+domain:kwaiying.com
 domain:kwaizt.com
 domain:kwimgs.com
 domain:kych5.com
@@ -3637,6 +3645,7 @@ domain:lenovonetapp.com
 domain:lenovopoc.com
 domain:lenovoprinter.com
 domain:lenovoprinter.net
+domain:letsign.com
 domain:leturich.org
 domain:letv.com
 domain:letvcdn.com
@@ -3981,6 +3990,7 @@ domain:moji002.com
 domain:mojicdn.com
 domain:mojichina.com
 domain:mojidict.com
+domain:mojidoc.com
 domain:mokahr.com
 domain:moleecel.com
 domain:moliranran.com
@@ -4456,6 +4466,7 @@ domain:qianlong.com
 domain:qiantucdn.com
 domain:qianuni.com
 domain:qianwen.com
+domain:qianwenai.com
 domain:qianxin.com
 domain:qianxincdn.com
 domain:qianxuecloud.com
@@ -5340,9 +5351,6 @@ domain:txyscdn.com
 domain:txyscdn.net
 domain:u-cdn.net
 domain:u.tools
-domain:u17.com
-domain:u17i.com
-domain:u17t.com
 domain:ubmcvideo.baidustatic.com:@ads
 domain:ubssdic.com
 domain:ubuntukylin.com
@@ -5401,6 +5409,7 @@ domain:umajor.net
 domain:umeng.com
 domain:umengcloud.com
 domain:umetrip.com
+domain:umiwi.com
 domain:umsns.com
 domain:umtrack.com
 domain:unaming.info
@@ -5815,6 +5824,7 @@ domain:wsdvs.com
 domain:wsglb.com
 domain:wsglb.net
 domain:wsjqnmmrmv.world
+domain:wskwai.com
 domain:wsoso.com
 domain:wss.cc
 domain:wss.email

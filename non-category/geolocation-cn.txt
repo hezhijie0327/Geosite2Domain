@@ -349,6 +349,7 @@ domain:59bob.cn
 domain:5bite.com
 domain:5ddd.com
 domain:5fun.com
+domain:5gxcx.net
 domain:5gzm.net
 domain:5ifund.com
 domain:5khouse.com
@@ -2310,6 +2311,7 @@ domain:ddxq.mobi
 domain:ddzn.tech
 domain:dearedu.com
 domain:debugmode.cn
+domain:dedao.cn
 domain:dedecms.com
 domain:deepepg.com
 domain:deepin.cn
@@ -2497,6 +2499,7 @@ domain:douyincloud.run
 domain:douyinec.com
 domain:douyinfe.com
 domain:douyinliving.com
+domain:douyinmusicpromotion.com
 domain:douyinpay.com
 domain:douyinpic.com
 domain:douyinstatic.com
@@ -2631,6 +2634,7 @@ domain:eceshi.com
 domain:echargenet.com
 domain:ecitic.com
 domain:ecjobhome.com
+domain:eckwai.com
 domain:eclick.baidu.com:@ads
 domain:ecloud-gdu.com
 domain:ecma.bdimg.com:@ads
@@ -3361,6 +3365,7 @@ domain:hf-aw.cn
 domain:hf-aw.com
 domain:hffunds.cn
 domain:hftfund.com
+domain:hfx.net
 domain:hfzq.com.cn
 domain:hhtravel.com
 domain:hi-butterfly.cn
@@ -4321,6 +4326,7 @@ domain:knet.cn
 domain:knewsmart.com
 domain:knownsec.com
 domain:kolbuyer.cn
+domain:komect.com
 domain:kongfz.com
 domain:koocdn.com
 domain:kookong.com
@@ -4417,6 +4423,9 @@ domain:kuyinxiu.com
 domain:kuyinyun.com
 domain:kuyiso.com
 domain:kwaicdn.com
+domain:kwaishop.com
+domain:kwaixiaodian.com
+domain:kwaiying.com
 domain:kwaizt.com
 domain:kwimgs.com
 domain:kych5.com
@@ -4563,6 +4572,7 @@ domain:lenovoprinter.com.cn
 domain:lenovoprinter.net
 domain:lenovovip.com.cn
 domain:leso.cn
+domain:letsign.com
 domain:leturich.org
 domain:letv.com
 domain:letvcdn.com
@@ -4977,6 +4987,7 @@ domain:moji002.com
 domain:mojicdn.com
 domain:mojichina.com
 domain:mojidict.com
+domain:mojidoc.com
 domain:mokahr.com
 domain:moleecel.com
 domain:moliranran.com
@@ -5581,6 +5592,7 @@ domain:qianlong.com
 domain:qiantucdn.com
 domain:qianuni.com
 domain:qianwen.com
+domain:qianwenai.com
 domain:qianxin.com
 domain:qianxincdn.com
 domain:qianxuecloud.com
@@ -6701,9 +6713,6 @@ domain:txyscdn.net
 domain:tzygd.cn
 domain:u-cdn.net
 domain:u.tools
-domain:u17.com
-domain:u17i.com
-domain:u17t.com
 domain:u3d.cn
 domain:ubmcvideo.baidustatic.com:@ads
 domain:ubssdic.com
@@ -6780,6 +6789,7 @@ domain:umengcloud.com
 domain:umetrip.com
 domain:umetrip.com.cn
 domain:umetrip.net.cn
+domain:umiwi.com
 domain:umsns.com
 domain:umtrack.com
 domain:unaming.cn
@@ -7288,6 +7298,7 @@ domain:wsdvs.com
 domain:wsglb.com
 domain:wsglb.net
 domain:wsjqnmmrmv.world
+domain:wskwai.com
 domain:wsoso.com
 domain:wss.cc
 domain:wss.email
@@ -7388,6 +7399,7 @@ domain:xiaochuanyun.com
 domain:xiaodutv.com
 domain:xiaoe-tech.com
 domain:xiaogouh5.com
+domain:xiaohe.cn
 domain:xiaoheihe.cn
 domain:xiaohongshu.com
 domain:xiaojukeji.com
@@ -7451,6 +7463,7 @@ domain:xinchong.com
 domain:xindong.com
 domain:xingjiesj.com
 domain:xingtan001.com
+domain:xingtu.cn
 domain:xingyeai.com
 domain:xinhuanet.com
 domain:xinhuashudian.com
