@@ -41,6 +41,8 @@ domain:n3ro.wtf
 domain:nexitally.com
 domain:nexitallysafe.com
 domain:nexitcore.com
+domain:nordcdn.com
+domain:nordvpn.com
 domain:paofu.cloud
 domain:paofuyun.me
 domain:renzhe.cloud
