@@ -37,5 +37,4 @@ domain:renovacionoffice.com
 domain:sprinklesapp.com
 domain:th.bing.com:@cn
 full:bj1.api.bing.com:@cn
-full:emoi-cncdn.bing.com:@cn
 full:location.microsoft.com

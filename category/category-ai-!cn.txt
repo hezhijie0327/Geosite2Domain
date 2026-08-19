@@ -56,6 +56,7 @@ domain:diabrowser.com
 domain:diabrowser.engineering
 domain:dify.ai
 domain:dola.com:@!cn
+domain:dreamgen.com
 domain:duck.ai
 domain:elevenlabs.com
 domain:elevenlabs.io
@@ -86,6 +87,7 @@ domain:jasper.ai
 domain:jetbrains.ai
 domain:jules.google
 domain:jules.google.com
+domain:kimi.ai
 domain:kiro.dev
 domain:labs.google
 domain:labs.google.com
@@ -102,10 +104,13 @@ domain:meta.ai
 domain:midjourney.com
 domain:minimax.io
 domain:mistral.ai
+domain:moonshot.ai
 domain:mozilla.ai
 domain:notebook.google.com
 domain:notebooklm.google
 domain:notebooklm.google.com
+domain:notegpt.io
+domain:novelai.net
 domain:oaistatic.com
 domain:oaistatsig.com
 domain:oaiusercontent.com
@@ -132,6 +137,7 @@ domain:sider.ai
 domain:sora.com
 domain:spicywriter.com
 domain:stitch.withgoogle.com
+domain:talkai.info
 domain:tapnow.ai
 domain:themeforest.net
 domain:trae.ai:@!cn

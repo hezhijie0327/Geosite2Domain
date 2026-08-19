@@ -4996,7 +4996,6 @@ domain:monitor.music.qq.com:@ads
 domain:monitor.uu.qq.com:@ads
 domain:mooc.cn
 domain:moocollege.com
-domain:moonshot.ai
 domain:moonshot.cn
 domain:moonvy.com
 domain:moonvy.cool

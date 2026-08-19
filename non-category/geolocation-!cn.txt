@@ -6691,6 +6691,7 @@ domain:drdreprobeatssale.com
 domain:dreamamateurs.com
 domain:dreambmw.ca
 domain:dreamforce.com
+domain:dreamgen.com
 domain:dreammovies.com
 domain:dreamorder.com
 domain:dreamteamfc.com
@@ -12572,6 +12573,7 @@ domain:kikdirty.com
 domain:killercb.ru
 domain:kilmeadeandfriends.com
 domain:kimchi.tv
+domain:kimi.ai
 domain:kimogirl.cc
 domain:kimosex.com
 domain:kindgirls.com
@@ -14506,6 +14508,7 @@ domain:moodstocks.com
 domain:moomoo.com
 domain:moomooequity.com
 domain:moomootrustee.com
+domain:moonshot.ai
 domain:moov.hk
 domain:moozporn.com
 domain:morazzia.com
@@ -15599,6 +15602,7 @@ domain:nordstrommedia.com
 domain:nordvpn.com
 domain:norsk.mobi
 domain:norton.com
+domain:notegpt.io
 domain:notepad-plus-plus.org
 domain:noticias-rt.com
 domain:notimundo.press
@@ -15609,6 +15613,7 @@ domain:notion.new
 domain:notion.site
 domain:notion.so
 domain:notionusercontent.com
+domain:novelai.net
 domain:noveltrove.com
 domain:novids.com
 domain:novinhabucetuda.com
@@ -20088,6 +20093,7 @@ domain:takporn.com
 domain:talantix.ru
 domain:talentlens.com
 domain:taleofthenight.com
+domain:talkai.info
 domain:talkingkotlin.com
 domain:talksport.com
 domain:tamilsexvideos.cc
@@ -24115,7 +24121,6 @@ full:advert-api.wildberries.ru:@ads
 full:advert-media-api.wb.ru:@ads
 full:advert-media-api.wildberries.ru:@ads
 full:advk.vk.ru:@ads
-full:afcs.dell.com:@cn
 full:agb9r0ad.qllfkl.com
 full:agency-adv.ozon.ru:@ads
 full:alibaba.cdn.steampipe.steamcontent.com:@cn
@@ -24253,7 +24258,6 @@ full:clickserver.googleads.com:@cn
 full:client-api.itunes.apple.com:@cn
 full:clientflow.apple.com.akadns.net:@cn
 full:clientflow.apple.com:@cn
-full:clientperipherals.dell.com:@cn
 full:clientservices.googleapis.com:@cn
 full:cma.itunes.apple.com:@cn
 full:cn-smp-paymentservices.apple.com:@cn
@@ -24281,7 +24285,6 @@ full:csi.gstatic.com:@cn
 full:cstat.apple.com:@cn
 full:cstat.cdn-apple.com:@cn
 full:ctldl.windowsupdate.com:@cn
-full:customization-cdn.dell.com:@cn
 full:dartsearch-cn.net:@cn
 full:databank.worldbank.org
 full:datarouter.apps.netherrealm.com
@@ -24291,7 +24294,6 @@ full:dc1-pp.ksn.kaspersky-labs.com:@cn
 full:dc1-st.ksn.kaspersky-labs.com:@cn
 full:dc1.ksn.kaspersky-labs.com:@cn
 full:dd-cdn.origin-apple.com.akadns.net:@cn
-full:dds.dell.com:@cn
 full:dejavu.apple.com:@cn
 full:deribit.cdn.prismic.io
 full:deutschewelle.h-cdn.com
@@ -24302,7 +24304,6 @@ full:dg-meta.video.google.com:@cn
 full:discussionschinese.apple.com:@cn
 full:disney.my.sentry.io:@ads
 full:dl.begellhouse.com
-full:dl.dell.com:@cn
 full:dl.google.com:@cn
 full:dl.l.google.com:@cn
 full:dnl-00.geo.kaspersky.com:@cn
@@ -24335,19 +24336,14 @@ full:download.visualstudio.microsoft.com:@cn
 full:downloaddispatch.itunes.apple.com:@cn
 full:dreamspark.download.prss.microsoft.com:@cn
 full:dreamsparkuat.download.prss.microsoft.com:@cn
-full:ea2cn-dev-outlet.dell.com:@cn
-full:ea2cn-prod-outlet.dell.com:@cn
-full:ea2cn-staging-outlet.dell.com:@cn
 full:edge.geo.kaspersky.com:@cn
 full:elib.maruzen.co.jp
-full:emoi-cncdn.bing.com:@cn
 full:entitlements-edge.itunes.apple.com:@cn
 full:error-tracking.megamarket.tech:@ads
 full:experiments.apple.com:@cn
 full:f.c2r.ts.cdn.office.net:@cn
 full:f3b7q2p3.ssl.hwcdn.net
 full:faronics.kayako.com
-full:fcs.dell.com:@cn
 full:fides-pol.apple.com:@cn
 full:firebase-settings.crashlytics.com:@cn
 full:firstsearch.oclc.org
@@ -24355,16 +24351,10 @@ full:fontfiles.googleapis.com:@cn
 full:fonts.googleapis.com:@cn
 full:fonts.gstatic.com:@cn
 full:fpinit.itunes.apple.com:@cn
-full:fta.dell.com:@cn
-full:ftaapj.dell.com:@cn
-full:ftaemea.dell.com:@cn
-full:ftasitapj.dell.com:@cn
 full:g0.gstatic.com:@cn
 full:g1.gstatic.com:@cn
 full:g2.gstatic.com:@cn
 full:g3.gstatic.com:@cn
-full:gbxgateway-dev.dell.com:@cn
-full:gbxgateway.dell.com:@cn
 full:github-api.arkoselabs.com
 full:gitlab-assets.oss-cn-hongkong.aliyuncs.com
 full:gog-cdn-lumen.secure2.footprint.net
@@ -24422,7 +24412,6 @@ full:hb4bbbbb.pmhcjk.com
 full:holoxx.f5.si
 full:hpstore.corpmerchandise.com
 full:hub.slarker.me
-full:i.dell.com:@cn
 full:i.jeded.com
 full:i.pki.goog:@cn
 full:images-cn-8.ssl-images-amazon.com:@cn
@@ -24534,7 +24523,6 @@ full:myapp.itunes.apple.com:@cn
 full:myvs.download.prss.microsoft.com:@cn
 full:nbbb1bb7.pmhcjk.com
 full:new-adv.ozon.ru:@ads
-full:nexus.dell.com:@cn
 full:np-edge.itunes.apple.com:@cn
 full:ntp-c.colorado.edu
 full:ntp.aliyun.com:@cn
@@ -24582,7 +24570,6 @@ full:oscdn.origin-apple.com.akadns.net:@cn
 full:osrelease.download.prss.microsoft.com:@cn
 full:osxapps.itunes.apple.com:@cn
 full:osxapps.itunes.g.aaplimg.com:@cn
-full:p.cdn.persaas.dell.com:@cn
 full:p00.upd.kaspersky.com:@cn
 full:p01.upd.kaspersky.com:@cn
 full:p02.upd.kaspersky.com:@cn
@@ -24702,7 +24689,6 @@ full:sa78gs.wpc.edgecastcdn.net
 full:safebrowsing-cache.google.com:@cn
 full:safebrowsing.googleapis.com:@cn
 full:sberpro.vedomosti.ru
-full:scene7-cdn.dell.com:@cn
 full:sdx.microsoft.com:@cn
 full:se-edge.itunes.apple.com:@cn
 full:se2.itunes.apple.com:@cn
@@ -24728,12 +24714,8 @@ full:sf-api-token-service.itunes.apple.com:@cn
 full:sh-pod2-smp-device.apple.com:@cn
 full:shazam-insights.cdn-apple.com:@cn
 full:shell.cdn.office.net:@cn
-full:si.cdn.dell.com:@cn
-full:sm.dell.com:@cn
 full:smp-device-content.apple.com:@cn
 full:sni1dcb6gl.wpc.edgecastcdn.net
-full:snp.cdn.dell.com:@cn
-full:snpi.dell.com:@cn
 full:software.download.prss.microsoft.com:@cn
 full:sp.itunes.apple.com:@cn
 full:speedysub.music.apple.com:@cn
@@ -24769,7 +24751,6 @@ full:su.itunes.apple.com:@cn
 full:supercell.helpshift.com
 full:support-china.apple-support.akadns.net:@cn
 full:support.apple.com:@cn
-full:supportassist.dell.com:@cn
 full:surface.download.prss.microsoft.com:@cn
 full:surface.downloads.prss.microsoft.com:@cn
 full:swallow-apple-com.v.aaplimg.com:@cn
@@ -24794,7 +24775,6 @@ full:tj-pod2-smp-device.apple.com:@cn
 full:tj-pod3-smp-device.apple.com:@cn
 full:tools.google.com:@cn
 full:top-staging.mail.ru:@ads
-full:tp.louisvuitton.com:@cn
 full:tracing-http.megamarket.tech:@ads
 full:ubisoft.siteintercept.qualtrics.com
 full:universal-activity-service.itunes.apple.com:@cn
@@ -24803,7 +24783,6 @@ full:update.googleapis.com:@cn
 full:updates-http.cdn-apple.com.akadns.net:@cn
 full:updates-http.cdn-apple.com:@cn
 full:updates.cdn-apple.com:@cn
-full:uplaypc-s-ubisoft.cdn.ubi.com:@cn
 full:upp.itunes.apple.com:@cn
 full:ut1-time.colorado.edu
 full:utcnist.colorado.edu
@@ -24829,13 +24808,10 @@ full:widgets.stripst.com
 full:windbg.download.prss.microsoft.com:@cn
 full:wrds-www.wharton.upenn.edu
 full:ws.audioscrobbler.com
-full:www-csb.dell.com:@cn
 full:www-google-analytics.l.google.com:@cn
 full:www-googletagmanager.l.google.com:@cn
-full:www.amd.com:@cn
 full:www.apple.com.edgekey.net.globalredir.akadns.net:@cn
 full:www.apple.com:@cn
-full:www.dell.com:@cn
 full:www.destinationurl.com:@cn
 full:www.entrust.cn:@cn
 full:www.gstatic.com:@cn

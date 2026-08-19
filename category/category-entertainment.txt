@@ -2103,7 +2103,6 @@ full:ubistatic7-a.akamaihd.net
 full:ubistatic8-a.akamaihd.net
 full:ubistatic9-a.akamaihd.net
 full:universal-activity-service.itunes.apple.com:@cn
-full:uplaypc-s-ubisoft.cdn.ubi.com:@cn
 full:upp.itunes.apple.com:@cn
 full:videos-rockstargames-com.akamaized.net
 full:vod-abematv.akamaized.net

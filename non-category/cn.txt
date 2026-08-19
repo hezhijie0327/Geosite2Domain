@@ -3998,7 +3998,6 @@ domain:monika.love
 domain:monitor.music.qq.com:@ads
 domain:monitor.uu.qq.com:@ads
 domain:moocollege.com
-domain:moonshot.ai
 domain:moonvy.com
 domain:moonvy.cool
 domain:mop.com

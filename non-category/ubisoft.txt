@@ -29,4 +29,3 @@ full:ubistatic6-a.akamaihd.net
 full:ubistatic7-a.akamaihd.net
 full:ubistatic8-a.akamaihd.net
 full:ubistatic9-a.akamaihd.net
-full:uplaypc-s-ubisoft.cdn.ubi.com:@cn

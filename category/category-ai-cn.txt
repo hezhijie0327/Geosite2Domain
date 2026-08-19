@@ -67,7 +67,6 @@ domain:miaibox.com
 domain:miaoda.cn
 domain:miaoyanai.com
 domain:minimaxi.com
-domain:moonshot.ai
 domain:moonshot.cn
 domain:myparallelstory.com
 domain:n.cn
