@@ -8,6 +8,7 @@ domain:2ch.su
 domain:4cdn.org
 domain:4chan.org
 domain:4channel.org
+domain:5ch.io
 domain:5ch.net
 domain:5i01.com
 domain:6park.com

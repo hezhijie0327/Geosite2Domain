@@ -281,6 +281,7 @@ domain:faecebok.com
 domain:faesebook.com
 domain:fafacebook.com
 domain:faicbooc.com
+domain:fansly.com
 domain:fasebokk.com
 domain:fasebook.com
 domain:faseboox.com

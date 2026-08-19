@@ -15,6 +15,7 @@ domain:amazonaws.tv
 domain:amazoncognito.com
 domain:amazonses.com
 domain:amazonwebservices.cn:@cn
+domain:amazonwebservices.com
 domain:amazonwebservices.com.cn:@cn
 domain:amazonworkdocs.cn:@cn
 domain:amazonworkdocs.com
@@ -34,6 +35,8 @@ domain:aws
 domain:aws-border.cn:@cn
 domain:aws-icp-domain-manager.cn:@cn
 domain:aws-iot-hackathon.com
+domain:aws.a2z.com
+domain:aws.amazon.com
 domain:aws.com
 domain:aws.dev
 domain:awsapprunner.com

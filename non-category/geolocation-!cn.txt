@@ -382,6 +382,7 @@ domain:592r.com
 domain:59mvmv.com
 domain:5axis-machining.com
 domain:5beatsbydre.com
+domain:5ch.io
 domain:5ch.net
 domain:5fang.cc
 domain:5i01.com
@@ -1561,6 +1562,7 @@ domain:amazonvideo.cc
 domain:amazonvideo.com
 domain:amazonvideodirect.com
 domain:amazonwebservices.cn:@cn
+domain:amazonwebservices.com
 domain:amazonwebservices.com.cn:@cn
 domain:amazonworkdocs.cn:@cn
 domain:amazonworkdocs.com
@@ -7999,6 +8001,7 @@ domain:fans-here.com
 domain:fans17.com
 domain:fans66.tw
 domain:fansking.tw
+domain:fansly.com
 domain:fansnudes.com
 domain:fansone.co
 domain:fanspot.jp
@@ -15301,6 +15304,8 @@ domain:nichost.ru
 domain:nickscipio.com
 domain:nicky.xxx
 domain:nico
+domain:nico.ms
+domain:nicochannel.jp
 domain:nicodic.jp
 domain:nicolepeters.com
 domain:nicomanga.jp
