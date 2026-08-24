@@ -13,5 +13,6 @@ domain:mos-gorsud.co
 domain:pushbr.com
 domain:smarttvcdn.online
 domain:support-kp.com
+domain:teleos.club
 domain:tsx.ovh
 regexp:(\w+)-static-[0-9]+\.cdntogo\.net$
