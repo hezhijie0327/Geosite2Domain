@@ -1,4 +1,5 @@
 domain:ads.yahoo.com:@ads
+domain:aolcdn.com
 domain:flic.kr
 domain:flickr
 domain:flickr.com
@@ -6,6 +7,7 @@ domain:flickr.net
 domain:gemini.yahoo.com:@ads
 domain:maktoob.com
 domain:myguide.hk
+domain:ouryahoo.com
 domain:staticflickr.com
 domain:techcrunch.com
 domain:yahoo
@@ -163,6 +165,7 @@ domain:yahooapis.com
 domain:yahoodns.net
 domain:yahoofinance.com
 domain:yahoohealth.com
+domain:yahooinc.com
 domain:yahoomusic.com
 domain:yahoosandbox.com
 domain:yahoosportsbook.com

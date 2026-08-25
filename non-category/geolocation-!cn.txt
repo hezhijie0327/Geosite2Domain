@@ -705,6 +705,7 @@ domain:adguard.info
 domain:adguard.io
 domain:adguard.org
 domain:adguardaccount.com
+domain:adguardaccount.net
 domain:adguardcdn.com
 domain:adguardvpn.com
 domain:adhelpnews.com
@@ -1737,6 +1738,7 @@ domain:aoaou.iillii.net
 domain:aoc.cat
 domain:aodahl.com
 domain:aokwholesale.net
+domain:aolcdn.com
 domain:aomedia.org
 domain:aorus.com
 domain:aoruszone.cn:@cn
@@ -16225,6 +16227,7 @@ domain:ouroath.com
 domain:oursexgames.com
 domain:ourshdtv.com
 domain:ourshemales.com
+domain:ouryahoo.com
 domain:out-app-purchase.com
 domain:outbound.io
 domain:outdoorpublicsex.com
@@ -23456,6 +23459,7 @@ domain:yahooapis.com
 domain:yahoodns.net
 domain:yahoofinance.com
 domain:yahoohealth.com
+domain:yahooinc.com
 domain:yahoomusic.com
 domain:yahoosandbox.com
 domain:yahoosportsbook.com

@@ -472,6 +472,7 @@ domain:antiphishing.ru
 domain:anydesk.com
 domain:aodahl.com
 domain:aokwholesale.net
+domain:aolcdn.com
 domain:aorus.com
 domain:aoruszone.cn:@cn
 domain:ap0le.com
@@ -5715,6 +5716,7 @@ domain:ospray.net
 domain:ospray.org
 domain:ospserver.net
 domain:ouroath.com
+domain:ouryahoo.com
 domain:out-app-purchase.com
 domain:outingsapp.com
 domain:outletbeatsshop.com
@@ -7340,6 +7342,7 @@ domain:yahooapis.com
 domain:yahoodns.net
 domain:yahoofinance.com
 domain:yahoohealth.com
+domain:yahooinc.com
 domain:yahoomusic.com
 domain:yahoosandbox.com
 domain:yahoosportsbook.com
