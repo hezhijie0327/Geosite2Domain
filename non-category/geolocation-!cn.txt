@@ -9887,6 +9887,7 @@ domain:h-top.supertop-100.com
 domain:h-webtoon.com
 domain:h0930.com
 domain:h18ani1.vip
+domain:h264.io
 domain:h2o.ai
 domain:h2porn.com
 domain:h528.com
@@ -15270,6 +15271,7 @@ domain:nftables.org
 domain:nftstatic.com
 domain:nftstorage.link
 domain:ngeo.com
+domain:ngfiles.com
 domain:nginx.com
 domain:nginx.org
 domain:nginxconfig.io
