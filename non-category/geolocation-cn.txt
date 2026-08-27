@@ -124,6 +124,7 @@ domain:1ting.com
 domain:1tyy.cn
 domain:1xhh.cn
 domain:1zhe.com
+domain:20130123.com
 domain:21cn.com
 domain:21cnjy.com
 domain:21jingji.com
@@ -624,6 +625,7 @@ domain:aidream.website
 domain:aiemy.com
 domain:aiganggu.com
 domain:aigc-cloud.com
+domain:aigefurniture.com
 domain:aigodlike.com
 domain:aihst8.com
 domain:aihuishou.com
@@ -4618,6 +4620,7 @@ domain:linglong.space
 domain:linglonglife.com
 domain:lingshoujia.com
 domain:lingxigames.com
+domain:lingxing.com
 domain:linka2a.net
 domain:linkflowtech.com
 domain:linkheer.com
@@ -7957,6 +7960,7 @@ domain:zijiewap.com
 domain:zijiewap.net
 domain:zilrms.com
 domain:zimgs.cn
+domain:ziniao.com
 domain:ziroom.com
 domain:ziroomapartment.com
 domain:zixiaomao.com
