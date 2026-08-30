@@ -1754,7 +1754,6 @@ domain:api-adservices.apple.com:@ads
 domain:api-extractor.com
 domain:api.ai
 domain:api.news
-domain:api2.amplitude.com:@ads
 domain:apiauto.ru
 domain:apibay.org
 domain:apigee.com

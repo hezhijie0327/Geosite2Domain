@@ -183,6 +183,12 @@ domain:analytics.umetrip.com
 domain:analytics.vk.com:@ads
 domain:analytics.vpc.duolingo.com:@ads
 domain:api-adservices.apple.com:@ads
+domain:api-secure.amplitude.com:@ads
+domain:api-secure.eu.amplitude.com:@ads
+domain:api-sr.amplitude.com:@ads
+domain:api-sr.eu.amplitude.com:@ads
+domain:api.amplitude.com:@ads
+domain:api.eu.amplitude.com:@ads
 domain:api2.amplitude.com:@ads
 domain:app-ads-services.com:@ads
 domain:app-analytics-services-att.com:@ads
@@ -201,6 +207,8 @@ domain:apptracer.ru:@ads
 domain:ar.umeng.com:@ads
 domain:ark.letv.com:@ads
 domain:aspect-upush.umeng.com:@ads
+domain:assistant-api.amplitude.com:@ads
+domain:assistant-api.eu.amplitude.com:@ads
 domain:assp.sohu.com:@ads
 domain:atanx.alicdn.com:@ads
 domain:atanx2.alicdn.com:@ads
@@ -236,7 +244,9 @@ domain:casalemedia.com:@ads
 domain:cb.baidu.com:@ads
 domain:cbjs.baidu.com:@ads
 domain:ccs.umeng.com:@ads
+domain:cdn.amplitude.com:@ads
 domain:cdn.banclip.com
+domain:cdn.eu.amplitude.com:@ads
 domain:cdp.cloud.unity3d.com:@ads
 domain:cfts1tifqr.com
 domain:china-caa.org
@@ -311,6 +321,8 @@ domain:eduad.baidu.com:@ads
 domain:eiv.baidu.com:@ads
 domain:emogi.com
 domain:ems.youku.com:@ads
+domain:engagement-static.amplitude.com:@ads
+domain:engagement-static.eu.amplitude.com:@ads
 domain:ero-advertising.com
 domain:eroadvertising.com
 domain:euads-o.api.leiniao.com:@ads
@@ -369,6 +381,8 @@ domain:graph.whatsapp.net:@ads
 domain:growin.cn
 domain:growingio.cn
 domain:growingio.com
+domain:gs.amplitude.com:@ads
+domain:gs.eu.amplitude.com:@ads
 domain:guanggaoad.youku.com:@ads
 domain:gz-data.com
 domain:gzads.com
@@ -426,6 +440,8 @@ domain:kaprila.com
 domain:kepler-37b.com
 domain:kurogames-ads.com:@ads
 domain:kuyun.com
+domain:lab.amplitude.com:@ads
+domain:lab.eu.amplitude.com:@ads
 domain:ladsp.com:@ads
 domain:leanplum.com
 domain:lianmeng.360.cn:@ads
@@ -571,6 +587,8 @@ domain:r.mail.ru:@ads
 domain:radar.imgsmail.ru:@ads
 domain:reachmax.cn
 domain:realsrv.com
+domain:regionconfig.amplitude.com:@ads
+domain:regionconfig.eu.amplitude.com:@ads
 domain:reke.at.sohu.com:@ads
 domain:relap.mail.ru:@ads
 domain:report.qqweb.qq.com:@ads
@@ -621,6 +639,8 @@ domain:spcode.baidu.com:@ads
 domain:splash-ads.cdn.unity.cn:@ads
 domain:splash-ads.unitychina.cn:@ads
 domain:spotxchange.com:@ads
+domain:sr-client-cfg.amplitude.com:@ads
+domain:sr-client-cfg.eu.amplitude.com:@ads
 domain:ssacdn.com:@ads
 domain:ssp.api.tappx.com
 domain:stat.m.jd.com:@ads

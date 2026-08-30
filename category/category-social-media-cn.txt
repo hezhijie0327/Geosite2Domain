@@ -69,6 +69,8 @@ domain:t.cn
 domain:taou.com
 domain:tieba.baidu.com
 domain:tieba.com
+domain:uneed.com
+domain:uneedx.com
 domain:videoself.cn
 domain:vzuu.com
 domain:wapwbclick.mobile.sina.cn:@ads

@@ -27,6 +27,7 @@ domain:sptv.ii00.cc
 domain:stream.ntrrr.top
 domain:stream.synn.cc
 domain:texon.fans
+domain:uhdnow.com
 domain:yunti.online
 full:agahk.odysseyplus.site
 full:agahk1.jmsooo.com

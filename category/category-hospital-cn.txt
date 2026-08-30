@@ -1,3 +1,4 @@
+domain:ba-hospital.com
 domain:cd120.com
 domain:cd120.info
 domain:fuwai.com

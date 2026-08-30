@@ -1,5 +1,4 @@
 domain:analytics.cloud.unity3d.com:@ads
-domain:api2.amplitude.com:@ads
 domain:cdp.cloud.unity3d.com:@ads
 domain:config.uca.cloud.unity3d.com:@ads
 domain:iads.unity3d.com:@ads

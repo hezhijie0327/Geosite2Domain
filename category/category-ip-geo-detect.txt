@@ -6,6 +6,8 @@ domain:abstractapi.com
 domain:addr.tools
 domain:apiip.net
 domain:apivoid.com
+domain:bgp.he.net
+domain:bgp.tools
 domain:bigdatacloud.net
 domain:browserleaks.com
 domain:check-host.net

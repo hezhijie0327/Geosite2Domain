@@ -18,7 +18,6 @@ domain:android.com
 domain:androidify.com
 domain:apache.org
 domain:api-extractor.com
-domain:api2.amplitude.com:@ads
 domain:apisof.net
 domain:appcenter.ms
 domain:apple-cloudkit.com
