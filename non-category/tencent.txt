@@ -539,7 +539,9 @@ domain:tencentbyod.com
 domain:tencentcdb.cn
 domain:tencentcdb.com
 domain:tencentcdb.com.cn
+domain:tencentclb.cn
 domain:tencentclb.com
+domain:tencentclb.com.cn
 domain:tencentcloud-aiot.com
 domain:tencentcloud.com
 domain:tencentcloudapi.com
@@ -563,6 +565,7 @@ domain:tencenteiam.com
 domain:tencentelasticsearch.com
 domain:tencentid.com
 domain:tencentidentity.com
+domain:tencentmiying.com
 domain:tencentmusic.com
 domain:tencentproxy.com
 domain:tencentrio.com
@@ -573,6 +576,7 @@ domain:tencentwepark.com
 domain:tencentyun.com
 domain:tendbcluster.com
 domain:tendis.net
+domain:tengmed.com
 domain:tenpay.com
 domain:testjrzk.net.cn
 domain:testmeet.cn

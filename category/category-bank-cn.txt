@@ -113,12 +113,14 @@ domain:psbc.com
 domain:shrbank.com
 domain:spdb.com.cn
 domain:suningbank.com
+domain:tctpwebankcdn.net
 domain:test-cignacmb.com
 domain:unionpay.com
 domain:unionpay.net
 domain:unionpayintl.cn
 domain:unionpayintl.com
 domain:unionpaysecure.com
+domain:wbweilicai.com
 domain:webank.com
 domain:webankcdn.net
 domain:wegobank.cn

@@ -30,6 +30,7 @@ domain:cozetest3.cn
 domain:cueme.cn
 domain:dbbuilding.fun
 domain:deepseek.com
+domain:deepseeksvc.com
 domain:diandianlife.top
 domain:doubao-dev.com
 domain:doubao.com
@@ -95,6 +96,7 @@ domain:tongyi.com
 domain:trae.cn
 domain:trae.com.cn
 domain:trae.guru
+domain:workbuddy.cn
 domain:xiaoaiassist.com
 domain:xiaomimimo.com
 domain:xiezuocat.com

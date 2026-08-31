@@ -277,7 +277,9 @@ domain:tencentbyod.com
 domain:tencentcdb.cn
 domain:tencentcdb.com
 domain:tencentcdb.com.cn
+domain:tencentclb.cn
 domain:tencentclb.com
+domain:tencentclb.com.cn
 domain:tencentcloud-aiot.com
 domain:tencentcloudapi.com
 domain:tencentcloudclub.com

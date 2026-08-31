@@ -18,6 +18,7 @@ domain:360panyun.cn
 domain:360pay.cn
 domain:360qhcdn.com
 domain:360safe.com
+domain:360scdn.com
 domain:360shouji.com
 domain:360sjyh.cn
 domain:360so.com

@@ -191,6 +191,7 @@ domain:360panyun.cn
 domain:360pay.cn
 domain:360qhcdn.com
 domain:360safe.com
+domain:360scdn.com
 domain:360shouji.com
 domain:360sjyh.cn
 domain:360so.com
@@ -2334,6 +2335,7 @@ domain:deepin.com
 domain:deepin.org.cn
 domain:deepinos.org
 domain:deepseek.com
+domain:deepseeksvc.com
 domain:dengguobi.com
 domain:deppon.com
 domain:deppon.com.cn
@@ -6368,6 +6370,7 @@ domain:tcloudscdn.net
 domain:tcltech.com
 domain:tcp5.com
 domain:tcss.qq.com:@ads
+domain:tctpwebankcdn.net
 domain:tcwqqdy.guru
 domain:tdnsdl1.cn
 domain:tdnsdl1.com.cn
@@ -6447,7 +6450,9 @@ domain:tencentbyod.com
 domain:tencentcdb.cn
 domain:tencentcdb.com
 domain:tencentcdb.com.cn
+domain:tencentclb.cn
 domain:tencentclb.com
+domain:tencentclb.com.cn
 domain:tencentcloud-aiot.com
 domain:tencentcloud.com
 domain:tencentcloudapi.com
@@ -6471,6 +6476,7 @@ domain:tencenteiam.com
 domain:tencentelasticsearch.com
 domain:tencentid.com
 domain:tencentidentity.com
+domain:tencentmiying.com
 domain:tencentmusic.com
 domain:tencentproxy.com
 domain:tencentrio.com
@@ -6483,6 +6489,7 @@ domain:tenda.com.cn
 domain:tendbcluster.com
 domain:tendcloud.com
 domain:tendis.net
+domain:tengmed.com
 domain:tenpay.com
 domain:tenxcloud.com
 domain:tesoon.com
@@ -7179,6 +7186,7 @@ domain:wasumedia.cn
 domain:wbclick.mobile.sina.cn:@ads
 domain:wbimg.cn
 domain:wbimg.com
+domain:wbweilicai.com
 domain:wcbygame.com
 domain:wcdn.cn
 domain:wch-ic.com
@@ -7308,6 +7316,7 @@ domain:woodo.cn
 domain:wooyun.org
 domain:woozooo.com
 domain:woread.com.cn
+domain:workbuddy.cn
 domain:workercn.cn
 domain:worktile.com
 domain:worldofship.cn

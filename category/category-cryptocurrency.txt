@@ -112,7 +112,10 @@ domain:fantom.network
 domain:fiat24.com
 domain:flare.network
 domain:fundingrates.xyz
+domain:gate.com
 domain:gate.io
+domain:gate.tv
+domain:gateapi.io
 domain:gatedata.org
 domain:gateimg.com
 domain:gateio.live

@@ -3603,6 +3603,7 @@ domain:blackamateursvideos.com
 domain:blackandstacked.com
 domain:blackboxgames.com
 domain:blacked.com
+domain:blackedraw.com
 domain:blackfridaydrebeatsnew.com
 domain:blackfridaydrebeatsshop.com
 domain:blackhomeporn.com
@@ -8966,7 +8967,10 @@ domain:garenanow.com
 domain:garotaporno.com
 domain:gastrointestinalexam.com
 domain:gate.cc
+domain:gate.com
 domain:gate.io
+domain:gate.tv
+domain:gateapi.io
 domain:gatedata.org
 domain:gateimg.com
 domain:gateio.live
@@ -13987,6 +13991,7 @@ domain:milfthreesomes.com
 domain:milftube.pro
 domain:milftugs.com
 domain:milfvr.com
+domain:milfy.com
 domain:milfzr.com
 domain:miliav.com
 domain:milkmanbook.com
@@ -19209,6 +19214,7 @@ domain:slackhq.com
 domain:slashdot.org
 domain:slavbank.ru
 domain:slavicstar.com
+domain:slayed.com
 domain:slc.tl
 domain:sldolls.com
 domain:sleazyneasy.com
@@ -20935,6 +20941,7 @@ domain:turkeyblocks.org
 domain:turn.livekit.cloud
 domain:tusco.ru
 domain:tushy.com
+domain:tushyraw.com
 domain:tuta.com
 domain:tuta.io
 domain:tutamail.com
@@ -21777,6 +21784,7 @@ domain:viu.tv
 domain:vivaldi.com
 domain:vivaxnxx.com
 domain:vixen.com
+domain:vixengroup.com
 domain:vixvids.to
 domain:vjav.com
 domain:vjmedia.com.hk

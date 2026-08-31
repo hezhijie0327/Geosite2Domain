@@ -1,1 +1,2 @@
 domain:deepseek.com
+domain:deepseeksvc.com

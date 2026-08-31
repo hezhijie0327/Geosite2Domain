@@ -150,6 +150,7 @@ domain:360kuai.com
 domain:360os.com
 domain:360qhcdn.com
 domain:360safe.com
+domain:360scdn.com
 domain:360shouji.com
 domain:360so.com
 domain:360sou.com
@@ -1838,6 +1839,7 @@ domain:deepepg.com
 domain:deepin.com
 domain:deepinos.org
 domain:deepseek.com
+domain:deepseeksvc.com
 domain:dengguobi.com
 domain:deppon.com
 domain:develenv.com
@@ -5086,6 +5088,7 @@ domain:tcloudscdn.net
 domain:tcltech.com
 domain:tcp5.com
 domain:tcss.qq.com:@ads
+domain:tctpwebankcdn.net
 domain:tcwqqdy.guru
 domain:tdnsv1.com
 domain:tdnsv1.net
@@ -5165,6 +5168,7 @@ domain:tencenteiam.com
 domain:tencentelasticsearch.com
 domain:tencentid.com
 domain:tencentidentity.com
+domain:tencentmiying.com
 domain:tencentmusic.com
 domain:tencentproxy.com
 domain:tencentrio.com
@@ -5176,6 +5180,7 @@ domain:tencentyun.com
 domain:tendbcluster.com
 domain:tendcloud.com
 domain:tendis.net
+domain:tengmed.com
 domain:tenpay.com
 domain:tenxcloud.com
 domain:tesoon.com
@@ -5745,6 +5750,7 @@ domain:warmheart.top
 domain:wasu.tv
 domain:wbclick.mobile.sina.cn:@ads
 domain:wbimg.com
+domain:wbweilicai.com
 domain:wcbygame.com
 domain:wch-ic.com
 domain:wdfok.com
