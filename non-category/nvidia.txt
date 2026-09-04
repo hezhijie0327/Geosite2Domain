@@ -11,6 +11,9 @@ domain:gputechconf.com.tw
 domain:gputechconf.eu
 domain:gputechconf.in
 domain:gputechconf.jp
+domain:hf.co
+domain:hf.space
+domain:huggingface.co
 domain:nvidia.asia
 domain:nvidia.at
 domain:nvidia.be
