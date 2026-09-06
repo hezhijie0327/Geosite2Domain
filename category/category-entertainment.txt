@@ -1983,6 +1983,7 @@ full:itunes-apple.com.akadns.net:@cn
 full:itunes.apple.com:@cn
 full:itunesconnect.apple.com:@cn
 full:js-cdn.music.apple.com:@cn
+full:lastfm-img.freetls.fastly.net
 full:lastfm.freetls.fastly.net
 full:lazer.ppy.sh
 full:lgcscc-hamivideo2.cdn.hinet.net
