@@ -7,3 +7,5 @@ domain:duba.net
 domain:ijinshan.com
 domain:keniu.com
 domain:liebao.cn
+domain:yuanqidesk.com
+domain:zhhainiao.com

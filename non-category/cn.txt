@@ -6259,6 +6259,7 @@ domain:ytoluohan.xin
 domain:ytzq.com
 domain:yuanbei.biz
 domain:yuanfudao.com
+domain:yuanqidesk.com
 domain:yuanshen.com
 domain:yuansouti.com
 domain:yuantiku.com
@@ -6378,6 +6379,7 @@ domain:zhaopin.com
 domain:zhcw.com
 domain:zhenai.com
 domain:zhfund.com
+domain:zhhainiao.com
 domain:zhi10.com
 domain:zhibo8.cc
 domain:zhibo8.com

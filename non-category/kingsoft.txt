@@ -41,3 +41,5 @@ domain:wpspdf.cn
 domain:xishanju.com
 domain:xoyo.com
 domain:xoyocdn.com
+domain:yuanqidesk.com
+domain:zhhainiao.com
