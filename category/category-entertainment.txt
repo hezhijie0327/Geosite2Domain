@@ -2016,6 +2016,7 @@ full:origin-a.akamaihd.net
 full:osu.ppy.sh
 full:osxapps.itunes.apple.com:@cn
 full:osxapps.itunes.g.aaplimg.com:@cn
+full:p16-tiktok-dm-sticker-sign-sg.ibyteimg.com:@!cn
 full:p16-tiktokcdn-com.akamaized.net:@!cn
 full:pd-nk.itunes.apple.com:@cn
 full:pd.itunes.apple.com:@cn

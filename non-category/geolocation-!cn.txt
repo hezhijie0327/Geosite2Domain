@@ -19857,6 +19857,9 @@ domain:stripcamfun.com
 domain:stripchat.com
 domain:stripe-terminal-local-reader.net
 domain:stripe.com
+domain:stripe.dev
+domain:stripe.events
+domain:stripe.global
 domain:stripe.network
 domain:stripecdn.com
 domain:stripparadise.com
@@ -24601,6 +24604,7 @@ full:p12.upd.kaspersky.com:@cn
 full:p13.upd.kaspersky.com:@cn
 full:p14.upd.kaspersky.com:@cn
 full:p15.upd.kaspersky.com:@cn
+full:p16-tiktok-dm-sticker-sign-sg.ibyteimg.com:@!cn
 full:p16-tiktokcdn-com.akamaized.net:@!cn
 full:p16.upd.kaspersky.com:@cn
 full:p17.upd.kaspersky.com:@cn
