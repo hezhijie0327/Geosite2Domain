@@ -6,6 +6,7 @@ domain:discovershiretoko.org
 domain:ecmascript.org
 domain:extendfirefox.com
 domain:extensionworkshop.com
+domain:firefox-portal-detection.com
 domain:firefox.com
 domain:firefox.hu
 domain:firefoxtweetmachine.com

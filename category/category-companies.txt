@@ -3064,9 +3064,11 @@ domain:findmybeats.com
 domain:findmyipad.com
 domain:fiotolia.com
 domain:firebase.com
+domain:firebase.dev
 domain:firebase.io
 domain:firebaseapp.com
 domain:firebaseio.com
+domain:firefox-portal-detection.com
 domain:firefox.com
 domain:firefox.hu
 domain:firefoxtweetmachine.com
@@ -6536,6 +6538,7 @@ domain:terraform.io
 domain:terragraph.com
 domain:tetrika-school.ru
 domain:texture.com
+domain:tfbnw.net
 domain:tfhub.dev
 domain:tfsallin.net
 domain:th.bing.com:@cn

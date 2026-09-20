@@ -1,6 +1,7 @@
 domain:captive.apple.com:@cn
 domain:cp.cloudflare.com
 domain:detectportal.firefox.com
+domain:firefox-portal-detection.com
 domain:ipv6check-http.steamserver.net
 domain:ipv6check-udp.steamserver.net
 domain:kuketz.de

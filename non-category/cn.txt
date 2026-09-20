@@ -233,6 +233,7 @@ domain:51changxie.com
 domain:51credit.com
 domain:51cto.com
 domain:51dzt.com
+domain:51epei.com
 domain:51eshop.com
 domain:51gaifang.com
 domain:51hejia.com
@@ -251,6 +252,7 @@ domain:51ssl.com
 domain:51togic.com
 domain:51wendang.com
 domain:51yes.com
+domain:51yipei.com
 domain:51zmt.top
 domain:5253.com
 domain:52hxw.com
@@ -1821,6 +1823,7 @@ domain:dcloudstc.net
 domain:dcloudvod.com
 domain:dcloudvod.net
 domain:dcshfu.com
+domain:dd-advisor.com
 domain:dd373.com
 domain:ddcorp.net
 domain:ddfresh.net
@@ -3157,6 +3160,7 @@ domain:jd-ex.net
 domain:jd.com
 domain:jd.shop
 domain:jdair.net
+domain:jdallianz.com
 domain:jdbusiness.com
 domain:jdcache.com
 domain:jdcdn.com
@@ -3202,6 +3206,7 @@ domain:jdfw1.com
 domain:jdgslb.com
 domain:jdgslb.net
 domain:jdh.com
+domain:jdindustry.com
 domain:jdjinrong.com
 domain:jdl.com
 domain:jdpay.com
@@ -3250,6 +3255,7 @@ domain:jimeng.com
 domain:jin10.com
 domain:jinchutou.com
 domain:jindidata.com
+domain:jingbantong.com
 domain:jingdong.com
 domain:jingdongjinrong.com
 domain:jingheiot.com
@@ -3257,6 +3263,7 @@ domain:jinglingbiaozhu.com
 domain:jingpinhui.com
 domain:jingpt.com
 domain:jingxi.com
+domain:jingxiaoling.com
 domain:jinianbi.com
 domain:jinjiang.com
 domain:jinjiangonline.net
@@ -3323,6 +3330,7 @@ domain:jomocdn.net
 domain:jomodns.com
 domain:jomodns.net
 domain:jomoxc.com
+domain:joyai.com
 domain:joybuy.com
 domain:joybuy.es
 domain:joying.com
@@ -4934,6 +4942,7 @@ domain:springairlines.com
 domain:springtour.com
 domain:sptcc.com
 domain:sq.cc
+domain:sqqmtj.com
 domain:sqqnh.org
 domain:sqreader.com
 domain:sseinfo.com
@@ -6118,6 +6127,7 @@ domain:yaoyl.com
 domain:yaozh.com
 domain:yayi360.com
 domain:ybccode.com
+domain:ybscjp.com
 domain:yccdn.com
 domain:ycgame.com
 domain:ycrx360.com
@@ -6287,6 +6297,7 @@ domain:yunkanpan.com
 domain:yunos-inc.com
 domain:yunos.com
 domain:yunpan.com
+domain:yunpei.com
 domain:yunpian.com
 domain:yunqishi.net
 domain:yunshipei.com
@@ -6294,6 +6305,7 @@ domain:yunxi.tv
 domain:yunxiao.com
 domain:yunxindns.com
 domain:yunxinfw.com
+domain:yunxiu.com
 domain:yunzhijia.com
 domain:yunzhuxue.com
 domain:yupao.com
@@ -6405,6 +6417,7 @@ domain:zhiziyun.com
 domain:zhlyen.com
 domain:zhongancloud.com
 domain:zhongkao.com
+domain:zhongyouex.com
 domain:zhonshian.com
 domain:zhuancorp.com
 domain:zhuangjiba.com

@@ -1,4 +1,5 @@
 domain:extendfirefox.com
+domain:firefox-portal-detection.com
 domain:firefox.com
 domain:firefox.hu
 domain:firefoxtweetmachine.com

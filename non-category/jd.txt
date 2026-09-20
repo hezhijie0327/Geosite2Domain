@@ -7,6 +7,8 @@ domain:360buy.com.cn
 domain:360buyimg.com
 domain:360buyinternational.com
 domain:360top.com
+domain:51epei.com
+domain:51yipei.com
 domain:7fresh.com
 domain:ads-union.jd.com:@ads
 domain:ads.union.jd.com:@ads
@@ -94,6 +96,7 @@ domain:cloudzhongshan.com
 domain:cloudzhuhai.com
 domain:cps.360buy.com:@ads
 domain:dao123.com
+domain:dd-advisor.com
 domain:duiou.com.cn
 domain:duolabao.com
 domain:gia.jd.com:@ads
@@ -148,6 +151,7 @@ domain:jd.hk:@!cn
 domain:jd.id:@!cn
 domain:jd.ru:@!cn
 domain:jd.shop
+domain:jdallianz.com
 domain:jdbusiness.com
 domain:jdcache.com
 domain:jdcdn.com
@@ -193,6 +197,7 @@ domain:jdfw1.com
 domain:jdgslb.com
 domain:jdgslb.net
 domain:jdh.com
+domain:jdindustry.com
 domain:jdjinrong.com
 domain:jdl.cn
 domain:jdl.com
@@ -203,12 +208,15 @@ domain:jdpaydns.com
 domain:jdwl.com
 domain:jdx.com
 domain:jhscm.com
+domain:jingbantong.com
 domain:jingdong.com
 domain:jingdonghealth.cn
 domain:jingdongjinrong.com
 domain:jingpinhui.com
 domain:jingxi.com
+domain:jingxiaoling.com
 domain:jkcsjd.com
+domain:joyai.com
 domain:joybuy.com
 domain:joybuy.es
 domain:jzt.jd.com:@ads
@@ -236,8 +244,12 @@ domain:wuliujie.cn
 domain:wuliujie.com
 domain:xianjiqun.com
 domain:xjoycity.com
+domain:ybscjp.com
 domain:yhd.com
 domain:yihaodian.com
 domain:yihaodianimg.com
 domain:yiyaojd.com
 domain:yizhitou.com
+domain:yunpei.com
+domain:yunxiu.com
+domain:zhongyouex.com

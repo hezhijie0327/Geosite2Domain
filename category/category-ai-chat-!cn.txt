@@ -64,6 +64,7 @@ domain:envato-static.com
 domain:envato.com
 domain:envatousercontent.com
 domain:flow.google
+domain:flow.google.com
 domain:gateway.ai.cloudflare.com
 domain:geller-pa.googleapis.com
 domain:gemini.google
@@ -106,6 +107,7 @@ domain:minimax.io
 domain:mistral.ai
 domain:moonshot.ai
 domain:mozilla.ai
+domain:notebook.google
 domain:notebook.google.com
 domain:notebooklm.google
 domain:notebooklm.google.com

@@ -9,6 +9,7 @@ domain:bard.google.com
 domain:deepmind.com
 domain:deepmind.google
 domain:flow.google
+domain:flow.google.com
 domain:geller-pa.googleapis.com
 domain:gemini.google
 domain:gemini.google.com
@@ -20,6 +21,7 @@ domain:jules.google.com
 domain:labs.google
 domain:labs.google.com
 domain:makersuite.google.com
+domain:notebook.google
 domain:notebook.google.com
 domain:notebooklm.google
 domain:notebooklm.google.com

@@ -21,6 +21,7 @@ domain:criminalip.io
 domain:curlmyip.net
 domain:dadata.ru
 domain:db-ip.com
+domain:dnscheck.tools
 domain:dnsleaktest.com
 domain:extreme-ip-lookup.com
 domain:find-my-ip.com
@@ -104,6 +105,8 @@ domain:iplocate.io
 domain:iplocation.com
 domain:iplocation.io
 domain:iplocation.net
+domain:iplogger.com
+domain:iplogger.org
 domain:iplookup.it
 domain:ipme.co
 domain:ipme.in
@@ -231,4 +234,5 @@ full:ip.comss.net
 full:ipv4-check-perf.radar.cloudflare.com
 full:ipv6-check-perf.radar.cloudflare.com
 full:myip.dnsomatic.com
+full:myip.happ.su
 full:whatismyip.akamai.com

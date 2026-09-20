@@ -187,6 +187,7 @@ domain:feedburner.com
 domain:fflick.com
 domain:financeleadsonline.com
 domain:firebase.com
+domain:firebase.dev
 domain:firebase.io
 domain:firebaseapp.com
 domain:firebaseio.com
