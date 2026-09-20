@@ -86,6 +86,7 @@ domain:17zuoye.com
 domain:17zuoye.net
 domain:18183.com
 domain:188.com
+domain:189cube.com
 domain:189smarthome.com
 domain:1905.com
 domain:1958xy.com
@@ -747,6 +748,7 @@ domain:arpun.com
 domain:asczwa.com
 domain:asczxcefsv.com
 domain:asfiovnxocqpcry.com.cn:@cn
+domain:askci.com
 domain:askdiandian.com
 domain:asklib.com
 domain:asklink.com
@@ -1341,6 +1343,7 @@ domain:changxie.com
 domain:changyan.com
 domain:changyou.com
 domain:chaojituzi.net
+domain:chaonei.com
 domain:chaoxing.cc
 domain:chaoxing.com
 domain:chaoxingv.com
@@ -1415,12 +1418,14 @@ domain:chinaunix.net
 domain:chinauos.com
 domain:chinaweiyu.com
 domain:chinawutong.com
+domain:chinaxiv.org
 domain:chinaz.com
 domain:chinaz.net
 domain:chinazns.com
 domain:chinesemooc.org
 domain:chiphell.com
 domain:chndoi.org
+domain:chnfund.com
 domain:chnppmuseum.com
 domain:chntel.com
 domain:chongbuluo.com
@@ -1601,6 +1606,7 @@ domain:cnb.cool
 domain:cnbksy.com
 domain:cnblogs.com
 domain:cnblogs.vip
+domain:cncn.com
 domain:cncqcloud.com
 domain:cnepub.com
 domain:cnfol.com
@@ -1612,6 +1618,7 @@ domain:cnki.net
 domain:cnlaw.net
 domain:cnlogs.umeng.com:@ads
 domain:cnlogs.umengcloud.com:@ads
+domain:cnmo.com
 domain:cnmooc.org
 domain:cnmstl.net
 domain:cnppa.org
@@ -1787,12 +1794,14 @@ domain:daocloud.vip
 domain:daodoc.com
 domain:daogou.ai
 domain:daojia.com
+domain:daotudashi.com
 domain:daovoice.io
 domain:data.mistat.india.xiaomi.com:@ads
 domain:data.mistat.intl.xiaomi.com:@ads
 domain:data.mistat.rus.xiaomi.com:@ads
 domain:data.mistat.xiaomi.com:@ads
 domain:dataeye.com
+domain:datasheet5.com
 domain:datawindexmarket.com
 domain:dayainfo.com
 domain:dayin8.com
@@ -1881,6 +1890,8 @@ domain:didialift.com
 domain:didichuxing.com
 domain:didistatic.com
 domain:dig.bdurl.net:@ads
+domain:digitaling.com
+domain:dili360.com
 domain:dingdachuxing.com
 domain:dingdatech.com
 domain:dingding.xin
@@ -2026,6 +2037,7 @@ domain:duiopen.com
 domain:duitang.com
 domain:duiwai.baidu.com:@ads
 domain:dulupay.com
+domain:duoduo.link
 domain:duoduocdn.com
 domain:duokan.com
 domain:duokanbox.com
@@ -2125,6 +2137,8 @@ domain:educoder.net
 domain:eduei.com
 domain:eduu.com
 domain:eduuu.com
+domain:eefcdn.com
+domain:eefocus.com
 domain:eeyy.com
 domain:eflycloud.com
 domain:egsea.com
@@ -2268,6 +2282,7 @@ domain:filez.com
 domain:fimmu.com
 domain:finchina.com
 domain:finclip.com
+domain:findlawimg.com
 domain:findskill.com
 domain:finzfin.com
 domain:fixdown.com
@@ -2284,6 +2299,7 @@ domain:fnjiasu.com
 domain:fnnas.com
 domain:fnnas.net
 domain:fnos.net
+domain:fnrrc.com
 domain:focuschina.com
 domain:fofa.info
 domain:fofa.so
@@ -2510,6 +2526,7 @@ domain:golink.com
 domain:golinkapi.com
 domain:golinkcn.com
 domain:golue.com
+domain:gongniukaiguan.net
 domain:gongxiangcj.com
 domain:gongxiangjizhang.com
 domain:gongyi.xin
@@ -2847,6 +2864,7 @@ domain:huazhu.com
 domain:huazhucorp.com
 domain:hubeidaily.net
 domain:hugecore.net
+domain:huijiaoyun.com
 domain:huijistatic.com
 domain:huijiwiki.com
 domain:huize.com
@@ -3023,6 +3041,7 @@ domain:imgcdc.com
 domain:imgcook.com
 domain:imgo.tv
 domain:imgstat.baidu.com:@ads
+domain:immomo.com
 domain:imooc.com
 domain:imp.go.sohu.com:@ads
 domain:imqq.com
@@ -3093,6 +3112,7 @@ domain:itopsdk.com
 domain:itoutiaoliving.com
 domain:itpub.net
 domain:itsk.com
+domain:ituchong.com
 domain:iuynfg.com
 domain:ivolces-test.com
 domain:ivolces.com
@@ -3642,6 +3662,7 @@ domain:lawyee.org
 domain:lazada.com
 domain:lazycat.cloud
 domain:lazyer.net
+domain:lbdj.com
 domain:lbtp.com
 domain:lckfb.com
 domain:lczq.com
@@ -3889,6 +3910,7 @@ domain:mcdonalds.com.cn:@cn
 domain:mchost.guru
 domain:mcpworld.com
 domain:mcs.snssdk.com:@ads
+domain:mddclass.com
 domain:mdeer.com
 domain:mdpda.com
 domain:mdt.qq.com:@ads
@@ -4036,6 +4058,7 @@ domain:mojidoc.com
 domain:mokahr.com
 domain:moleecel.com
 domain:moliranran.com
+domain:momocdn.com
 domain:monika.love
 domain:monitor.music.qq.com:@ads
 domain:monitor.uu.qq.com:@ads
@@ -4137,6 +4160,7 @@ domain:narwal.com
 domain:narwaltech.com
 domain:natfrp.com
 domain:nattest-china.com
+domain:nbdeli.com
 domain:nbmzyl.com
 domain:nbmzyy.com
 domain:nbsdk-baichuan.alicdn.com:@ads
@@ -4154,6 +4178,7 @@ domain:neohytung.com
 domain:neoscholar.com
 domain:neoschool.com
 domain:netbian.com
+domain:netbig.top
 domain:netease-inc.com
 domain:netease.com
 domain:netease.im
@@ -4507,6 +4532,7 @@ domain:qhupdate.com:@ads
 domain:qiancangwms.com
 domain:qiangbus.com
 domain:qianjia.com
+domain:qianliaowang.com
 domain:qianlima.com
 domain:qianlong.com
 domain:qiantucdn.com
@@ -4568,6 +4594,7 @@ domain:qiyukf.net
 domain:qizuang.com
 domain:qjmotorlink.com
 domain:ql1d.com
+domain:qlchat.com
 domain:qlivecdn.com
 domain:qm989.com
 domain:qmai.com
@@ -4598,6 +4625,7 @@ domain:qtlcdn.com
 domain:qtlcdn.net
 domain:qtmojo.com
 domain:qualitycloud.top
+domain:qudian.com
 domain:qudong.com
 domain:quehu.com
 domain:qugame.com
@@ -4653,6 +4681,7 @@ domain:retcode.taobao.com:@ads
 domain:rmbgame.net
 domain:rmonitor.qq.com:@ads
 domain:rmwxgame.com
+domain:rnote.com
 domain:ro.com
 domain:robomaster.com
 domain:roboneo.com
@@ -4694,6 +4723,7 @@ domain:saduck.top
 domain:safewk.com
 domain:sagemaker.com.cn:@cn
 domain:saibo.com
+domain:saicmobility.com
 domain:samasty.com
 domain:sandai.net
 domain:sanguosha.com
@@ -4725,6 +4755,7 @@ domain:sczsxx.com
 domain:sdgdwljt.com
 domain:sdkclick.mobile.sina.cn:@ads
 domain:sdo.com
+domain:sdxjpc.com
 domain:sealsuite.com
 domain:sealsuite.net
 domain:searchpstatp.com
@@ -4807,6 +4838,7 @@ domain:shimonote.com
 domain:shineacc.com
 domain:shinescan.tech
 domain:shipin520.com
+domain:shipxy.com
 domain:shixiseng.com
 domain:shizhuang-inc.com
 domain:shizhuang-inc.net
@@ -4877,6 +4909,7 @@ domain:sllssrq.com
 domain:slog.sina.cn:@ads
 domain:slog.sina.com.cn:@ads
 domain:smartmidea.net
+domain:smartont.net
 domain:sms18.com
 domain:smtcdns.com
 domain:smtcdns.net
@@ -5044,7 +5077,9 @@ domain:talk-cloud.net
 domain:talkingdata.com
 domain:talkinggame.com
 domain:tamaegis.com
+domain:tancdn.com
 domain:tangeche.com
+domain:tantanapp.com
 domain:tanwan.com
 domain:tanx.com
 domain:tao123.com
@@ -5299,6 +5334,7 @@ domain:tongtaiamc.com
 domain:tongxianghuicn.com
 domain:tongxuepie.com
 domain:tongyi.com
+domain:toodaylab.com
 domain:tool56.com
 domain:tools.team
 domain:toplife.com
@@ -5378,6 +5414,7 @@ domain:ttjisu.com
 domain:ttpod.com
 domain:ttshitu.com
 domain:ttwebview.com
+domain:tuchong.com
 domain:tudou.com
 domain:tuer123.com
 domain:tuicool.com
@@ -5392,6 +5429,7 @@ domain:tuwan.com
 domain:tuwanjun.com
 domain:tuxi.com
 domain:tuyoo.com
+domain:tv189.com
 domain:tvmao.com
 domain:tvzhe.com
 domain:twscholar.com
@@ -5407,6 +5445,7 @@ domain:txyscdn.net
 domain:u-cdn.net
 domain:u.tools
 domain:ubmcvideo.baidustatic.com:@ads
+domain:uboxs.com
 domain:ubssdic.com
 domain:ubuntukylin.com
 domain:uc123.com
@@ -5730,6 +5769,7 @@ domain:vscenevideo.com
 domain:vsread.com
 domain:vtdd.vip
 domain:vvstc.com
+domain:vxhcm.com
 domain:vxo7tu.com
 domain:vzuu.com
 domain:w.cnzz.com:@ads
@@ -5842,6 +5882,8 @@ domain:wjwai.com
 domain:wjx.com
 domain:wjx.top
 domain:wkctj.baidu.com:@ads
+domain:wkepu.com
+domain:wkimg.com
 domain:wkzuche.com
 domain:wm.baidu.com:@ads
 domain:wmbd.gamersky.com:@ads
@@ -5970,6 +6012,7 @@ domain:xiaohongshu.com
 domain:xiaojukeji.com
 domain:xiaoka.tv
 domain:xiaokaxiu.com
+domain:xiaolachuxing.com
 domain:xiaolianhb.com
 domain:xiaoluyouxuan.com
 domain:xiaoluzhidian.com
@@ -6035,6 +6078,7 @@ domain:xitu.com
 domain:xitu.io
 domain:xiu8.com
 domain:xiucai.com
+domain:xiujiadian.com
 domain:xiumi.us
 domain:xiumius.com
 domain:xiyouyingyu.com
@@ -6101,6 +6145,7 @@ domain:xuexi365.net
 domain:xuexicha.com
 domain:xundupdf.com
 domain:xunfeixxj.com
+domain:xunjiepdf.com
 domain:xunlei.com
 domain:xunyou.com
 domain:xunyou.mobi
@@ -6113,15 +6158,18 @@ domain:xxtmail.com
 domain:xycdn.com
 domain:xycloud.com
 domain:xywy.com
+domain:xyxy.net
 domain:xyys.com
 domain:xyzcdn.net
 domain:xyzfm.link
 domain:xyzfm.space
 domain:xzking.com
+domain:xzw.com
 domain:yaduo.com
 domain:yahui.cc
 domain:yamibo.com
 domain:yangkeduo.com
+domain:yangtse.com
 domain:yaolan.com
 domain:yaoyl.com
 domain:yaozh.com
@@ -6215,6 +6263,7 @@ domain:yokaverse.com
 domain:yooc.me
 domain:yoojia.com
 domain:youba.com
+domain:youbianku.com
 domain:youboy.com
 domain:youdao.com
 domain:youdaoads.com:@ads
@@ -6225,6 +6274,7 @@ domain:youku.com
 domain:youkuhonor.com
 domain:youshang.com
 domain:youxiake.com
+domain:youxibao.com
 domain:youxichaguan.com
 domain:youxigt.com
 domain:youxihezi.net
@@ -6417,6 +6467,7 @@ domain:zhiziyun.com
 domain:zhlyen.com
 domain:zhongancloud.com
 domain:zhongkao.com
+domain:zhongliujie.com
 domain:zhongyouex.com
 domain:zhonshian.com
 domain:zhuancorp.com
@@ -6497,6 +6548,7 @@ domain:zui.com
 domain:zuidaima.com
 domain:zuihuimai.com
 domain:zuimeitianqi.com
+domain:zuiyou.tv
 domain:zuk.com
 domain:zuodao.com
 domain:zuowen.com

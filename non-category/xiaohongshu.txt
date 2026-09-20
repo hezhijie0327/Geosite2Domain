@@ -4,6 +4,7 @@ domain:redelight.cn
 domain:rednote.com.my:@!cn
 domain:rednote.com:@!cn
 domain:rednotecdn.com:@!cn
+domain:rnote.com
 domain:xhscdn.com
 domain:xhscdn.net
 domain:xhslink.com

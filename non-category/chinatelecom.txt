@@ -1,4 +1,5 @@
 domain:189.cn
+domain:189cube.com
 domain:189smarthome.com
 domain:21cn.com
 domain:bestpay.cn
@@ -15,4 +16,5 @@ domain:ctexcel.fr:@!cn
 domain:ctexcel.us:@!cn
 domain:dlife.cn
 domain:play.cn
+domain:tv189.com
 domain:vnet.cn

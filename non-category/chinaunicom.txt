@@ -12,8 +12,10 @@ domain:cuguplus.com:@!cn
 domain:cuniq.com:@!cn
 domain:cuniq.sg:@!cn
 domain:mychinaunicom.com
+domain:smartont.net
 domain:unicom
 domain:unicompayment.com
+domain:wo-adv.cn
 domain:wo.cn
 domain:wo.com.cn
 domain:wo116114.com

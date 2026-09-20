@@ -59,6 +59,7 @@ domain:fenbike.com
 domain:fenbilantian.cn
 domain:fenbilantian.com
 domain:gaojidata.com
+domain:gaokao.cn
 domain:gaokao.com
 domain:gatzs.com.cn
 domain:gfbzb.cn
@@ -75,6 +76,7 @@ domain:hjapi.com
 domain:hjfile.cn
 domain:huatu.com
 domain:hugecore.net
+domain:huijiaoyun.com
 domain:hujiang.com
 domain:icourse163.org
 domain:icourses.cn
@@ -101,6 +103,7 @@ domain:magedu.com
 domain:maimemo.com
 domain:maimemostatus.com
 domain:markji.com
+domain:mddclass.com
 domain:modex.com.cn
 domain:mojidict.com
 domain:mooc.cn
@@ -132,9 +135,11 @@ domain:saduck.top
 domain:schoopia.com
 domain:shanbay.com
 domain:shareintelli.com
+domain:sksight.com
 domain:smartedu.cn
 domain:speiyou.com
 domain:sydw8.com
+domain:syh.zybang.com:@ads
 domain:tal.com
 domain:tesoon.com
 domain:tongxuepie.com
@@ -181,6 +186,9 @@ domain:zuowen8.com
 domain:zuowenjun.com
 domain:zuowenku.net
 domain:zuowenwang.net
+domain:zuoyebang.cc
+domain:zuoyebang.com
 domain:zxxk.com
+domain:zybang.com
 domain:zysn.net
 full:study.163.com

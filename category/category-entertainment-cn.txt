@@ -360,6 +360,7 @@ domain:g3.letv.com:@ads
 domain:gameabc.com
 domain:gamebonfire.com
 domain:gamediary.cn
+domain:gamedog.cn
 domain:gameitop.com
 domain:gamelook.com.cn
 domain:gameloop.com
@@ -473,6 +474,7 @@ domain:inkwai.com
 domain:iqiyi.com
 domain:iqiyipic.com
 domain:ishuqi.com
+domain:ituchong.com
 domain:ja.gamersky.com:@ads
 domain:ja1.gamersky.com:@ads
 domain:ja2.gamersky.com:@ads
@@ -777,6 +779,7 @@ domain:tingbook.com
 domain:tingmall.com
 domain:tmead.y.qq.com:@ads
 domain:tmeadcomm.y.qq.com:@ads
+domain:tuchong.com
 domain:tudou.com
 domain:tuer123.com
 domain:tuyoo.com
@@ -849,6 +852,7 @@ domain:xyys.com
 domain:xyzcdn.net
 domain:xyzfm.link
 domain:xyzfm.space
+domain:xzw.com
 domain:y.qq.com
 domain:yamibo.com
 domain:ycgame.com
@@ -868,7 +872,9 @@ domain:yokaverse.com
 domain:youba.com
 domain:youku.com
 domain:youkuhonor.com
+domain:youxibao.com
 domain:youxichaguan.com
+domain:youxiniao.com
 domain:youxiputao.com
 domain:youxituoluo.com
 domain:yuanshen.com

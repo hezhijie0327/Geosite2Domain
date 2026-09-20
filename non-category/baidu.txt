@@ -116,7 +116,6 @@ domain:sclick.baidu.com:@ads
 domain:shifen.com
 domain:smartapps.cn
 domain:spcode.baidu.com:@ads
-domain:syh.zybang.com:@ads
 domain:tcbox.baidu.com:@ads
 domain:tieba.com
 domain:tiebaimg.com
@@ -130,7 +129,4 @@ domain:xdrtc.com
 domain:xianfae.com
 domain:xiaodutv.com
 domain:yoojia.com
-domain:zuoyebang.cc
-domain:zuoyebang.com
-domain:zybang.com
 domain:zz.bdstatic.com:@ads
