@@ -117,7 +117,6 @@ domain:adsense.com:@ads
 domain:adsensecustomsearchads.com:@ads
 domain:adsenseformobileapps.com:@ads
 domain:adservice.google.com:@ads
-domain:adservice.sigmob.cn
 domain:adserviceretry.kglink.cn:@ads
 domain:adserviceretry.kugou.com:@ads
 domain:adsfile.qq.com:@ads
@@ -629,6 +628,7 @@ domain:sf3-ttcdn-tos.pstatp.com:@ads
 domain:shhs-ydd8x2.yjrmss.cn
 domain:shoppingads.cn:@ads
 domain:shuzilm.cn
+domain:sigmob.cn:@ads
 domain:sigmob.com:@ads
 domain:slog.sina.cn:@ads
 domain:slog.sina.com.cn:@ads

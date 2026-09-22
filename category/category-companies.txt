@@ -7873,6 +7873,7 @@ full:download.visualstudio.microsoft.com:@cn
 full:downloaddispatch.itunes.apple.com:@cn
 full:dreamspark.download.prss.microsoft.com:@cn
 full:dreamsparkuat.download.prss.microsoft.com:@cn
+full:drivers.amd.com:@cn
 full:edge.geo.kaspersky.com:@cn
 full:entitlements-edge.itunes.apple.com:@cn
 full:experiments.apple.com:@cn

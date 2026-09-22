@@ -6144,6 +6144,7 @@ domain:sinopecgroup.com
 domain:sinopecnews.com.cn
 domain:sinopecsales.com
 domain:sipeed.com
+domain:sjfls6.com
 domain:sjwyx.com
 domain:skillhub.cn
 domain:skimit.net

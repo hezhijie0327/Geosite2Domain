@@ -4894,6 +4894,7 @@ domain:sinopec.com
 domain:sinopecgroup.com
 domain:sinopecsales.com
 domain:sipeed.com
+domain:sjfls6.com
 domain:sjwyx.com
 domain:skimit.net
 domain:sksight.com

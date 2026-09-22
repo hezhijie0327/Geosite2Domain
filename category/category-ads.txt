@@ -104,7 +104,6 @@ domain:adsense.com:@ads
 domain:adsensecustomsearchads.com:@ads
 domain:adsenseformobileapps.com:@ads
 domain:adservice.google.com:@ads
-domain:adservice.sigmob.cn
 domain:adserviceretry.kglink.cn:@ads
 domain:adserviceretry.kugou.com:@ads
 domain:adsfile.qq.com:@ads
