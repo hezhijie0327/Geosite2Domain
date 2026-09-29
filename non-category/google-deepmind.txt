@@ -20,6 +20,7 @@ domain:jules.google
 domain:jules.google.com
 domain:labs.google
 domain:labs.google.com
+domain:labstailwind.pa.googleapis.com
 domain:makersuite.google.com
 domain:notebook.google
 domain:notebook.google.com
@@ -38,6 +39,8 @@ full:antigravity.googleapis.com
 full:cloudaicompanion.googleapis.com
 full:cloudcode-pa.googleapis.com
 full:daily-cloudcode-pa.googleapis.com
+full:geminiweb-pa.clients.google.com
+full:geminiweb-pa.clients6.google.com
 full:notebooklm-pa.googleapis.com
 full:notebooklm.googleapis.com
 full:webchannel-alkalimakersuite-pa.clients6.google.com

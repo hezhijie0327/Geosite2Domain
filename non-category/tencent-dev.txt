@@ -1,5 +1,6 @@
 domain:badjs.weixinbridge.com:@ads
 domain:cnb.cool
+domain:cnb.space
 domain:coding.me
 domain:coding.net
 domain:openmidas.com
