@@ -22,6 +22,9 @@ domain:livefilestore.com
 domain:mega.co.nz
 domain:mega.io
 domain:mega.nz
+domain:megaad.nz
+domain:megapay.nz
+domain:megas4.com
 domain:mypikpak.com
 domain:mypikpak.net
 domain:nephobox.com
@@ -40,6 +43,7 @@ domain:storage.live.com
 domain:terabox.com
 domain:terabox1024.com
 domain:teraboxcdn.com
+domain:transfer.it
 domain:userdrive.org
 domain:usersdrive.com
 full:o4504926511693824.ingest.sentry.io:@ads
