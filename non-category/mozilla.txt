@@ -65,7 +65,7 @@ domain:thundermail.com
 domain:webmademovies.org
 full:ads-img.mozilla.org:@ads
 full:ads.mozilla.org:@ads
-full:incoming-telemetry.thunderbird.net:@ads
-full:incoming.telemetry.mozilla.org:@ads
+full:incoming-telemetry.thunderbird.net:@telemetry
+full:incoming.telemetry.mozilla.org:@telemetry
 full:mozilla-ohttp.fastly-edge.com
 full:mozilla.map.fastly.net

@@ -147,6 +147,7 @@ domain:breakdown.me
 domain:browser.events.data.msn.cn:@ads
 domain:browser.events.data.msn.com:@ads
 domain:c-msedge.net
+domain:cafe.github.com:@telemetry
 domain:callersbane.com
 domain:cegid-cloud.cn:@cn
 domain:centralvalidation.com
@@ -163,7 +164,7 @@ domain:cn.bing.com:@cn
 domain:cn.bing.net:@cn
 domain:cn.mm.bing.net:@cn
 domain:codethemicrobit.com
-domain:collector.github.com:@ads
+domain:collector.github.com:@telemetry
 domain:copilot-stg.com
 domain:copilot.com
 domain:cortanaanalytics.com
@@ -644,8 +645,8 @@ full:cbdstest.download.prss.microsoft.com:@cn
 full:cn.windowssearch.com:@cn
 full:collaborate.download.prss.microsoft.com:@cn
 full:collaborateppe.download.prss.microsoft.com:@cn
-full:copilot-telemetry-service.githubusercontent.com:@ads
-full:copilot-telemetry.githubusercontent.com:@ads
+full:copilot-telemetry-service.githubusercontent.com:@telemetry
+full:copilot-telemetry.githubusercontent.com:@telemetry
 full:ctldl.windowsupdate.com:@cn
 full:developer.microsoft.com:@cn
 full:download.microsoft.com:@cn

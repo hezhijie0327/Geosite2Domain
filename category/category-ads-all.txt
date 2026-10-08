@@ -266,7 +266,6 @@ domain:cm.baidu.com:@ads
 domain:cnaa123.com
 domain:cnlogs.umeng.com:@ads
 domain:cnlogs.umengcloud.com:@ads
-domain:collector.github.com:@ads
 domain:collector.xhamster.com:@ads
 domain:config.uca.cloud.unity3d.com:@ads
 domain:contentabc.com
@@ -375,8 +374,6 @@ domain:googlevads-cn.com:@ads
 domain:gozendata.com
 domain:graph-fallback.instagram.com:@ads
 domain:graph.instagram.com:@ads
-domain:graph.whatsapp.com:@ads
-domain:graph.whatsapp.net:@ads
 domain:growin.cn
 domain:growingio.cn
 domain:growingio.com
@@ -826,13 +823,9 @@ full:clck.yandex.com:@ads
 full:clck.yandex.net:@ads
 full:clck.yango.com:@ads
 full:click.rustore.ru:@ads
-full:copilot-telemetry-service.githubusercontent.com:@ads
-full:copilot-telemetry.githubusercontent.com:@ads
 full:disney.my.sentry.io:@ads
 full:error-tracking.megamarket.tech:@ads
 full:google-analytics-suite.ozon.ru:@ads
-full:incoming-telemetry.thunderbird.net:@ads
-full:incoming.telemetry.mozilla.org:@ads
 full:informer.yandex.ru:@ads
 full:log-sdk.gifshow.com:@ads
 full:log.strm.yandex.ru:@ads

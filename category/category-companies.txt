@@ -1750,6 +1750,7 @@ domain:cadduct.com
 domain:cadmep.com
 domain:cadoverlay.com
 domain:cadren.com
+domain:cafe.github.com:@telemetry
 domain:caice.com
 domain:calendarserver.org
 domain:calicolabs.com
@@ -2074,7 +2075,7 @@ domain:collabora.co.uk
 domain:collabora.com
 domain:collabora.org
 domain:collaboraoffice.com
-domain:collector.github.com:@ads
+domain:collector.github.com:@telemetry
 domain:colleee.net
 domain:colorme-repeat.jp
 domain:colorprotechnology.com
@@ -3653,8 +3654,6 @@ domain:grafolio.com
 domain:granulate.io
 domain:graph-fallback.instagram.com:@ads
 domain:graph.instagram.com:@ads
-domain:graph.whatsapp.com:@ads
-domain:graph.whatsapp.net:@ads
 domain:graphengine.io
 domain:gravitytank.com
 domain:greenbuildingstudio.com
@@ -7816,8 +7815,8 @@ full:configuration-lb.ls-apple.com.akadns.net
 full:configuration.apple.com.akadns.net:@cn
 full:configuration.apple.com:@cn
 full:connectivitycheck.gstatic.com:@cn
-full:copilot-telemetry-service.githubusercontent.com:@ads
-full:copilot-telemetry.githubusercontent.com:@ads
+full:copilot-telemetry-service.githubusercontent.com:@telemetry
+full:copilot-telemetry.githubusercontent.com:@telemetry
 full:crashlyticsreports-pa.googleapis.com:@cn
 full:crl-lb.apple.com.akadns.net:@cn
 full:crl.apple.com:@cn
@@ -7953,8 +7952,8 @@ full:img-s-msn-com.akamaized.net
 full:inappcheck-cn.itunes-apple.com.akadns.net:@cn
 full:inappcheck-lb.itunes-apple.com.akadns.net:@cn
 full:inappcheck.itunes.apple.com:@cn
-full:incoming-telemetry.thunderbird.net:@ads
-full:incoming.telemetry.mozilla.org:@ads
+full:incoming-telemetry.thunderbird.net:@telemetry
+full:incoming.telemetry.mozilla.org:@telemetry
 full:informer.yandex.ru:@ads
 full:init-kt.apple.com:@cn
 full:init-p01md-lb.push-apple.com.akadns.net:@cn

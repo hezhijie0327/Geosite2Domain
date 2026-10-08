@@ -1,5 +1,6 @@
 domain:atom.io
-domain:collector.github.com:@ads
+domain:cafe.github.com:@telemetry
+domain:collector.github.com:@telemetry
 domain:dependabot.com
 domain:gh.io
 domain:ghcr.io
@@ -30,8 +31,8 @@ domain:octocaptcha.com
 domain:opensource.guide
 domain:repo.new
 domain:thegithubshop.com
-full:copilot-telemetry-service.githubusercontent.com:@ads
-full:copilot-telemetry.githubusercontent.com:@ads
+full:copilot-telemetry-service.githubusercontent.com:@telemetry
+full:copilot-telemetry.githubusercontent.com:@telemetry
 full:copilotprodattachments.blob.core.windows.net
 full:github-api.arkoselabs.com
 full:github-cloud.s3.amazonaws.com

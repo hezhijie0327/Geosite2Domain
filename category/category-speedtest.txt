@@ -71,6 +71,7 @@ domain:testmy.net
 domain:testmyspeed.com
 domain:testskorosti.ru
 domain:webtest.net
+domain:wifiman.me
 domain:xnfz.seu.edu.cn:@cn
 full:hk-global-bgp.hkg.speedtest.yecaoyun.com:@!cn
 full:www.speedtest.net.cdn.cloudflare.net

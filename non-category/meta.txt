@@ -383,8 +383,6 @@ domain:gameroom.com
 domain:gfacecbook.com
 domain:graph-fallback.instagram.com:@ads
 domain:graph.instagram.com:@ads
-domain:graph.whatsapp.com:@ads
-domain:graph.whatsapp.net:@ads
 domain:groups.com
 domain:hackerfacebook.com
 domain:hackfacebook.com

@@ -39,8 +39,6 @@ domain:fragment.com
 domain:freenode.net
 domain:gcld-line.com
 domain:graph.org
-domain:graph.whatsapp.com:@ads
-domain:graph.whatsapp.net:@ads
 domain:intercom.com
 domain:intercom.io
 domain:intercomassets.com

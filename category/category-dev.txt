@@ -49,6 +49,7 @@ domain:buckbuild.com
 domain:bugsnag.com
 domain:builtwithnix.org
 domain:busybox.net
+domain:cafe.github.com:@telemetry
 domain:calendarserver.org
 domain:canonical.com
 domain:carekit.org
@@ -64,7 +65,7 @@ domain:codeberg.page
 domain:codebuff.com
 domain:codeforaliving.io
 domain:codethemicrobit.com
-domain:collector.github.com:@ads
+domain:collector.github.com:@telemetry
 domain:compass.is
 domain:componentkit.org
 domain:compose-spec.io
@@ -590,8 +591,8 @@ full:cdn1.apple-mapkit.com:@cn
 full:cdn2.apple-mapkit.com:@cn
 full:cdn3.apple-mapkit.com:@cn
 full:cdn4.apple-mapkit.com:@cn
-full:copilot-telemetry-service.githubusercontent.com:@ads
-full:copilot-telemetry.githubusercontent.com:@ads
+full:copilot-telemetry-service.githubusercontent.com:@telemetry
+full:copilot-telemetry.githubusercontent.com:@telemetry
 full:copilotprodattachments.blob.core.windows.net
 full:crashlyticsreports-pa.googleapis.com:@cn
 full:d29vzk4ow07wi7.cloudfront.net
