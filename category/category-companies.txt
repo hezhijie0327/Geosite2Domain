@@ -1525,6 +1525,7 @@ domain:behindthescreenz.com
 domain:bellsouth.net
 domain:berizaryad.ru
 domain:berkanawireless.com
+domain:beru.ru
 domain:best4bim.com
 domain:bestbeats4u.com
 domain:bestbim.com
@@ -1665,6 +1666,7 @@ domain:bluemix.com
 domain:bluemix.net
 domain:blurams.app
 domain:blurams.com
+domain:bookmate.ru
 domain:bookonsky.net
 domain:bookstagram.com
 domain:boom.ru
@@ -2226,6 +2228,7 @@ domain:delcamna.com
 domain:delcamtv.com
 domain:delcamuniversity.com
 domain:delcamusa.com
+domain:delivery-club.ru
 domain:dell
 domain:dell-alw.com:@cn
 domain:dell-brand.com:@cn
@@ -2640,6 +2643,7 @@ domain:ecotect.com
 domain:ecotect.net
 domain:ecscad.com
 domain:ecspublisher.com
+domain:edadeal.ru
 domain:edgefonts.net
 domain:edu-research.org
 domain:education-cadcam.com
@@ -3104,6 +3108,7 @@ domain:fnacebook.com
 domain:foftolia.com
 domain:followpype.com
 domain:fonolia.com
+domain:foodfox.ru
 domain:foofle.com
 domain:footprintdns.com
 domain:footwear-cadcam.com
@@ -4911,6 +4916,7 @@ domain:map-software.com
 domain:mapguide.com
 domain:mappingonline.com
 domain:marinecadcam.com
+domain:market.ru
 domain:marketing-cloud.com
 domain:marketing-nirvana.com
 domain:marketingcloud.com
@@ -6049,6 +6055,7 @@ domain:rustdesk.com
 domain:rustore.ru
 domain:rustore.team
 domain:rustore.tv
+domain:rutaxi.ru
 domain:rzr.to
 domain:s-bluemix.net
 domain:s-cashonmobile.com
@@ -6182,6 +6189,8 @@ domain:sharepoint.com
 domain:sharepointonline.com
 domain:shazam.com
 domain:shedevrum.ai
+domain:shedevrum.com
+domain:shedevrum.ru
 domain:sheets.new
 domain:shisho.dev
 domain:shoers.com
@@ -6564,6 +6573,7 @@ domain:theinstagramhack.com
 domain:theintelstore.com
 domain:theinventionworks.com
 domain:theinventionworks.net
+domain:thequestion.ru
 domain:theuab.net
 domain:thinkboxsoftware.com
 domain:thinkdifferent.us
@@ -6801,6 +6811,7 @@ domain:verizonfios.com
 domain:verizonmedia.com
 domain:verizonwireless.com
 domain:versly.com
+domain:vezet.ru
 domain:vfabric.net
 domain:vfsforgit.com
 domain:vfsforgit.org
@@ -7192,7 +7203,7 @@ domain:xtracloud.net
 domain:xuite.net
 domain:ya.cc
 domain:ya.ru
-domain:yabs.yandex.ru:@ads
+domain:yadi.sk
 domain:yads.tech:@ads
 domain:yahoo
 domain:yahoo-news.com.hk
@@ -7359,8 +7370,10 @@ domain:yamaxun.cn:@cn
 domain:yamaxun.com
 domain:yammer.com
 domain:yandex
+domain:yandex-ad.cn:@cn
 domain:yandex-bank.net
 domain:yandex-metrica.ru:@ads
+domain:yandex-team.com
 domain:yandex-team.ru
 domain:yandex.aero
 domain:yandex.asia
@@ -7385,22 +7398,29 @@ domain:yandex.kg
 domain:yandex.kz
 domain:yandex.lt
 domain:yandex.lv
+domain:yandex.market
 domain:yandex.md
 domain:yandex.mobi
 domain:yandex.net
+domain:yandex.net.ru
 domain:yandex.org
 domain:yandex.pl
+domain:yandex.pro
 domain:yandex.ru
 domain:yandex.st
 domain:yandex.sx
+domain:yandex.taxi
 domain:yandex.tj
 domain:yandex.tm
 domain:yandex.tr
+domain:yandex.travel
 domain:yandex.ua
 domain:yandex.uz
 domain:yandexadexchange.net
 domain:yandexcloud.net
 domain:yandexcom.net
+domain:yandexdataschool.com
+domain:yandexdataschool.ru
 domain:yandexgo.com
 domain:yandexlyceum.ru
 domain:yandexmetrica.com:@ads
@@ -7425,6 +7445,7 @@ domain:yastatic-net.ru
 domain:yastatic.net
 domain:yccdn.ru
 domain:yclients.com
+domain:ydb.tech
 domain:yho.com
 domain:yimg.com
 domain:yimg.jp

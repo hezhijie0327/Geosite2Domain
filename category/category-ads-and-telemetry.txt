@@ -224,6 +224,7 @@ domain:c-adash.m.taobao.com:@ads
 domain:c-nfa.jd.com:@ads
 domain:c.sayhi.360.cn:@ads
 domain:c.uaa.iqiyi.com:@ads
+domain:cafe.github.com:@telemetry
 domain:cb.baidu.com:@ads
 domain:cbjs.baidu.com:@ads
 domain:ccs.umeng.com:@ads
@@ -247,6 +248,7 @@ domain:cm.baidu.com:@ads
 domain:cnaa123.com
 domain:cnlogs.umeng.com:@ads
 domain:cnlogs.umengcloud.com:@ads
+domain:collector.github.com:@telemetry
 domain:collector.xhamster.com:@ads
 domain:config.uca.cloud.unity3d.com:@ads
 domain:contentabc.com
@@ -762,9 +764,13 @@ full:clck.yandex.com:@ads
 full:clck.yandex.net:@ads
 full:clck.yango.com:@ads
 full:click.rustore.ru:@ads
+full:copilot-telemetry-service.githubusercontent.com:@telemetry
+full:copilot-telemetry.githubusercontent.com:@telemetry
 full:disney.my.sentry.io:@ads
 full:error-tracking.megamarket.tech:@ads
 full:google-analytics-suite.ozon.ru:@ads
+full:incoming-telemetry.thunderbird.net:@telemetry
+full:incoming.telemetry.mozilla.org:@telemetry
 full:informer.yandex.ru:@ads
 full:log-sdk.gifshow.com:@ads
 full:log.strm.yandex.ru:@ads

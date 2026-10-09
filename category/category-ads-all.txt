@@ -722,7 +722,6 @@ domain:wmbd.gamersky.com:@ads
 domain:wuliao.epro.sogou.com:@ads
 domain:wwads.cn
 domain:xy-log.tagtic.cn
-domain:yabs.yandex.ru:@ads
 domain:yads.tech:@ads
 domain:yandex-metrica.ru:@ads
 domain:yandexmetrica.com:@ads

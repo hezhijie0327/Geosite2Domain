@@ -144,6 +144,7 @@ domain:sider.ai
 domain:sora.com
 domain:spicywriter.com
 domain:stitch.withgoogle.com
+domain:syntx.ai
 domain:talkai.info
 domain:tapnow.ai
 domain:themeforest.net
