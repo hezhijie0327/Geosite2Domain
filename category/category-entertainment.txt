@@ -1135,6 +1135,7 @@ domain:playshowtv.com
 domain:playstation
 domain:playstation.com
 domain:playstation.net
+domain:playstationnetwork.com
 domain:playvalorant.com
 domain:playwarcraft3.com
 domain:pluto.tv
