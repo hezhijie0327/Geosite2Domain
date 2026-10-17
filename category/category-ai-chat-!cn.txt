@@ -48,6 +48,7 @@ domain:cursor-cdn.com
 domain:cursor.com
 domain:cursor.sh
 domain:cursorapi.com
+domain:cursorvm.com
 domain:deepmind.com
 domain:deepmind.google
 domain:deepwiki.com
@@ -125,6 +126,7 @@ domain:opal.google
 domain:opal.google.com
 domain:openai.com
 domain:openai.com.cdn.cloudflare.net
+domain:openai.org
 domain:openart.ai
 domain:openclaw.ai
 domain:opencode.ai
@@ -151,6 +153,7 @@ domain:themeforest.net
 domain:trae.ai:@!cn
 domain:tripo3d.ai
 domain:turn.livekit.cloud
+domain:typesafe.ai
 domain:windsurf.build
 domain:windsurf.com
 domain:x.ai

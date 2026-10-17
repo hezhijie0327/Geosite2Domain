@@ -6599,6 +6599,8 @@ domain:timefxapp.com
 domain:timelinestoryteller.com
 domain:timeweb.cloud
 domain:timeweb.com
+domain:timeweb.tech
+domain:timewebcloud.kz
 domain:tinkerboxapp.com
 domain:tinkercad.com
 domain:tinkerentertainment.com
