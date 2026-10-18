@@ -1,4 +1,3 @@
-domain:asobostudio.com
 domain:beth.games
 domain:bethesda.net
 domain:bethesdagamestudios.com
@@ -6,7 +5,6 @@ domain:bethsoft.com
 domain:callersbane.com
 domain:doom.com
 domain:elderscrolls.com
-domain:flightsimulator.com
 domain:forza.net
 domain:forzamotorsport.net
 domain:forzaracingchampionship.com
@@ -41,5 +39,4 @@ domain:xboxplayanywhere.com
 domain:xboxservices.com
 domain:xboxstudios.com
 domain:xbx.lv
-full:flightsimulator.azureedge.net
 full:prodforza.blob.core.windows.net

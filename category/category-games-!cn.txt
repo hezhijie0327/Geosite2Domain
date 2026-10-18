@@ -23,7 +23,6 @@ domain:armaplatform.com
 domain:artstation.com
 domain:artstationmedia.com
 domain:artstorm.com
-domain:asobostudio.com
 domain:awayoutgame.com
 domain:ayudanintendo.com
 domain:battle.net
@@ -184,7 +183,6 @@ domain:fire-emblem-heroes.com
 domain:fireemblemawakening.com
 domain:firesidegatherings.com
 domain:fitgirl-repacks.site
-domain:flightsimulator.com
 domain:flipnotestudio.com
 domain:forgecdn.net
 domain:fortnite-vod.akamaized.net
@@ -790,7 +788,6 @@ full:doy2mn9upadnk.cloudfront.net
 full:ea.tt.omtrdc.net
 full:eaassets-a.akamaihd.net
 full:f3b7q2p3.ssl.hwcdn.net
-full:flightsimulator.azureedge.net
 full:gamedownloads-rockstargames-com.akamaized.net
 full:gog-cdn-lumen.secure2.footprint.net
 full:gog-cdn.akamaized.net

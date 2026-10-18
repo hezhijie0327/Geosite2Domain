@@ -879,7 +879,6 @@ domain:as-hp.ca
 domain:asfiovnxocqpcry.com.cn:@cn
 domain:askfacebook.net
 domain:askfacebook.org
-domain:asobostudio.com
 domain:asp-cc.com
 domain:asp.net
 domain:aspnetcdn.com
@@ -3099,7 +3098,6 @@ domain:flic.kr
 domain:flickr
 domain:flickr.com
 domain:flickr.net
-domain:flightsimulator.com
 domain:flipshare.com
 domain:flipwithsurface.com
 domain:flow.dev

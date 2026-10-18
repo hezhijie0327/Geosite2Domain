@@ -111,7 +111,6 @@ domain:armaplatform.com
 domain:artstation.com
 domain:artstationmedia.com
 domain:artstorm.com
-domain:asobostudio.com
 domain:att.tv
 domain:atttvnow.com
 domain:attwatchtv.com
@@ -498,7 +497,6 @@ domain:fireemblemawakening.com
 domain:fireside.fm
 domain:firesidegatherings.com
 domain:fitgirl-repacks.site
-domain:flightsimulator.com
 domain:flipnotestudio.com
 domain:forgecdn.net
 domain:formula1.com
@@ -1959,7 +1957,6 @@ full:espn.hb.omtrdc.net
 full:espndotcom.tt.omtrdc.net
 full:f3b7q2p3.ssl.hwcdn.net
 full:favoritescc-hamivideo2.cdn.hinet.net
-full:flightsimulator.azureedge.net
 full:fpinit.itunes.apple.com:@cn
 full:gamedownloads-rockstargames-com.akamaized.net
 full:gamer-cds.cdn.hinet.net
