@@ -1062,9 +1062,12 @@ full:c.ppy.sh
 full:cdngarenanow-a.akamaihd.net
 full:cloudsync-prod.s3.amazonaws.com
 full:d1unuk07s6td74.cloudfront.net
+full:d348twzf7a8p5.cloudfront.net
 full:datarouter.apps.netherrealm.com
+full:devforum-uploads.s3.dualstack.us-east-2.amazonaws.com
 full:dlgarenanow-a.akamaihd.net
 full:dlmobilegarena-a.akamaihd.net
+full:doy2mn9upadnk.cloudfront.net
 full:ea.tt.omtrdc.net
 full:eaassets-a.akamaihd.net
 full:end-api.shallow.ink

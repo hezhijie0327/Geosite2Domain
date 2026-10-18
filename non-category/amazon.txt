@@ -209,6 +209,7 @@ domain:primevideo.com
 domain:primevideo.info
 domain:primevideo.org
 domain:primevideo.tv
+domain:pv-cdn.net
 domain:route53.cn:@cn
 domain:sagemaker.com.cn:@cn
 domain:seattlespheres.com
