@@ -9,6 +9,7 @@ domain:kinescopecdn.net
 domain:kinopoisk-ru.clstorage.net
 domain:kinopoisk.ru
 domain:kinorium.com
+domain:kp.yandex.net
 domain:more.tv
 domain:okko.sport
 domain:okko.tv
@@ -29,3 +30,5 @@ domain:tvigle.ru
 domain:viju.ru
 domain:wink.am
 domain:wink.ru
+full:kp-config-smart-tv.akamaized.net
+full:kp-configs-smart-tv.s3.eu-central-1.amazonaws.com

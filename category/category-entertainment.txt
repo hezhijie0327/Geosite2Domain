@@ -797,6 +797,7 @@ domain:konamiopen.jp
 domain:konamisportsclub.jp
 domain:konamistyle.jp
 domain:koubaibu.jp
+domain:kp.yandex.net
 domain:kpacg.com
 domain:kraftonde.com
 domain:kyurem.com
@@ -1985,6 +1986,8 @@ full:itunes-apple.com.akadns.net:@cn
 full:itunes.apple.com:@cn
 full:itunesconnect.apple.com:@cn
 full:js-cdn.music.apple.com:@cn
+full:kp-config-smart-tv.akamaized.net
+full:kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
 full:lastfm-img.freetls.fastly.net
 full:lastfm.freetls.fastly.net
 full:lazer.ppy.sh

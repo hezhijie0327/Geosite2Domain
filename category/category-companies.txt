@@ -5376,6 +5376,7 @@ domain:msturing.org
 domain:msudalosti.com
 domain:msunlimitedcloudsummit.com
 domain:mt.lv
+domain:mts-link.ru
 domain:mts-ws.net
 domain:mts.ru
 domain:mtsbank.ru
@@ -8027,6 +8028,7 @@ full:itunes.apple.com:@cn
 full:itunesconnect.apple.com:@cn
 full:js-cdn.music.apple.com:@cn
 full:km.support.apple.com:@cn
+full:kp-config-smart-tv.akamaized.net
 full:ksn-cinfo-geo.kaspersky-labs.com:@cn
 full:ksn-cinfo.geoksn.kaspersky.com:@cn
 full:ksn-crypto-info-geo.kaspersky-labs.com:@cn

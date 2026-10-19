@@ -13364,6 +13364,7 @@ domain:magentomobile.com
 domain:magestic.com
 domain:magicalmirai.com
 domain:magicmovies.com
+domain:magnific.com
 domain:magnoliaav.com.cn:@cn
 domain:mahajantech.com
 domain:maidonanews.jp
@@ -14768,6 +14769,7 @@ domain:msys2.org
 domain:mt.lv
 domain:mt0011.site
 domain:mtao.fun
+domain:mts-link.ru
 domain:mts-ws.net
 domain:mts.ru
 domain:mtsbank.ru
@@ -17424,6 +17426,7 @@ domain:postgresql.org
 domain:postimages.org
 domain:postimg.cc
 domain:postini.com
+domain:postman.com
 domain:posty.kr
 domain:postyourgirls.ws
 domain:potenza.jp

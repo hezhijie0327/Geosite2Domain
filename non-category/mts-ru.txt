@@ -1,6 +1,7 @@
 domain:a.mts.ru:@ads
 domain:dbo-dengi.online
 domain:kion.ru
+domain:mts-link.ru
 domain:mts-ws.net
 domain:mts.ru
 domain:mtsbank.ru

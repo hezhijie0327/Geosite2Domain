@@ -145,6 +145,8 @@ full:clck.yandex.com:@ads
 full:clck.yandex.net:@ads
 full:clck.yango.com:@ads
 full:informer.yandex.ru:@ads
+full:kp-config-smart-tv.akamaized.net
+full:kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
 full:log.strm.yandex.ru:@ads
 full:mc.yandex.com:@ads
 full:mc.yandex.net:@ads
