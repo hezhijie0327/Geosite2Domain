@@ -180,8 +180,10 @@ domain:asebay.com
 domain:auto.ru
 domain:automobile.fr
 domain:autoru.me
+domain:avito.com
 domain:avito.ru
 domain:avito.st
+domain:avito.tech
 domain:avto.ru
 domain:axbdoll.com.tw
 domain:baazee.com
