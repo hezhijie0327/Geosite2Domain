@@ -174,6 +174,7 @@ domain:getbootstrap.com
 domain:getcomposer.org
 domain:getfedora.org
 domain:getpaint.net
+domain:getsafety.com
 domain:getsentry.com
 domain:getzola.org
 domain:gh.io
@@ -408,6 +409,7 @@ domain:pypi.org
 domain:pyrobot.org
 domain:python.org
 domain:pythonhosted.org
+domain:pyup.io
 domain:qt-project.org
 domain:qt.io
 domain:quay.io
@@ -447,6 +449,7 @@ domain:ruby-lang.org
 domain:rubygems.org
 domain:rust-lang.org
 domain:rustup.rs
+domain:safetycli.com
 domain:sankie.net
 domain:scala-lang.org
 domain:scala-sbt.org
@@ -496,6 +499,7 @@ domain:swiftui.com.cn:@cn
 domain:system76.com
 domain:talkingkotlin.com
 domain:tampermonkey.net
+domain:templatemonster.com
 domain:termius.com
 domain:termux.com
 domain:termux.dev
@@ -512,6 +516,7 @@ domain:tildacdn.com
 domain:tildacdn.net
 domain:timelinestoryteller.com
 domain:timestamp.apple.com
+domain:tmimgcdn.com
 domain:topcoder.com
 domain:ubuntu-touch.io
 domain:ubuntu.com

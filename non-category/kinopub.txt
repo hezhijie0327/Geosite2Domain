@@ -12,6 +12,7 @@ domain:m.alador.space
 domain:mos-gorsud.co
 domain:pushbr.com
 domain:smarttvcdn.online
+domain:srvkp.com
 domain:support-kp.com
 domain:teleos.club
 domain:tsx.ovh

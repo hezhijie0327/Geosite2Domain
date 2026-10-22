@@ -481,6 +481,7 @@ domain:famitsu.com
 domain:fanatical.com
 domain:fanbox.cc
 domain:fandango.com
+domain:fanfiction.net
 domain:fanfictionero.com
 domain:fast.com
 domain:fc-buddyfight.com
@@ -519,6 +520,7 @@ domain:gaijin.net
 domain:gaijinent.com
 domain:game-repack.site
 domain:gameapps.hk
+domain:gamebanana.com
 domain:gamebase.com.tw
 domain:gamebiz.jp
 domain:gamebusiness.jp
@@ -1198,6 +1200,7 @@ domain:quanben.io
 domain:quiltmc.org
 domain:quixel.com
 domain:quixel.se
+domain:r2modman.com
 domain:radgametools.com
 domain:radiko-cf.com
 domain:radiko.jp
@@ -1404,6 +1407,7 @@ domain:steamdb.info
 domain:steamdeck.com
 domain:steamgames.com
 domain:steaminventoryhelper.com
+domain:steamos.cloud
 domain:steampowered.com
 domain:steampowered.com.8686c.com:@cn
 domain:steamserver.net
@@ -1459,6 +1463,8 @@ domain:thewaltdisneycompany.com
 domain:thewonderful101.com
 domain:thisisgame.com
 domain:thisispolaris.com
+domain:thunderstore.io
+domain:thunderstore.org
 domain:tiberiumalliances.com
 domain:tiburon.com
 domain:tidal.com
@@ -1604,10 +1610,12 @@ domain:worldoftanks.com
 domain:worldoftanks.eu
 domain:worldofwarcraft.com
 domain:worldofwarplanes.com
+domain:worldofwarships.asia
 domain:worldofwarships.com
 domain:worldseriesofwarzone.com
 domain:wotblitz.com
 domain:wowsblitz.com
+domain:wplace.live
 domain:ws-blau.com
 domain:ws-tcg.com
 domain:wtmobile.com

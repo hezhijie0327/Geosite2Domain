@@ -29,6 +29,7 @@ domain:steamconnecttest.com
 domain:steamcontent.com
 domain:steamdeck.com
 domain:steamgames.com
+domain:steamos.cloud
 domain:steampowered.com
 domain:steampowered.com.8686c.com:@cn
 domain:steamserver.net
