@@ -72,6 +72,10 @@ domain:camelotherald.net
 domain:candycrush.com
 domain:capitalgames.com
 domain:capturingreality.com
+domain:cdpred.services
+domain:cdprojekt.com
+domain:cdprojekt.red
+domain:cdprojektred.com
 domain:championshipseriesleague.com
 domain:chillingo.com
 domain:chunkbase.com
@@ -94,6 +98,7 @@ domain:csgo.wmsj.cn:@cn
 domain:cubicmotion.com
 domain:cubicodyssey.game
 domain:curseforge.com
+domain:cyberpunk.net
 domain:cygames.co.jp
 domain:cygames.jp
 domain:daoc.net
@@ -439,6 +444,7 @@ domain:play4free.com
 domain:playapex.com
 domain:playartifact.com
 domain:playbattlegrounds.com
+domain:playgwent.com
 domain:playhearthstone.com
 domain:playnintendo.com
 domain:playoverwatch.com
@@ -662,6 +668,7 @@ domain:thesims.com
 domain:thesims3.com
 domain:thesims4.com
 domain:thesimssocial.com
+domain:thewitcher.com
 domain:thewonderful101.com
 domain:thunderstore.io
 domain:thunderstore.org

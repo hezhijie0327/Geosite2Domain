@@ -143,6 +143,10 @@ domain:capitalgames.com
 domain:capturingreality.com
 domain:cbjq.com
 domain:cdncl.net
+domain:cdpred.services
+domain:cdprojekt.com
+domain:cdprojekt.red
+domain:cdprojektred.com
 domain:cgyouxi.com
 domain:championshipseriesleague.com
 domain:changyou.com
@@ -170,6 +174,7 @@ domain:cubicmotion.com
 domain:cubicodyssey.game
 domain:curseforge.com
 domain:cy.com
+domain:cyberpunk.net
 domain:cygames.co.jp
 domain:cygames.jp
 domain:daoc.net
@@ -614,6 +619,7 @@ domain:playapex.com
 domain:playartifact.com
 domain:playbattlegrounds.com
 domain:playcool.com
+domain:playgwent.com
 domain:playhearthstone.com
 domain:playnintendo.com
 domain:playoverwatch.com
@@ -885,6 +891,7 @@ domain:thesims.com
 domain:thesims3.com
 domain:thesims4.com
 domain:thesimssocial.com
+domain:thewitcher.com
 domain:thewonderful101.com
 domain:thunderstore.io
 domain:thunderstore.org

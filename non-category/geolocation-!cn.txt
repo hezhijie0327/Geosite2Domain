@@ -160,6 +160,7 @@ domain:1password.ca
 domain:1password.co
 domain:1password.com
 domain:1password.community
+domain:1password.dev
 domain:1password.eu
 domain:1password.io
 domain:1passwordservices.com
@@ -4937,6 +4938,10 @@ domain:cdnvideohub.com
 domain:cdnxxx-proxy.co
 domain:cdnxxx-proxy.xyz
 domain:cdp.cloud.unity3d.com:@ads
+domain:cdpred.services
+domain:cdprojekt.com
+domain:cdprojekt.red
+domain:cdprojektred.com
 domain:cebay.com
 domain:cegid-cloud.cn:@cn
 domain:ceicdata.com
@@ -5826,6 +5831,7 @@ domain:cyber-bay.info
 domain:cyber-bay.org
 domain:cybercrimecon.com
 domain:cybermondaybeats4sale.com
+domain:cyberpunk.net
 domain:cybersport.ru
 domain:cybertrust.co.jp
 domain:cybertrust.ne.jp
@@ -17011,6 +17017,7 @@ domain:playfab.com
 domain:playfabapi.com
 domain:playfamily.ru
 domain:playforceone.com
+domain:playgwent.com
 domain:playhearthstone.com
 domain:playmation.com
 domain:playmeow.com
@@ -20601,6 +20608,7 @@ domain:theverge.com
 domain:thevirtualsexreview.com
 domain:thewaltdisneycompany.com
 domain:theweek.in
+domain:thewitcher.com
 domain:thewonderful101.com
 domain:theyxxx.com
 domain:thieme-connect.com

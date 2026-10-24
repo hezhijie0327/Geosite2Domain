@@ -473,6 +473,7 @@ domain:a2z.org.cn:@cn
 domain:a9vg.com
 domain:aadcloud.cn
 domain:aadcloud.com
+domain:aaej.cn
 domain:aaic.com.cn
 domain:aaid.umeng.com:@ads
 domain:aamgame.com
@@ -1132,6 +1133,7 @@ domain:biaoda.me
 domain:bibaodao.com
 domain:bidchance.com
 domain:biddingx.com
+domain:bigdatacq.com
 domain:bigfun.cn
 domain:bigfunapp.cn
 domain:bigmodel.cn
@@ -2123,13 +2125,17 @@ domain:cpu.baidu.com:@ads
 domain:cqcb.com
 domain:cqccn.com
 domain:cqctyiptv.cn
+domain:cqdcg.com
+domain:cqge.com.cn
 domain:cqhlw.cn
 domain:cqliving.com
 domain:cqn.com.cn
 domain:cqnews.net
+domain:cqsdlys.cn
 domain:cqsjb.com
 domain:cqtk.com.cn
 domain:cqvip.com
+domain:cqyyxc.com
 domain:cr-cts.com
 domain:cr173.com
 domain:crash.163.com:@ads
@@ -2416,6 +2422,7 @@ domain:didichuxing.com
 domain:didistatic.com
 domain:diditaxi.com.cn
 domain:dig.bdurl.net:@ads
+domain:digitalcnzz.com
 domain:digitaling.com
 domain:diiing.cn
 domain:dili360.com
@@ -3227,6 +3234,7 @@ domain:govwza.cn
 domain:gowinamc.com
 domain:gpall.cn
 domain:gpall.net
+domain:gpzshq.cn
 domain:gracg.com
 domain:greatwallwine.com.cn
 domain:gree.cn
@@ -3928,6 +3936,8 @@ domain:isealsuite.com
 domain:ishijue.com
 domain:ishumei.com
 domain:ishuqi.com
+domain:isigning.cn
+domain:isigning.com
 domain:ispqcloud.com
 domain:istoreos.com
 domain:istv.cn
