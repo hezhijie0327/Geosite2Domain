@@ -375,7 +375,6 @@ domain:gclouddolphin.com
 domain:gcloudsdk.com
 domain:gcloudsvcs.com
 domain:gcores.com
-domain:gdtimg.com
 domain:gifshow.com
 domain:gitv.cn
 domain:gitv.tv

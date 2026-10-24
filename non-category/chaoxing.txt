@@ -4,6 +4,7 @@ domain:aichaoxing.com
 domain:chaoxing.cc
 domain:chaoxing.com
 domain:chaoxingv.com
+domain:cldisk.com
 domain:cxbiji.com
 domain:dayainfo.com
 domain:hongbo100.com
@@ -26,6 +27,7 @@ domain:uonline-sh.net
 domain:xuexi365.com
 domain:xuexi365.com.cn
 domain:xuexi365.net
+domain:xuexitong.com
 domain:xxtmail.com
 domain:ylike.net
 domain:zaifan.com

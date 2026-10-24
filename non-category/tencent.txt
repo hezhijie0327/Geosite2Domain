@@ -213,7 +213,7 @@ domain:gclouddolphin.com
 domain:gcloudsdk.com
 domain:gcloudsvcs.com
 domain:gdt.qq.com:@ads
-domain:gdtimg.com
+domain:gdtimg.com:@ads
 domain:ger.file.myqcloud.com:@!cn
 domain:ggoplay.com
 domain:ggowan.com

@@ -323,6 +323,7 @@ domain:g.mindbox.ru:@ads
 domain:g1.tagtic.cn
 domain:g3.letv.com:@ads
 domain:gdt.qq.com:@ads
+domain:gdtimg.com:@ads
 domain:gemini.yahoo.com:@ads
 domain:gia.jd.com:@ads
 domain:gmossp-sp.jp:@ads

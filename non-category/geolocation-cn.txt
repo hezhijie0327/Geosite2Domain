@@ -1212,6 +1212,7 @@ domain:bocamchina.com
 domain:bocaviation.com
 domain:boccfc.cc
 domain:boccfc.cn
+domain:bocd.com.cn
 domain:boce.com
 domain:bocfullertonbank.com
 domain:bocgi.com
@@ -1634,6 +1635,8 @@ domain:cdntips.net
 domain:cdnv1.cn
 domain:cdnv2.cn
 domain:cdnv3.cn
+domain:cdrcb.com
+domain:cdrcbank.com
 domain:cdut.top
 domain:ce.cn
 domain:ceair.com
@@ -1866,6 +1869,7 @@ domain:clangcn.com
 domain:clawhub-mirror.com
 domain:clawhubmirror.com
 domain:clawsentry.cn
+domain:cldisk.com
 domain:cleargrass.com
 domain:clewm.net
 domain:cli.im
@@ -2659,6 +2663,7 @@ domain:e.stat.ykimg.com:@ads
 domain:e0n.cn
 domain:eagsen.com
 domain:easec.com.cn
+domain:easemob.com
 domain:easesale.com
 domain:easiu.com
 domain:eastday.com
@@ -3115,7 +3120,7 @@ domain:gdjdxy.com
 domain:gdliontech.com
 domain:gdrc.com
 domain:gdt.qq.com:@ads
-domain:gdtimg.com
+domain:gdtimg.com:@ads
 domain:geekbang.org
 domain:geekpark.net
 domain:geektool.top
@@ -3741,6 +3746,7 @@ domain:iadmusicmat.music.126.net:@ads
 domain:iadmusicmatvideo.music.126.net:@ads
 domain:ialicdn.com
 domain:iask.com
+domain:ibangbank.com
 domain:ibaotu.com
 domain:ibcet.org
 domain:ibdxiguaimg.com
@@ -3902,6 +3908,7 @@ domain:ioppo.com.cn
 domain:ioppo.net
 domain:iot-tencent.com
 domain:iotronic.tech
+domain:ip.cn
 domain:ip138.com
 domain:ipanda.cn
 domain:ipanda.com
@@ -5073,8 +5080,6 @@ domain:modelers.cn
 domain:modernjs.cn
 domain:modex.com.cn
 domain:moedu.com
-domain:moegirl.org
-domain:moegirl.org.cn
 domain:moer.cn
 domain:mofang.com
 domain:mofazhu.com
@@ -5214,6 +5219,7 @@ domain:naixuecha.com
 domain:nalrer.cn
 domain:namiso.com
 domain:nanhaicorp.com
+domain:nanocorechip.com
 domain:nanyuenews.com
 domain:narwal.com
 domain:narwaltech.com
@@ -7693,6 +7699,7 @@ domain:xuexi365.com
 domain:xuexi365.com.cn
 domain:xuexi365.net
 domain:xuexicha.com
+domain:xuexitong.com
 domain:xundupdf.com
 domain:xunfei.cn
 domain:xunfeixxj.com
@@ -8236,6 +8243,7 @@ full:ads5-normal.zijieapi.com:@ads
 full:api.alibabacloud.com:@cn
 full:api.blipsandchitz.me
 full:apilog-web.acfun.cn:@ads
+full:app.moegirl.org.cn
 full:cn.alibabacloud.com:@cn
 full:ctdsb.clouddiffuse.xyz
 full:end-api.shallow.ink
@@ -8268,6 +8276,7 @@ full:rtlog3-applog.fqnovel.com:@ads
 full:rtlog5-applog-hl.fqnovel.com:@ads
 full:rtlog5-applog.fqnovel.com:@ads
 full:status.alibabacloud.com:@cn
+full:storage.moegirl.org.cn
 full:time.izatcloud.net:@cn
 full:time.xtracloud.net:@cn
 full:wlog.kuaishou.com:@ads

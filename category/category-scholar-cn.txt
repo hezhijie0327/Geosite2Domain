@@ -17,6 +17,7 @@ domain:chinabooktrading.com
 domain:chinaxiv.org
 domain:chndoi.org
 domain:cidp.com.cn
+domain:cldisk.com
 domain:cnbksy.com
 domain:cnki.com.cn
 domain:cnki.net
@@ -85,6 +86,7 @@ domain:wind.com.cn
 domain:xuexi365.com
 domain:xuexi365.com.cn
 domain:xuexi365.net
+domain:xuexitong.com
 domain:xxtmail.com
 domain:yiigle.com
 domain:ylike.net

@@ -15,6 +15,7 @@ domain:bocamchina.com
 domain:bocaviation.com
 domain:boccfc.cc
 domain:boccfc.cn
+domain:bocd.com.cn
 domain:bocfullertonbank.com
 domain:bocgi.com
 domain:bocgins.com
@@ -43,6 +44,8 @@ domain:ccbleasing.com
 domain:ccblife-test.com.cn
 domain:ccbtrust.com.cn
 domain:ccbxt.com
+domain:cdrcb.com
+domain:cdrcbank.com
 domain:cebbank.com
 domain:cfc108.com
 domain:cgbchina.com.cn
@@ -91,6 +94,7 @@ domain:hsbc.com.cn
 domain:hsbcinsurance.com.cn
 domain:hsbcqh.com.cn
 domain:hxb.com.cn
+domain:ibangbank.com
 domain:icbc
 domain:icbc.com.cn
 domain:icbccs.com.cn

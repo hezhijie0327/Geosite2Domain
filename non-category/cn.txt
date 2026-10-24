@@ -1305,6 +1305,8 @@ domain:cdnmg.com
 domain:cdntip.com
 domain:cdntips.com
 domain:cdntips.net
+domain:cdrcb.com
+domain:cdrcbank.com
 domain:cdut.top
 domain:ceair.com
 domain:cebbank.com
@@ -1475,6 +1477,7 @@ domain:ckxx.net
 domain:clangcn.com
 domain:clawhub-mirror.com
 domain:clawhubmirror.com
+domain:cldisk.com
 domain:cleargrass.com
 domain:clewm.net
 domain:cli.im
@@ -2094,6 +2097,7 @@ domain:e.kuaishou.com:@ads
 domain:e.qq.com:@ads
 domain:e.stat.ykimg.com:@ads
 domain:eagsen.com
+domain:easemob.com
 domain:easesale.com
 domain:easiu.com
 domain:eastday.com
@@ -2471,7 +2475,7 @@ domain:gdjdxy.com
 domain:gdliontech.com
 domain:gdrc.com
 domain:gdt.qq.com:@ads
-domain:gdtimg.com
+domain:gdtimg.com:@ads
 domain:geekbang.org
 domain:geekpark.net
 domain:geektool.top
@@ -2942,6 +2946,7 @@ domain:iadmusicmat.music.126.net:@ads
 domain:iadmusicmatvideo.music.126.net:@ads
 domain:ialicdn.com
 domain:iask.com
+domain:ibangbank.com
 domain:ibaotu.com
 domain:ibcet.org
 domain:ibdxiguaimg.com
@@ -4047,7 +4052,6 @@ domain:modaiyun.com
 domain:modelarts-infer.com
 domain:modelarts-maas.com
 domain:moedu.com
-domain:moegirl.org
 domain:mofang.com
 domain:mofazhu.com
 domain:mogoo.com
@@ -4161,6 +4165,7 @@ domain:nagcloudcs.com
 domain:naixuecha.com
 domain:namiso.com
 domain:nanhaicorp.com
+domain:nanocorechip.com
 domain:nanyuenews.com
 domain:narwal.com
 domain:narwaltech.com
@@ -6152,6 +6157,7 @@ domain:xuetangx.com
 domain:xuexi365.com
 domain:xuexi365.net
 domain:xuexicha.com
+domain:xuexitong.com
 domain:xundupdf.com
 domain:xunfeixxj.com
 domain:xunjiepdf.com

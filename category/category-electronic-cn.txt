@@ -57,6 +57,7 @@ domain:lckfb.com
 domain:listenai.com
 domain:maixhub.com
 domain:moedu.com
+domain:nanocorechip.com
 domain:oshwhub.com
 domain:quecmall.cn
 domain:quectel.com.cn

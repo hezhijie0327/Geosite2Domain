@@ -315,7 +315,6 @@ domain:gcloudcstestonly.com
 domain:gclouddolphin.com
 domain:gcloudsdk.com
 domain:gcloudsvcs.com
-domain:gdtimg.com
 domain:genshinimpact.com
 domain:ghostgames.com
 domain:giratina.com
