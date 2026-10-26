@@ -12,4 +12,4 @@ domain:your-objectstorage.com
 domain:your-server.de
 domain:your-storagebox.de
 domain:your-storageshare.de
-full:sentry.hetzner.company:@ads
+full:sentry.hetzner.company:@ads,@telemetry

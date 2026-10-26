@@ -14,10 +14,10 @@ domain:api-extractor.com
 domain:apihub-internal.cn:@cn
 domain:apisof.net
 domain:appcenter.ms
-domain:applicationinsights.io
-domain:applicationinsights.net
+domain:applicationinsights.io:@telemetry
+domain:applicationinsights.net:@telemetry
 domain:appserviceenvironment.cn:@cn
-domain:aria.ms
+domain:aria.ms:@telemetry
 domain:asp.net
 domain:aspnetcdn.com
 domain:atom.io
@@ -143,8 +143,8 @@ domain:boswp.com
 domain:botframework.com
 domain:brazilpartneruniversity.com
 domain:breakdown.me
-domain:browser.events.data.msn.cn:@ads
-domain:browser.events.data.msn.com:@ads
+domain:browser.events.data.msn.cn:@ads,@telemetry
+domain:browser.events.data.msn.com:@ads,@telemetry
 domain:c-msedge.net
 domain:cafe.github.com:@telemetry
 domain:callersbane.com
@@ -173,6 +173,7 @@ domain:cosmosdb.net
 domain:crmdynint-gcc.com
 domain:crmdynint.com
 domain:crossborderexpansion.com
+domain:data.microsoft.com:@telemetry
 domain:dcg.microsoft.com:@cn
 domain:dependabot.com
 domain:devopsassessment.net
@@ -244,6 +245,7 @@ domain:ie11.com
 domain:ie8.co
 domain:ie9.com
 domain:imaginecup.pl
+domain:in.applicationinsights.azure.com:@telemetry
 domain:ingads.com
 domain:insiderdevtour.com
 domain:internetexplorer.co
@@ -456,7 +458,7 @@ domain:msudalosti.com
 domain:msunlimitedcloudsummit.com
 domain:mymicrosoft.com
 domain:myoctocat.com
-domain:nelreports.net:@ads
+domain:nelreports.net:@ads,@telemetry
 domain:nextechafrica.net
 domain:npm.community
 domain:npmjs.com
@@ -559,6 +561,7 @@ domain:sysinternals.com
 domain:t-msedge.net
 domain:tailwindtraders.com
 domain:techhub.ms
+domain:telemetry.microsoft.com:@telemetry
 domain:tellmewhygame.com
 domain:tfsallin.net
 domain:th.bing.com:@cn
@@ -646,6 +649,8 @@ full:collaborateppe.download.prss.microsoft.com:@cn
 full:copilot-telemetry-service.githubusercontent.com:@telemetry
 full:copilot-telemetry.githubusercontent.com:@telemetry
 full:ctldl.windowsupdate.com:@cn
+full:dc.applicationinsights.azure.com:@telemetry
+full:dc.services.visualstudio.com:@telemetry
 full:developer.microsoft.com:@cn
 full:download.microsoft.com:@cn
 full:download.visualstudio.microsoft.com:@cn
@@ -665,6 +670,7 @@ full:itacademy.download.prss.microsoft.com:@cn
 full:itacademyuat.download.prss.microsoft.com:@cn
 full:lex.download.prss.microsoft.com:@cn
 full:lexuat.download.prss.microsoft.com:@cn
+full:live.applicationinsights.azure.com:@telemetry
 full:mbs.download.prss.microsoft.com:@cn
 full:mpnbenefits.download.prss.microsoft.com:@cn
 full:mpnbenefitsrtl.download.prss.microsoft.com:@cn
@@ -683,6 +689,7 @@ full:officemktuat.download.prss.microsoft.com:@cn
 full:osrelease.download.prss.microsoft.com:@cn
 full:rink.hockeyapp.net
 full:rsm.download.prss.microsoft.com:@cn
+full:rt.services.visualstudio.com:@telemetry
 full:sdx.microsoft.com:@cn
 full:shell.cdn.office.net:@cn
 full:software.download.prss.microsoft.com:@cn

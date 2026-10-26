@@ -1,5 +1,5 @@
-domain:browser.events.data.msn.cn:@ads
-domain:browser.events.data.msn.com:@ads
+domain:browser.events.data.msn.cn:@ads,@telemetry
+domain:browser.events.data.msn.com:@ads,@telemetry
 domain:microsoftnews.cc
 domain:microsoftnews.cn:@cn
 domain:microsoftnews.com

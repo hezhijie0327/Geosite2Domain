@@ -63,7 +63,7 @@ domain:chelindbank.ru
 domain:chelinvest.ru
 domain:cibank.ru
 domain:cifra-bank.ru
-domain:clickstream.sberbank.ru:@ads
+domain:clickstream.sberbank.ru:@ads,@telemetry
 domain:cmrbank.ru
 domain:coalmetbank.ru
 domain:codeseason.by

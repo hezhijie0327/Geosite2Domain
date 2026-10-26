@@ -161,7 +161,7 @@ domain:volcdns.pub
 domain:volcdsagslb.net
 domain:volcdsalb.net
 domain:volceapi.com
-domain:volceapplog.com
+domain:volceapplog.com:@telemetry
 domain:volcecr.com
 domain:volcecw.com
 domain:volcenginapi.com

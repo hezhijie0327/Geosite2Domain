@@ -133,7 +133,7 @@ domain:laohu.com
 domain:ledu.com
 domain:leyuansu.com
 domain:lingxigames.com
-domain:log-upload.mihoyo.com:@ads
+domain:log-upload.mihoyo.com:@ads,@telemetry
 domain:longtugame.com
 domain:ludosuperstar.cn
 domain:ludoworld.net

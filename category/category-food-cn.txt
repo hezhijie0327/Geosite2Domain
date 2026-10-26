@@ -27,7 +27,7 @@ domain:kemen.cn
 domain:kfc.com.cn
 domain:kiwa-tech.com
 domain:lkcoffee.com
-domain:logger.qmai.cn:@ads
+domain:logger.qmai.cn:@ads,@telemetry
 domain:lppz.com
 domain:lppzimg.com
 domain:luckincoffeecdn.com
@@ -49,9 +49,9 @@ domain:shuanghui.net
 domain:shuxinyc.com
 domain:starbucks.com.cn:@cn
 domain:telunsu.net
-domain:tracking.mcdonalds.com.cn:@ads
-domain:trackingprd.hwwt8.com:@ads
-domain:trackserver.shuxinyc.com:@ads
+domain:tracking.mcdonalds.com.cn:@ads,@telemetry
+domain:trackingprd.hwwt8.com:@ads,@telemetry
+domain:trackserver.shuxinyc.com:@ads,@telemetry
 domain:vipbcw.com
 domain:wahaha.com.cn
 domain:whhhealth.com

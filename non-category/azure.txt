@@ -114,6 +114,7 @@ domain:cosmosdb.net
 domain:devopsms.com
 domain:gotcosmos.com
 domain:hdinsightservices.cn:@cn
+domain:in.applicationinsights.azure.com:@telemetry
 domain:management-azure-devices-int.net
 domain:management-azure-devices-provisioning.cn:@cn
 domain:management-azure-devices.cn:@cn
@@ -149,3 +150,5 @@ domain:windowsazure.com
 domain:windowsazurestatus.cn:@cn
 full:azure.microsoft.com
 full:azuremarketplace.microsoft.com
+full:dc.applicationinsights.azure.com:@telemetry
+full:live.applicationinsights.azure.com:@telemetry

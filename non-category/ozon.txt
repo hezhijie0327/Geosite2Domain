@@ -53,7 +53,7 @@ full:loyalnost-adv.ozon.ru:@ads
 full:new-adv.ozon.ru:@ads
 full:prodvizhenie-adv.ozon.ru:@ads
 full:questions-adv.ozon.ru:@ads
-full:sentry.ozon.ru:@ads
+full:sentry.ozon.ru:@ads,@telemetry
 full:xapi.ozon.by:@ads
 full:xapi.ozon.com.by:@ads
 full:xapi.ozon.com.kz:@ads

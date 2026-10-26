@@ -46,6 +46,7 @@ domain:happyshrimp.cn
 domain:hi-butterfly.cn
 domain:hunyuan.tencent.com
 domain:instreet.com
+domain:kakaxing.com
 domain:kechuangai.com
 domain:kimi.com
 domain:kling-ai.com

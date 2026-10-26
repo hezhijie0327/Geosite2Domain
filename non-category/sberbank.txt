@@ -1,6 +1,6 @@
 domain:ads.sber.ru:@ads
 domain:bps-sberbank.by
-domain:clickstream.sberbank.ru:@ads
+domain:clickstream.sberbank.ru:@ads,@telemetry
 domain:cplsb.ru
 domain:sber-bank.by
 domain:sber.ru

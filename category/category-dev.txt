@@ -12,7 +12,7 @@ domain:ampproject.org
 domain:anaconda.cloud
 domain:anaconda.com
 domain:anaconda.org
-domain:analytics.cloud.unity3d.com:@ads
+domain:analytics.cloud.unity3d.com:@ads,@telemetry
 domain:android
 domain:android.com
 domain:androidify.com
@@ -383,8 +383,8 @@ domain:packer.io
 domain:paint.net
 domain:parse.com
 domain:pcre.org
-domain:perf-events.cloud.unity3d.com:@ads
-domain:perf.cloud.unity3d.com:@ads
+domain:perf-events.cloud.unity3d.com:@ads,@telemetry
+domain:perf.cloud.unity3d.com:@ads,@telemetry
 domain:perl.org
 domain:phantomjs.org
 domain:php.net
@@ -600,8 +600,9 @@ full:cdn4.apple-mapkit.com:@cn
 full:copilot-telemetry-service.githubusercontent.com:@telemetry
 full:copilot-telemetry.githubusercontent.com:@telemetry
 full:copilotprodattachments.blob.core.windows.net
-full:crashlyticsreports-pa.googleapis.com:@cn
+full:crashlyticsreports-pa.googleapis.com:@cn,@telemetry
 full:d29vzk4ow07wi7.cloudfront.net
+full:dc.services.visualstudio.com:@telemetry
 full:default.exp-tas.com
 full:developer.microsoft.com
 full:developers.facebook.com
@@ -609,7 +610,7 @@ full:docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.co
 full:docker-pinata-support.s3.amazonaws.com
 full:download.visualstudio.microsoft.com:@cn
 full:dtlgalleryint.cloudapp.net
-full:firebase-settings.crashlytics.com:@cn
+full:firebase-settings.crashlytics.com:@cn,@telemetry
 full:firebase.googleapis.com
 full:firebaseappcheck.googleapis.com
 full:firebaseappdistribution.googleapis.com
@@ -619,8 +620,8 @@ full:firebasedynamiclinks-ipv6.googleapis.com
 full:firebasedynamiclinks.googleapis.com
 full:firebaseinappmessaging.googleapis.com
 full:firebaseinstallations.googleapis.com
-full:firebaselogging-pa.googleapis.com
-full:firebaselogging.googleapis.com
+full:firebaselogging-pa.googleapis.com:@telemetry
+full:firebaselogging.googleapis.com:@telemetry
 full:firebaseperusertopics-pa.googleapis.com
 full:firebaseremoteconfig.googleapis.com
 full:github-api.arkoselabs.com
@@ -659,7 +660,8 @@ full:productionresultssa9.blob.core.windows.net
 full:psg-int-centralus.cloudapp.net
 full:psg-int-eastus.cloudapp.net
 full:rink.hockeyapp.net
-full:update.crashlytics.com:@cn
+full:rt.services.visualstudio.com:@telemetry
+full:update.crashlytics.com:@cn,@telemetry
 full:vscode-sync-insiders.trafficmanager.net
 full:vscode-sync.trafficmanager.net
 full:vscode.blob.core.windows.net

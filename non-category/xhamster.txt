@@ -1,4 +1,4 @@
-domain:collector.xhamster.com:@ads
+domain:collector.xhamster.com:@ads,@telemetry
 domain:freexh.blog
 domain:freexh.live
 domain:netxh.blog

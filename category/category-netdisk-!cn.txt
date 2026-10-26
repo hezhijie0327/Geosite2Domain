@@ -55,5 +55,5 @@ domain:transfer.it
 domain:userdrive.org
 domain:usersdrive.com
 full:dropbox.zendesk.com
-full:o4504926511693824.ingest.sentry.io:@ads
+full:o4504926511693824.ingest.sentry.io:@ads,@telemetry
 full:paper-attachments.s3.amazonaws.com

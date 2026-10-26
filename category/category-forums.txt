@@ -46,7 +46,7 @@ domain:lihkg.com
 domain:linux.do
 domain:livejournal.com
 domain:livejournal.net
-domain:log.dzen.ru:@ads
+domain:log.dzen.ru:@ads,@telemetry
 domain:maintracker.org
 domain:mewe.com
 domain:mobile01.com

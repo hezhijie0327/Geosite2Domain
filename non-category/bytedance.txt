@@ -27,7 +27,7 @@ domain:amemv.net
 domain:analytics.tiktok.com:@ads
 domain:anycross.com
 domain:api-building.fun
-domain:applogcdn.com
+domain:applogcdn.com:@telemetry
 domain:arco.design
 domain:ark-doc-resources.cn
 domain:auto-validation.com
@@ -299,7 +299,7 @@ domain:ecombdstatic.com
 domain:ecombdvod.com
 domain:edgeceler.com
 domain:emr-volces.com
-domain:extlog.snssdk.com:@ads
+domain:extlog.snssdk.com:@ads,@telemetry
 domain:faceu.com
 domain:faceu.mobi
 domain:falconsending.com
@@ -483,7 +483,7 @@ domain:livecdnstatic.com
 domain:livesaascdn.com
 domain:livesaasvolccdn.com
 domain:local-ip.online
-domain:log.zijieapi.com:@ads
+domain:log.zijieapi.com:@ads,@telemetry
 domain:luckysf.net
 domain:maoxiangai.com
 domain:marscode.cn
@@ -757,7 +757,7 @@ domain:volcdns.pub
 domain:volcdsagslb.net
 domain:volcdsalb.net
 domain:volceapi.com
-domain:volceapplog.com
+domain:volceapplog.com:@telemetry
 domain:volcecr.com
 domain:volcecw.com
 domain:volcenginapi.com
@@ -925,10 +925,10 @@ full:ads3-normal.zijieapi.com:@ads
 full:ads5-normal-hl.zijieapi.com:@ads
 full:ads5-normal.zijieapi.com:@ads
 full:bytedance.map.fastly.net:@!cn
-full:log3-applog-hl.fqnovel.com:@ads
-full:log3-applog.fqnovel.com:@ads
-full:log5-applog-hl.fqnovel.com:@ads
-full:log5-applog.fqnovel.com:@ads
+full:log3-applog-hl.fqnovel.com:@ads,@telemetry
+full:log3-applog.fqnovel.com:@ads,@telemetry
+full:log5-applog-hl.fqnovel.com:@ads,@telemetry
+full:log5-applog.fqnovel.com:@ads,@telemetry
 full:p16-tiktokcdn-com.akamaized.net:@!cn
 full:p3-ad-sign.byteimg.com:@ads
 full:p6-ad-sign.byteimg.com:@ads
@@ -937,7 +937,7 @@ full:roovza-launches.appsflyersdk.com:@!cn
 full:roovza.inapps.appsflyersdk.com:@!cn
 full:roovza.launches.appsflyersdk.com:@!cn
 full:roovza.skadsdk.appsflyersdk.com:@!cn
-full:rtlog3-applog-hl.fqnovel.com:@ads
-full:rtlog3-applog.fqnovel.com:@ads
-full:rtlog5-applog-hl.fqnovel.com:@ads
-full:rtlog5-applog.fqnovel.com:@ads
+full:rtlog3-applog-hl.fqnovel.com:@ads,@telemetry
+full:rtlog3-applog.fqnovel.com:@ads,@telemetry
+full:rtlog5-applog-hl.fqnovel.com:@ads,@telemetry
+full:rtlog5-applog.fqnovel.com:@ads,@telemetry

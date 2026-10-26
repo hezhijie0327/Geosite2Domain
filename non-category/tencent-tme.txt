@@ -28,12 +28,12 @@ domain:kugouvoice.com
 domain:kugouyouth.com
 domain:kuwo.cn
 domain:lrts.me
-domain:monitor.music.qq.com:@ads
+domain:monitor.music.qq.com:@ads,@telemetry
 domain:mting.info
 domain:music.qq.com
 domain:qqmusic.com
-domain:report.tencentmusic.com:@ads
-domain:stat.y.qq.com:@ads
+domain:report.tencentmusic.com:@ads,@telemetry
+domain:stat.y.qq.com:@ads,@telemetry
 domain:tencentmusic.com
 domain:tingmall.com
 domain:tmead.y.qq.com:@ads

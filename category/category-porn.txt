@@ -1296,7 +1296,7 @@ domain:colegialasreales.com
 domain:coliriodemacho.com.br
 domain:collection-3d.com
 domain:collectionofbestporn.com
-domain:collector.xhamster.com:@ads
+domain:collector.xhamster.com:@ads,@telemetry
 domain:collegepornonly.com
 domain:collegesexgames.com
 domain:colliderporn.com

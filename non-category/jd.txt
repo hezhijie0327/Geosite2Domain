@@ -233,7 +233,7 @@ domain:prestodb.net.cn
 domain:qianxun.com
 domain:qingzhouip.com
 domain:sgsic.com
-domain:stat.m.jd.com:@ads
+domain:stat.m.jd.com:@ads,@telemetry
 domain:toplife.com
 domain:vg.com
 domain:vipmro.com

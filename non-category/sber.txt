@@ -18,7 +18,7 @@ domain:ads.sber.ru:@ads
 domain:afisha.ru
 domain:bps-sberbank.by
 domain:citydrive.ru
-domain:clickstream.sberbank.ru:@ads
+domain:clickstream.sberbank.ru:@ads,@telemetry
 domain:cloud.ru
 domain:cloudru.cn
 domain:cplsb.ru
@@ -92,9 +92,9 @@ domain:yookassa.ru
 domain:yoomoney.ru
 domain:zvuk-b2b.com
 domain:zvuk.com
-full:error-tracking.megamarket.tech:@ads
-full:metrics.21-school.ru:@ads
+full:error-tracking.megamarket.tech:@ads,@telemetry
+full:metrics.21-school.ru:@ads,@telemetry
 full:sberpro.vedomosti.ru
-full:sentry.sberauto.com:@ads
-full:tracing-http.megamarket.tech:@ads
+full:sentry.sberauto.com:@ads,@telemetry
+full:tracing-http.megamarket.tech:@ads,@telemetry
 full:visor.sberbank.ru:@ads

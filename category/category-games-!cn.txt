@@ -251,7 +251,7 @@ domain:hutpromos.com
 domain:hyprsense.com
 domain:industrialtoys.com
 domain:infinityward.com
-domain:insights-collector.gog.com:@ads
+domain:insights-collector.gog.com:@ads,@telemetry
 domain:instituteofwar.org
 domain:itch.io
 domain:itch.zone
@@ -293,7 +293,7 @@ domain:leaguoflegends.com
 domain:learnwithleague.com
 domain:legendofzelda.cn:@cn
 domain:legendofzelda.com.cn:@cn
-domain:log-upload-os.hoyoverse.com:@ads
+domain:log-upload-os.hoyoverse.com:@ads,@telemetry
 domain:lol-europe.com
 domain:lolclub.org
 domain:lolespor.com
@@ -822,7 +822,7 @@ full:pubg1.battleye.com
 full:roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
 full:roblox-poc.global.ssl.fastly.net
 full:robloxcorp.s.llnwi.net
-full:sentry.ppy.sh
+full:sentry.ppy.sh:@telemetry
 full:spectator.ppy.sh
 full:steambroadcast.akamaized.net
 full:steamcdn-a.akamaihd.net

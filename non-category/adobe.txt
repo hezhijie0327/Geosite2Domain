@@ -36,7 +36,7 @@ domain:adobesign.com
 domain:adobesigncdn.com
 domain:adobespark.com
 domain:adobess.com
-domain:adobestats.io
+domain:adobestats.io:@telemetry
 domain:adobestock.com
 domain:adobetag.com
 domain:adobetarget.com

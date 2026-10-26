@@ -176,7 +176,10 @@ full:alkalicore-pa.clients6.google.com
 full:alkalimakersuite-pa.clients6.google.com
 full:antigravity-pa.googleapis.com
 full:antigravity.googleapis.com
-full:browser-intake-datadoghq.com:@ads
+full:appsgenaiserver-pa.clients.google.com
+full:appsgenaiserver-pa.clients6.google.com
+full:appsgenaiserver-pa.googleapis.com
+full:browser-intake-datadoghq.com:@ads,@telemetry
 full:cloudaicompanion.googleapis.com
 full:cloudcode-pa.googleapis.com
 full:copilot-proxy.githubusercontent.com
@@ -189,8 +192,8 @@ full:geminiweb-pa.clients.google.com
 full:geminiweb-pa.clients6.google.com
 full:notebooklm-pa.googleapis.com
 full:notebooklm.googleapis.com
-full:o33249.ingest.sentry.io:@ads
-full:o33249.ingest.us.sentry.io:@ads
+full:o33249.ingest.sentry.io:@ads,@telemetry
+full:o33249.ingest.us.sentry.io:@ads,@telemetry
 full:openai.qualtrics.com:@ads
 full:openaiapi-site.azureedge.net
 full:openaiassets.blob.core.windows.net

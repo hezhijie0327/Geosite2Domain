@@ -1,6 +1,6 @@
 domain:acjs.aliyun.com:@ads
-domain:adash-emas.cn-hangzhou.aliyuncs.com:@ads
-domain:adash.man.aliyuncs.com:@ads
+domain:adash-emas.cn-hangzhou.aliyuncs.com:@ads,@telemetry
+domain:adash.man.aliyuncs.com:@ads,@telemetry
 domain:alibabadns.com
 domain:alicdn.com
 domain:alicloudapi.com

@@ -7,5 +7,5 @@ domain:shuqi.com
 domain:shuqiapi.com
 domain:shuqiread.com
 domain:shuqireader.com
-domain:shuqistat.com
+domain:shuqistat.com:@telemetry
 domain:sqreader.com

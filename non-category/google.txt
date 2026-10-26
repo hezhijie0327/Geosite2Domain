@@ -869,7 +869,7 @@ full:clickserver.googleads.com:@cn
 full:clientservices.googleapis.com:@cn
 full:cn.widevine.com:@cn
 full:connectivitycheck.gstatic.com:@cn
-full:crashlyticsreports-pa.googleapis.com:@cn
+full:crashlyticsreports-pa.googleapis.com:@cn,@telemetry
 full:crl.pki.goog:@cn
 full:crls.pki.goog:@cn
 full:csi.gstatic.com:@cn
@@ -881,7 +881,9 @@ full:doubleclick-cn.net:@cn
 full:doubleclick.net:@cn
 full:download.mlcc.google.com:@cn
 full:download.tensorflow.google.com:@cn
-full:firebase-settings.crashlytics.com:@cn
+full:firebase-settings.crashlytics.com:@cn,@telemetry
+full:firebaselogging-pa.googleapis.com:@telemetry
+full:firebaselogging.googleapis.com:@telemetry
 full:fontfiles.googleapis.com:@cn
 full:fonts.googleapis.com:@cn
 full:fonts.gstatic.com:@cn
@@ -950,7 +952,7 @@ full:staging-databe.floonet.goog:@cn
 full:staging.databe.floonet.goog:@cn
 full:tac.googleapis.com:@cn
 full:tools.google.com:@cn
-full:update.crashlytics.com:@cn
+full:update.crashlytics.com:@cn,@telemetry
 full:update.googleapis.com:@cn
 full:wear.googleapis.com:@cn
 full:www-google-analytics.l.google.com:@cn

@@ -10,7 +10,7 @@ domain:apipost.cn
 domain:apipost.net
 domain:asktug.com
 domain:atomgit.com
-domain:badjs.weixinbridge.com:@ads
+domain:badjs.weixinbridge.com:@ads,@telemetry
 domain:baltamatica.cn
 domain:baltamatica.com
 domain:baltamatica.net

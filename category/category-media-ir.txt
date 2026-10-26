@@ -21,7 +21,7 @@ domain:radiopayam.ir
 domain:radioquran.ir
 domain:radiotehran.ir
 domain:radiovarzesh.ir
-domain:telewebion.com
+domain:telewebion.net
 domain:tmk.ir
 domain:tv3.ir
 domain:tv5.ir

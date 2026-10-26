@@ -1,1 +1,2 @@
 domain:ppy.sh
+full:sentry.ppy.sh:@telemetry

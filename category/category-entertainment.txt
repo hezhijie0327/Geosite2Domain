@@ -720,7 +720,7 @@ domain:indaznlab.com
 domain:industrialtoys.com
 domain:infinityward.com
 domain:inside-games.jp
-domain:insights-collector.gog.com:@ads
+domain:insights-collector.gog.com:@ads,@telemetry
 domain:instituteofwar.org
 domain:internationalsaimoe.com
 domain:iole.tv
@@ -840,7 +840,7 @@ domain:litv.tv
 domain:litvfreepc.akamaized.net
 domain:live-video.net
 domain:livestream.com
-domain:log-upload-os.hoyoverse.com:@ads
+domain:log-upload-os.hoyoverse.com:@ads,@telemetry
 domain:lol-europe.com
 domain:lolclub.org
 domain:lolespor.com
@@ -974,6 +974,7 @@ domain:nentindo.net
 domain:neoforged.net
 domain:netflix.ca
 domain:netflix.com
+domain:netflix.com.edgesuite.net
 domain:netflix.net
 domain:netflixdnstest0.com
 domain:netflixdnstest1.com
@@ -1359,6 +1360,7 @@ domain:spore.com
 domain:spoti.fi
 domain:spotify-everywhere.com
 domain:spotify.com
+domain:spotify.com.edgesuite.net
 domain:spotify.design
 domain:spotify.link
 domain:spotifycdn.com
@@ -1952,7 +1954,7 @@ full:ddpjwstwtpszg.cloudfront.net
 full:devforum-uploads.s3.dualstack.us-east-2.amazonaws.com
 full:dfp6rglgjqszk.cloudfront.net
 full:dgeft87wbj63p.cloudfront.net
-full:disney.my.sentry.io:@ads
+full:disney.my.sentry.io:@ads,@telemetry
 full:disneyplus.com.ssl.sc.omtrdc.net
 full:dlgarenanow-a.akamaihd.net
 full:dlmobilegarena-a.akamaihd.net
@@ -2021,7 +2023,6 @@ full:musicstatus.music.apple.com:@cn
 full:mvod.itunes.apple.com:@cn
 full:myapp.itunes.apple.com:@cn
 full:nbbb1bb7.pmhcjk.com
-full:netflix.com.edgesuite.net
 full:notify.ppy.sh
 full:np-edge.itunes.apple.com:@cn
 full:ntdfreemobile-tgc.cdn.hinet.net
@@ -2063,12 +2064,11 @@ full:scc.ott.hinet.net
 full:se-edge.itunes.apple.com:@cn
 full:se2.itunes.apple.com:@cn
 full:search.itunes.apple.com:@cn
-full:sentry.ppy.sh
+full:sentry.ppy.sh:@telemetry
 full:sf-api-token-service.itunes.apple.com:@cn
 full:sp.itunes.apple.com:@cn
 full:spectator.ppy.sh
 full:speedysub.music.apple.com:@cn
-full:spotify.com.edgesuite.net
 full:spotify.map.fastly.net
 full:spotify.map.fastlylb.net
 full:static-hamivideo.cdn.hinet.net

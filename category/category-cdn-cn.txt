@@ -29,7 +29,7 @@ domain:cloudflareanycast.net:@cn
 domain:cloudflarechina.cn:@cn
 domain:cloudflarecn.net:@cn
 domain:cloudflareglobal.net:@cn
-domain:cloudflareinsights-cn.com:@cn
+domain:cloudflareinsights-cn.com:@cn,@telemetry
 domain:cloudflareperf.com:@cn
 domain:cloudflareprod.com:@cn
 domain:cloudflarestaging.com:@cn

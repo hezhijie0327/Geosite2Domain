@@ -1,4 +1,4 @@
 domain:dzen.ru
 domain:dzeninfra.ru
-domain:log.dzen.ru:@ads
+domain:log.dzen.ru:@ads,@telemetry
 domain:ms.dzen.ru:@ads

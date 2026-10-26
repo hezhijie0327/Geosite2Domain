@@ -5,11 +5,11 @@ domain:afp.iqiyi.com:@ads
 domain:c.uaa.iqiyi.com:@ads
 domain:cloudpush.iqiyi.com:@ads
 domain:cupid.iqiyi.com:@ads
-domain:ifacelog.iqiyi.com:@ads
+domain:ifacelog.iqiyi.com:@ads,@telemetry
 domain:iq.com:@!cn
 domain:iqiyi.com
 domain:iqiyipic.com
-domain:mbdlog.iqiyi.com:@ads
+domain:mbdlog.iqiyi.com:@ads,@telemetry
 domain:msg.video.qiyi.com:@ads
 domain:msg2.video.qiyi.com:@ads
 domain:policy.video.iqiyi.com:@ads

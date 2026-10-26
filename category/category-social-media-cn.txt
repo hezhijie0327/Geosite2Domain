@@ -8,14 +8,14 @@ domain:ads.sina.com:@ads
 domain:alitui.weibo.com:@ads
 domain:askdiandian.com
 domain:baihe.com
-domain:beacon.sina.com.cn:@ads
+domain:beacon.sina.com.cn:@ads,@telemetry
 domain:biz.weibo.com:@ads
 domain:click.uve.mobile.sina.cn:@ads
 domain:click.uve.weibo.com:@ads
 domain:coolapk.com
 domain:coolapkmarket.com
 domain:coolapkmarket.net
-domain:crash2.zhihu.com:@ads
+domain:crash2.zhihu.com:@ads,@telemetry
 domain:dandan818.com
 domain:dandanvoice.com
 domain:diandianlife.top
@@ -39,8 +39,8 @@ domain:jikecdn.com
 domain:krcom.cn
 domain:laiyagushi.com
 domain:log.mix.sina.com.cn:@ads
-domain:log.sina.cn:@ads
-domain:log2.sina.cn:@ads
+domain:log.sina.cn:@ads,@telemetry
+domain:log2.sina.cn:@ads,@telemetry
 domain:maimai.cn
 domain:meipian.cn
 domain:meipian.me
@@ -58,7 +58,7 @@ domain:rnote.com
 domain:rs.sinajs.cn:@ads
 domain:ruguoapp.com
 domain:sa.sina.cn:@ads
-domain:sbeacon.sina.com.cn:@ads
+domain:sbeacon.sina.com.cn:@ads,@telemetry
 domain:sdkclick.mobile.sina.cn:@ads
 domain:shihuo.cn
 domain:sina
@@ -72,8 +72,8 @@ domain:sinaimg.cn
 domain:sinaimg.com
 domain:sinajs.cn
 domain:sinajs.com
-domain:slog.sina.cn:@ads
-domain:slog.sina.com.cn:@ads
+domain:slog.sina.cn:@ads,@telemetry
+domain:slog.sina.com.cn:@ads,@telemetry
 domain:soulapp.cn
 domain:t.cn
 domain:tancdn.com
@@ -107,7 +107,7 @@ domain:xiaohongshu.com
 domain:xn--9krt00a
 domain:zastatic.com
 domain:zhenai.com
-domain:zhihu-web-analytics.zhihu.com:@ads
+domain:zhihu-web-analytics.zhihu.com:@ads,@telemetry
 domain:zhihu.com
 domain:zhimg.com
 domain:zsxq.com

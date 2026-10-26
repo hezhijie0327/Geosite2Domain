@@ -161,7 +161,7 @@ domain:paypal.net.cn:@cn
 domain:paypal.org.cn:@cn
 domain:paypal.so
 domain:paypal.us
-domain:paypalbeacon.com
+domain:paypalbeacon.com:@telemetry
 domain:paypalbenefits.com
 domain:paypalbrasil.com
 domain:paypalcommunity.cn:@cn

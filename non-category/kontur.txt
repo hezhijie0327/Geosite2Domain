@@ -3,5 +3,5 @@ domain:kontur.host
 domain:kontur.ru
 domain:ktalk.host
 domain:ktalk.ru
-full:metrika.kontur.ru:@ads
-full:sentry.kontur.host:@ads
+full:metrika.kontur.ru:@ads,@telemetry
+full:sentry.kontur.host:@ads,@telemetry

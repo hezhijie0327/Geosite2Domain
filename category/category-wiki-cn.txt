@@ -3,7 +3,6 @@ domain:chaz.fun
 domain:fgo.wiki
 domain:huijistatic.com
 domain:huijiwiki.com
-domain:jikipedia.com
 domain:mbalib.com
 domain:mcmod.cn
 domain:pwsannong.com

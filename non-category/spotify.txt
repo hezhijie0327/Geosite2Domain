@@ -5,6 +5,7 @@ domain:scdn.co
 domain:spoti.fi
 domain:spotify-everywhere.com
 domain:spotify.com
+domain:spotify.com.edgesuite.net
 domain:spotify.design
 domain:spotify.link
 domain:spotifycdn.com
@@ -23,6 +24,5 @@ full:bloodhound.spotify.com:@ads
 full:cdn-spotify-experiments.conductrics.com
 full:heads-ak-spotify-com.akamaized.net
 full:heads4-ak-spotify-com.akamaized.net
-full:spotify.com.edgesuite.net
 full:spotify.map.fastly.net
 full:spotify.map.fastlylb.net

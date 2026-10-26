@@ -216,7 +216,7 @@ domain:waltdisneystudios.com
 domain:watchdisneyfe.com
 domain:watchespn.com
 domain:wwwhuluplus.com
-full:disney.my.sentry.io:@ads
+full:disney.my.sentry.io:@ads,@telemetry
 full:disneyplus.com.ssl.sc.omtrdc.net
 full:espn.hb.omtrdc.net
 full:espndotcom.tt.omtrdc.net

@@ -171,7 +171,7 @@ domain:tasnimnews.com
 domain:tebyan.net
 domain:tehrantimes.com
 domain:tejaratnews.com
-domain:telewebion.com
+domain:telewebion.net
 domain:tetherland.com
 domain:tgju.org
 domain:tipaxco.com

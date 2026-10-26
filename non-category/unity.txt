@@ -1,9 +1,9 @@
-domain:analytics.cloud.unity3d.com:@ads
+domain:analytics.cloud.unity3d.com:@ads,@telemetry
 domain:cdp.cloud.unity3d.com:@ads
 domain:config.uca.cloud.unity3d.com:@ads
 domain:iads.unity3d.com:@ads
-domain:perf-events.cloud.unity3d.com:@ads
-domain:perf.cloud.unity3d.com:@ads
+domain:perf-events.cloud.unity3d.com:@ads,@telemetry
+domain:perf.cloud.unity3d.com:@ads,@telemetry
 domain:prd-lender.cdp.internal.unity3d.com:@ads
 domain:unity.com
 domain:unity3d.com

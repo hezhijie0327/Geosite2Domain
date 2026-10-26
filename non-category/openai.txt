@@ -12,9 +12,9 @@ domain:openai.com.cdn.cloudflare.net
 domain:openai.org
 domain:sora.com
 domain:turn.livekit.cloud
-full:browser-intake-datadoghq.com:@ads
-full:o33249.ingest.sentry.io:@ads
-full:o33249.ingest.us.sentry.io:@ads
+full:browser-intake-datadoghq.com:@ads,@telemetry
+full:o33249.ingest.sentry.io:@ads,@telemetry
+full:o33249.ingest.us.sentry.io:@ads,@telemetry
 full:openai.qualtrics.com:@ads
 full:openaiapi-site.azureedge.net
 full:openaiassets.blob.core.windows.net

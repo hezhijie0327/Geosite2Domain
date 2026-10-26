@@ -2,7 +2,7 @@ domain:benghuai.com
 domain:bh3.com
 domain:bhsr.com
 domain:juequling.com
-domain:log-upload.mihoyo.com:@ads
+domain:log-upload.mihoyo.com:@ads,@telemetry
 domain:mhystatic.com
 domain:mhyurl.cn
 domain:mihayo.com

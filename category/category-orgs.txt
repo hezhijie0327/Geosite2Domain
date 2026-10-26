@@ -120,3 +120,4 @@ domain:worldemojiday.com
 domain:wto.org
 domain:xn--yt8h.la
 full:csis-prod.s3.amazonaws.com
+full:sentry.ppy.sh:@telemetry

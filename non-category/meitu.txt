@@ -3,7 +3,7 @@ domain:kaipai.com
 domain:meipai.com
 domain:meitu.com
 domain:meitudata.com
-domain:meitustat.com
+domain:meitustat.com:@telemetry
 domain:meituxiuxiu.com
 domain:meiyan.com
 domain:miraclevision.com

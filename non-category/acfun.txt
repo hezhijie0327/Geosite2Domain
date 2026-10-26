@@ -5,4 +5,4 @@ domain:acfunchina.cn
 domain:acfunchina.com
 domain:acfunchina.net
 domain:aixifan.com
-full:apilog-web.acfun.cn:@ads
+full:apilog-web.acfun.cn:@ads,@telemetry

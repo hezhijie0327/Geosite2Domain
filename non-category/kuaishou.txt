@@ -35,6 +35,6 @@ domain:viviv.com
 domain:wskwai.com
 domain:wsukwai.com
 domain:yximgs.com
-full:apilog-web.acfun.cn:@ads
-full:log-sdk.gifshow.com:@ads
-full:wlog.kuaishou.com:@ads
+full:apilog-web.acfun.cn:@ads,@telemetry
+full:log-sdk.gifshow.com:@ads,@telemetry
+full:wlog.kuaishou.com:@ads,@telemetry

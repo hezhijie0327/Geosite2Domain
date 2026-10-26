@@ -81,7 +81,7 @@ domain:ecmc.bdimg.com:@ads
 domain:eduad.baidu.com:@ads
 domain:eiv.baidu.com:@ads
 domain:fclick.baidu.com:@ads
-domain:fclog.baidu.com:@ads
+domain:fclog.baidu.com:@ads,@telemetry
 domain:h2tcbox.baidu.com:@ads
 domain:hao123.com
 domain:hao123img.com
@@ -109,7 +109,7 @@ domain:nsclick.baidu.com:@ads
 domain:nsclickvideo.baidu.com:@ads
 domain:nuomi.com
 domain:paydxm.com
-domain:pimlog.baidu.com:@ads
+domain:pimlog.baidu.com:@ads,@telemetry
 domain:pos.baidu.com:@ads
 domain:quyaoya.com
 domain:sclick.baidu.com:@ads

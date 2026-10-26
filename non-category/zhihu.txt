@@ -1,6 +1,6 @@
-domain:crash2.zhihu.com:@ads
+domain:crash2.zhihu.com:@ads,@telemetry
 domain:laiyagushi.com
 domain:vzuu.com
-domain:zhihu-web-analytics.zhihu.com:@ads
+domain:zhihu-web-analytics.zhihu.com:@ads,@telemetry
 domain:zhihu.com
 domain:zhimg.com

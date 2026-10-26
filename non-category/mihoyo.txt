@@ -8,8 +8,8 @@ domain:hoyo.link
 domain:hoyolab.com
 domain:hoyoverse.com
 domain:juequling.com
-domain:log-upload-os.hoyoverse.com:@ads
-domain:log-upload.mihoyo.com:@ads
+domain:log-upload-os.hoyoverse.com:@ads,@telemetry
+domain:log-upload.mihoyo.com:@ads,@telemetry
 domain:mhystatic.com
 domain:mhyurl.cn
 domain:mihayo.com
