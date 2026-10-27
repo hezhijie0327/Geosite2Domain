@@ -469,6 +469,7 @@ domain:messenger.com
 domain:messengerdevelopers.com
 domain:meta.ai
 domain:meta.com
+domain:metaaiusercontent.com
 domain:metaaivm.com
 domain:midentsolutions.com
 domain:mobilefacebook.com

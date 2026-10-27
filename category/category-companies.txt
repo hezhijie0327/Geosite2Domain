@@ -5006,6 +5006,7 @@ domain:messenger.com
 domain:messengerdevelopers.com
 domain:meta.ai
 domain:meta.com
+domain:metaaiusercontent.com
 domain:metaaivm.com
 domain:metabora.io
 domain:metacloud.com
@@ -8222,7 +8223,9 @@ full:sentry.viqeo.tv:@ads,@telemetry
 full:sequoia.apple.com:@cn
 full:service.urchin.com:@cn
 full:sf-api-token-service.itunes.apple.com:@cn
+full:sh-pod1-smp-device.apple.com:@cn
 full:sh-pod2-smp-device.apple.com:@cn
+full:sh-pod3-smp-device.apple.com:@cn
 full:shazam-insights.cdn-apple.com:@cn
 full:shell.cdn.office.net:@cn
 full:smp-device-content.apple.com:@cn

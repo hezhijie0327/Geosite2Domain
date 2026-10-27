@@ -12,6 +12,7 @@ domain:antigravity.google
 domain:antspace.dev
 domain:anythingllm.com
 domain:arena.ai
+domain:artificialanalysis.ai
 domain:bard.google.com
 domain:cerebras.ai
 domain:chat.com
@@ -37,6 +38,7 @@ domain:claudepages.dev
 domain:claudestudio.com
 domain:claudeusercontent.com
 domain:clawhub.ai
+domain:cline.bot
 domain:clipdrop.co
 domain:codeium.com
 domain:codeiumdata.com
@@ -47,6 +49,8 @@ domain:cohere.com
 domain:comfy.org
 domain:comfyci.org
 domain:comfyregistry.org
+domain:commandcode.ai
+domain:context7.com
 domain:copilot-stg.com
 domain:copilot.cloud.microsoft
 domain:copilot.com
@@ -116,6 +120,7 @@ domain:manus.im
 domain:manuscdn.com
 domain:marscode.com:@!cn
 domain:meta.ai
+domain:metaaiusercontent.com
 domain:metaaivm.com
 domain:midjourney.com
 domain:minimax.io
@@ -128,6 +133,7 @@ domain:notebook.google.com
 domain:notebooklm.google
 domain:notebooklm.google.com
 domain:notegpt.io
+domain:nousresearch.com
 domain:novelai.net
 domain:oaistatic.com
 domain:oaistatsig.com

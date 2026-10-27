@@ -6,3 +6,4 @@ domain:schwab.com.sg
 domain:schwabassetmanagement.com
 domain:schwabcdn.com
 domain:schwabplan.com
+domain:thinkorswim.com

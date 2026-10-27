@@ -141,6 +141,7 @@ domain:finambank.ru
 domain:finance.ozon.ru
 domain:finstarbank.ru
 domain:firstprivatebank.com.mm
+domain:firstrade.com
 domain:forabank.ru
 domain:forshtadt.ru
 domain:fsmone.com
@@ -567,6 +568,7 @@ domain:tdev.by
 domain:tech26.de
 domain:tejaratbank.ir
 domain:thbank.ru
+domain:thinkorswim.com
 domain:tigerbbs.cn
 domain:tigerbbs.com
 domain:time-messenger.ru

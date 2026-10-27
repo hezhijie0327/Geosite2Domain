@@ -2243,6 +2243,7 @@ domain:artcampro.com
 domain:artel.watch
 domain:arteldoc.com
 domain:arteldoc.tv
+domain:artificialanalysis.ai
 domain:artixlinux.org
 domain:artnudegalleries.com
 domain:artoferotica.info
@@ -5310,6 +5311,7 @@ domain:clickedu.co.uk
 domain:clickstream.sberbank.ru:@ads,@telemetry
 domain:client-update.queniuqe.com:@cn
 domain:climate-server.com
+domain:cline.bot
 domain:clinical-videos.com
 domain:clinicalkey.com
 domain:clip16.com
@@ -5538,6 +5540,7 @@ domain:comicuniverse.org
 domain:comixzilla.com
 domain:comm-verse.com
 domain:commandandconquer.com
+domain:commandcode.ai
 domain:comments.app
 domain:commerceos.com
 domain:commerzbank.ru
@@ -5589,6 +5592,7 @@ domain:containersonaws.com
 domain:contechacademy.com
 domain:contentful.com
 domain:contest.com
+domain:context7.com
 domain:convrgencegame.com
 domain:cookiebot.com
 domain:cookiechoices.org
@@ -8416,6 +8420,7 @@ domain:firstgynexam.com
 domain:firstns.cc
 domain:firstpelvicexam.com
 domain:firstprivatebank.com.mm
+domain:firstrade.com
 domain:fishmpegs.com
 domain:fitbit.com
 domain:fitgirl-repacks.site
@@ -13879,6 +13884,7 @@ domain:messytube.com
 domain:met-nude.com
 domain:meta.ai
 domain:meta.com
+domain:metaaiusercontent.com
 domain:metaaivm.com
 domain:metabora.io
 domain:metabrainz.org
@@ -15742,6 +15748,7 @@ domain:notion.new
 domain:notion.site
 domain:notion.so
 domain:notionusercontent.com
+domain:nousresearch.com
 domain:novelai.net
 domain:noveltrove.com
 domain:novids.com
@@ -20603,6 +20610,7 @@ domain:thieme.de
 domain:thinkboxsoftware.com
 domain:thinkdifferent.us
 domain:thinkofliving.com
+domain:thinkorswim.com
 domain:thinkquarterly.co.uk
 domain:thinkquarterly.com
 domain:thinkwithgoogle.com
@@ -24891,7 +24899,9 @@ full:sentry.wb.ru:@ads,@telemetry
 full:sequoia.apple.com:@cn
 full:service.urchin.com:@cn
 full:sf-api-token-service.itunes.apple.com:@cn
+full:sh-pod1-smp-device.apple.com:@cn
 full:sh-pod2-smp-device.apple.com:@cn
+full:sh-pod3-smp-device.apple.com:@cn
 full:shazam-insights.cdn-apple.com:@cn
 full:shell.cdn.office.net:@cn
 full:smp-device-content.apple.com:@cn
