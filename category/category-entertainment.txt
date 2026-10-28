@@ -762,6 +762,7 @@ domain:itunesu.com
 domain:itunesu.net
 domain:iutunes.com
 domain:ivi.ru
+domain:ivi.tv
 domain:ivicdn.tv
 domain:iyf.tv
 domain:joinmaidez.com

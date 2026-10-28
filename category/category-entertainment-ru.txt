@@ -4,6 +4,7 @@ domain:beeline.tv
 domain:cdnvideo.ru
 domain:cdnvideohub.com
 domain:ivi.ru
+domain:ivi.tv
 domain:ivicdn.tv
 domain:kinescopecdn.net
 domain:kinopoisk-ru.clstorage.net

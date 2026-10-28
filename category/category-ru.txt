@@ -305,6 +305,7 @@ domain:icqtutor.com
 domain:icqvideo.com
 domain:ideco.dev
 domain:it-territory.com
+domain:ivi.tv
 domain:ivicdn.tv
 domain:ixbt.com
 domain:ixbt.games
