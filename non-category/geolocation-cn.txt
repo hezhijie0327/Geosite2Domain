@@ -2827,6 +2827,9 @@ domain:fastapi.net
 domain:fastcdn.com
 domain:fastcdn.com.cn
 domain:fastcom.com.cn
+domain:favonis.cloud
+domain:favonis.com
+domain:favonis.space
 domain:faxingbao.com
 domain:fbank.com
 domain:fbstatic.cn

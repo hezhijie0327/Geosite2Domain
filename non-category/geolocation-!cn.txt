@@ -104,6 +104,7 @@ domain:18comic-god.club
 domain:18comic-god.xyz
 domain:18comic.cc
 domain:18comic.company
+domain:18comic.ink
 domain:18comic.org
 domain:18comic.vip
 domain:18commic.com
@@ -3572,6 +3573,7 @@ domain:bingapistatistics.com
 domain:bingoporno.com
 domain:bingparachute.com
 domain:bingsandbox.com
+domain:bingstatic.com
 domain:bingvisualsearch.com
 domain:bingworld.com
 domain:bingx.com
@@ -9374,6 +9376,7 @@ domain:githubapp.com
 domain:githubassets.com
 domain:githubcopilot.com
 domain:githubhackathon.com
+domain:githubhelp.com
 domain:githubnext.com
 domain:githubpreview.dev
 domain:githubstatus.com
@@ -14795,6 +14798,7 @@ domain:msftconnecttest.com
 domain:msfteducation.ca
 domain:msftncsi.com
 domain:msftnet.org
+domain:msftstatic.com
 domain:msgamesresearch.com
 domain:msgamestudios.com
 domain:mshome.net
@@ -20698,11 +20702,14 @@ domain:tiktokeu-cdn.com:@!cn
 domain:tiktokglobalshopv.com:@!cn
 domain:tiktokminis.us:@!cn
 domain:tiktokrow-cdn.com:@!cn
+domain:tiktokshop.com:@!cn
+domain:tiktokstaticb.com:@!cn
 domain:tiktokv.com.edgekey.net:@!cn
 domain:tiktokv.com.edgesuite.net:@!cn
 domain:tiktokv.com:@!cn
 domain:tiktokv.eu:@!cn
 domain:tiktokv.us:@!cn
+domain:tiktokvapp.com:@!cn
 domain:tiktokw.eu:@!cn
 domain:tiktokw.us:@!cn
 domain:tilda.cc

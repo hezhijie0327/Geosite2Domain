@@ -18,11 +18,14 @@ domain:tiktokeu-cdn.com:@!cn
 domain:tiktokglobalshopv.com:@!cn
 domain:tiktokminis.us:@!cn
 domain:tiktokrow-cdn.com:@!cn
+domain:tiktokshop.com:@!cn
+domain:tiktokstaticb.com:@!cn
 domain:tiktokv.com.edgekey.net:@!cn
 domain:tiktokv.com.edgesuite.net:@!cn
 domain:tiktokv.com:@!cn
 domain:tiktokv.eu:@!cn
 domain:tiktokv.us:@!cn
+domain:tiktokvapp.com:@!cn
 domain:tiktokw.eu:@!cn
 domain:tiktokw.us:@!cn
 domain:ttcdn-us.com:@!cn
