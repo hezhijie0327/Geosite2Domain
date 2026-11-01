@@ -748,6 +748,7 @@ domain:alitrip.com
 domain:alittle-tea.com
 domain:alitui.weibo.com:@ads
 domain:aliunicorn.com
+domain:alivecdn.com
 domain:aliway.com
 domain:aliwork.com
 domain:aliwx.com.cn
@@ -772,6 +773,7 @@ domain:allday.work
 domain:allflow.cn
 domain:allhistory.com
 domain:alloyteam.com
+domain:allwinnertech.com
 domain:allyes.com
 domain:alog.umeng.com:@ads,@telemetry
 domain:alog.umengcloud.com:@ads,@telemetry
@@ -1274,6 +1276,7 @@ domain:building.fun
 domain:buke999.com
 domain:burningvocabulary.cn
 domain:burningvocabulary.com
+domain:busyming.com
 domain:butterfly-static.cn
 domain:butterflyai.cn
 domain:buydouke.com
@@ -1437,6 +1440,7 @@ domain:caiyunai.com
 domain:caiyunapp.com
 domain:caiyuncdn.com
 domain:calorietech.com
+domain:cambricon.com
 domain:camcard.com
 domain:camscanner.com
 domain:cang.com
@@ -2536,6 +2540,7 @@ domain:douban.fm
 domain:doubanio.com
 domain:doubao-dev.com
 domain:doubao.com
+domain:doubaoapps.com
 domain:doubaocdn.com
 domain:doubo03.com
 domain:doucang.cn
@@ -2707,6 +2712,7 @@ domain:ectencent.cn
 domain:ectencent.com.cn
 domain:ecukwai.com
 domain:eda.cn
+domain:edge-byted.com
 domain:edgeceler.com
 domain:edgecloudx.cn
 domain:edgemonix.top
@@ -3349,6 +3355,7 @@ domain:haier.com
 domain:haier.net
 domain:haiersmarthomes.com
 domain:hailuoai.com
+domain:haimian.com
 domain:hainanairlines.com
 domain:haishun.com
 domain:halvie.com
@@ -3495,12 +3502,14 @@ domain:hlgdata.com
 domain:hlzqgs.com
 domain:hm.baidu.com:@ads
 domain:hmma.baidu.com:@ads
+domain:hmxs.cn
 domain:hn-cbec.com
 domain:hnacargo.com
 domain:hnair.com
 domain:hnbntv.com
 domain:hnchasing.com
 domain:hndt.com
+domain:hnlshm.com
 domain:hnol.net
 domain:hnr.cn
 domain:hnrcsc.com
@@ -4906,6 +4915,7 @@ domain:maxhub.com
 domain:maxjia.com
 domain:maxonesoft.com
 domain:mayi.com
+domain:mayibao.cn
 domain:mayihr.com
 domain:mayshijia.com
 domain:mbalib.com
@@ -5066,6 +5076,12 @@ domain:mmbang.com
 domain:mmbang.info
 domain:mmbizurl.cn
 domain:mmstat.com:@telemetry
+domain:mnc000.mcc460.pub.3gppnetwork.org
+domain:mnc002.mcc460.pub.3gppnetwork.org
+domain:mnc004.mcc460.pub.3gppnetwork.org
+domain:mnc007.mcc460.pub.3gppnetwork.org
+domain:mnc011.mcc460.pub.3gppnetwork.org
+domain:mnc015.mcc460.pub.3gppnetwork.org
 domain:mndqlib.net
 domain:mnw.cn
 domain:mob.com
@@ -5140,6 +5156,7 @@ domain:mszdld.cn
 domain:mszdld.com
 domain:mszdld.net
 domain:mszq.com
+domain:mthreads.com
 domain:mti100.com
 domain:mtime.cn
 domain:mtime.com
@@ -5722,6 +5739,7 @@ domain:qianxun.com
 domain:qianyierp.com
 domain:qianzhan.com
 domain:qiaobutang.com
+domain:qiaqiafood.com
 domain:qichacha.com
 domain:qichamao.com
 domain:qidian.com
@@ -6247,6 +6265,7 @@ domain:soulapp.cn
 domain:soulteary.com
 domain:soundcore.com.cn
 domain:souqian.com
+domain:southchip.com
 domain:southcn.com
 domain:southmoney.com
 domain:sparenode.com
@@ -6381,6 +6400,7 @@ domain:szse.cn
 domain:szu.app
 domain:szu.moe
 domain:szzfgjj.com
+domain:t-head.cn
 domain:t.cn
 domain:t00ls.cc
 domain:t00ls.net
@@ -6591,6 +6611,7 @@ domain:tendcloud.com
 domain:tendis.net
 domain:tengmed.com
 domain:tenpay.com
+domain:tenpayglobal.com
 domain:tenxcloud.com
 domain:tesoon.com
 domain:test-cignacmb.com
@@ -7356,6 +7377,8 @@ domain:wenxin-ge.com
 domain:werepository.com.cn
 domain:west.cn
 domain:west95582.com
+domain:wesure.cn
+domain:wesure100.com
 domain:weui.io
 domain:wework-studio.com
 domain:wf.pub
@@ -8231,6 +8254,7 @@ domain:zybang.com
 domain:zygbdszt.net.cn
 domain:zyh365.com
 domain:zyhe.com.cn
+domain:zymls.com
 domain:zysn.net
 domain:zysou.com
 domain:zyyct.com

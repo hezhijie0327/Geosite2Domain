@@ -34,6 +34,7 @@ domain:deepseeksvc.com
 domain:diandianlife.top
 domain:doubao-dev.com
 domain:doubao.com
+domain:doubaoapps.com
 domain:doubaocdn.com
 domain:doudou.com
 domain:dui.ai

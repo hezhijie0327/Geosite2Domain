@@ -114,6 +114,7 @@ domain:alisports.com
 domain:alitianji.com
 domain:alitrip.com
 domain:aliunicorn.com
+domain:alivecdn.com
 domain:aliway.com
 domain:aliwork.com
 domain:aliwx.com.cn
@@ -236,6 +237,7 @@ domain:hemamax.com
 domain:hemaos.com
 domain:hemashare.cn
 domain:hichina.com
+domain:hmxs.cn
 domain:hotfix-api.aliyuncs.com
 domain:hupan.com
 domain:hzchengdun.com
@@ -300,6 +302,7 @@ domain:maitix.com
 domain:mappcloud.com
 domain:marketing.alibaba.com:@ads
 domain:mashort.cn
+domain:mayibao.cn
 domain:mdeer.com
 domain:mei.com
 domain:miaostreet.com

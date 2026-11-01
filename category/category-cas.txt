@@ -220,6 +220,7 @@ domain:vodafone.com.tr
 domain:vodafone.de
 domain:vodafone.it
 domain:vodafone.nl
+domain:vodafoneziggo.nl
 domain:wisecoin.com
 domain:wiseid.com
 domain:wisekey.com
@@ -228,6 +229,7 @@ domain:ws.symantec.com
 domain:wsimg.com
 domain:x.co
 domain:zert.ch
+domain:ziggo.nl
 full:c.pki.goog:@cn
 full:cdn.globalsigncdn.com.cdn.cloudflare.net:@cn
 full:certs-lb.apple.com.akadns.net:@cn

@@ -1,9 +1,11 @@
+domain:allwinnertech.com
 domain:analog.com
 domain:arrow.cn
 domain:avermedia.cn
 domain:boe.com
 domain:boe.com.cn
 domain:bouffalolab.com
+domain:cambricon.com
 domain:cxmt.com
 domain:eda.cn
 domain:elecfans.com
@@ -57,6 +59,7 @@ domain:lckfb.com
 domain:listenai.com
 domain:maixhub.com
 domain:moedu.com
+domain:mthreads.com
 domain:nanocorechip.com
 domain:oshwhub.com
 domain:quecmall.cn
@@ -68,9 +71,11 @@ domain:seeed.cn
 domain:seeed.com.cn
 domain:seeedstudio.com.cn
 domain:sipeed.com
+domain:southchip.com
 domain:sz-jlc.com
 domain:szjlc.cn
 domain:szlcsc.com
+domain:t-head.cn
 domain:thunis.com
 domain:ti.com.cn
 domain:tsinghuaic.com

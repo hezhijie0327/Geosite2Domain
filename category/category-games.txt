@@ -831,6 +831,7 @@ domain:steamdeck.com
 domain:steamgames.com
 domain:steaminventoryhelper.com
 domain:steamos.cloud
+domain:steampeek.hu
 domain:steampowered.com
 domain:steampowered.com.8686c.com:@cn
 domain:steamserver.net

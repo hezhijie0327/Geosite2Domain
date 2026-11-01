@@ -38,6 +38,8 @@ domain:bintray.com
 domain:bitvise.com
 domain:blazor.net
 domain:blogoverflow.com
+domain:bmonkeys.net
+domain:boldgrid.com
 domain:bootstrapcdn.com
 domain:botframework.com
 domain:botorch.org
@@ -59,6 +61,7 @@ domain:centos.org
 domain:chocolatey.org
 domain:clearlinux.org
 domain:clojure.org
+domain:cloudwp.dev
 domain:cnpmjs.org
 domain:codeberg.org
 domain:codeberg.page
@@ -105,6 +108,7 @@ domain:dot.net
 domain:dotdeb.org
 domain:draftjs.org
 domain:ecr.aws
+domain:editorx.com
 domain:electronjs.org
 domain:elegantthemes.com
 domain:elementary.io
@@ -381,6 +385,7 @@ domain:packagecloud.io
 domain:packagist.org
 domain:packer.io
 domain:paint.net
+domain:parastorage.com
 domain:parse.com
 domain:pcre.org
 domain:perf-events.cloud.unity3d.com:@ads,@telemetry
@@ -555,12 +560,22 @@ domain:vscodeedu.com
 domain:w.org
 domain:wapm.io
 domain:wasmer.io
+domain:webflow-ext.com
 domain:webflow.com
+domain:webflow.io
 domain:webkit.org
 domain:webkitgtk.org
 domain:weblate.org
 domain:webobjects.com
+domain:website-files.com
 domain:wireshark.org
+domain:wix-code.com
+domain:wix.com
+domain:wixanswers.com
+domain:wixapps.net
+domain:wixmp.com
+domain:wixsite.com
+domain:wixstatic.com
 domain:wordcamp.org
 domain:wordpress.com
 domain:wordpress.net

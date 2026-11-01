@@ -4,5 +4,6 @@ domain:cbn.cn
 domain:cqccn.com
 domain:gcable.com.cn
 domain:isxtv.com
+domain:mnc015.mcc460.pub.3gppnetwork.org
 domain:sc96655.com
 domain:sdgdwljt.com

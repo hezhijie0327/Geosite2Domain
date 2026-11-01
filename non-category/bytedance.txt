@@ -271,6 +271,7 @@ domain:dongchedi.com
 domain:dongchediapp.com
 domain:doubao-dev.com
 domain:doubao.com
+domain:doubaoapps.com
 domain:doubaocdn.com
 domain:doubo03.com
 domain:doudou.com
@@ -297,6 +298,7 @@ domain:ecombdapi.com
 domain:ecombdimg.com
 domain:ecombdstatic.com
 domain:ecombdvod.com
+domain:edge-byted.com
 domain:edgeceler.com
 domain:emr-volces.com
 domain:extlog.snssdk.com:@ads,@telemetry
@@ -366,6 +368,7 @@ domain:gogokid.com
 domain:gogokid.com.cn
 domain:gslbdns.com
 domain:gslbdns.net
+domain:haimian.com
 domain:hapierxia.com
 domain:hapipixia.com
 domain:hapiyixia.com

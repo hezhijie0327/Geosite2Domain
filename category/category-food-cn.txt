@@ -7,6 +7,7 @@ domain:anlaiye.com.cn
 domain:bkchina.cn
 domain:brightdairy.com
 domain:brighticecream.com
+domain:busyming.com
 domain:chinabdh.com
 domain:chinacow.com
 domain:chinatea.com.cn
@@ -17,6 +18,7 @@ domain:hacl.cn
 domain:haidilao.com
 domain:hdlcdns.com
 domain:heytea.com
+domain:hnlshm.com
 domain:hophing.cn
 domain:hophing.com.cn
 domain:hwwt8.com
@@ -42,6 +44,7 @@ domain:micun.com
 domain:mxbc.com
 domain:mxbc.net
 domain:nongfuspring.com
+domain:qiaqiafood.com
 domain:qmai.cn
 domain:qmai.com
 domain:qmimg.cn
@@ -60,3 +63,4 @@ domain:yili.com
 domain:yst.com.cn
 domain:yumchina.com
 domain:yyds.co
+domain:zymls.com

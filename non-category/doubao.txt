@@ -20,6 +20,7 @@ domain:cozetest3.cn
 domain:dbbuilding.fun
 domain:doubao-dev.com
 domain:doubao.com
+domain:doubaoapps.com
 domain:doubaocdn.com
 domain:hi-butterfly.cn
 domain:instreet.com

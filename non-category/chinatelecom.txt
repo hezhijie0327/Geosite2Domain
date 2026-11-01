@@ -15,6 +15,7 @@ domain:ctexcel.com:@!cn
 domain:ctexcel.fr:@!cn
 domain:ctexcel.us:@!cn
 domain:dlife.cn
+domain:mnc011.mcc460.pub.3gppnetwork.org
 domain:play.cn
 domain:tv189.com
 domain:vnet.cn
