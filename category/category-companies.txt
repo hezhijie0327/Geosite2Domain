@@ -1520,6 +1520,7 @@ domain:beget.app
 domain:beget.cloud
 domain:beget.com
 domain:beget.de
+domain:beget.email
 domain:beget.hosting
 domain:beget.pro
 domain:beget.ru
