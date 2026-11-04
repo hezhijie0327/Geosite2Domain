@@ -294,6 +294,9 @@ domain:leaguoflegends.com
 domain:learnwithleague.com
 domain:legendofzelda.cn:@cn
 domain:legendofzelda.com.cn:@cn
+domain:limbuscompany.global
+domain:limbuscompanyapi.com
+domain:limbuscompanycdn.org
 domain:log-upload-os.hoyoverse.com:@ads,@telemetry
 domain:lol-europe.com
 domain:lolclub.org
@@ -485,6 +488,7 @@ domain:popcap.com
 domain:priconne-redive.jp
 domain:prismlauncher.org
 domain:projectapex.com
+domain:projectmoon.studio
 domain:protondb.com
 domain:pubg.com
 domain:pvp.net
@@ -579,6 +583,7 @@ domain:simcity-buildit.com
 domain:simcity.com
 domain:skate2.com
 domain:sketchfab.com
+domain:skinswap.com
 domain:skylanders.com
 domain:sledgehammergames.com
 domain:snk-corp.co.jp

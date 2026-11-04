@@ -428,6 +428,9 @@ domain:ledu.com
 domain:legendofzelda.cn:@cn
 domain:legendofzelda.com.cn:@cn
 domain:leyuansu.com
+domain:limbuscompany.global
+domain:limbuscompanyapi.com
+domain:limbuscompanycdn.org
 domain:lingxigames.com
 domain:log-upload-os.hoyoverse.com:@ads,@telemetry
 domain:log-upload.mihoyo.com:@ads,@telemetry
@@ -659,6 +662,7 @@ domain:popcap.com
 domain:priconne-redive.jp
 domain:prismlauncher.org
 domain:projectapex.com
+domain:projectmoon.studio
 domain:protondb.com
 domain:proximabeta.com
 domain:pubg.com
@@ -779,6 +783,7 @@ domain:simcity-buildit.com
 domain:simcity.com
 domain:skate2.com
 domain:sketchfab.com
+domain:skinswap.com
 domain:skydweller.cn
 domain:skylanders.com
 domain:sl916.com

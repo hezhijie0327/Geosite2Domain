@@ -836,6 +836,9 @@ domain:likee.video
 domain:likeeapp.ru
 domain:likeevideo.com
 domain:likeevideo.ru
+domain:limbuscompany.global
+domain:limbuscompanyapi.com
+domain:limbuscompanycdn.org
 domain:linetv.tw
 domain:litbus-anime.com
 domain:litv.tv
@@ -1191,6 +1194,7 @@ domain:prismlauncher.org
 domain:prod.service.minerva.devices.a2z.com
 domain:product.co.jp
 domain:projectapex.com
+domain:projectmoon.studio
 domain:promodj.com
 domain:protondb.com
 domain:pscdn.co
@@ -1326,6 +1330,7 @@ domain:simcity.com
 domain:simg.jp
 domain:skate2.com
 domain:sketchfab.com
+domain:skinswap.com
 domain:skylanders.com
 domain:sledgehammergames.com
 domain:sling.com
