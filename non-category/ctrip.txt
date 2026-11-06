@@ -28,6 +28,8 @@ domain:hhtravel.com
 domain:hhtravel.com.tw:@!cn
 domain:izuchebao.com
 domain:lvtds.com
+domain:opsai.cn
+domain:qunaer.com
 domain:qunar.com
 domain:qunarcdn.com
 domain:qunarzz.com

@@ -2063,6 +2063,7 @@ full:prodforza.blob.core.windows.net
 full:pubg1.battleye.com
 full:pvr-hamivideo.cdn.hinet.net
 full:q676790b.pmhcjk.com
+full:radio.itunes.apple.com:@cn
 full:roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
 full:roblox-poc.global.ssl.fastly.net
 full:robloxcorp.s.llnwi.net

@@ -16,3 +16,4 @@ domain:rqnoj.cn
 domain:uoj.ac
 domain:vijos.org
 domain:xmoj.tech
+domain:yundouxueyuan.com

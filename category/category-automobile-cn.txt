@@ -8,6 +8,7 @@ domain:autoimg.com.cn
 domain:bitauto.com
 domain:bitautoimg.com
 domain:byd.com
+domain:chery.cn
 domain:cheyisou.com
 domain:dcarapi.com
 domain:dcarimg.com
@@ -17,6 +18,7 @@ domain:dcarvod.com
 domain:dcdapp.com
 domain:dongchedi.com
 domain:dongchediapp.com
+domain:faw.cn
 domain:geely.com
 domain:guazi.com
 domain:guazi.net
@@ -25,10 +27,20 @@ domain:gwm.com.cn
 domain:gzurl.cn
 domain:izuche.com
 domain:izuchebao.com
+domain:jac.com.cn
+domain:jiakaobaodian.com
+domain:kakamobi.com
 domain:lixiang.com
+domain:lynkco-test.com
+domain:lynkco.com
+domain:lynkco.com.cn
+domain:maiche.com
+domain:mc-cdn.cn
+domain:mucang.cn
 domain:nio.cn
 domain:nio.com
 domain:niohome.com
+domain:seres.cn
 domain:wkzuche.com
 domain:xiaopeng.com
 domain:yccdn.com

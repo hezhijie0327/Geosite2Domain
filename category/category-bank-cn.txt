@@ -1,5 +1,6 @@
 domain:8008205555.cn
 domain:8008205555.com
+domain:95508.com
 domain:95516.com
 domain:95516.net
 domain:95588.com

@@ -8,6 +8,8 @@ domain:bdfund.cn
 domain:bobbns.com
 domain:boscam.com.cn
 domain:bosera.com
+domain:bse.cn
+domain:bseinfo.net
 domain:ccfund.com.cn
 domain:ccnew.com
 domain:cczq.com
@@ -18,6 +20,7 @@ domain:cfzq.com
 domain:cgws.com
 domain:changanfunds.com
 domain:chinaclear.cn
+domain:chinahtz.com
 domain:chinalions.com
 domain:chinanature.com.cn
 domain:chinastock.com.cn
@@ -28,10 +31,12 @@ domain:cindasc.com
 domain:cjsc.com
 domain:cnhbstock.com
 domain:cnht.com.cn
+domain:cnindex.com.cn
 domain:cninfo.com.cn
 domain:cryuantafund.com
 domain:csco.com.cn
 domain:csfounder.com
+domain:csindex.com.cn
 domain:ctfund.com
 domain:ctsec.com
 domain:daton.com.cn
@@ -128,11 +133,13 @@ domain:shhxzq.com
 domain:shzq.com
 domain:sse.com.cn
 domain:sseinfo.com
+domain:ssetech.com.cn
 domain:stocke.com.cn
 domain:swhysc.com
 domain:swsc.com.cn
 domain:swsmu.com
 domain:szse.cn
+domain:szsi.cn
 domain:taipingfund.com.cn
 domain:tebon.com.cn
 domain:tfzq.com

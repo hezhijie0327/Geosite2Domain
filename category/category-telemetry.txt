@@ -41,6 +41,7 @@ domain:aria.ms:@telemetry
 domain:assistant-api.amplitude.com:@ads,@telemetry
 domain:assistant-api.eu.amplitude.com:@ads,@telemetry
 domain:badjs.weixinbridge.com:@ads,@telemetry
+domain:base.api.my7v.com:@telemetry
 domain:beacon.cdn.qq.com:@ads,@telemetry
 domain:beacon.qq.com:@ads,@telemetry
 domain:beacon.sina.com.cn:@ads,@telemetry
@@ -69,6 +70,12 @@ domain:data.mistat.india.xiaomi.com:@ads,@telemetry
 domain:data.mistat.intl.xiaomi.com:@ads,@telemetry
 domain:data.mistat.rus.xiaomi.com:@ads,@telemetry
 domain:data.mistat.xiaomi.com:@ads,@telemetry
+domain:dc-conf-o.api.leiniao.com:@telemetry
+domain:dc-conf-t.api.leiniao.com:@telemetry
+domain:dc-o.api.leiniao.com:@telemetry
+domain:dc-t.api.leiniao.com:@telemetry
+domain:dc-uo.api.leiniao.com:@telemetry
+domain:dc-ut.api.leiniao.com:@telemetry
 domain:dualstack-logs.amap.com:@ads,@telemetry
 domain:e.stat.ykimg.com:@ads,@telemetry
 domain:engagement-static.amplitude.com:@ads,@telemetry
@@ -121,6 +128,8 @@ domain:perf-events.cloud.unity3d.com:@ads,@telemetry
 domain:perf.cloud.unity3d.com:@ads,@telemetry
 domain:pimlog.baidu.com:@ads,@telemetry
 domain:plbslog.umeng.com:@ads,@telemetry
+domain:qms-report-o.api.leiniao.com:@telemetry
+domain:qms-report-t.api.leiniao.com:@telemetry
 domain:regionconfig.amplitude.com:@ads,@telemetry
 domain:regionconfig.eu.amplitude.com:@ads,@telemetry
 domain:report.qqweb.qq.com:@ads,@telemetry

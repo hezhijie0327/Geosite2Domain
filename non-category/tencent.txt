@@ -250,7 +250,6 @@ domain:ihappystudio.cn
 domain:ihappystudio.com
 domain:imqq.com
 domain:imweb.io
-domain:in.th
 domain:inte.sogou.com:@ads
 domain:inte.sogoucdn.com:@ads
 domain:intltencentcos.com:@!cn
@@ -280,6 +279,7 @@ domain:kugouvoice.com
 domain:kugouyouth.com
 domain:kuwo.cn
 domain:labycore.cn
+domain:levelinfinite.com:@!cn
 domain:log.tbs.qq.com:@ads,@telemetry
 domain:lrts.me
 domain:lu.sogou.com:@ads
@@ -326,6 +326,7 @@ domain:na-toronto.tencentcos.com:@!cn
 domain:nagcloudcs.com
 domain:nextstudios.com
 domain:nextworkshop.net
+domain:nikke-en.com:@!cn
 domain:onexmail.com
 domain:openapp.run
 domain:openmidas.com
@@ -564,6 +565,7 @@ domain:tencentdigitalassistant.com
 domain:tencentdms.com
 domain:tencenteiam.com
 domain:tencentelasticsearch.com
+domain:tencentgames.com:@!cn
 domain:tencentid.com
 domain:tencentidentity.com
 domain:tencentmiying.com

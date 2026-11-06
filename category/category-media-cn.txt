@@ -42,6 +42,7 @@ domain:bianews.com
 domain:bjd.com.cn
 domain:bjnews.com.cn
 domain:bkeconomy.com
+domain:bowangcaijing.cn
 domain:btime.com
 domain:caijing.com.cn
 domain:cailianpress.com
@@ -51,6 +52,7 @@ domain:cbinews.com
 domain:ccidcom.com
 domain:ccn.com.cn
 domain:ccreports.com.cn
+domain:cctime.com
 domain:cctv.cn
 domain:cctv.com
 domain:cctv4g.com
@@ -95,9 +97,11 @@ domain:cls.cn
 domain:cneo.com.cn
 domain:cnfol.com
 domain:cnfolimg.com
+domain:cnfood.cn
 domain:cnhubei.com
 domain:cnmo.com
 domain:cnms.net.cn
+domain:cnpharm.com
 domain:cnr.cn
 domain:cns.com.cn
 domain:cnsimg.net
@@ -132,6 +136,7 @@ domain:dahebao.cn
 domain:danjuanfunds.com
 domain:datasheet5.com
 domain:dayoo.com
+domain:dbw.cn
 domain:dgtle.com
 domain:dianzhenkeji.com
 domain:dili360.com
@@ -162,6 +167,7 @@ domain:freebuf.com
 domain:fromgeek.com
 domain:geekbang.org
 domain:geekpark.net
+domain:gelonghui.com
 domain:gfan.com
 domain:gjgbdszt.cn
 domain:gjgbdszt.com.cn
@@ -180,6 +186,8 @@ domain:gxxmt.com
 domain:gxxw.com
 domain:gztv.com
 domain:haowenti.net
+domain:hebnews.cn
+domain:hebrb.cn
 domain:heimadata.com
 domain:hexin.cn
 domain:hexin.com.cn
@@ -197,6 +205,7 @@ domain:hunantoday.cn
 domain:huxiu.com
 domain:huxiucdn.com
 domain:hxnews.com
+domain:iceo.com.cn
 domain:icntvcdn.com
 domain:icpcw.com
 domain:icswb.com
@@ -228,6 +237,7 @@ domain:istv.cn
 domain:it168.com
 domain:itc.cn
 domain:ithome.com
+domain:jcrb.com
 domain:jfdaily.com
 domain:jfdaily.com.cn
 domain:jianyuweb.com
@@ -271,6 +281,7 @@ domain:lifeweek.com.cn
 domain:livechina.cn
 domain:livechina.com
 domain:m.aty.sohu.com:@ads
+domain:mcndata.cn
 domain:miercn.com
 domain:minapp.com
 domain:mnw.cn
@@ -282,6 +293,7 @@ domain:nanyuenews.com
 domain:nbd.com.cn
 domain:neweekly.com.cn
 domain:news.cn
+domain:newscdn.cn
 domain:newsimg.cn
 domain:newssc.org
 domain:nfpeople.com
@@ -306,6 +318,7 @@ domain:peopleapp.com
 domain:phoenixcenter.cn
 domain:pingwest.com
 domain:playcool.com
+domain:przwt.com
 domain:pv.hd.sohu.com:@ads
 domain:pv.sohu.com:@ads
 domain:qbitai.com
@@ -328,6 +341,7 @@ domain:scdaily.cn
 domain:scgchc.com
 domain:sciencenet.cn
 domain:scol.com.cn
+domain:scpublic.cn
 domain:scsjb.cn
 domain:sctv-tf.com
 domain:sctv.com
@@ -338,6 +352,7 @@ domain:shangyexinzhi.com
 domain:shedunews.net
 domain:shobserver.cn
 domain:shobserver.com
+domain:shuwen.com
 domain:snowballsecurities.com
 domain:snxw.com
 domain:sohu
@@ -368,6 +383,7 @@ domain:ths123.com
 domain:thsi.cn
 domain:tianjimedia.com
 domain:tidenews.com.cn
+domain:tidesight.com
 domain:tigeek.net.cn
 domain:time-weekly.com
 domain:timesmedia.com.cn
@@ -378,8 +394,10 @@ domain:tmtsmartrun.com
 domain:toodaylab.com
 domain:topnews.cn
 domain:track.sohu.com:@ads
+domain:traveldaily.cn
 domain:tvcc.cn
 domain:tvcc.com.cn
+domain:upsort.com
 domain:vbdata.cn
 domain:vcbeat.top
 domain:voc.com.cn
@@ -396,6 +414,7 @@ domain:xhby.net
 domain:xilu.com
 domain:xinhuanet.com
 domain:xinhuaxmt.com
+domain:xinhuazhiyun.com
 domain:xinmeng.info
 domain:xinmin.cn
 domain:xinminweekly.com.cn
@@ -429,6 +448,7 @@ domain:zggbdszt.net.cn
 domain:zgjtb.com
 domain:zhichanli.com
 domain:zhiding.cn
+domain:zhiguf.com
 domain:zjol.com.cn
 domain:zjstv.com
 domain:zol-img.com.cn

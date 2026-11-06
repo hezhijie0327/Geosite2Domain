@@ -72,7 +72,10 @@ domain:adnet.sohu.com:@ads
 domain:adobestats.io:@telemetry
 domain:adping.qq.com:@ads
 domain:adpm.app.qq.com:@ads
+domain:ads-api-o.api.leiniao.com:@ads
+domain:ads-api-t.my7v.com:@ads
 domain:ads-api.duolingo.com:@ads
+domain:ads-o.res.leiniao.com:@ads
 domain:ads-pixiv.net:@ads
 domain:ads-twitter.com:@ads
 domain:ads-union.jd.com:@ads
@@ -209,6 +212,7 @@ domain:audid.umeng.com:@ads
 domain:badjs.weixinbridge.com:@ads,@telemetry
 domain:baichuan-sdk.alicdn.com:@ads
 domain:baifen.music.baidu.com:@ads
+domain:base.api.my7v.com:@telemetry
 domain:bds.snssdk.com:@ads
 domain:bdu.focus.cn:@ads
 domain:beacon.cdn.qq.com:@ads,@telemetry
@@ -282,6 +286,12 @@ domain:data.mistat.india.xiaomi.com:@ads,@telemetry
 domain:data.mistat.intl.xiaomi.com:@ads,@telemetry
 domain:data.mistat.rus.xiaomi.com:@ads,@telemetry
 domain:data.mistat.xiaomi.com:@ads,@telemetry
+domain:dc-conf-o.api.leiniao.com:@telemetry
+domain:dc-conf-t.api.leiniao.com:@telemetry
+domain:dc-o.api.leiniao.com:@telemetry
+domain:dc-t.api.leiniao.com:@telemetry
+domain:dc-uo.api.leiniao.com:@telemetry
+domain:dc-ut.api.leiniao.com:@telemetry
 domain:dc.letv.com:@ads
 domain:decide.mixpanel.com
 domain:demdex.net:@ads
@@ -407,6 +417,7 @@ domain:ipinyou.com
 domain:ipinyou.com.cn
 domain:ironbeast.io
 domain:isdspeed.qq.com:@ads
+domain:isms-o.api.my7v.com:@ads
 domain:iwanad.baidu.com:@ads
 domain:ja.gamersky.com:@ads
 domain:ja1.gamersky.com:@ads
@@ -548,6 +559,8 @@ domain:push.qq.com:@ads
 domain:pv.hd.sohu.com:@ads
 domain:pv.sohu.com:@ads
 domain:qhupdate.com:@ads
+domain:qms-report-o.api.leiniao.com:@telemetry
+domain:qms-report-t.api.leiniao.com:@telemetry
 domain:qpb.sohu.com:@ads
 domain:qpb1.sohu.com:@ads
 domain:qqdata.ab.qq.com:@ads

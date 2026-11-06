@@ -44,6 +44,7 @@ domain:dcshfu.com
 domain:dearedu.com
 domain:dgjy.net
 domain:dict.cn
+domain:diyifanwen.com
 domain:duifene.com
 domain:edu.cn
 domain:eduei.com
@@ -58,6 +59,8 @@ domain:fenbike.cn
 domain:fenbike.com
 domain:fenbilantian.cn
 domain:fenbilantian.com
+domain:gaodun.com
+domain:gaodunwangxiao.com
 domain:gaojidata.com
 domain:gaokao.cn
 domain:gaokao.com
@@ -190,6 +193,7 @@ domain:zuowenku.net
 domain:zuowenwang.net
 domain:zuoyebang.cc
 domain:zuoyebang.com
+domain:zww.com.cn
 domain:zxxk.com
 domain:zybang.com
 domain:zysn.net
