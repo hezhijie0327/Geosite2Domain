@@ -4,3 +4,4 @@ full:copilot-telemetry-service.githubusercontent.com:@telemetry
 full:copilot-telemetry.githubusercontent.com:@telemetry
 full:copilot-workspace.githubnext.com
 full:copilotprodattachments.blob.core.windows.net
+full:production-copilot-host-westus.webpubsub.azure.com
