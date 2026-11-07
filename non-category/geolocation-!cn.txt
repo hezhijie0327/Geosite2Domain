@@ -24620,6 +24620,7 @@ full:guzzoni.smoot.apple.com:@cn
 full:hb4bbbbb.pmhcjk.com
 full:holoxx.f5.si
 full:hpstore.corpmerchandise.com
+full:http-intake.logs.us5.datadoghq.com:@telemetry
 full:hub.slarker.me
 full:i.jeded.com
 full:i.pki.goog:@cn
@@ -24762,6 +24763,7 @@ full:ntp7.ntp-servers.net
 full:ntppool1.time.nl
 full:ntppool2.time.nl
 full:o.pki.goog:@cn
+full:o1158394.ingest.us.sentry.io:@telemetry
 full:o33249.ingest.sentry.io:@ads,@telemetry
 full:o33249.ingest.us.sentry.io:@ads,@telemetry
 full:o4504926511693824.ingest.sentry.io:@ads,@telemetry

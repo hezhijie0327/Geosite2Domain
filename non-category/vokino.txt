@@ -15,6 +15,7 @@ domain:srvkp.com
 domain:stream-balancer-allo-1.live
 domain:stream-balancer-allo-1.site
 domain:ukrtelcdn.net
+domain:userplay.live
 domain:videobase.biz
 domain:vkvideo.cloud
 domain:voidboost.one
