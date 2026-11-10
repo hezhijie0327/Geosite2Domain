@@ -222,6 +222,8 @@ domain:godoc.org
 domain:golang.com
 domain:golang.net
 domain:golang.org
+domain:grafana.com
+domain:grafana.net
 domain:graphengine.io
 domain:grazie.ai
 domain:greenend.org.uk

@@ -68,6 +68,7 @@ domain:liveinternetspeed.com
 domain:measurement-lab.org
 domain:measurementlab.net
 domain:medidor-de-velocidad.movistar.com.ar
+domain:megabitus.com
 domain:meter.net
 domain:metercustom.net
 domain:minhaconexao.com.br
