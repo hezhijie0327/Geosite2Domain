@@ -75,6 +75,7 @@ domain:ptt.cc
 domain:ptt2.cc
 domain:ptt3.cc
 domain:qr.ae
+domain:questionablequesting.com
 domain:quora.com
 domain:quoracdn.net
 domain:redd.it
@@ -101,6 +102,8 @@ domain:safechat.com
 domain:sis001.com
 domain:soyjak.party
 domain:soyjak.st
+domain:spacebattles.com
+domain:v2ex.co
 domain:v2ex.com
 domain:xda-cdn.com
 domain:xda-developers.com

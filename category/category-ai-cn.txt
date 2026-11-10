@@ -78,6 +78,7 @@ domain:moonshot.cn
 domain:myparallelstory.com
 domain:n.cn
 domain:namiso.com
+domain:nia-teams.com
 domain:obriccloud.com
 domain:obricclouddw.com
 domain:oceancloudapi.com

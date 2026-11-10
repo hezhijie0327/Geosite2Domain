@@ -17843,6 +17843,7 @@ domain:quantil.com
 domain:quatrowireless.com
 domain:quatrum.com.br
 domain:quay.io
+domain:questionablequesting.com
 domain:questvisual.com
 domain:quicinc.com
 domain:quickbook.com.br
@@ -19649,6 +19650,7 @@ domain:soyinyj.top
 domain:soyjak.party
 domain:soyjak.st
 domain:sp.cool
+domain:spacebattles.com
 domain:spaceexplored.com
 domain:spacely.com.au
 domain:spacemail.com
@@ -21428,6 +21430,7 @@ domain:v-av.com
 domain:v-has.com
 domain:v.gd
 domain:v.ps
+domain:v2ex.co
 domain:v2ex.com
 domain:v2fly.org
 domain:v2ph.com
