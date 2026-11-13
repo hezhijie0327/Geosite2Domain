@@ -67,6 +67,7 @@ domain:karing.app
 domain:lantern.io
 domain:log.rw
 domain:lokinet.org
+domain:manyvoices.news
 domain:metacubex.one
 domain:nftstorage.link
 domain:nsloon.com
