@@ -1,5 +1,7 @@
 # Geosite2Domain
 
+[![License](https://img.shields.io/badge/License-Apache%202.0--Commons%20Clause-blue)](LICENSE)
+
 一个从 v2fly/domain-list-community 仓库生成和维护组织化域名列表的数据仓库。本项目处理并分类域名数据，用于网络过滤、代理配置和防火墙规则。编码代理指南见 [AGENTS.md](AGENTS.md)。
 
 ## 特性
