@@ -85,6 +85,7 @@ domain:proxifier.com
 domain:psiphon.ca
 domain:psiphon3.com
 domain:pwnedpasswords.com
+domain:remna.dev
 domain:remna.st
 domain:sagernet.org
 domain:shadowlaunch.com

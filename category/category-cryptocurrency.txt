@@ -101,6 +101,7 @@ domain:cryptomus.com
 domain:curve.fi
 domain:cyberx.com
 domain:debank.com
+domain:debot.ai
 domain:delets.cash
 domain:delets.online
 domain:deribit.com

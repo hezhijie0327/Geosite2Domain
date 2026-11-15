@@ -2030,9 +2030,11 @@ full:misc-assets.itunes.apple.com:@cn
 full:mobilelive-hamivideo.cdn.hinet.net
 full:msh.amazon.co.uk
 full:music.apple.com:@cn
+full:musicstatus.itunes.apple.com:@cn
 full:musicstatus.music.apple.com:@cn
 full:mvod.itunes.apple.com:@cn
 full:myapp.itunes.apple.com:@cn
+full:mzstorekit.itunes.apple.com:@cn
 full:nbbb1bb7.pmhcjk.com
 full:notify.ppy.sh
 full:np-edge.itunes.apple.com:@cn

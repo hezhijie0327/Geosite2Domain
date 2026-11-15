@@ -75,8 +75,10 @@ full:itunes-apple.com.akadns.net:@cn
 full:itunes.apple.com:@cn
 full:itunesconnect.apple.com:@cn
 full:misc-assets.itunes.apple.com:@cn
+full:musicstatus.itunes.apple.com:@cn
 full:mvod.itunes.apple.com:@cn
 full:myapp.itunes.apple.com:@cn
+full:mzstorekit.itunes.apple.com:@cn
 full:np-edge.itunes.apple.com:@cn
 full:osxapps.itunes.apple.com:@cn
 full:osxapps.itunes.g.aaplimg.com:@cn

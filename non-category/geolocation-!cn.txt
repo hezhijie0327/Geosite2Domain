@@ -4809,6 +4809,7 @@ domain:capitalg.com
 domain:capitalgames.com
 domain:capitaliq.com
 domain:capitalt.ru
+domain:captive.apple.com:@cn
 domain:capturingreality.com
 domain:carbon.com
 domain:carcare-and-tireshop.jp
@@ -6001,6 +6002,7 @@ domain:dealtree.org
 domain:deasians.com
 domain:debank.com
 domain:debian.org
+domain:debot.ai
 domain:debug.com
 domain:debugproject.com
 domain:decentr.net
@@ -18167,6 +18169,7 @@ domain:reiporno.com
 domain:relap.mail.ru:@ads
 domain:relateiq.com
 domain:remirepo.net
+domain:remna.dev
 domain:remna.st
 domain:rencapbank.ru
 domain:renchead.com
@@ -24482,6 +24485,7 @@ full:collaborateppe.download.prss.microsoft.com:@cn
 full:communities.apple.com:@cn
 full:configuration.apple.com.akadns.net:@cn
 full:configuration.apple.com:@cn
+full:configuration.ls.apple.com:@cn
 full:connectivitycheck.gstatic.com:@cn
 full:copilot-telemetry-service.githubusercontent.com:@telemetry
 full:copilot-telemetry.githubusercontent.com:@telemetry
@@ -24734,10 +24738,12 @@ full:msproduct.download.prss.microsoft.com:@cn
 full:mtalk.google.com:@!cn
 full:muse.jhu.edu
 full:music.apple.com:@cn
+full:musicstatus.itunes.apple.com:@cn
 full:musicstatus.music.apple.com:@cn
 full:mvod.itunes.apple.com:@cn
 full:myapp.itunes.apple.com:@cn
 full:myvs.download.prss.microsoft.com:@cn
+full:mzstorekit.itunes.apple.com:@cn
 full:nbbb1bb7.pmhcjk.com
 full:new-adv.ozon.ru:@ads
 full:np-edge.itunes.apple.com:@cn

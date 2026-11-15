@@ -603,6 +603,7 @@ full:appleworldwidedeveloper.hb-api.omtrdc.net
 full:appleworldwidedeveloper.sc.omtrdc.net
 full:az764295.vo.msecnd.net
 full:bingsettingssearch.trafficmanager.net
+full:builds.dotnet.microsoft.com
 full:cdn-cn.apple-mapkit.com:@cn
 full:cdn-cn1.apple-mapkit.com:@cn
 full:cdn-cn2.apple-mapkit.com:@cn
@@ -625,6 +626,7 @@ full:developer.microsoft.com
 full:developers.facebook.com
 full:docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com
 full:docker-pinata-support.s3.amazonaws.com
+full:dotnetcli.trafficmanager.net
 full:download.visualstudio.microsoft.com:@cn
 full:dtlgalleryint.cloudapp.net
 full:firebase-settings.crashlytics.com:@cn,@telemetry
@@ -679,10 +681,12 @@ full:psg-int-centralus.cloudapp.net
 full:psg-int-eastus.cloudapp.net
 full:rink.hockeyapp.net
 full:rt.services.visualstudio.com:@telemetry
+full:sundry-star-net-geo.trafficmanager.net
 full:update.crashlytics.com:@cn,@telemetry
 full:vscode-sync-insiders.trafficmanager.net
 full:vscode-sync.trafficmanager.net
 full:vscode.blob.core.windows.net
+full:vscode.download.prss.microsoft.com:@cn
 full:vscode.search.windows.net
 full:vsmarketplacebadge.apphb.com
 regexp:.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$
