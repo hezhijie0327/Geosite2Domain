@@ -890,6 +890,8 @@ domain:arcaea.cn
 domain:arco.design
 domain:ark-doc-resources.cn
 domain:ark.letv.com:@ads
+domain:arknights.com
+domain:arknights.com.cn
 domain:arpun.com
 domain:arrow.cn
 domain:asczwa.com
@@ -3496,6 +3498,7 @@ domain:hffunds.cn
 domain:hftfund.com
 domain:hfx.net
 domain:hfzq.com.cn
+domain:hgto.cc
 domain:hhtravel.com
 domain:hi-butterfly.cn
 domain:hiaiabc.com
@@ -3781,9 +3784,15 @@ domain:hxnews.com
 domain:hxsd.com
 domain:hxzq.cn
 domain:hybiome.com
+domain:hycdn.cn
+domain:hycdn.com
 domain:hydun.com
 domain:hypercachenet.com
 domain:hypercachenode.com
+domain:hypergryph.cn
+domain:hypergryph.com
+domain:hypergryph.com.cn
+domain:hypergryph.net
 domain:hytung.cn
 domain:hzchengdun.com
 domain:hzchengdun.net
@@ -5442,6 +5451,7 @@ domain:oc.umeng.com:@ads
 domain:oceancloudapi.com
 domain:oceanengine.com
 domain:ocfund.cn
+domain:octavedge.com
 domain:ocwms.com
 domain:oeeee.com
 domain:oend.net
@@ -6274,6 +6284,8 @@ domain:sjfls6.com
 domain:sjwyx.com
 domain:skillhub.cn
 domain:skimit.net
+domain:skland.com
+domain:skland.net
 domain:sksight.com
 domain:skycn.com
 domain:skydweller.cn

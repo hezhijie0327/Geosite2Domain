@@ -73,6 +73,8 @@ domain:apexlegends.com
 domain:appeeres.com
 domain:arcaea.cn
 domain:arcraiders.com
+domain:arknights.com
+domain:arknights.com.cn
 domain:arma3.com
 domain:armaplatform.com
 domain:artstation.com
@@ -177,6 +179,7 @@ domain:curseforge.com
 domain:cy.com
 domain:cyberpunk.net
 domain:cygames.co.jp
+domain:cygames.com
 domain:cygames.jp
 domain:daoc.net
 domain:darkageofcamelot.com
@@ -351,6 +354,7 @@ domain:heroesofdragonage.com
 domain:heroesofthestorm.com
 domain:heroesports.com
 domain:herogame.com
+domain:hgto.cc
 domain:highmoonstudios.com
 domain:historyofdota.com
 domain:historyofdota.net
@@ -364,6 +368,12 @@ domain:hoyoverse.com
 domain:humancoexperience.com
 domain:humblebundle.com
 domain:hutpromos.com
+domain:hycdn.cn
+domain:hycdn.com
+domain:hypergryph.cn
+domain:hypergryph.com
+domain:hypergryph.com.cn
+domain:hypergryph.net
 domain:hyprsense.com
 domain:i3839.com
 domain:ihappystudio.cn
@@ -597,6 +607,7 @@ domain:nintendoswitchtogether.com
 domain:nintendowii.com
 domain:noxygames.com
 domain:nzsiteres.com
+domain:octavedge.com
 domain:offworldindustries.com
 domain:offworldindustries.net
 domain:op.gg
@@ -783,6 +794,8 @@ domain:simcity.com
 domain:skate2.com
 domain:sketchfab.com
 domain:skinswap.com
+domain:skland.com
+domain:skland.net
 domain:skydweller.cn
 domain:skylanders.com
 domain:sl916.com

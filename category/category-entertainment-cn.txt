@@ -121,6 +121,8 @@ domain:appeeres.com
 domain:apple.www.letv.com:@ads
 domain:arcaea.cn
 domain:ark.letv.com:@ads
+domain:arknights.com
+domain:arknights.com.cn
 domain:astral-vector.com
 domain:atianqi.com
 domain:atm.youku.com:@ads
@@ -406,6 +408,7 @@ domain:heiyanimg.com
 domain:hero.com
 domain:heroesports.com
 domain:herogame.com
+domain:hgto.cc
 domain:hifuntv.com
 domain:hitv.com
 domain:hkgcloudcs.com
@@ -435,7 +438,13 @@ domain:huoshanzhibo.cn
 domain:huoshanzhibo.com
 domain:huoshanzhibo.net
 domain:huya.com
+domain:hycdn.cn
+domain:hycdn.com
 domain:hypercachenode.com
+domain:hypergryph.cn
+domain:hypergryph.com
+domain:hypergryph.com.cn
+domain:hypergryph.net
 domain:hzdtv.tv
 domain:hzman.net
 domain:i3839.com
@@ -643,6 +652,7 @@ domain:novelfmpic.com
 domain:novelfmstatic.com
 domain:novelfmvod.com
 domain:nzsiteres.com
+domain:octavedge.com
 domain:open-douyin.com
 domain:p-log.ykimg.com:@ads,@telemetry
 domain:papegames.cn
@@ -733,6 +743,8 @@ domain:shuqireader.com
 domain:shuqistat.com:@telemetry
 domain:shyxhy.com
 domain:singworld.net
+domain:skland.com
+domain:skland.net
 domain:skydweller.cn
 domain:sl916.com
 domain:smgbb.cn

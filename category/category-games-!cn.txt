@@ -101,6 +101,7 @@ domain:cubicodyssey.game
 domain:curseforge.com
 domain:cyberpunk.net
 domain:cygames.co.jp
+domain:cygames.com
 domain:cygames.jp
 domain:daoc.net
 domain:darkageofcamelot.com

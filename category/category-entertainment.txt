@@ -257,6 +257,7 @@ domain:curseforge.com
 domain:cxacg.com
 domain:cyberpunk.net
 domain:cygames.co.jp
+domain:cygames.com
 domain:cygames.jp
 domain:d4dj-pj.com
 domain:da-files.com

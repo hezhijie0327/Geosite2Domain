@@ -132,6 +132,7 @@ domain:yangofellowship.com
 domain:yastat.net
 domain:yastatic-net.ru
 domain:yastatic.net
+domain:yb-payment.ru
 domain:yccdn.ru
 domain:ydb.tech
 domain:yndx.net

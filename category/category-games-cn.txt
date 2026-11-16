@@ -52,6 +52,8 @@ domain:aligames.com
 domain:anticheatexpert.com
 domain:appeeres.com
 domain:arcaea.cn
+domain:arknights.com
+domain:arknights.com.cn
 domain:astral-vector.com
 domain:battlecare.net
 domain:bcfmglobal.com
@@ -112,7 +114,14 @@ domain:heavenlywind.cc
 domain:hero.com
 domain:heroesports.com
 domain:herogame.com
+domain:hgto.cc
 domain:hkgcloudcs.com
+domain:hycdn.cn
+domain:hycdn.com
+domain:hypergryph.cn
+domain:hypergryph.com
+domain:hypergryph.com.cn
+domain:hypergryph.net
 domain:i3839.com
 domain:ihappystudio.cn
 domain:ihappystudio.com
@@ -167,6 +176,7 @@ domain:nextworkshop.net
 domain:nikkigames.cn
 domain:nikkigames.com.cn
 domain:nzsiteres.com
+domain:octavedge.com
 domain:papegames.cn
 domain:papegames.com
 domain:phira.cn
@@ -197,6 +207,8 @@ domain:seasungames.com
 domain:seasunwbl.com
 domain:shengqugames.com
 domain:shyxhy.com
+domain:skland.com
+domain:skland.net
 domain:skydweller.cn
 domain:sl916.com
 domain:supercellcommunity.cn

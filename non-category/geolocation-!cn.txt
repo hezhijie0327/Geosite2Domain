@@ -5849,6 +5849,7 @@ domain:cybertrust.co.jp
 domain:cybertrust.ne.jp
 domain:cyberx.com
 domain:cygames.co.jp
+domain:cygames.com
 domain:cygames.jp
 domain:cygwin.com
 domain:cylink.pro
@@ -23762,6 +23763,7 @@ domain:yavtube.com
 domain:yaya.cyou
 domain:yayadizhi.xyz
 domain:yazhouse8.com
+domain:yb-payment.ru
 domain:yccdn.ru
 domain:yclients.com
 domain:ycombinator.com

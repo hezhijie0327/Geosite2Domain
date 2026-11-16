@@ -7468,6 +7468,7 @@ domain:yangofellowship.com
 domain:yastat.net
 domain:yastatic-net.ru
 domain:yastatic.net
+domain:yb-payment.ru
 domain:yccdn.ru
 domain:yclients.com
 domain:ydb.tech
