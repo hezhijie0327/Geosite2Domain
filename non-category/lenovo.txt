@@ -16,6 +16,7 @@ domain:juhuiwan.com
 domain:juhuiwan.com.cn
 domain:juhuiwan.net
 domain:lecoo.com
+domain:lefile.cn
 domain:lenauth.com
 domain:lenovo.cn
 domain:lenovo.com
@@ -27,6 +28,8 @@ domain:lenovocloudos.com
 domain:lenovocust.cn
 domain:lenovoeservice.com
 domain:lenovofile.com
+domain:lenovofoundation.cn
+domain:lenovofuturecenter.com
 domain:lenovogame.com
 domain:lenovoimage.cn
 domain:lenovoimage.com

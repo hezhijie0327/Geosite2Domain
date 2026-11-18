@@ -2,6 +2,8 @@ domain:0033.cn
 domain:10jqka.com.cn
 domain:17173.com
 domain:17173cdn.com
+domain:1y.com
+domain:1ycdn.com
 domain:21jingji.com
 domain:36dianping.com
 domain:36kr.com

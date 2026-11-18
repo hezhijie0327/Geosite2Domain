@@ -79,6 +79,7 @@ domain:oss-cn-shanghai.aliyuncs.com
 domain:oss-cn-shenzhen.aliyuncs.com
 domain:oss-cn-wulanchabu.aliyuncs.com
 domain:oss-cn-zhangjiakou.aliyuncs.com
+domain:oss-enet.aliyuncs.com
 domain:oss-eu-central-1.aliyuncs.com:@!cn
 domain:oss-eu-west-1.aliyuncs.com:@!cn
 domain:oss-me-east-1.aliyuncs.com:@!cn

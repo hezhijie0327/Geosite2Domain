@@ -10,6 +10,8 @@ domain:1905.com
 domain:1958xy.com
 domain:1kkk.com
 domain:1xhh.cn
+domain:1y.com
+domain:1ycdn.com
 domain:3304399.com
 domain:3304399.net
 domain:37.com

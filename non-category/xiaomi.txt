@@ -34,7 +34,6 @@ domain:misc.in.duokanbox.com:@ads
 domain:mitvos.com
 domain:miui.com
 domain:miwifi.com
-domain:saxyit.com
 domain:sentry.d.mi.com:@ads,@telemetry
 domain:sentry.d.xiaomi.net:@ads,@telemetry
 domain:stats.music.xiaomi.com:@ads,@telemetry

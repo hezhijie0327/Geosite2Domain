@@ -4,6 +4,9 @@ domain:acadn.cn
 domain:acadn.com
 domain:aicdn.com
 domain:aocde.com
+domain:baishan.com
+domain:baishancdnx.cn
+domain:baishancloud.com
 domain:bbbcdns.com
 domain:bootcdn.cn
 domain:bootcdn.net
@@ -71,12 +74,14 @@ domain:qnssl.com
 domain:qtlcdn.cn
 domain:qtlcdn.com
 domain:qtlcdn.net
+domain:saxyit.com
 domain:speedws.info
 domain:speedws.org
 domain:staticfile.net
 domain:staticfile.org
 domain:tlgslb.cn
 domain:tlgslb.com
+domain:trpcdn.com
 domain:trpcdn.net
 domain:upai.com
 domain:upaiyun.com
@@ -91,3 +96,4 @@ domain:wsglb.com
 domain:wsglb.net
 domain:wswebcdn.com
 domain:wswebpic.com
+domain:yundun.com

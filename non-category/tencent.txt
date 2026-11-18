@@ -536,6 +536,7 @@ domain:tencent.com.hk:@!cn
 domain:tencent.design
 domain:tencent.net
 domain:tencent.net.cn
+domain:tencentads.com:@ads
 domain:tencentapps.com
 domain:tencentbyod.com
 domain:tencentcdb.cn

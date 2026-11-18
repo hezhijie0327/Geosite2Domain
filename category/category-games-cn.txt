@@ -1,6 +1,8 @@
 domain:17173.com
 domain:17173cdn.com
 domain:17roco.com
+domain:1y.com
+domain:1ycdn.com
 domain:3304399.com
 domain:3304399.net
 domain:37.com

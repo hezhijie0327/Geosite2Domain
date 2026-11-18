@@ -1,5 +1,7 @@
 domain:17173.com
 domain:17173cdn.com
+domain:1y.com
+domain:1ycdn.com
 domain:56.com
 domain:56img.com
 domain:adnet.sohu.com:@ads

@@ -2,6 +2,8 @@ domain:100classicbooks.com
 domain:17173.com
 domain:17173cdn.com
 domain:17roco.com
+domain:1y.com
+domain:1ycdn.com
 domain:2k.com
 domain:2kcoretech.online
 domain:2kct.onl

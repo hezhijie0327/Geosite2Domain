@@ -667,6 +667,7 @@ domain:tce.alicdn.com:@ads
 domain:tcss.qq.com:@ads
 domain:tdsdk.cpatrk.net:@ads
 domain:telecome.cn
+domain:tencentads.com:@ads
 domain:testads.api.my7v.com:@ads
 domain:theta.sogoucdn.com:@ads
 domain:tjqonline.cn:@ads

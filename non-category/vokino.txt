@@ -1,5 +1,6 @@
 domain:85b6b2.ws
 domain:ashdi.vip
+domain:bottod.pro
 domain:cdn2cdn.com
 domain:cdn2site.com
 domain:cdnsqu.com
@@ -19,6 +20,7 @@ domain:userplay.live
 domain:videobase.biz
 domain:vkvideo.cloud
 domain:voidboost.one
+domain:vokino.co
 domain:vokino.org
 domain:vokino.pro
 domain:vokino.tv

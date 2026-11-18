@@ -92,6 +92,7 @@ domain:16q.cn
 domain:16rd.com
 domain:17173.com
 domain:17173cdn.com
+domain:172.com
 domain:172mix.com
 domain:178.com
 domain:178linux.com
@@ -123,9 +124,12 @@ domain:1huizhan.com
 domain:1kkk.com
 domain:1nongjing.com
 domain:1ppt.com
+domain:1qianbao.com
 domain:1ting.com
 domain:1tyy.cn
 domain:1xhh.cn
+domain:1y.com
+domain:1ycdn.com
 domain:1zhe.com
 domain:20130123.com
 domain:21cn.com
@@ -247,6 +251,7 @@ domain:3type.cn
 domain:3yx.com
 domain:40017.cn
 domain:4008-517-517.cn:@cn
+domain:4008000000.com
 domain:4008117117.com
 domain:40407.com
 domain:423down.com
@@ -352,6 +357,7 @@ domain:58lovepet.com
 domain:58pic.com
 domain:58uxd.com
 domain:58v5.cn
+domain:58wos.com.cn
 domain:58xinghuo.cn
 domain:58xinghuo.com
 domain:58xueche.com
@@ -678,6 +684,7 @@ domain:aixifan.com
 domain:aiyunxiao.com
 domain:aizgtc.com
 domain:aizhan.com
+domain:ajkimg.com
 domain:ajzq.com
 domain:aka815.net
 domain:aki-game.com
@@ -996,6 +1003,9 @@ domain:baikemy.com
 domain:baikevod.com
 domain:baimiao.tech
 domain:baimiaoapp.com
+domain:baishan.com
+domain:baishancdnx.cn
+domain:baishancloud.com
 domain:baishinetwork.com
 domain:baitiao.com
 domain:baixing.com
@@ -4714,6 +4724,7 @@ domain:ledu.com
 domain:leelen.com
 domain:leetcode-cn.com
 domain:leetcode.cn
+domain:lefile.cn
 domain:lehuipay.com
 domain:leigod.cn
 domain:leigod.com
@@ -4735,6 +4746,8 @@ domain:lenovocloudos.com
 domain:lenovocust.cn
 domain:lenovoeservice.com
 domain:lenovofile.com
+domain:lenovofoundation.cn
+domain:lenovofuturecenter.com
 domain:lenovogame.com
 domain:lenovoimage.cn
 domain:lenovoimage.com
@@ -4884,6 +4897,7 @@ domain:lufax.com
 domain:lufaxcdn.com
 domain:lufunds.com
 domain:luhua.cn
+domain:lujincaifu.com
 domain:lulian.cn
 domain:lumiai.com
 domain:lunwengo.net
@@ -5116,6 +5130,7 @@ domain:minapp.com
 domain:mincdn.com
 domain:mindspore.cn
 domain:mingxuan.store
+domain:mingyuanfund.com
 domain:mingyuanyun.com
 domain:minhangshi.com
 domain:minimaxi.com
@@ -5550,6 +5565,7 @@ domain:oss-cn-shanghai.aliyuncs.com
 domain:oss-cn-shenzhen.aliyuncs.com
 domain:oss-cn-wulanchabu.aliyuncs.com
 domain:oss-cn-zhangjiakou.aliyuncs.com
+domain:oss-enet.aliyuncs.com
 domain:ottcn.com
 domain:oupeng.com
 domain:ourdvsss.com
@@ -5567,7 +5583,9 @@ domain:p2cdn.com
 domain:p2peye.com
 domain:p4p.sina.com.cn:@ads
 domain:p5w.net
+domain:pacfc.com
 domain:pacmantwo.com
+domain:pafoundation.org.cn
 domain:pagescube.cn
 domain:pagescube.com
 domain:paidaojia.cn
@@ -5634,6 +5652,7 @@ domain:pglstatp-toutiao-b.com:@ads
 domain:pglstatp-toutiao.com:@ads
 domain:pgyer.com
 domain:pgzs.com
+domain:ph.com.cn
 domain:pharmacodia.com
 domain:phfund.com.cn
 domain:philanthropy.xin
@@ -5656,6 +5675,7 @@ domain:pigai.org
 domain:pimlog.baidu.com:@ads,@telemetry
 domain:pinduoduo.com
 domain:pinduoduo.net
+domain:pingan.cn
 domain:pingan.com
 domain:pingan.com.cn
 domain:pingcap.cn
@@ -5896,6 +5916,7 @@ domain:qnssl.com
 domain:qpb.sohu.com:@ads
 domain:qpb1.sohu.com:@ads
 domain:qpic.cn
+domain:qpmcn.com
 domain:qq.cn.com
 domain:qq.com
 domain:qq.com.cn
@@ -6666,6 +6687,7 @@ domain:tencent.com.cn
 domain:tencent.design
 domain:tencent.net
 domain:tencent.net.cn
+domain:tencentads.com:@ads
 domain:tencentapps.com
 domain:tencentbyod.com
 domain:tencentcdb.cn
@@ -6932,6 +6954,7 @@ domain:tripcdn.cn
 domain:tripcdn.com
 domain:tritoninfo.net
 domain:trjcn.com
+domain:trpcdn.com
 domain:trpcdn.net
 domain:trunktech.com
 domain:trustasia.cn
@@ -7937,6 +7960,7 @@ domain:yinhang123.net
 domain:yinxiang.com
 domain:yinyuetai.com
 domain:yinzhaowang.com
+domain:yiqianbao.com
 domain:yiqifa.com
 domain:yiqifa.org
 domain:yisou.com
@@ -8016,6 +8040,8 @@ domain:yoyojie.com
 domain:yoyou.com
 domain:ypppt.com
 domain:yqb.com
+domain:yqbimg.net
+domain:yqbmall.com
 domain:yrz.name
 domain:ys7.com
 domain:ysepay.com
@@ -8202,6 +8228,8 @@ domain:zhanqi.tv
 domain:zhanzhang.net
 domain:zhaodanji.com
 domain:zhaokao.net
+domain:zhaoliangji.com
+domain:zhaoliangjipc.com
 domain:zhaomi.cn
 domain:zhaomishijie.com
 domain:zhaopin.cn
