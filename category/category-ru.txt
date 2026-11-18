@@ -898,7 +898,6 @@ domain:yandexdataschool.com
 domain:yandexgo.com
 domain:yandexmetrica.com:@ads,@telemetry
 domain:yandexwebcache.net
-domain:yandexwebcache.org
 domain:yango-ads.com:@ads
 domain:yango-b2b.com
 domain:yango-team.com

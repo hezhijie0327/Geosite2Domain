@@ -7450,7 +7450,6 @@ domain:yandexgo.com
 domain:yandexlyceum.ru
 domain:yandexmetrica.com:@ads,@telemetry
 domain:yandexwebcache.net
-domain:yandexwebcache.org
 domain:yango-ads.com:@ads
 domain:yango-b2b.com
 domain:yango-team.com

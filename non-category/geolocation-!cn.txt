@@ -7357,6 +7357,7 @@ domain:elephanttube.com
 domain:elephanttubenew.com
 domain:elevenlabs.com
 domain:elevenlabs.io
+domain:elevenlabsusercontent.com
 domain:elgaronline.com
 domain:elifesciences.org
 domain:eligens.cl
@@ -23730,7 +23731,6 @@ domain:yandexgo.com
 domain:yandexlyceum.ru
 domain:yandexmetrica.com:@ads,@telemetry
 domain:yandexwebcache.net
-domain:yandexwebcache.org
 domain:yango-ads.com:@ads
 domain:yango-b2b.com
 domain:yango-team.com
