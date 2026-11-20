@@ -91,7 +91,6 @@ domain:3drules.com
 domain:3dstudio.com
 domain:3dtin.com
 domain:3dtin.net
-domain:40shopping.com
 domain:466453.com
 domain:4beatsbydre.com
 domain:5-d.com
@@ -108,7 +107,6 @@ domain:a2z.org.cn:@cn
 domain:aaagradeheadphones.com
 domain:aadrm.cn:@cn
 domain:aadrm.com
-domain:aanaan.com
 domain:aapl.tw
 domain:aaplimg.com
 domain:abc.xyz
@@ -235,7 +233,6 @@ domain:advertising.apple.com:@ads
 domain:adwords-community.com:@ads
 domain:adwords.com:@ads
 domain:adwordsexpress.com:@ads
-domain:aeasyshop.com
 domain:aecexcellence.com
 domain:aerospace-cadcam.com
 domain:aerospace-design.com
@@ -247,7 +244,6 @@ domain:ai.studio
 domain:air-watch.com
 domain:airgonetworks.com
 domain:airgunstudio.com
-domain:airmay.com
 domain:airport.brussels
 domain:airport.com
 domain:airport.eu
@@ -258,7 +254,6 @@ domain:airtunes.net
 domain:airwatchexpress.com
 domain:airwatchqa.com
 domain:aiv-cdn.net
-domain:ajtalk.com
 domain:aka.ms
 domain:albeats.com
 domain:alchemysynth.com
@@ -465,13 +460,11 @@ domain:anexia.com
 domain:angulardart.org
 domain:animary.jp
 domain:ankarazirvesi2018.com
-domain:annstores.net
 domain:antenna.co.kr
 domain:antiphishing.nl
 domain:antiphishing.ru
 domain:anydesk.com
 domain:aodahl.com
-domain:aokwholesale.net
 domain:aolcdn.com
 domain:aorus.com
 domain:aoruszone.cn:@cn
@@ -1230,10 +1223,8 @@ domain:b2clogin.cn:@cn
 domain:b3itech.cn:@cn
 domain:babes.com
 domain:badaas.com
-domain:bag-glasses1.com
 domain:bananacall.ru
 domain:band.us
-domain:bandgirlz.com
 domain:bandpage.com
 domain:bandwagonhost.com
 domain:banksy.tokyo
@@ -1243,9 +1234,7 @@ domain:barkadahansasmartone.com
 domain:baselinestudy.com
 domain:baselinestudy.org
 domain:baterias-hp.com
-domain:baxsound.com
 domain:bazel.build
-domain:bbestmall.com
 domain:bdn.dev
 domain:beatbd.com
 domain:beatbydre2013.com
@@ -1526,7 +1515,6 @@ domain:beget.pro
 domain:beget.ru
 domain:beget.tech
 domain:begetcdn.cloud
-domain:begin-trade.com
 domain:behance.net
 domain:behindthescreenz.com
 domain:bellsouth.net
@@ -1549,7 +1537,6 @@ domain:betterwithautodesk.com
 domain:beyondcore.com
 domain:bget.ru
 domain:bhent.co.kr
-domain:biitii.com
 domain:bim-360.com
 domain:bim360.com
 domain:bim360.net
@@ -1666,7 +1653,6 @@ domain:blogspot.td
 domain:blogspot.tw
 domain:blogspot.ug
 domain:blogspot.vn
-domain:bloommicroventures.com
 domain:blueaggrestore.com:@cn
 domain:bluecloudprod.com:@cn
 domain:bluefootcms.com
@@ -1677,22 +1663,16 @@ domain:bluemix.net
 domain:blurams.app
 domain:blurams.com
 domain:bookmate.ru
-domain:bookonsky.net
 domain:bookstagram.com
 domain:boom.ru
 domain:boosty.to
 domain:boringcompany.com
-domain:bossae.com
 domain:boswp.com
 domain:botframework.com
 domain:botmechanic.io
 domain:botorch.org
 domain:boxofficemojo.com
 domain:braeburncapital.com
-domain:brandeasygo.com
-domain:brandelectronic.com
-domain:brandproducts1688.com
-domain:brands098.com
 domain:brantect.com
 domain:brazilpartneruniversity.com
 domain:brazzer.com
@@ -1725,8 +1705,6 @@ domain:bumptunes.com
 domain:burstly.net
 domain:burstlyrewards.com
 domain:businesscatalyst.com
-domain:businesswebwise.com
-domain:buy-from-shanghai.com
 domain:buyaapl.com
 domain:buyaapl.net
 domain:buyaltera.com
@@ -1742,8 +1720,6 @@ domain:buyingfacebooklikes.com
 domain:buyminibeatbox.com
 domain:buyoculus.com
 domain:buyonlineheadphones.com
-domain:buyshoponly.com
-domain:buzzardflapper.com
 domain:bwh1.net
 domain:bwh8.net
 domain:bwh81.net
@@ -1947,8 +1923,6 @@ domain:cheaperbeatsbydresale.com
 domain:cheapestbeatsdrdre.com
 domain:cheapheadphonesland.com
 domain:cheapheadphonessale.com
-domain:cheapheadsetmall.com
-domain:cheapheadsetshop.com
 domain:cheapmonsterbeatsbydrdre.com
 domain:cheapmonsterbeatsheadsets.com
 domain:cheapmonsterbeatssale.com
@@ -1956,18 +1930,13 @@ domain:cheapmonsterbeatsusa.us
 domain:cheapmonstersbeatsonsale.com
 domain:cheapnewbeatsbydre.com
 domain:cheapsalemonster.com
-domain:cheapshoesvip.com
-domain:cheapwireless04.com
 domain:cheapwirelessbeats.com
-domain:cheerwholesale.us
 domain:chef.io
 domain:chegg.com
 domain:cheggcdn.com
 domain:chickstagram.com
-domain:chihair-straightener.com
 domain:china-autodesk.com
 domain:china-facebook.com
-domain:chinaclothesstore.com
 domain:chinacloud-mobile.cn:@cn
 domain:chinacloudapi.cn:@cn
 domain:chinacloudapp.cn:@cn
@@ -1988,7 +1957,6 @@ domain:chronicle.security
 domain:chroniclesec.com
 domain:cht.com.tw
 domain:chtf.org.tw
-domain:ciattackers.com
 domain:ciciq.net
 domain:cilk.com
 domain:cilk.net
@@ -2072,12 +2040,10 @@ domain:cloupia.net
 domain:clova.ai
 domain:clstorage.net
 domain:clusterconnection.com
-domain:cmhalq.com
 domain:cmpaas.com
 domain:cn.bing.com:@cn
 domain:cn.bing.net:@cn
 domain:cn.mm.bing.net:@cn
-domain:cnshopin.com
 domain:cobatt.com
 domain:cobrasearch.com
 domain:code-class.ru
@@ -2139,7 +2105,6 @@ domain:covid19-rx.org
 domain:covid19rx.org
 domain:cozydrdrebeats.com
 domain:cpedge.com
-domain:cqcorea.com
 domain:crankplayer.com
 domain:crashlytics.com
 domain:createspace.com
@@ -2161,7 +2126,6 @@ domain:crr.com
 domain:cs.co
 domain:cs4hs.com
 domain:csifund.org
-domain:cuffiesaldi.com
 domain:cups.online
 domain:cups.org
 domain:currently.com
@@ -2185,7 +2149,6 @@ domain:cybersport.ru
 domain:dacebook.com
 domain:dahl.su
 domain:dahlmessenger.com
-domain:danemarket.com
 domain:danmarkbeatsbydrdre.com
 domain:dart.dev
 domain:dartlang.org
@@ -2424,7 +2387,6 @@ domain:desktopmovie.org
 domain:desktopmovies.net
 domain:desktopmovies.org
 domain:destinationbim.com
-domain:detaliczny.com
 domain:detodosparatodos.org
 domain:dev-my.com
 domain:dev-my.games
@@ -2616,7 +2578,6 @@ domain:dscloud.mobi
 domain:dsmynas.com
 domain:dsmynas.net
 domain:dsmynas.org
-domain:dtsell.com
 domain:dtv2009offers.com
 domain:dtvce.com
 domain:duolingo.cn:@cn
@@ -2639,13 +2600,11 @@ domain:dzen.ru
 domain:dzeninfra.ru
 domain:e-estate.jp
 domain:e.mindbox.ru:@ads
-domain:earphonescheapest.com
 domain:earpod.net
 domain:earthdell.com
 domain:easic.com
 domain:easy-signing.com:@cn
 domain:ebookforipad.com
-domain:ebuyheadphones.com
 domain:ecgapp.com.cn:@cn
 domain:ecgapp.net
 domain:echocdn.com
@@ -2701,7 +2660,6 @@ domain:esforce.com
 domain:esforce.ru
 domain:esmarthealth.com
 domain:esopworld.com
-domain:etheadphones.com
 domain:eueuropeansustainabledesign.net
 domain:eurocodesoftware.com
 domain:euroipad.com
@@ -2985,7 +2943,6 @@ domain:fakeorphoto.com
 domain:familyds.com
 domain:familyds.net
 domain:familyds.org
-domain:famosascalvas.com
 domain:fanspot.jp
 domain:faronics.ca
 domain:faronics.co.uk
@@ -3149,8 +3106,6 @@ domain:fr-beatsbydrestore.com
 domain:fracebook.com
 domain:francecasquebeatssolde.com
 domain:frcasquesbeats.com
-domain:free-aa.com
-domain:free-sns.com
 domain:freeb.com
 domain:freebasics.com
 domain:freebasics.net
@@ -3169,7 +3124,6 @@ domain:friendfeed-api.com
 domain:friendfeed-media.com
 domain:friendfeed.com
 domain:friendfeedmedia.com
-domain:frishoes.com
 domain:frontrow.com
 domain:frontrow.com.cn:@cn
 domain:froogle.com
@@ -3327,7 +3281,6 @@ domain:globalsign.nl
 domain:globalsigncdn.com:@cn
 domain:gmail
 domain:gmail.com
-domain:gmnetworks.net
 domain:gmo
 domain:gmo-aozora.com
 domain:gmo-app.jp
@@ -3382,7 +3335,6 @@ domain:golang.org
 domain:gonglchuangl.net
 domain:goo.gl
 domain:good-apps.jp
-domain:goodsdunk.net
 domain:goodsrv.de
 domain:goog
 domain:googel.com
@@ -3725,20 +3677,12 @@ domain:hayya.ae
 domain:hddirectv.com
 domain:hdinsightservices.cn:@cn
 domain:hdrplusdata.org
-domain:headphonepubs.com
-domain:headphones-cool.com
 domain:headphones-dre.com
 domain:headphones-outlet-online.com
 domain:headphonesbeatsaudio.com
 domain:headphonesbeatsbydre.com
 domain:headphoneses.com
-domain:headphoneshome.com
-domain:headphoneshotsales.com
-domain:headphonesol.com
 domain:headphonesretailer.com
-domain:headphonessupply.com
-domain:headphonezip.com
-domain:headset987.com
 domain:healthreach.hk
 domain:hebiphone.com
 domain:hellokittybeats.com
@@ -3779,8 +3723,6 @@ domain:highbolt.net
 domain:highdefinitionbeatsbydre.com
 domain:hindiweb.com
 domain:hinet.net
-domain:hipaa6020.com
-domain:hipzoom.net
 domain:hkbn.com.hk
 domain:hkbn.net
 domain:hkbnes.net
@@ -3799,7 +3741,6 @@ domain:homepod.cn:@cn
 domain:homestylerapp.com
 domain:homestylernews.com
 domain:hominis.media
-domain:honawalaan.com
 domain:hopstop.tv
 domain:horizontal-llc.com
 domain:horizontal-systems.com
@@ -3815,7 +3756,6 @@ domain:hotmail.net
 domain:hotmail.org
 domain:hotmonsterbeats.com
 domain:hotsrv.de
-domain:hottestheadphonesonline.com
 domain:howtogetmo.co.uk
 domain:howtohackfacebook-account.com
 domain:hp-imagine.com
@@ -3944,7 +3884,6 @@ domain:hpvirtualthin.com
 domain:hpwallart.com
 domain:hpwellnesscentral.com
 domain:hpwsn.com
-domain:hrsaz.com
 domain:hrtek.ru
 domain:hsfacebook.com
 domain:hsm-works.com
@@ -4096,7 +4035,6 @@ domain:ie9.com
 domain:ig.me
 domain:igcdn.com
 domain:igoogle.com
-domain:igoshopping.net
 domain:igsonar.com
 domain:igtv.com
 domain:ikids.com
@@ -4104,7 +4042,6 @@ domain:ilecture.co.nz
 domain:ilife.eu
 domain:ilife.gr
 domain:ilife.wang
-domain:illianacomputerrecycling.com
 domain:imac-apple.com
 domain:imac-applecomputer.com
 domain:imac.co
@@ -4140,7 +4077,6 @@ domain:imstagram.com
 domain:imtagram.com
 domain:in.applicationinsights.azure.com:@telemetry
 domain:inbox.ru
-domain:incentivetravelgifts.com
 domain:indiaipad.com
 domain:infoq.jp
 domain:infraworks.com
@@ -4488,7 +4424,6 @@ domain:iphone5.com
 domain:iphone5casescovers.com
 domain:iphone5s5case.com
 domain:iphoneacessorios.com.br
-domain:iphonecase2013.com
 domain:iphonecase5.com
 domain:iphonecases100.com
 domain:iphonecases5.com
@@ -4552,7 +4487,6 @@ domain:iprad-ryoma.com
 domain:ird.co.jp
 domain:ischool.com
 domain:iskoot.com
-domain:islamiccenterofnewlondon.com
 domain:isomorphiclabs.com
 domain:istent.co.kr
 domain:istorytell.com
@@ -4700,7 +4634,6 @@ domain:keytransparency.com
 domain:keytransparency.foo
 domain:keytransparency.org
 domain:kgslb.com
-domain:kickshatchannel.com
 domain:kidgrid.tv
 domain:killercb.ru
 domain:kindle
@@ -4732,7 +4665,6 @@ domain:knightspeak.com
 domain:knoxemm.com
 domain:kobbeatssbydredk.com
 domain:koddobra.ru
-domain:kopfhorergunstigshop.com
 domain:koukoku.jp
 domain:kpinsurances.com
 domain:krosspictures.com
@@ -4755,9 +4687,7 @@ domain:launchpad.wang
 domain:le-direct.tv
 domain:learningfreedomandtheweb.org
 domain:leavinghpinc.com
-domain:leecountytimes.com
 domain:lerna.ru
-domain:lexuemei.com
 domain:lg.com
 domain:lgappstv.com
 domain:lge.co.kr
@@ -4829,12 +4759,10 @@ domain:lovebeatsdr.com
 domain:lovemarca.com
 domain:lovina.app
 domain:lrfdsoftware.com
-domain:luckyissue.com
 domain:luckysrv.de
 domain:lunchwithpype.com
 domain:lvcampaign.com:@cn
 domain:lync.cn:@cn
-domain:lyzsxx.com
 domain:m.me
 domain:m12.vc
 domain:m2m.com
@@ -4909,7 +4837,6 @@ domain:makeanything.com
 domain:makeappli.jp
 domain:makebettercode.com
 domain:makecode.org
-domain:makeeu.com
 domain:makeitopen.com
 domain:makeitrealcontest.com
 domain:makerepeater.jp
@@ -4917,7 +4844,6 @@ domain:makesenseofdata.com
 domain:makeshop.jp
 domain:makingstartshere.com
 domain:maktoob.com
-domain:mallheadphone.com
 domain:managedmeetingrooms.com
 domain:management-azure-devices-int.net
 domain:management-azure-devices-provisioning.cn:@cn
@@ -4964,7 +4890,6 @@ domain:mayauser.com
 domain:mayauser.net
 domain:mayavisualization.com
 domain:mbeats-tech.com
-domain:mbheadphone.com
 domain:mc.yandex.ru:@ads,@telemetry
 domain:mcchcdn.com:@cn
 domain:mcisco.com
@@ -5146,7 +5071,6 @@ domain:microsofttradein.com
 domain:microsofttranslator-int.cn:@cn
 domain:microsofttranslator.com
 domain:microsoftuwp.com
-domain:micstl.com
 domain:midentsolutions.com
 domain:mikrotik.com
 domain:mimistudio.com
@@ -5253,14 +5177,12 @@ domain:monsterdrebeats-canada.net
 domain:monsterdrebeats-usa.com
 domain:monsterdrebeats-usa.net
 domain:monsterheadphone.net
-domain:monsterproduct.net
 domain:monstersbeatbydres.com
 domain:monstersdebea.com
 domain:monstershopcheapbeats.net
 domain:moodstocks.com
 domain:moov.hk
 domain:more.tv
-domain:moreheadphones.com
 domain:morewithautodesk.com
 domain:morphcharts.com
 domain:motiongraphicsandmore.com
@@ -5470,7 +5392,6 @@ domain:naydex.net
 domain:nbabot.net
 domain:ncloud.com
 domain:near.by
-domain:neborder.com
 domain:negozimonsterbeats.com
 domain:negoziomonsterbeats.com
 domain:neicad.com
@@ -5505,13 +5426,10 @@ domain:nevex.com
 domain:new.day
 domain:new2fea.com
 domain:newbeatsblackfriday.com
-domain:newbemany.com
 domain:newdrediscount.com
 domain:newestbeatsbydre.com
-domain:newlysprung.net
 domain:newmonst1erbeatsto1re.com
 domain:newmonsterbeatsheadphones.com
-domain:newschristmasshopping.com
 domain:newsfeed.com
 domain:newtofea.com
 domain:newton.com
@@ -5521,13 +5439,11 @@ domain:nextgenerationcam.com
 domain:nextgenerationcenter.com
 domain:nextstop.com
 domain:nexus
-domain:nflhotsalejerseys.com
 domain:nginxconfig.io
 domain:nheos.com
 domain:nhncorp.jp
 domain:nic.ru
 domain:nicesrv.de
-domain:nicesshop.net
 domain:nichost.ru
 domain:niosii.com
 domain:niosii.net
@@ -5635,7 +5551,6 @@ domain:odnoklassniki.eu
 domain:odnoklassniki.lv
 domain:odnoklassniki.ru
 domain:odnoklassniki.tj
-domain:offerairjordanlebron.com
 domain:office
 domain:office.com
 domain:office.net
@@ -5651,7 +5566,6 @@ domain:officialbeatsbydrestore.com
 domain:officialdrdre.com
 domain:officialheadphone.com
 domain:offrezdesipods.com
-domain:ogameblog.com
 domain:ogp.me
 domain:ok.me
 domain:ok.ru
@@ -5699,7 +5613,6 @@ domain:onlinemonsterbeatsonsale.com
 domain:onlyiphone5case.com
 domain:onmschina.cn:@cn
 domain:onsalekey.com
-domain:onsaletrend.com
 domain:ootbstudio.co.kr
 domain:openamt.com
 domain:openapiplatform.com
@@ -5775,7 +5688,6 @@ domain:passwordday.org
 domain:pastahealth.com
 domain:patentgold.net
 domain:patenttruth.org
-domain:paulsimon-music.com
 domain:paxlicense.org
 domain:paygonline.com
 domain:payroll.com
@@ -5788,8 +5700,6 @@ domain:pdf.new
 domain:pentium.com
 domain:pentium.net
 domain:pepabo.com
-domain:perfectkickz.net
-domain:personeelsland.com
 domain:phncdn.com
 domain:photolia.net
 domain:photoshop.com
@@ -5799,8 +5709,6 @@ domain:picasa.com
 domain:picasaweb.com
 domain:picasaweb.net
 domain:picasaweb.org
-domain:picknicekicks.net
-domain:pickshoesclothes.com
 domain:picnik.com
 domain:pillbeatsblackfridaysale.com
 domain:pintool.com
@@ -5835,7 +5743,6 @@ domain:plug-into.com
 domain:plug.game
 domain:pmem.org
 domain:pmem.us
-domain:pocketbiketrader.com
 domain:pointtown.com
 domain:polymer-project.org
 domain:polymerproject.org
@@ -5999,7 +5906,6 @@ domain:razersupport.com
 domain:razersynapse.com:@cn
 domain:razerzone.com:@cn
 domain:razerzone.jp
-domain:rbsgr.com
 domain:rdtcdn.com
 domain:reachtheworldonfacebook.com
 domain:react.com
@@ -6020,7 +5926,6 @@ domain:redtube.com
 domain:redtube.com.br
 domain:redtubepremium.com
 domain:redzonechannel.com
-domain:reform-apple.com
 domain:reg.cloud
 domain:reg.com
 domain:reg.ru
@@ -6033,8 +5938,6 @@ domain:renovacionxboxlive.com
 domain:renshu.com
 domain:repo.new
 domain:report-megafon.ru
-domain:repsneakermall.com
-domain:repswing.com
 domain:researchandcare.org
 domain:researchintel.com
 domain:researchkit.cn:@cn
@@ -6090,7 +5993,6 @@ domain:sagemaker.com.cn:@cn
 domain:sahabatsetiasmartone.com
 domain:salebeatslasteststyle4you.com
 domain:saleblackfridaydrebeats.com
-domain:salecheaphandbags.com
 domain:salesforce-setup.com
 domain:salesforce-sites.com
 domain:salesforce.com
@@ -6098,7 +6000,6 @@ domain:salesforce.org
 domain:salesforceiq.com
 domain:salesforceliveagent.com
 domain:salesforcemarketingcloud.com
-domain:samebags.com
 domain:samsung
 domain:samsung.com
 domain:samsung.com.cn:@cn
@@ -6139,7 +6040,6 @@ domain:sandisk.it
 domain:sandisk.nl
 domain:sandisk.sg
 domain:sankie.net
-domain:sanvaras.com
 domain:savethedate.foo
 domain:savoycomputing.com
 domain:sayeasy.eu
@@ -6152,7 +6052,6 @@ domain:scartel.ru
 domain:scea.com
 domain:scene7.com
 domain:schemer.com
-domain:scnshop.cc
 domain:scpic.net
 domain:screenwisetrends.com
 domain:screenwisetrendspanel.com
@@ -6210,8 +6109,6 @@ domain:shedevrum.com
 domain:shedevrum.ru
 domain:sheets.new
 domain:shisho.dev
-domain:shoers.com
-domain:shoestop2.com
 domain:shop-headphones.net
 domain:shop-pro.jp
 domain:shopalienware.com
@@ -6221,8 +6118,6 @@ domain:shopcustomizedbeats.com
 domain:shopdrebeats.com
 domain:shopfacebook.com
 domain:shopmonsterbeats.com
-domain:shopping-days.net
-domain:shoppinguheadphones.com
 domain:shotgridsoftware.com
 domain:shotgridstudio.com
 domain:shotguncloud.com
@@ -6296,9 +6191,6 @@ domain:snapdragonbooth.com
 domain:snapkit.co
 domain:snapseed.com
 domain:snapvolumes.com
-domain:sneaker666.com
-domain:sneakerpage.net
-domain:sneakerskick.com
 domain:snow.me
 domain:snowcorp.com
 domain:so-net.ne.jp
@@ -6415,7 +6307,6 @@ domain:sonypicturestelevisiongames.com
 domain:sonyprotechnosupport.co.jp
 domain:sonystoragemedia.co.jp
 domain:sonytc.co.jp
-domain:soso7778.com
 domain:sourcecraft.dev
 domain:sovcloud-mx.cn:@cn
 domain:sovcloud-static.cn:@cn
@@ -6426,10 +6317,8 @@ domain:spacemail.com
 domain:spaceship.com
 domain:spacex.com
 domain:spcc-sp.com
-domain:specialtyheadphones.com
 domain:speedtest.com.hk
 domain:spektral.cc
-domain:spiritclubs.com
 domain:splunk.com
 domain:spo-msedge.net
 domain:sportmail.ru
@@ -6481,16 +6370,12 @@ domain:stxmosquitoproject.net
 domain:stxmosquitoproject.org
 domain:submittal-log.com
 domain:successwithteams.com
-domain:sulwerphoto.com
 domain:summerstage.ru
 domain:summitceo.ru
 domain:sun.com
 domain:sundanceignite2016.com
 domain:sundayready.com
-domain:sunglassessale2014.com
-domain:superearsenjoy.com
 domain:supersrv.de
-domain:supplybestjerseys.com
 domain:support-uber.com
 domain:supportfacebook.com
 domain:surface.com
@@ -6521,14 +6406,12 @@ domain:synologydownload.com
 domain:synologyupdate.com
 domain:sysinternals.com
 domain:szcheapmonsterheadphones.com
-domain:szwinnertechnology.com
 domain:t-msedge.net
 domain:t-splines.com
 domain:t2.ru
 domain:tail-f.com
 domain:tailf.com
 domain:tailwindtraders.com
-domain:takegoto.com
 domain:talantix.ru
 domain:tamtam.chat
 domain:tandberg-china.com
@@ -6596,7 +6479,6 @@ domain:theintelstore.com
 domain:theinventionworks.com
 domain:theinventionworks.net
 domain:thequestion.ru
-domain:theuab.net
 domain:thinkboxsoftware.com
 domain:thinkdifferent.us
 domain:thinkquarterly.co.uk
@@ -6645,7 +6527,6 @@ domain:trace-flow.ru:@ads
 domain:tracker-api.my.com:@ads
 domain:tracker.my.com:@ads
 domain:tracking-location.com
-domain:tradevip1.com
 domain:trafficmanager.cn:@cn
 domain:trafficmanager.net
 domain:translatetheweb.com
@@ -6669,7 +6550,6 @@ domain:tryrating.com
 domain:tsi.ai
 domain:tspline.com
 domain:tsplines.com
-domain:tteshop.com
 domain:tube8.com
 domain:tube8.fr
 domain:tubemogul.com:@ads
@@ -6747,7 +6627,6 @@ domain:umschool.net
 domain:unfiltered.news
 domain:universalscalablefirmware.org
 domain:unlocklimitlesslearning.com
-domain:unstyle.us
 domain:upfrontcfd.com
 domain:upfrontfea.com
 domain:uplinq.com
@@ -6766,7 +6645,6 @@ domain:uverse.com
 domain:uweb.ru
 domain:uwn.com:@cn
 domain:uwpcommunitytoolkit.com
-domain:v-has.com
 domain:v.ps
 domain:v8.dev
 domain:v8project.org
@@ -6846,8 +6724,6 @@ domain:vidmpreview.com
 domain:viewpointsfromfacebook.com
 domain:vip-beats.com
 domain:vipbeatsbydre.com
-domain:vipheadphones.com
-domain:vipshoes2.com
 domain:viqeo.tv
 domain:viqeotv.com
 domain:viriondb.com
@@ -6981,7 +6857,6 @@ domain:wa.me
 domain:waccas.com
 domain:wadax.ne.jp
 domain:wallet.com
-domain:wasdj.com
 domain:wattpad.com
 domain:waymo.com
 domain:waze.com
@@ -7056,10 +6931,6 @@ domain:wholefoodsmarket.co.uk
 domain:wholefoodsmarket.com
 domain:wholekidsfoundation.org
 domain:wholeplanetfoundation.org
-domain:wholesale-exporter1.com
-domain:wholesalediscountpurses.com
-domain:wholesalefine.com
-domain:wholesaleonlinemart.com
 domain:whychoosehorizon.com
 domain:whychooseview.com
 domain:whychoosevmwareeuc.com
@@ -7110,7 +6981,6 @@ domain:worksmobile.com
 domain:workspaceair.com
 domain:workspaceone.com
 domain:workstations.tv
-domain:worldcoinpay.com
 domain:worldhack.com
 domain:worldsecureemail.com
 domain:worldsecuresystems.com

@@ -2742,6 +2742,7 @@ domain:ebscn.com
 domain:ebtrust.com
 domain:eceshi.com
 domain:echargenet.com
+domain:echooai.com
 domain:ecitic.com
 domain:ecjobhome.com
 domain:eckwai.com
@@ -2885,8 +2886,10 @@ domain:fastcom.com.cn
 domain:favonis.cloud
 domain:favonis.com
 domain:favonis.space
+domain:faw-vw.com
 domain:faw.cn
 domain:faxingbao.com
+domain:fazhipro.com
 domain:fbank.com
 domain:fbstatic.cn
 domain:fcapp.run
@@ -6069,6 +6072,7 @@ domain:s.so.360.cn:@ads
 domain:s.union.360.cn:@ads
 domain:s0n.cn
 domain:sa.sina.cn:@ads
+domain:saasfz.com
 domain:saasops.tech
 domain:saayaa.com
 domain:saduck.top
