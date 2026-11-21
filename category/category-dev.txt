@@ -439,6 +439,7 @@ domain:redislabs.com
 domain:regex101.com
 domain:remirepo.net
 domain:renderingtoolkit.org
+domain:replit.com
 domain:repo.new
 domain:researchandcare.org
 domain:researchkit.cn:@cn
@@ -525,6 +526,7 @@ domain:timelinestoryteller.com
 domain:timestamp.apple.com
 domain:tmimgcdn.com
 domain:topcoder.com
+domain:tortoisegit.org
 domain:ubuntu-touch.io
 domain:ubuntu.com
 domain:ubuntu.net

@@ -530,6 +530,7 @@ domain:eu-consumer-empowerment.com
 domain:ewisdom.us.kg
 domain:expertmaker.com
 domain:fairmarket.com
+domain:fanza.jp
 domain:farfetch-apps.com
 domain:farfetch-contents.com
 domain:farfetch.cn:@cn

@@ -5,6 +5,7 @@ domain:dmm.co.jp
 domain:dmm.com
 domain:dmmapis.com
 domain:dmmrex.com
+domain:fanza.jp
 domain:fout.jp:@ads
 domain:gmossp-sp.jp:@ads
 domain:i-mobile.co.jp:@ads

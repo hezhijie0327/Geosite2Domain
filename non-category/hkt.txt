@@ -1,6 +1,7 @@
 domain:1010.com.hk
 domain:esmarthealth.com
 domain:hkcsl.com
+domain:hkt
 domain:hkt-enterprise.com
 domain:hkt-eye.com
 domain:hkt.com

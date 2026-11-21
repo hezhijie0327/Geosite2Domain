@@ -3728,6 +3728,7 @@ domain:hkbn.net
 domain:hkbnes.net
 domain:hkcircleapp.com
 domain:hkcsl.com
+domain:hkt
 domain:hkt-enterprise.com
 domain:hkt-eye.com
 domain:hkt.com
@@ -5693,6 +5694,7 @@ domain:paygonline.com
 domain:payroll.com
 domain:pbiwebcontent.cn:@cn
 domain:pc.com
+domain:pccw
 domain:pccw.com
 domain:pccwglobal.com
 domain:pccwsolutions.com

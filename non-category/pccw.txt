@@ -1,6 +1,7 @@
 domain:1010.com.hk
 domain:esmarthealth.com
 domain:hkcsl.com
+domain:hkt
 domain:hkt-enterprise.com
 domain:hkt-eye.com
 domain:hkt.com
@@ -15,6 +16,7 @@ domain:now.com
 domain:now.com.hk
 domain:nowe.com
 domain:nowe.hk
+domain:pccw
 domain:pccw.com
 domain:pccwglobal.com
 domain:pccwsolutions.com
