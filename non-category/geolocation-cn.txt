@@ -1865,6 +1865,7 @@ domain:chuapp.com
 domain:chugou360.com
 domain:chuimg.com
 domain:chujingapp.com
+domain:chunithm.wahlap.com
 domain:chunyu.mobi
 domain:chunyuyisheng.com
 domain:chushi.cool
@@ -4961,6 +4962,7 @@ domain:mahjongcup.net
 domain:maiche.com
 domain:mail4399.com
 domain:maimai.cn
+domain:maimai.wahlap.com
 domain:maimemo.com
 domain:maimemostatus.com
 domain:maindown4399.com
@@ -6757,6 +6759,7 @@ domain:tfogc.com
 domain:tfzq.com
 domain:tgbus.com
 domain:tggfl.com
+domain:tgk-wcaime.wahlap.com
 domain:tgovcloud.com
 domain:tgpro.top
 domain:tgprocs.net
@@ -7415,6 +7418,7 @@ domain:vxo7tu.com
 domain:vzuu.com
 domain:w.cnzz.com:@ads
 domain:wahaha.com.cn
+domain:wahlap.net
 domain:waifushangcheng.com
 domain:wali.com
 domain:wallstcn.com

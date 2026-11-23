@@ -75,6 +75,7 @@ domain:cbjq.com
 domain:cdncl.net
 domain:cgyouxi.com
 domain:changyou.com
+domain:chunithm.wahlap.com
 domain:codm.com
 domain:cowlevel.net
 domain:cy.com
@@ -152,6 +153,7 @@ domain:mahjongcup.cn
 domain:mahjongcup.com
 domain:mahjongcup.net
 domain:mail4399.com
+domain:maimai.wahlap.com
 domain:maindown4399.com
 domain:me4399.com
 domain:metalrevolution.com
@@ -230,6 +232,7 @@ domain:testplus.cn
 domain:texasholdemcup.cn
 domain:texasholdemcup.com
 domain:texasholdemcup.net
+domain:tgk-wcaime.wahlap.com
 domain:tgpro.top
 domain:tgprocs.net
 domain:themisweeps.com
@@ -245,6 +248,7 @@ domain:vrzwk.cn
 domain:vrzwk.com
 domain:vrzwk.net
 domain:vrzwk.top
+domain:wahlap.net
 domain:wanmei.com
 domain:wanwan4399.com
 domain:wcbygame.com

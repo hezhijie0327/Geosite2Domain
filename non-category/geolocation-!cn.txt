@@ -9151,6 +9151,7 @@ domain:gemfire.net
 domain:gemfury.com
 domain:gemini.com
 domain:gemini.yahoo.com:@ads
+domain:gemma.ai
 domain:gen.lib.rus.ec
 domain:genbank.ru
 domain:gendai.net

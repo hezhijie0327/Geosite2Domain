@@ -156,6 +156,7 @@ domain:cgyouxi.com
 domain:championshipseriesleague.com
 domain:changyou.com
 domain:chillingo.com
+domain:chunithm.wahlap.com
 domain:chunkbase.com
 domain:clash.com
 domain:clashmini.com
@@ -471,6 +472,7 @@ domain:mahjongcup.cn
 domain:mahjongcup.com
 domain:mahjongcup.net
 domain:mail4399.com
+domain:maimai.wahlap.com
 domain:maindown4399.com
 domain:makearmanotwar.com
 domain:marioandluigidreamteam.com
@@ -902,6 +904,7 @@ domain:testplus.cn
 domain:texasholdemcup.cn
 domain:texasholdemcup.com
 domain:texasholdemcup.net
+domain:tgk-wcaime.wahlap.com
 domain:tgpro.top
 domain:tgprocs.net
 domain:thedreadwolfrises.com
@@ -957,6 +960,7 @@ domain:vrzwk.cn
 domain:vrzwk.com
 domain:vrzwk.net
 domain:vrzwk.top
+domain:wahlap.net
 domain:wanmei.com
 domain:wanwan4399.com
 domain:wargaming.com

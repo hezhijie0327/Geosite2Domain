@@ -3184,6 +3184,7 @@ domain:geforce.com
 domain:geforce.com.tw
 domain:gemfire.net
 domain:gemini.yahoo.com:@ads
+domain:gemma.ai
 domain:genetic-technologies.am
 domain:geneticconstructor.com
 domain:genotek.am

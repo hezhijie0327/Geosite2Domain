@@ -210,6 +210,7 @@ domain:chatwrite.net
 domain:chatxiaoxiang.com
 domain:chatyuewen.cn
 domain:chuapp.com
+domain:chunithm.wahlap.com
 domain:cibn.cc
 domain:cibntv.net
 domain:ciweimao.com
@@ -586,6 +587,7 @@ domain:mahjongcup.cn
 domain:mahjongcup.com
 domain:mahjongcup.net
 domain:mail4399.com
+domain:maimai.wahlap.com
 domain:maindown4399.com
 domain:mamecn.com
 domain:manben.com
@@ -780,6 +782,7 @@ domain:texasholdemcup.cn
 domain:texasholdemcup.com
 domain:texasholdemcup.net
 domain:tgbus.com
+domain:tgk-wcaime.wahlap.com
 domain:tgpro.top
 domain:tgprocs.net
 domain:th-music.com
@@ -814,6 +817,7 @@ domain:vrzwk.com
 domain:vrzwk.net
 domain:vrzwk.top
 domain:vsread.com
+domain:wahlap.net
 domain:wanmei.com
 domain:wanwan4399.com
 domain:wasu.cn
