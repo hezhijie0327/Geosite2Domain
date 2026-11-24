@@ -51,6 +51,7 @@ domain:buckbuild.com
 domain:bugsnag.com
 domain:builtwithnix.org
 domain:busybox.net
+domain:cachix.org
 domain:cafe.github.com:@telemetry
 domain:calendarserver.org
 domain:canonical.com
@@ -87,6 +88,7 @@ domain:dart.dev
 domain:dartlang.org
 domain:dartpad.dev
 domain:datalore.io
+domain:debian.map.fastlydns.net
 domain:debian.org
 domain:deno.com
 domain:deno.land
@@ -554,6 +556,7 @@ domain:visualstudio.co.uk
 domain:visualstudio.com
 domain:visualstudio.eu
 domain:visualstudio.net
+domain:vivox.com
 domain:vsassets.io
 domain:vscode-cdn.net
 domain:vscode-unpkg.net

@@ -8,3 +8,4 @@ domain:prd-lender.cdp.internal.unity3d.com:@ads
 domain:unity.com
 domain:unity3d.com
 domain:unityads.unity3d.com:@ads
+domain:vivox.com

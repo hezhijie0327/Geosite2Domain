@@ -1,4 +1,5 @@
 domain:builtwithnix.org
+domain:cachix.org
 domain:mynixos.com
 domain:nix-community.org
 domain:nix.dev

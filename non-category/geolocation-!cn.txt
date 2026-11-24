@@ -4613,6 +4613,7 @@ domain:cableav.tv
 domain:cableav.xyz
 domain:cabletv.com.hk
 domain:cabletvdirectv.com
+domain:cachix.org
 domain:cad-mep.com
 domain:cadcamsystemsinc.com
 domain:cadduct.com
@@ -8124,10 +8125,12 @@ domain:fastindianporn.com
 domain:fastlane.ci
 domain:fastlane.tools
 domain:fastly-edge.com
+domain:fastly-insights.com
 domain:fastly-terrarium.com
 domain:fastly.com
 domain:fastly.io
 domain:fastly.net
+domain:fastlydns.net
 domain:fastlylabs.com
 domain:fastlylb.net
 domain:faststone.org
@@ -21875,6 +21878,7 @@ domain:viu.com
 domain:viu.tv
 domain:vivaldi.com
 domain:vivaxnxx.com
+domain:vivox.com
 domain:vixen.com
 domain:vixengroup.com
 domain:vixvids.to
@@ -24386,6 +24390,7 @@ full:configuration.ls.apple.com:@cn
 full:connectivitycheck.gstatic.com:@cn
 full:copilot-telemetry-service.githubusercontent.com:@telemetry
 full:copilot-telemetry.githubusercontent.com:@telemetry
+full:courses.myecnu.org
 full:crashlyticsreports-pa.googleapis.com:@cn,@telemetry
 full:crl-lb.apple.com.akadns.net:@cn
 full:crl.apple.com:@cn
