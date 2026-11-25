@@ -3,6 +3,7 @@ domain:alice.yandex.net
 domain:alice.yandex.ru
 domain:alicepro.yandex.ru
 domain:copymonkey.app
+domain:devmachine.ai
 domain:gerwin.io
 domain:giga.chat
 domain:gptunnel.ru

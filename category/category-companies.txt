@@ -4917,11 +4917,14 @@ domain:meet.new
 domain:meetfasttrack.com
 domain:meetsmartbook.com
 domain:meetyourdevices.com
+domain:megafon.cloud
 domain:megafon.com
 domain:megafon.ru
 domain:megafonpro.ru
 domain:megamon.co.kr
+domain:megapbx.ru
 domain:megasrv.de
+domain:megatech-it.ru
 domain:melon.com
 domain:memealerts.com
 domain:men.com
@@ -4950,6 +4953,7 @@ domain:metrika.yandex.ru:@ads,@telemetry
 domain:mfg-inspector.com
 domain:mgfn.ru
 domain:mgmt-azure-api.cn:@cn
+domain:mgts.ru
 domain:michill.jp
 domain:microbit.org
 domain:microsoft
@@ -5106,6 +5110,7 @@ domain:mobile-icq.com
 domain:mobileads.google.com:@ads
 domain:mobilefacebook.com
 domain:mobileicq.com
+domain:mobileid.ru
 domain:mobilemarketo.com
 domain:mobileme.dk
 domain:mobileview.page
@@ -5313,6 +5318,7 @@ domain:mtsbank.ru
 domain:mtsdengi.ru
 domain:mtsmedia.ru
 domain:mudbox3d.com
+domain:multifon.ru
 domain:multiplydiversity.com
 domain:muse.ai
 domain:musickit.net
@@ -5521,6 +5527,7 @@ domain:o365files.cn:@cn
 domain:o365weve-dev.com
 domain:o365weve-ppe.com
 domain:o365weve.com
+domain:o7.com
 domain:oath.cloud
 domain:oath.com
 domain:oauthz.com
@@ -5607,6 +5614,7 @@ domain:oneteamconference.com
 domain:oneworldmanystories.com
 domain:oninstagram.com
 domain:onkakao.net
+domain:onlime.ru
 domain:online-deals.net
 domain:online-instagram.com
 domain:onlineapplestore.com
@@ -5966,6 +5974,7 @@ domain:rocksdb.com
 domain:rocksdb.net
 domain:rocksdb.org
 domain:rostaxi.org
+domain:rostelecom-rb.ru
 domain:rostelecom.ru
 domain:route53.cn:@cn
 domain:routerboard.com
@@ -6320,6 +6329,7 @@ domain:spacemail.com
 domain:spaceship.com
 domain:spacex.com
 domain:spcc-sp.com
+domain:spd-mgts.ru
 domain:speedtest.com.hk
 domain:spektral.cc
 domain:splunk.com
@@ -7062,6 +7072,7 @@ domain:xn--cckwcxetd
 domain:xn--cg4bki
 domain:xn--czrs0t4phtr3a.cn:@cn
 domain:xn--d1acpjx3f.xn--p1ai
+domain:xn--e1aapchhekkk.xn--p1ai
 domain:xn--e1aigb.xn--p1ai
 domain:xn--fiqs8sxootzz.cn:@cn
 domain:xn--fiqs8sxootzz.xn--hxt814e

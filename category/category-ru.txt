@@ -24,6 +24,7 @@ domain:ad.mail.ru:@ads
 domain:adfox.ru:@ads
 domain:adfox.yandex.ru:@ads
 domain:admetrica.ru:@ads
+domain:admkamyshin.info
 domain:adriver.ru:@ads
 domain:ads.sber.ru:@ads
 domain:ads.viqeo.tv:@ads
@@ -70,6 +71,7 @@ domain:baltnews.lt
 domain:bank131.com
 domain:baranky.com
 domain:bargipsy.com
+domain:barnaul.org
 domain:beeline.tv
 domain:beget.app
 domain:beget.cloud
@@ -149,6 +151,7 @@ domain:dert.site
 domain:dert.tech
 domain:dev-my.com
 domain:dev-my.games
+domain:devmachine.ai
 domain:dodois.com
 domain:dodois.io
 domain:dodopizza.com
@@ -241,6 +244,7 @@ domain:gismeteo.net
 domain:gismeteo.st
 domain:gogettaxi.org
 domain:goicq.org
+domain:goodline.info
 domain:gorzdrav.org
 domain:goup.ai
 domain:gramotei.online
@@ -367,8 +371,11 @@ domain:kaspersky.pt
 domain:kaspersky.ro
 domain:kaspersky.rs
 domain:kaspersky.se
+domain:kaspiysk.org
+domain:kchr.info
 domain:keyboardmen.com
 domain:khangar.net
+domain:khural.org
 domain:kinescopecdn.net
 domain:kinorium.com
 domain:knightspeak.com
@@ -394,6 +401,7 @@ domain:medrocket.me
 domain:medsi.com
 domain:medsi.pro
 domain:megabitus.com
+domain:megafon.cloud
 domain:megafon.com
 domain:megamarket.tech
 domain:mel.fm
@@ -427,6 +435,7 @@ domain:ms.dzen.ru:@ads
 domain:ms.vk.com:@ads
 domain:ms.vk.ru:@ads
 domain:mts-ws.net
+domain:murom.info
 domain:mvk.com
 domain:my-manager-account.com
 domain:my.com
@@ -446,6 +455,9 @@ domain:netschool.website
 domain:ngenix.net
 domain:noticias-rt.com
 domain:notimundo.press
+domain:novoshakhtinsk.org
+domain:ntagil.org
+domain:o7.com
 domain:obs.mts.ru:@ads
 domain:odnoklasniki.by
 domain:odnoklasniki.ua
@@ -464,6 +476,7 @@ domain:okl.lt
 domain:okolo.app
 domain:opennet.dev
 domain:oskelly.co
+domain:oskol.city
 domain:ostin.com
 domain:otzovik.com
 domain:ozon.app
@@ -495,6 +508,7 @@ domain:paywb.com
 domain:perekrestok.com
 domain:pixonic.com
 domain:pobeda.page
+domain:podryad.tv
 domain:polza.ai
 domain:popmechanic.io
 domain:poudobnee.com
@@ -520,6 +534,7 @@ domain:rbsgate.com
 domain:rbsuat.com
 domain:rbth.com
 domain:reaviz.com
+domain:redcom.net
 domain:reg.cloud
 domain:reg.com
 domain:relap.mail.ru:@ads
@@ -584,6 +599,7 @@ domain:ru
 domain:ru.ccb.com
 domain:ru.com
 domain:ru.net
+domain:rubtsovsk.org
 domain:rugpt.io
 domain:ruhub.tv
 domain:runewsrt.com
@@ -640,6 +656,7 @@ domain:smartmed.pro
 domain:smena.cafe
 domain:smotreshka.tv
 domain:sn-esp.site
+domain:sobranie.info
 domain:sokolov.io
 domain:sourcecraft.dev
 domain:spasibo.digital
@@ -921,6 +938,7 @@ domain:yndx.net
 domain:youla.io
 domain:yourgood.app
 domain:zapishu.me
+domain:zsttk.net
 domain:zvuk-b2b.com
 domain:zvuk.com
 full:1l-hit.mail.ru:@ads

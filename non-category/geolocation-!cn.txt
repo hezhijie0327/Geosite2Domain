@@ -13791,18 +13791,21 @@ domain:megaad.nz
 domain:megacamz.com
 domain:megaeth.com
 domain:megafilmporno.com
+domain:megafon.cloud
 domain:megafon.com
 domain:megafon.ru
 domain:megafonpro.ru
 domain:megalodon.jp
 domain:megamon.co.kr
 domain:megapay.nz
+domain:megapbx.ru
 domain:megaphone.fm
 domain:megapornfreehd.com
 domain:megaporno.com.br
 domain:megapornpics.com
 domain:megas4.com
 domain:megasrv.de
+domain:megatech-it.ru
 domain:megatitsminka.com
 domain:megogo.net
 domain:meguso.com
@@ -13879,6 +13882,7 @@ domain:mgfn.ru
 domain:mgmt-azure-api.cn:@cn
 domain:mgo-images.com
 domain:mgo.com
+domain:mgts.ru
 domain:mhcb.ru
 domain:mhcbr.ru
 domain:mhgui.com
@@ -14437,6 +14441,7 @@ domain:mobile01.com
 domain:mobileads.google.com:@ads
 domain:mobilefacebook.com
 domain:mobileicq.com
+domain:mobileid.ru
 domain:mobileinternational.com
 domain:mobileinternational.com.cn:@cn
 domain:mobilemarketo.com
@@ -14815,6 +14820,7 @@ domain:mujikorea.net
 domain:mulheresafoder.com
 domain:mult34.com
 domain:multicurrencycashpassport.com
+domain:multifon.ru
 domain:multiplydiversity.com
 domain:multporn.net
 domain:muncloud.dog
@@ -15968,6 +15974,7 @@ domain:o365weve-ppe.com
 domain:o365weve.com
 domain:o3t.ru
 domain:o3team.ru
+domain:o7.com
 domain:oaistatic.com
 domain:oaistatsig.com
 domain:oaiusercontent.com
@@ -16153,6 +16160,7 @@ domain:onindiansex.com
 domain:oninstagram.com
 domain:onionshare.org
 domain:onkakao.net
+domain:onlime.ru
 domain:online-deals.net
 domain:online-instagram.com
 domain:onlineapplestore.com
@@ -18265,6 +18273,7 @@ domain:rosemarydoll.com
 domain:roshy.tv
 domain:rossiyasegodnya.com
 domain:rostaxi.org
+domain:rostelecom-rb.ru
 domain:rostelecom.ru
 domain:rou.video
 domain:roudao6.buzz
@@ -19587,6 +19596,7 @@ domain:spasibosb.ru
 domain:spasibosberbank.ru
 domain:spbexchange.ru
 domain:spcc-sp.com
+domain:spd-mgts.ru
 domain:spearhead.kr
 domain:spectraltube.com
 domain:speeddreamride.com
@@ -23058,6 +23068,7 @@ domain:xn--czrs0t4phtr3a.cn:@cn
 domain:xn--d1abkf4ap.fun
 domain:xn--d1acpjx3f.xn--p1ai
 domain:xn--d4ty0ojsqzfd.com
+domain:xn--e1aapchhekkk.xn--p1ai
 domain:xn--e1adjldbbpv.xn--90ais
 domain:xn--e1aigb.xn--p1ai
 domain:xn--fiq80y.hk
