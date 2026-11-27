@@ -638,6 +638,7 @@ domain:xboxservices.com
 domain:xboxstudios.com
 domain:xbx.lv
 domain:yammer.com
+full:aurora-customization-usw2.lithium.com
 full:azuremigrate.download.prss.microsoft.com:@cn
 full:azuremigratetest.download.prss.microsoft.com:@cn
 full:azurestackhub.download.prss.microsoft.com:@cn

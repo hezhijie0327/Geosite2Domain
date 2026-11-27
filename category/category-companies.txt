@@ -7665,6 +7665,7 @@ full:appleid.cdn-apple.com:@cn
 full:apps.mzstatic.com:@cn
 full:apps5.oingo.com:@cn
 full:apptrailers.itunes.apple.com:@cn
+full:aurora-customization-usw2.lithium.com
 full:avail.googleflights.net:@cn
 full:azuremigrate.download.prss.microsoft.com:@cn
 full:azuremigratetest.download.prss.microsoft.com:@cn
