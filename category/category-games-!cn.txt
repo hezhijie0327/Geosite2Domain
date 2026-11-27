@@ -183,6 +183,7 @@ domain:fabricmc.net
 domain:faceit-cdn.net
 domain:faceit.com
 domain:fanatical.com
+domain:fce.gg
 domain:ficgs.com
 domain:fifastreet.com
 domain:fifastreet3.com
